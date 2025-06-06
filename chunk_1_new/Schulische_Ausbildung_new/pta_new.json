@@ -1,0 +1,113 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2.5
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2400,
+    "maxStartingSalary": 2600,
+    "minAvarageSalary": 2400,
+    "maxAvarageSalary": 3072,
+    "minExperiencedSalary": 2700,
+    "maxExperiencedSalary": 3072,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 793,
+        "max": 793
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "C1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Pharmazeutisch-technische/r Assistent/in (PTA)",
+        "overview": "💊 Als Pharmazeutisch-technische/r Assistent/in (PTA) bist du der/die Expert/in für Medikamente in Apotheken. Du unterstützt Apotheker/innen bei der Herstellung, Prüfung und Abgabe von Arzneimitteln und bist oft die erste Anlaufstelle für Kund:innen mit Gesundheitsfragen. 🏥🌿",
+        "responsibilities": [
+          "Arzneimittel an Kund:innen aushändigen und Einnahmehinweise geben 💊📋",
+          "Kund:innen telefonisch oder vor Ort beraten und Empfehlungen aussprechen 📞🤝",
+          "Herstellung von Salben, Zäpfchen und Teemischungen unter ärztlicher Anweisung 🧴🧪",
+          "Überwachung von Lagerbeständen und Durchführung von Bestellungen 📦📊",
+          "Durchführung von Serviceleistungen wie Blutdruckmessungen 🩺📈",
+          "Forschung und Weiterentwicklung von Pharmazeutika 🧬🔬"
+        ],
+        "curriculum": [
+          "Arzneimittelkunde: Anatomie, Physiologie und Wirkstoffe verstehen 💊🩺",
+          "Botanik: Aufbau von Pflanzen und deren medizinische Verwendung 🌱📘",
+          "Medizinproduktekunde: Beratung zu Pflegeprodukten und Verbänden 🩹📦",
+          "Ernährungskunde: Diätetik und Ernährungsberatung für Kund:innen 🍎🍽️"
+        ],
+        "careerProspects": [
+          "Arbeit in öffentlichen oder Krankenhausapotheken 🏥💊",
+          "Tätigkeiten in der pharmazeutischen Industrie oder Forschung 🧬🔬",
+          "Weiterbildungen zum/zur Pharmareferent/in oder Apothekenfachwirt/in 🧴📚"
+        ],
+        "furtherEducation": [
+          "Fortbildung zum/zur Pharmareferent/in für Außendienstpositionen 📞🌍",
+          "Studium in Pharmazie oder Pharmamanagement 🎓💼",
+          "Apothekenleitung durch Weiterbildung zum/zur Apothekenfachwirt/in 🏥💼"
+        ],
+        "applicationSteps": [
+          "Bewerbung an Berufsfachschule mit Anschreiben und Lebenslauf 📝📩",
+          "Einreichung von Zeugnissen und relevanten Praktikumsbescheinigungen 📜🏥"
+        ],
+        "applicationRequirements": [
+          "Interesse an Naturwissenschaften und medizinischen Themen 🧬🩺",
+          "Sorgfalt und Genauigkeit im Umgang mit Arzneimitteln 🎯💊"
+        ],
+        "applicationTips": [
+          "Betone gute Noten in Biologie und Chemie sowie praktische Erfahrungen 📚✔️",
+          "Zeige in deinem Anschreiben dein Verantwortungsbewusstsein und Teamfähigkeit 🧑‍🤝‍🧑💼"
+        ],
+        "requiredPersonalSkills": [
+          "Kommunikationsstärke für Kundenberatung 📞🗣️",
+          "Sorgfalt und Genauigkeit bei der Herstellung von Arzneimitteln 🎯🧪",
+          "Teamfähigkeit für die Zusammenarbeit in Apotheken und Labors 🤝🔬"
+        ],
+        "requiredPersonalTraits": [
+          "Verantwortungsbewusstsein im Umgang mit sensiblen Produkten ⚖️💊",
+          "Interesse an Forschung und Weiterentwicklung von Medikamenten 🧬📈"
+        ],
+        "theoreticalStructure": [
+          "In den ersten zwei Jahren werden Themen wie Arzneimittelkunde, Chemie und Botanik in der Berufsfachschule unterrichtet. 📘🌿"
+        ],
+        "practicalStructure": [
+          "Das letzte halbe Jahr ist ein Anerkennungspraktikum in einer Apotheke, in dem das theoretische Wissen praktisch angewendet wird. 🧴🏥"
+        ],
+        "workEnvironment": [
+          "Apotheken und Krankenhausapotheken 🏥💊",
+          "Pharmazeutische Industrie und Forschungseinrichtungen 🧪🔬",
+          "Versandapotheken und Beratung bei Krankenkassen 📦📞"
+        ],
+        "advantages": [
+          "Sicherer Arbeitsplatz im Gesundheitswesen mit hoher Nachfrage 🩺🔬",
+          "Vielseitige Aufgaben von Kundenberatung bis Forschung 🧪📋"
+        ],
+        "challenges": [
+          "Präzise Arbeit und Verantwortungsbewusstsein beim Umgang mit Medikamenten ⚖️💊",
+          "Herausforderungen durch naturwissenschaftliche Fächer wie Chemie 🧬📘"
+        ],
+        "didYouKnow": [
+          "PTA können ohne Abitur Pharmazie studieren! 🎓💡",
+          "In Deutschland gibt es rund 80 Fachschulen, die PTA-Ausbildungen anbieten. 🏫📘"
+        ]
+      }
+    }
+  }
+]

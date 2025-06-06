@@ -1,0 +1,120 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2400,
+    "maxStartingSalary": 2800,
+    "minAvarageSalary": 2700,
+    "maxAvarageSalary": 3500,
+    "minExperiencedSalary": 3200,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 1215,
+        "max": 1215
+      },
+      {
+        "min": 1275,
+        "max": 1275
+      },
+      {
+        "min": 1372,
+        "max": 1372
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Medizinische/r Technologe/Technologin für Radiologie",
+        "overview": "1895 wurden Röntgenstrahlen entdeckt - eine revolutionäre Entwicklung für die Medizin. Dank dieser Technologie ist es möglich, in den menschlichen Körper zu blicken und moderne Krebstherapien durchzuführen. Als medizinische/r Technologe/Technologin für Radiologie (MTR) bist du die Schnittstelle zwischen Patient und Technologie. Seit 2023 wurde der Beruf neu strukturiert und modernisiert: bundesweite Vergütung, keine Schulgebühren und bessere Ausbildungsmöglichkeiten. 🎓",
+        "responsibilities": [
+          "Durchführung von Röntgen- und MRT-Aufnahmen ⚡",
+          "Unterstützung bei Strahlentherapien und nuklearmedizinischen Untersuchungen 🩺",
+          "Auswertung und Dokumentation medizinischer Daten 💻",
+          "Patientenbetreuung und Beruhigung 🌈"
+        ],
+        "curriculum": [
+          "Medizinische Grundlagen 👩‍⚕️",
+          "Strahlenschutz und Sicherheit 🔬",
+          "Medizintechnologie ⚙️",
+          "Software für Bildarchivierung 💾"
+        ],
+        "careerProspects": [
+          "Sicherer Arbeitsplatz durch hohe Nachfrage 👨‍💻",
+          "Karriere im Qualitätsmanagement oder in der Forschung 📈",
+          "Weiterentwicklung durch ein berufsbegleitendes Studium 🎓"
+        ],
+        "furtherEducation": [
+          "Echokardiographie 🩻",
+          "Studium Medizinische Radiologietechnologie 🎓",
+          "Gesundheitsökonomie 📚"
+        ],
+        "applicationSteps": [
+          "Bewerbung an die Berufsfachschule senden ✍️",
+          "Vorlage eines ärztlichen Attests 📑",
+          "Vorstellungsgespräch und Eignungstest ✅"
+        ],
+        "applicationRequirements": [
+          "Realschulabschluss 🎓",
+          "Belastbarkeit und Empathie 💪",
+          "Interesse an Technik und Medizin 🔬"
+        ],
+        "applicationTips": [
+          "Fehlerfreie Bewerbung einreichen ✨",
+          "Praktika oder Hobbys hervorheben, die Teamfähigkeit zeigen 🏅",
+          "Motivation für den Beruf klar darlegen 🎯"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis 🖥️",
+          "Medizinisches Fachwissen 🩺",
+          "Präzision bei der Datenauswertung 📊"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit 🤝",
+          "Geduld 🧘‍♂️",
+          "Einfühlungsvermögen 💖"
+        ],
+        "theoreticalStructure": [
+          "Unterricht an einer Berufsfachschule: medizinisches Fachwissen, Gerätetechnologie und Strahlenschutz 📘"
+        ],
+        "practicalStructure": [
+          "Praxiseinsätze in medizinischen Einrichtungen: Umgang mit Patienten und Geräten 🏥"
+        ],
+        "workEnvironment": [
+          "Krankenhäuser und Kliniken 🏥",
+          "Forschungseinrichtungen 🧪",
+          "Diagnostikzentren 🔬"
+        ],
+        "advantages": [
+          "Sichere Zukunftsperspektiven ✅",
+          "Arbeit mit modernster Technik 💖",
+          "Kontakt mit Menschen unterschiedlicher Hintergründe 🌍"
+        ],
+        "challenges": [
+          "Arbeit mit schwerkranken Patienten 😷",
+          "Stetige Weiterbildung notwendig 📚",
+          "Umgang mit komplexer Technologie ⚠️"
+        ],
+        "didYouKnow": [
+          "Radiologen zählen zu den bestbezahlten Ärzten 💡",
+          "Röntgengeräte werden auch in der Lebensmittelindustrie eingesetzt 🍔",
+          "Der erste Nobelpreis für Physik wurde 1901 an Wilhelm Röntgen verliehen 🏆",
+          "US-Amerikaner nennen Röntgenstrahlen 'X-rays' 📸",
+          "Es gibt radiologische Verfahren ohne ionisierende Strahlung 🌟"
+        ]
+      }
+    }
+  }
+]

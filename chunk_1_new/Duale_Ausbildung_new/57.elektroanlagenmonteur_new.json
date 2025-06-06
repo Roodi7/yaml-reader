@@ -1,0 +1,116 @@
+[
+  {
+    "category": "Elektrotechnik und Handwerk",
+    "jobType": ["full_time"],
+    "duration": [3],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1800,
+    "maxStartingSalary": 2300,
+    "minAvarageSalary": 2200,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 3800,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Elektroanlagenmonteur/in",
+        "overview": "Als Elektroanlagenmonteur/in bist du Spezialist für energietechnische, sicherheits- und beleuchtungstechnische Anlagen. Du sorgst dafür, dass der Strom zuverlässig fließt, und bist für Montage, Wartung und Reparatur von Elektroanlagen zuständig. ⚡",
+        "responsibilities": [
+          "Installation und Wartung von Elektroanlagen und -systemen 🔧",
+          "Fehlerdiagnose und Reparatur von Störungen ⚙️",
+          "Erstellung und Umsetzung von Schalt- und Montageplänen 📐",
+          "Beratung und Betreuung von Kunden zu technischen Lösungen 💬",
+          "Einsatz von Messgeräten zur Qualitätskontrolle und Prüfung 📏"
+        ],
+        "curriculum": [
+          "Grundlagen der Elektrotechnik und Sicherheitstechnik ⚡",
+          "Planung und Umsetzung von Montagearbeiten 📋",
+          "Prüfung und Reparatur von Elektroanlagen 🔧",
+          "Kundenbetreuung und Qualitätsmanagement 💬"
+        ],
+        "careerProspects": [
+          "Elektroinstallateur/in für komplexe Anlagen und Systeme 🔌",
+          "Techniker/in im Bereich Energie- und Gebäudetechnik ⚙️",
+          "Fachkraft für SPS-Programmierung und Automatisierungstechniken 📡"
+        ],
+        "furtherEducation": [
+          "Technischer Fachwirt für planende und organisierende Tätigkeiten 🎓",
+          "Industriemeister Elektrotechnik für Führungsaufgaben 🏢",
+          "Studium der Elektrotechnik für technische Spezialisierung 🎓"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Anschreiben, Lebenslauf und Zeugnissen 📄",
+          "Einstellungstests zu technischem Verständnis und Problemlösungsfähigkeiten ⚙️",
+          "Vorstellungsgespräch mit Fokus auf praktische Erfahrungen 🧑‍🔧"
+        ],
+        "applicationRequirements": [
+          "Technisches Know-how und handwerkliches Geschick 🔧",
+          "Zuverlässigkeit und Verantwortungsbewusstsein ✅",
+          "Gute Noten in Mathematik, Physik und Technik 📚"
+        ],
+        "applicationTips": [
+          "Hebe relevante Praktika und technische Erfahrungen hervor 🔧",
+          "Betone deine Fähigkeit, präzise und verantwortungsbewusst zu arbeiten 🎯",
+          "Zeige Begeisterung für Technik und Innovation 🚀"
+        ],
+        "requiredPersonalSkills": [
+          "Zeichnerische Fähigkeiten für Schalt- und Montagepläne 📐",
+          "Präzises und konzentriertes Arbeiten 🎯",
+          "Teamfähigkeit und gute Kommunikationsfähigkeiten 💬"
+        ],
+        "requiredPersonalTraits": [
+          "Technisches Interesse und Begeisterung für Elektrotechnik ⚡",
+          "Belastbarkeit und Flexibilität für wechselnde Arbeitszeiten ⏰",
+          "Zuverlässigkeit und Sorgfalt bei sicherheitskritischen Aufgaben ✅"
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Schwerpunkten in Elektrotechnik, Sicherheitsvorschriften und Steuerungstechnik 📚"
+        ],
+        "practicalStructure": [
+          "Einsatz im Ausbildungsbetrieb zur Anwendung des Gelernten in der Praxis 🛠️"
+        ],
+        "workEnvironment": [
+          "Werkstätten und Baustellen 🏗️",
+          "Privathaushalte und Firmengebäude 🏢",
+          "Außenanlagen und Energieversorgungsstandorte ⚡"
+        ],
+        "advantages": [
+          "Hohe Nachfrage nach qualifizierten Fachkräften in der Elektrotechnik ⚡",
+          "Vielfältige Arbeitsfelder und Einsatzbereiche 🏢",
+          "Attraktive Weiterbildungsmöglichkeiten und Karriereperspektiven 🚀"
+        ],
+        "challenges": [
+          "Schichtarbeit und Einsätze außerhalb der regulären Arbeitszeiten ⏰",
+          "Arbeiten an schwer zugänglichen Orten und in wechselnden Umgebungen 🛠️",
+          "Hohe Konzentration und Präzision bei sicherheitskritischen Aufgaben 🎯"
+        ],
+        "didYouKnow": [
+          "Der Beruf des Elektroanlagenmonteurs hat sich aus dem früheren Beruf des Starkstrommonteurs entwickelt ⚡.",
+          "Werner von Siemens entdeckte 1866 das elektrodynamische Prinzip, das die Grundlage moderner Elektrotechnik bildet 🧪.",
+          "Die Stromstärke wird in Ampere gemessen – benannt nach André-Marie Ampère, einem französischen Physiker ⚙️.",
+          "Die ersten elektrischen Straßenbahnen wurden Ende des 19. Jahrhunderts in Betrieb genommen 🚋."
+        ]
+      }
+    }
+  }
+]

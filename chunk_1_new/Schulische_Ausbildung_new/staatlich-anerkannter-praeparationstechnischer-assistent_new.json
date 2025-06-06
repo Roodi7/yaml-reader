@@ -1,0 +1,125 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "part_time"
+    ],
+    "duration": [
+      1,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2800,
+    "maxStartingSalary": 3100,
+    "minAvarageSalary": 3000,
+    "maxAvarageSalary": 3400,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4300,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Medizinische/r und technische/r Sektions- und Präparationsassistent/in",
+        "overview": "Sektions- und Präparationsassistenten spielen eine essenzielle Rolle in der Medizin, Biologie und Geowissenschaften. 🧪⚗️ Sie stellen Präparate her, assistieren bei Obduktionen und unterstützen wissenschaftliche Untersuchungen. Ihr Beitrag ist in Lehre, Forschung und Pathologie unverzichtbar. 🩺",
+        "responsibilities": [
+          "Herstellung von Präparaten für Wissenschaft und Lehre 🧪.",
+          "Präparation und Konservierung von Organen, Nerven, Muskeln und Knochen 🦴.",
+          "Assistenz bei Sektionen und rechtsmedizinischen Obduktionen ⚖️.",
+          "Desinfektion und Sterilisation von Arbeitsmitteln 🧼.",
+          "Durchführung von Geländeexkursionen und Gesteinsprobenanalyse 🌍.",
+          "Herstellung von Modellen, Dermoplastiken und Dioramen 🎨.",
+          "Sammeln und Freilegen von Fossilien und geologischen Proben 🪨.",
+          "Dokumentation und mikroskopische Untersuchungen 🔬."
+        ],
+        "curriculum": [
+          "Grundlagen der Präparation und Konservierung 🧪.",
+          "Hygienevorschriften und Arbeitssicherheit 🧼.",
+          "Mikroskopische und laborpraktische Techniken 🔬.",
+          "Spezialisierung auf Medizin, Biologie oder Geowissenschaften 🌍."
+        ],
+        "careerProspects": [
+          "Sektionsassistent/in in pathologischen Einrichtungen 🏥.",
+          "Präparationstechnische/r Assistent/in in Museen oder Laboren 🧪.",
+          "Weiterbildung in medizinischen Assistenzberufen oder Biotechnologie 📚."
+        ],
+        "furtherEducation": [
+          "Anpassungsweiterbildungen in Pathologie, Biologie oder Geowissenschaften 🩺.",
+          "Studium in Humanmedizin, Biologie, Geologie oder Paläontologie 🎓."
+        ],
+        "applicationSteps": [
+          "Recherchiere Ausbildungsstätten in Berlin oder Bochum 🔍.",
+          "Erstelle ein aussagekräftiges Motivationsschreiben und Lebenslauf ✍️.",
+          "Bereite dich auf ein Vorstellungsgespräch vor, das die charakterlichen Anforderungen testet 🗣️."
+        ],
+        "applicationRequirements": [
+          "Mittlerer Schulabschluss oder Fachhochschulreife 🎓.",
+          "Mindestalter von 18 Jahren 📅.",
+          "Ärztliches Attest und Führungszeugnis (je nach Ausbildungsstätte) 🩺."
+        ],
+        "applicationTips": [
+          "Erlange erste praktische Erfahrungen durch Praktika in Pathologie oder Geologie 🧪.",
+          "Zeige Interesse und Affinität für naturwissenschaftliche Themen 🌍.",
+          "Hebe charakterliche Stärken wie Sorgfalt und Verschwiegenheit hervor 🤝."
+        ],
+        "requiredPersonalSkills": [
+          "Präzision und sorgfältiges Arbeiten 🔍.",
+          "Fundierte Kenntnisse in Naturwissenschaften 🧪.",
+          "Hygienebewusstsein und Sicherheitsorientierung 🧼."
+        ],
+        "requiredPersonalTraits": [
+          "Sorgfalt und Verantwortungsbewusstsein 🧠.",
+          "Psychische Stabilität und Belastbarkeit 💪.",
+          "Diskretion und Verschwiegenheit 🤝."
+        ],
+        "theoreticalStructure": [
+          "Anatomie, Biologie, Physiologie, Rechtsmedizin und Geowissenschaften 🧠."
+        ],
+        "practicalStructure": [
+          "Praktika in Labors, Pathologien und geologischen Instituten 🏥."
+        ],
+        "workEnvironment": [
+          "Pathologische Abteilungen und Krankenhäuser 🏥.",
+          "Universitätskliniken und Forschungseinrichtungen 🎓.",
+          "Museen und botanische Gärten 🌿.",
+          "Geowissenschaftliche Labore und Exkursionsstandorte 🌍."
+        ],
+        "advantages": [
+          "Hohe Nachfrage in spezialisierten Bereichen 🚀.",
+          "Vielfältige Einsatzmöglichkeiten von Pathologie bis Geologie 🌍.",
+          "Ein wichtiger Beitrag zur Forschung und Wissenschaft 🧪."
+        ],
+        "challenges": [
+          "Psychische Belastung durch Umgang mit Krankheit und Tod 💔.",
+          "Hygiene- und Sicherheitsanforderungen im Arbeitsalltag 🧼.",
+          "Körperlich anspruchsvolle Tätigkeiten und Präzisionsarbeit 🔬."
+        ],
+        "didYouKnow": [
+          "In Berlin dauert die Ausbildung nur ein Jahr, in Bochum zwei bis drei Jahre 📅.",
+          "Die Ausbildung in Berlin kostet ca. 4.800 €, in Bochum ist sie kostenfrei 💶.",
+          "Die Berufsausbildung bietet Spezialisierungen in Medizin, Biologie und Geowissenschaften 🌍.",
+          "Hygiene ist ein essenzieller Bestandteil des Berufsalltags 🧼.",
+          "Die Gehälter steigen mit der Berufserfahrung auf bis zu 4.300 € brutto 🚀."
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "category": "media",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2400,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "C1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Kommunikationsdesigner/in",
+        "overview": "Als Kommunikationsdesigner/in entwirfst und gestaltest du kreative Konzepte für Magazine, Werbeanzeigen und digitale Medien. Deine künstlerischen Fähigkeiten und dein Gespür für Trends machen dich zu einer gefragten Fachkraft in der Designbranche. 🖌️💻 Kreativität, Planung und Eigeninitiative sind hier deine täglichen Begleiter.",
+        "responsibilities": [
+          "Entwicklung kreativer Konzepte für Print- und Digitalmedien 🎨🖥️",
+          "Planung und Abstimmung mit Kunden zur Zielgruppenansprache 🤝",
+          "Erstellung von Skizzen und digitalen Entwürfen ✍️",
+          "Umsetzung und Präsentation fertiger Designs 📊",
+          "Anpassung von Designs basierend auf Kundenfeedback 🔄"
+        ],
+        "curriculum": [
+          "Grundlagen der künstlerischen Gestaltung ✍️",
+          "Typografie und Farbtheorie 🎨",
+          "Kunst- und Designgeschichte 📜",
+          "Digitales Design und Multimedia 🌐",
+          "Praktische Projekte und Kundenpräsentationen 📊"
+        ],
+        "careerProspects": [
+          "Tätigkeit als Art Director 🎓",
+          "Weiterbildung in Marketing und Management 📈",
+          "Gründung eines eigenen Design-Studios 🏢",
+          "Spezialisierung auf Werbekampagnen oder Fotografie 📸"
+        ],
+        "furtherEducation": [
+          "Kommunikationsdesign Bachelorstudium 🎓",
+          "Master in Kommunikationsdesign für weitere Spezialisierung 🎓",
+          "Promotion für eine akademische Laufbahn 🏫"
+        ],
+        "applicationSteps": [
+          "Erstellung einer Bewerbungsmappe mit Arbeitsproben 📂",
+          "Einreichung von Lebenslauf und Anschreiben ✍️",
+          "Vorstellungsgespräch oder Eignungstest an der Akademie 🎤"
+        ],
+        "applicationRequirements": [
+          "Realschulabschluss oder höher 📜",
+          "Kreativität und künstlerische Begabung 🎨",
+          "Gute Kenntnisse in Grafiksoftware 🖥️"
+        ],
+        "applicationTips": [
+          "Zeige in deiner Mappe deine besten kreativen Werke 🌟",
+          "Betone deine Leidenschaft für Design im Anschreiben ✍️",
+          "Präsentiere dich selbstbewusst und authentisch im Gespräch 💬"
+        ],
+        "requiredPersonalSkills": [
+          "Kreativität und künstlerisches Talent 🎨",
+          "Technisches Verständnis für Grafiksoftware 💻",
+          "Kommunikationsfähigkeit und Kundenorientierung 🗣️"
+        ],
+        "requiredPersonalTraits": [
+          "Eigeninitiative und Teamgeist 🤝",
+          "Stressresistenz und Organisationsfähigkeit 📅",
+          "Liebe zum Detail und Geduld 🧘‍♂️"
+        ],
+        "theoreticalStructure": [
+          "Die Ausbildung umfasst Fächer wie Typografie, Kunst- und Designgeschichte, Soziologie und digitale Mediengestaltung. 📚"
+        ],
+        "practicalStructure": [
+          "Praktische Projekte und Praktika ergänzen die Theorie, um realistische Einblicke in den Berufsalltag zu geben. 🏢"
+        ],
+        "workEnvironment": [
+          "Design- und Werbeagenturen 🏢",
+          "Marketingabteilungen großer Unternehmen 📈",
+          "Selbstständige Tätigkeit als Freiberufler 💼",
+          "Kreativstudios und Medienhäuser 🎥"
+        ],
+        "advantages": [
+          "Kreativer und abwechslungsreicher Berufsalltag 🌈",
+          "Hohe Nachfrage nach innovativen Designideen 🚀",
+          "Vielfältige Karrieremöglichkeiten und Spezialisierungen 🌟"
+        ],
+        "challenges": [
+          "Arbeiten unter Zeitdruck und Deadlines ⏰",
+          "Hohe Materialkosten während der Ausbildung 💸",
+          "Verantwortung für die Zufriedenheit der Kunden 🤝"
+        ],
+        "didYouKnow": [
+          "Der Begriff 'Design' stammt aus dem Lateinischen und bedeutet '(be)zeichnen.' 🖌️",
+          "Für die Ausbildung brauchst du oft eine Mappe mit Arbeitsproben 📂.",
+          "Es gibt spezielle Mappenkurse, um dich auf die Bewerbung vorzubereiten 📖.",
+          "Jährlich schreiben sich rund 1300 Studierende in das Fach Kommunikationsdesign ein 📊.",
+          "Designgeschichte und Kulturgeschichte sind Teil deiner Ausbildung 📜."
+        ]
+      }
+    }
+  }
+]

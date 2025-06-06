@@ -1,0 +1,106 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2800,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 880,
+        "max": 935
+      },
+      {
+        "min": 1095,
+        "max": 1230
+      },
+      {
+        "min": 1305,
+        "max": 1495
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Beton- und Stahlbetonbauer/in",
+        "overview": "\"Als Beton- und Stahlbetonbauer/in arbeitest du mit einem der vielseitigsten Baustoffe: Beton. 🏗️✨ Ob bei Wohnhäusern, Brücken oder Staudämmen – du sorgst für stabile Konstruktionen und sichere Bauwerke. 🌍🔧\"\n",
+        "responsibilities": [
+          "Herstellung von Betonmischungen und Gießen in Schalungen 🔨🧱",
+          "Verstärkung von Beton mit Stahl für höhere Belastbarkeit 🏗️✨",
+          "Bau und Montage von Fertigteilen aus Beton 🌟🔧"
+        ],
+        "curriculum": [
+          "Erstellen und Verarbeiten von Betonmischungen 🧱✨",
+          "Konstruktion von Schalungen und Bewehrungen 📋🔧",
+          "Sicherheitsmaßnahmen und Qualitätskontrolle auf Baustellen 🛡️📊"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Werkpolier oder Maurermeister 🎓✨",
+          "Karriere als Bauleiter/in oder Sicherheitsfachkraft 🚀✨",
+          "Spezialisierung auf besondere Bauverfahren oder Fertigteilkonstruktion 🌟✨"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Bauingenieurwesen 🎓📘",
+          "Fortbildung in Umwelttechnik oder nachhaltigem Bauen 🌍📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Eignungstests und praktisches Probearbeiten 🧠✨"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss oder höherer Schulabschluss 🎓",
+          "Handwerkliches Geschick und technisches Interesse 🌟🔧"
+        ],
+        "applicationTips": [
+          "Hebe deine Fähigkeiten in Mathematik und Teamarbeit hervor 🤝✨",
+          "Betone Erfahrungen in handwerklichen oder technischen Projekten 📄✨"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und handwerkliches Geschick 🔧✨",
+          "Sorgfältigkeit und Verantwortungsbewusstsein 📋✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Belastbarkeit 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du Bauphysik, Materialkunde und Statik 📘✨"
+        ],
+        "practicalStructure": [
+          "Im Betrieb sammelst du praktische Erfahrungen beim Bau und bei der Verstärkung von Bauwerken 🏗️✨"
+        ],
+        "workEnvironment": [
+          "Arbeit auf Baustellen unter freiem Himmel 🌤️✨",
+          "Zusammenarbeit in Teams mit Bauleitern und Ingenieuren 🤝📋"
+        ],
+        "advantages": [
+          "Abwechslungsreiche Tätigkeiten mit hoher Verantwortung 🌍✨",
+          "Hohe Nachfrage und attraktive Verdienstmöglichkeiten 🚀✨"
+        ],
+        "challenges": [
+          "Arbeiten unter körperlich anspruchsvollen Bedingungen 🌟🔧",
+          "Hohe Präzision und technisches Verständnis erforderlich 🛡️📋"
+        ],
+        "didYouKnow": [
+          "Stahlbeton ist einer der meistverwendeten Baustoffe der Welt 🌍✨",
+          "Die größte Betonkuppel befindet sich im Pantheon von Rom 🏛️✨",
+          "Beton wurde schon im alten Rom für Bauwerke verwendet 📜✨"
+        ]
+      }
+    }
+  }
+]

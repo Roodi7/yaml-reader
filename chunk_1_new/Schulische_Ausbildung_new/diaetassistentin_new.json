@@ -1,0 +1,124 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 3095,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 3604,
+    "trainingSalary": [
+      {
+        "min": 1130,
+        "max": 1130
+      },
+      {
+        "min": 1200,
+        "max": 1200
+      },
+      {
+        "min": 1300,
+        "max": 1300
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Diätassistent/in",
+        "overview": "Als Diätassistent/in hilfst du Menschen, ihre Ernährung gezielt zu verbessern, sei es zur Behandlung von Krankheiten oder zur Förderung einer gesunden Lebensweise. Du arbeitest mit Ärztinnen, Ärzten und anderen Fachkräften zusammen, um individuelle Ernährungspläne zu erstellen. Dieser Beruf kombiniert medizinisches Fachwissen mit praktischen Fähigkeiten und einem hohen Maß an Empathie.",
+        "responsibilities": [
+          "Energie- und Nährstoffbedarf analysieren. 🥗",
+          "Erstellen und Überwachen von Ernährungsplänen. 📋",
+          "Planen und Durchführen von Kochkursen und Schulungen. 👩‍🍳",
+          "Zusammenarbeit mit medizinischen Fachkräften. 🏥",
+          "Halten von Vorträgen zur Ernährungsberatung. 🎤"
+        ],
+        "curriculum": [
+          "Ernährungslehre und Diätetik. 🥦",
+          "Anatomie und Krankheitslehre. 🩻",
+          "Küchentechnik und praktische Ernährungsberatung. 🍳",
+          "Ernährungspsychologie und Kommunikation. 💬",
+          "Planung und Durchführung von Schulungen. 📋"
+        ],
+        "careerProspects": [
+          "Tätigkeit in Krankenhäusern, Pflegeeinrichtungen oder Reha-Kliniken. 🏥",
+          "Selbstständige Tätigkeit als Ernährungsberater/in. 💼",
+          "Weiterbildung im Bereich Ernährungswissenschaften. 🎓",
+          "Lehre und Forschung in Ernährungsthemen. 🧪"
+        ],
+        "furtherEducation": [
+          "Studium in Ernährungswissenschaften oder Ökotrophologie. 🎓",
+          "Weiterbildung in Prävention und Gesundheitsförderung. 🩺",
+          "Zusatzqualifikationen in Ernährungspsychologie oder Sporternährung. ⚽"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Zeugnissen und Motivationsschreiben. 📝",
+          "Evtl. Vorstellungsgespräch oder Eignungstest bei der Berufsschule. 🤝"
+        ],
+        "applicationRequirements": [
+          "Interesse an Ernährung und Gesundheit. 🥗",
+          "Kommunikationsfähigkeit und Einfühlungsvermögen. 💬",
+          "Bereitschaft zu Wochenend- oder Schichtarbeit. ⏰"
+        ],
+        "applicationTips": [
+          "Erwähne Praktika oder Erfahrungen im Gesundheitsbereich. 🩺",
+          "Betone deine Fähigkeit, mit Menschen zu arbeiten und sie zu motivieren. 🌟"
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Ernährung und Gesundheit. 🥗",
+          "Fähigkeit, komplexe Zusammenhänge zu erklären. 💡",
+          "Organisationstalent und Selbstständigkeit. 📋"
+        ],
+        "requiredPersonalTraits": [
+          "Empathie und Geduld im Umgang mit Patienten. 💛",
+          "Genauigkeit und Verantwortungsbewusstsein. 🔍",
+          "Interesse an lebenslangem Lernen. 📚"
+        ],
+        "theoreticalStructure": [
+          "\"Unterricht in Ernährungslehre, Diätetik, Anatomie und Ernährungspsychologie. 📚\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praxisorientierter Unterricht und Praktika in Kliniken oder anderen Einrichtungen. 🏥\"\n"
+        ],
+        "workEnvironment": [
+          "Krankenhäuser und Reha-Kliniken. 🏥",
+          "Pflegeheime und Arztpraxen. 🩺",
+          "Gesundheitszentren und Beratungsstellen. 🌍",
+          "Selbstständige Tätigkeit in der Ernährungsberatung. 💼"
+        ],
+        "advantages": [
+          "Hohe Nachfrage durch steigende Gesundheitsbewusstheit. 🌍",
+          "Möglichkeit, Menschen direkt zu helfen. 🫶",
+          "Vielseitige Einsatzmöglichkeiten und flexible Karrierewege. 🚀"
+        ],
+        "challenges": [
+          "Emotionale Belastung durch Umgang mit kranken Menschen. 💔",
+          "Unregelmäßige Arbeitszeiten durch Schichtdienst. ⏰",
+          "Notwendigkeit, stets auf dem neuesten Stand der Forschung zu bleiben. 🔬"
+        ],
+        "didYouKnow": [
+          "Diät kommt vom griechischen Wort 'diaita', was Lebensweise bedeutet. 🥗",
+          "Diätassistent/in ist ein geschützter Ausbildungsberuf. 🎓",
+          "Die meisten Diätassistenten arbeiten in der klinischen Ernährung. 🏥"
+        ]
+      }
+    }
+  }
+]

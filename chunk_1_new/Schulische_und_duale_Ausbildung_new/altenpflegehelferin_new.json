@@ -1,0 +1,117 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      1.5
+    ],
+    "trainingType": "school_and_dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1500,
+    "maxStartingSalary": 1900,
+    "minAvarageSalary": 1900,
+    "maxAvarageSalary": 2500,
+    "minExperiencedSalary": 2000,
+    "maxExperiencedSalary": 2500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Altenpflegehelfer/in",
+        "overview": "👵👴 Im Jahr 2060 wird jeder dritte Einwohner in Deutschland mindestens 65 Jahre alt sein. Altenpflegehelfer/innen sind unersetzlich, um Senioren im Alltag zu unterstützen – sei es beim Anziehen, Essen oder bei Gesprächen. 💬 Diese Ausbildung bereitet dich optimal darauf vor, für das Wohl älterer Menschen zu sorgen! 🛏️",
+        "responsibilities": [
+          "Hilfe bei der Körperpflege, wie Zähneputzen, Haarewaschen und Anziehen. 🛁",
+          "Unterstützung beim Essen und Trinken. 🍽️",
+          "Gestaltung von Freizeitaktivitäten wie Töpfern oder Malen. 🎨",
+          "Gespräche mit Angehörigen über den Gesundheitszustand. 🗣️",
+          "Dokumentation von Beobachtungen und Ereignissen. 📋",
+          "Assistenz beim Messen von Blutdruck und Körpertemperatur. 💉"
+        ],
+        "curriculum": [
+          "Pflegegrundlagen, Hygiene und Anatomie. 🩺",
+          "Erste Hilfe und Ernährungshilfe. 🍎",
+          "Rechtskunde und Sozialkunde für rechtliche Grundlagen. ⚖️",
+          "Praktische Übungen wie Hebetechniken und Rollenspiele. 🛏️"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Altenpfleger/in mit höherem Gehalt. 📈",
+          "Karriere als Fachwirt/in im Sozial- und Gesundheitswesen. 🏢",
+          "Leitende Funktionen in Pflegeeinrichtungen. 👩‍⚕️"
+        ],
+        "furtherEducation": [
+          "Altenpfleger/in Ausbildung (3 Jahre). 🩺",
+          "Fachwirt/in Sozial- und Gesundheitswesen. 📜"
+        ],
+        "applicationSteps": [
+          "Einreichung von Bewerbungsunterlagen bei Berufsfachschulen. 📝",
+          "Gegebenenfalls Vorlage eines Ausbildungsvertrags. 🏢",
+          "Erfüllung der schulischen Anforderungen (Hauptschulabschluss)."
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss. 🎓",
+          "Teamfähigkeit und Einfühlungsvermögen. 🤝",
+          "Praktische Erfahrungen wie Freiwilligendienste sind von Vorteil."
+        ],
+        "applicationTips": [
+          "Hebe deine soziale Kompetenz und praktische Erfahrung hervor. ✨",
+          "Erwähne besondere Fähigkeiten wie Musikinstrumente oder kreative Talente. 🎶"
+        ],
+        "requiredPersonalSkills": [
+          "Pflegekenntnisse und Einfühlungsvermögen. 💕",
+          "Kreativität bei der Freizeitgestaltung. 🎨",
+          "Genauigkeit bei der Dokumentation. 📋"
+        ],
+        "requiredPersonalTraits": [
+          "Geduld und Belastbarkeit. 🛡️",
+          "Hilfsbereitschaft und Teamfähigkeit. 🤝",
+          "Offenheit im Umgang mit Menschen. 🌟"
+        ],
+        "theoreticalStructure": [
+          "\"Theorie in Fachschulen zu Pflege, Hygiene, Anatomie und altersspezifischen Erkrankungen. 🧠\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praxisphasen in sozialen Einrichtungen wie Wohnheimen oder Krankenhäusern. 🏥\"\n"
+        ],
+        "workEnvironment": [
+          "Seniorenheime 🏡",
+          "Pflegeeinrichtungen",
+          "Ambulante Pflegedienste 🚗",
+          "Wohnheime für Menschen mit Behinderung ♿",
+          "Krankenhäuser 🏥"
+        ],
+        "advantages": [
+          "Sicherer Beruf mit hoher Nachfrage. 💼",
+          "Möglichkeit, täglich Gutes zu tun. 💖",
+          "Abwechslungsreiche Tätigkeiten im sozialen Bereich. 🌍"
+        ],
+        "challenges": [
+          "Arbeiten im Schichtdienst, auch an Feiertagen. ⏰",
+          "Emotionale Belastung durch Verantwortung. 🛡️",
+          "Körperlich anstrengende Aufgaben. 💪"
+        ],
+        "didYouKnow": [
+          "Altenpflegehelfer/innen tragen Einheitskleidung aus hygienischen Gründen. 👕",
+          "Die Ausbildung kann auch in Teilzeit absolviert werden. 🕒",
+          "In einigen Einrichtungen gibt es eine kleine Aufwandsentschädigung. 💶",
+          "Musikalische oder kreative Fähigkeiten sind in der Seniorenbetreuung sehr geschätzt. 🎹"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2200,
+    "maxStartingSalary": 2800,
+    "minAvarageSalary": 2700,
+    "maxAvarageSalary": 4200,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 880,
+        "max": 935
+      },
+      {
+        "min": 1095,
+        "max": 1230
+      },
+      {
+        "min": 1305,
+        "max": 1495
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Brunnenbauer/in",
+        "overview": "\"Als Brunnenbauer/in arbeitest du mit modernsten Maschinen, um Brunnen und Schächte zu bauen 🌊. Du bist vielseitig einsetzbar und sorgst für sichere Wasserquellen und Baugrundarbeiten 🛠️.\"\n",
+        "responsibilities": [
+          "Errichtung und Sicherung von Baustellen für Brunnenbauprojekte 🚧.",
+          "Bohrungen und Verlegung von Rohrleitungen zur Wassergewinnung 💧.",
+          "Wartung und Reparatur von Bohr- und Förderanlagen 🔧."
+        ],
+        "curriculum": [
+          "Bau- und Materialkunde 📚.",
+          "Techniken des Brunnenbaus und Bohrens 🛠️.",
+          "Sicherheitsmaßnahmen und Umweltstandards ⚠️."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Werkpolier oder Polier 🏗️.",
+          "Meisterausbildung im Brunnenbau 🎓.",
+          "Spezialisierung auf Bohr- und Fördertechnik 🌐."
+        ],
+        "furtherEducation": [
+          "Technikerkurse in Bautechnik oder Wasserwirtschaft 🎓.",
+          "Studium im Bereich Bauingenieurwesen oder Umwelttechnik 🌍."
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf und Anschreiben 📄.",
+          "Praktikum oder Probetag zur Feststellung der Eignung 🛠️."
+        ],
+        "applicationRequirements": [
+          "Handwerkliches Geschick und körperliche Belastbarkeit 💪.",
+          "Teamfähigkeit und technisches Verständnis 🛠️."
+        ],
+        "applicationTips": [
+          "Erwähne praktische Erfahrungen wie Praktika im Baugewerbe 🚧.",
+          "Hebe deine Belastbarkeit und Zuverlässigkeit hervor 🤝."
+        ],
+        "requiredPersonalSkills": [
+          "Präzise Arbeitsweise und technisches Verständnis 📏.",
+          "Gutes räumliches Vorstellungsvermögen 🧠."
+        ],
+        "requiredPersonalTraits": [
+          "Belastbarkeit und Ausdauer 💪.",
+          "Zuverlässigkeit und Teamfähigkeit 🤝."
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Theorieunterricht in Geologie, Bautechnik und Materialkunde 📘."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung auf Baustellen und im Betrieb 🚧."
+        ],
+        "workEnvironment": [
+          "Baustellen in verschiedenen Umgebungen 🌳.",
+          "Arbeiten bei allen Witterungsbedingungen ☀️🌧️."
+        ],
+        "advantages": [
+          "Hohe Nachfrage nach Spezialisten im Brunnenbau 📈.",
+          "Abwechslungsreiche und anspruchsvolle Aufgaben 🛠️.",
+          "Attraktive Verdienstmöglichkeiten 💰."
+        ],
+        "challenges": [
+          "Körperlich anstrengende Arbeit unter wechselnden Bedingungen 🏋️.",
+          "Erhöhte Verantwortung für Sicherheitsmaßnahmen ⚠️."
+        ],
+        "didYouKnow": [
+          "Brunnenbauer gehören zu den ältesten Handwerksberufen der Welt 🏺.",
+          "Der tiefste Brunnen der Welt misst 176 Meter 🌍.",
+          "Moderne Brunnenbauer nutzen High-Tech-Maschinen für Bohrungen 🚀."
+        ]
+      }
+    }
+  }
+]

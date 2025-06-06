@@ -1,0 +1,104 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "no_school_degree",
+    "minStartingSalary": 2500,
+    "maxStartingSalary": 2900,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 3100,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 3600,
+    "trainingSalary": [
+      {
+        "min": 750,
+        "max": 970
+      },
+      {
+        "min": 850,
+        "max": 1120
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "A2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Chemielaborjungwerker/in",
+        "overview": "\"Als Chemielaborjungwerker/in bist du die helfende Hand im Labor 🧰. Du unterstützt bei Experimenten, pflegst Geräte und sorgst für einen reibungslosen Ablauf im chemischen Arbeitsumfeld 🔧.\"\n",
+        "responsibilities": [
+          "Vorbereitung und Durchführung von Experimenten 🧰.",
+          "Reinigung und Wartung von Laborausrüstung 🔧.",
+          "Unterstützung bei der Protokollierung und Dokumentation 📚."
+        ],
+        "curriculum": [
+          "Laborgrundlagen und Arbeitssicherheit 🧰.",
+          "Chemische Verfahrenstechniken und Analysen 🔧.",
+          "Digitale Protokollierung und Dokumentation 📚."
+        ],
+        "careerProspects": [
+          "Verkürzte Weiterbildung zum Chemielaboranten 🖌️.",
+          "Aufstieg in technische oder organisatorische Positionen 🎓.",
+          "Einsatz in spezialisierten Laborbereichen 🧰."
+        ],
+        "furtherEducation": [
+          "Technikerkurse in Labor- oder Chemietechnik 🔧.",
+          "Zertifikate in moderner Labortechnik und Digitalisierung 🌐."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📚.",
+          "Teilnahme an einem Eignungstest für technische Berufe 🔧."
+        ],
+        "applicationRequirements": [
+          "Interesse an Naturwissenschaften und Technik 🖌️.",
+          "Gute Beobachtungsgabe und Sorgfalt 🧰."
+        ],
+        "applicationTips": [
+          "Hebe deine praktischen Erfahrungen oder naturwissenschaftliches Interesse hervor 🧰.",
+          "Betone deine Zuverlässigkeit und Teamfähigkeit 🔧."
+        ],
+        "requiredPersonalSkills": [
+          "Grundkenntnisse in Chemie und Mathematik 🧰.",
+          "Sicherer Umgang mit technischer Ausrüstung 🔧."
+        ],
+        "requiredPersonalTraits": [
+          "Flexibilität und Teamarbeit in wechselnden Umgebungen 🔄.",
+          "Sorgfalt und Geduld bei Experimenten 📚."
+        ],
+        "theoreticalStructure": [
+          "Theorieunterricht in Chemie, Physik und Mathematik 🔧."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung in Laboratorien und Produktionsstätten 🖌️."
+        ],
+        "workEnvironment": [
+          "Labore in der chemischen und pharmazeutischen Industrie 🧰.",
+          "Forschungseinrichtungen und Produktionshallen 📚."
+        ],
+        "advantages": [
+          "Guter Einstieg in die chemische Industrie 📚.",
+          "Attraktive Gehalts- und Karrieremöglichkeiten 💰.",
+          "Möglichkeit zur Spezialisierung und Weiterentwicklung 🏆."
+        ],
+        "challenges": [
+          "Arbeiten mit gefährlichen Stoffen und strengen Sicherheitsvorschriften 🧰.",
+          "Hohes Maß an Konzentration und Genauigkeit erforderlich 🔄."
+        ],
+        "didYouKnow": [
+          "Chemielaborjungwerker können eine verkürzte Weiterbildung zum Chemielaboranten machen 🖌️.",
+          "Der Beruf bietet gute Zukunftsperspektiven in der Chemie- und Pharmaindustrie 🏢.",
+          "Labore setzen immer häufiger auf digitale Technologien und Automatisierung 🔄."
+        ]
+      }
+    }
+  }
+]

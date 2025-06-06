@@ -1,0 +1,125 @@
+[
+  {
+    "category": "media",
+    "jobType": [
+      "flexible"
+    ],
+    "duration": [
+      1,
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1400,
+    "maxStartingSalary": 1700,
+    "minAvarageSalary": 1600,
+    "maxAvarageSalary": 2400,
+    "minExperiencedSalary": 2000,
+    "maxExperiencedSalary": 3000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Audio-Designer/in",
+        "overview": "Audio-Designer/innen kreieren Klangwelten, die Emotionen wecken und Erinnerungen schaffen. Von Werbejingles über Filmmusik bis hin zu akustischen Markenidentitäten - ihre Arbeit verleiht Projekten eine klangliche Seele. Der Beruf vereint künstlerisches Talent mit technischem Know-how und bietet kreative Köpfen die Chance, ihre Leidenschaft für Musik und Sounddesign in die Welt zu tragen.",
+        "responsibilities": [
+          "Komposition von Musikstücken für Filme, Werbespots und Multimedia-Projekte. 🎶",
+          "Gestaltung und Bearbeitung von Klängen und Effekten. 🎧",
+          "Integration von Sounds in digitale Plattformen und Websites. 🌐",
+          "Beratung von Kunden zur akustischen Umsetzung ihrer Projekte. 💡",
+          "Arbeiten in Tonstudios oder an mobilen Produktionsstationen. 🛠️"
+        ],
+        "curriculum": [
+          "Grundlagen der Musiktheorie und Komposition. 🎼",
+          "Einführung in digitale Audio-Workstations (DAWs) wie Pro Tools und Logic Pro. 💻",
+          "Klanggestaltung und Mixing. 🎚️",
+          "Akustik und Audiotechnik. 🔊",
+          "Projektmanagement und Kundenkommunikation. 📋"
+        ],
+        "careerProspects": [
+          "Tätigkeit in der Film- und Medienindustrie. 🎥",
+          "Arbeit bei Musik- und Hörspielproduktionen. 🎧",
+          "Selbstständigkeit im Bereich Audio-Design. 🏢",
+          "Spezialisierung auf Game-Audio oder Virtual Reality (VR). 🎮"
+        ],
+        "furtherEducation": [
+          "Weiterbildung zum Rock- und Popmusiker. 🎤",
+          "Studium in Komposition oder Musikproduktion. 📚",
+          "Spezialisierung auf Sounddesign oder Musikpsychologie. 🧠"
+        ],
+        "applicationSteps": [
+          "Einreichen eines Lebenslaufs und Schulzeugnissen. 📄",
+          "Erstellung eines Portfolios mit eigenen Musik- oder Audioprojekten. 🎵",
+          "Absolvierung einer Aufnahmeprüfung oder eines Hörtests. 🎧"
+        ],
+        "applicationRequirements": [
+          "Erfahrungen mit Musiksoftware und Audiotechnik. 💻",
+          "Kreativität und technisches Verständnis. 🎨",
+          "Kenntnisse in Musiktheorie und Klanggestaltung. 🎼"
+        ],
+        "applicationTips": [
+          "Betone deine musikalischen Vorkenntnisse und Kreativität. 🌟",
+          "Füge praktische Beispiele oder Arbeitsproben deinem Portfolio hinzu. 📋"
+        ],
+        "requiredPersonalSkills": [
+          "Musikalisches Talent und Gehör. 👂",
+          "Technisches Verständnis und Softwarekenntnisse. 💻",
+          "Kreativität und Innovationsfähigkeit. 🎨"
+        ],
+        "requiredPersonalTraits": [
+          "Flexibilität und Belastbarkeit. ⏳",
+          "Teamfähigkeit und Kundenorientierung. 🤝",
+          "Eigeninitiative und Organisationstalent. 📋"
+        ],
+        "theoreticalStructure": [
+          "\"Unterricht in Musiktheorie, Akustik und Softwareanwendungen. 📖\"\n"
+        ],
+        "practicalStructure": [
+          "\"Projekte und Praktika in Tonstudios und Produktionsfirmen. 🎛️\"\n"
+        ],
+        "workEnvironment": [
+          "Tonstudios und Musikverlage. 🎙️",
+          "Film- und Hörfunkproduktionsunternehmen. 🎬",
+          "Multimedia-Agenturen und Webdesign-Firmen. 🌍",
+          "Theater- und Konzertveranstalter. 🎭",
+          "Selbstständigkeit im eigenen Tonstudio. 💼"
+        ],
+        "advantages": [
+          "Kreative Entfaltungsmöglichkeiten in einem spannenden Berufsfeld. 🌟",
+          "Vielfältige Einsatzbereiche und Projekte. 🔄",
+          "Hoher Bedarf an professionellen Audio-Designern in der Medienbranche. 📈"
+        ],
+        "challenges": [
+          "Schwankende Einkommensmöglichkeiten bei freiberuflicher Tätigkeit. 💰",
+          "Hohe Anforderungen an technisches und künstlerisches Können. ⚙️",
+          "Oft unregelmäßige Arbeitszeiten, einschließlich Abenden und Wochenenden. ⏰"
+        ],
+        "didYouKnow": [
+          "‚Bacardi-Feeling‘ ist einer der bekanntesten Werbesongs weltweit. 🎶",
+          "Hans Zimmer begann seine Karriere mit Werbejingles. 🎬",
+          "Audio-Designer benötigen Kenntnisse in Webdesign, um Sounds zu integrieren. 🌍",
+          "Sounddesign und Audio-Design unterscheiden sich in ihrem Fokus auf Geräusche und Musik. 🎧",
+          "Columbia Records ist das älteste noch aktive Label der Welt. 🌍"
+        ]
+      }
+    }
+  }
+]

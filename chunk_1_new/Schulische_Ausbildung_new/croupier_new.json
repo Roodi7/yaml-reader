@@ -1,0 +1,119 @@
+[
+  {
+    "category": "services_and_crafts",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      0.7
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "no_school_degree",
+    "minStartingSalary": 1470,
+    "maxStartingSalary": 2000,
+    "minAvarageSalary": 1470,
+    "maxAvarageSalary": 5000,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 5000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      },
+      {
+        "name": "french",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Croupier/Croupière",
+        "overview": "Als Croupier oder Croupière bist du der Gastgeber am Spieltisch. Du sorgst für reibungslose Abläufe beim Roulette, Poker oder Black Jack, achtest auf die Einhaltung der Spielregeln und berechnest die Gewinne. Mit einer Ausbildung in einem Casino oder einer spezialisierten Schule erlernst du die Grundlagen dieses faszinierenden Berufs, der Präzision, mathematisches Geschick und ein gepflegtes Auftreten erfordert.",
+        "responsibilities": [
+          "Vorbereitung von Spieltischen und Jetons. 🎲",
+          "Anleitung der Spieler und Überwachung der Spielregeln. 📜",
+          "Berechnung und Auszahlung von Gewinnen. 💰",
+          "Pflege und Bedienung der Casinogeräte. 🛠️",
+          "Freundlicher Umgang mit Gästen. 🤝"
+        ],
+        "curriculum": [
+          "Spielregeln für Roulette, Poker und Black Jack. 🃏",
+          "Mathematische Berechnungen und Gewinnverteilung. 📊",
+          "Kundensicherheit und Suchtprävention. 🛡️",
+          "Kommunikation und Umgang mit internationalen Gästen. 🌍"
+        ],
+        "careerProspects": [
+          "Tischchef in einem Casino. 🪑",
+          "Aufstieg zum Pit Boss oder Inspector. 📋",
+          "Freiberuflicher Croupier für Events. 🎉",
+          "Arbeit in internationalen Spielbanken. ✈️"
+        ],
+        "furtherEducation": [
+          "Zertifizierungen für zusätzliche Glücksspiele. 🧾",
+          "Aufbauqualifikationen für Casino-Management. 🎓",
+          "Schulungen zur Kundenkommunikation. 🗣️"
+        ],
+        "applicationSteps": [
+          "Erstellung eines Anschreibens und Lebenslaufs. 📄",
+          "Einwandfreies Führungszeugnis und Schuldenfreiheit. 🛡️"
+        ],
+        "applicationRequirements": [
+          "Mindestens 18 Jahre alt, in manchen Fällen 21. 🎂",
+          "Gute Mathematik- und Fremdsprachenkenntnisse. 🧮",
+          "Gepflegtes und seriöses Erscheinungsbild. 👔"
+        ],
+        "applicationTips": [
+          "Betone Interesse an Glücksspielen und Serviceerfahrung. 🃏",
+          "Hebe deine Stärken in Mathe und Kommunikation hervor. 🌟"
+        ],
+        "requiredPersonalSkills": [
+          "Schnelles Kopfrechnen. 🧠",
+          "Sicheres und professionelles Auftreten. 🌟",
+          "Flexibilität und Belastbarkeit. 💪"
+        ],
+        "requiredPersonalTraits": [
+          "Freundlichkeit und Diskretion. 🤝",
+          "Verantwortungsbewusstsein im Umgang mit Geld. 💵",
+          "Leidenschaft für Präzision und Details. 🔍"
+        ],
+        "theoreticalStructure": [
+          "\"Spielregeln, Mathematik und Schulungen zum verantwortungsvollen Glücksspiel. 📚\"\n"
+        ],
+        "practicalStructure": [
+          "\"Training am Spieltisch, Bedienung von Geräten und Umgang mit Gästen. 🎲\"\n"
+        ],
+        "workEnvironment": [
+          "Spielbanken und Casinos. 🎰",
+          "Private Pokerturniere oder Eventcasinos. 🃏",
+          "Luxushotels mit Glücksspielangeboten. 🏨",
+          "Online-Casino-Plattformen (virtuell). 🌐"
+        ],
+        "advantages": [
+          "Spannende Arbeit in einem glamourösen Umfeld. ✨",
+          "Internationale Karrieremöglichkeiten. 🌍",
+          "Flexibilität durch selbstständige Tätigkeiten. 🤝"
+        ],
+        "challenges": [
+          "Hohe Verantwortung im Umgang mit großen Geldbeträgen. 💶",
+          "Unregelmäßige Arbeitszeiten, auch nachts und an Wochenenden. 🌙",
+          "Keine staatlich anerkannte Ausbildung. 🏫"
+        ],
+        "didYouKnow": [
+          "Das weltweit größte Casino steht in Macau mit fast 900 Tischen. 🌍",
+          "Croupiers werden hauptsächlich über Trinkgelder, sogenannte Troncs, bezahlt. 💰",
+          "James Bond hat in den Filmen mehrfach gegen Croupiers gespielt. 🕶️"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "category": "gastronomy_and_food",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2500,
+    "maxStartingSalary": 3000,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 4400,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4400,
+    "trainingSalary": [
+      {
+        "min": 732,
+        "max": 1042
+      },
+      {
+        "min": 879,
+        "max": 1176
+      },
+      {
+        "min": 962,
+        "max": 1372
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Brauer/in und Mälzer/in",
+        "overview": "\"Als Brauer/in und Mälzer/in bist du Teil einer traditionsreichen Branche 🍻. Du stellst Bier und andere Getränke her und sorgst für beste Qualität und Geschmack. Dein Know-how macht jedes Feierabendbier einzigartig ✨.\"\n",
+        "responsibilities": [
+          "Herstellung von Malz und Bier nach traditionellen Rezepten 🍻.",
+          "Überwachung des Gärungsprozesses und der Qualitätskontrollen 📊.",
+          "Bedienung und Wartung von modernen Brauereianlagen ⚙️."
+        ],
+        "curriculum": [
+          "Herstellung von Maische, Würze und Malz 🍻.",
+          "Technik der Gärung und Lagerung 💧.",
+          "Qualitätskontrolle und Abfüllprozesse 📊."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Braumeister oder Betriebsbraumeister 📚.",
+          "Spezialisierung auf Getränketechnologie oder Produktentwicklung 🍻.",
+          "Selbstständigkeit mit eigener Brauerei 🏢."
+        ],
+        "furtherEducation": [
+          "Meisterkurse im Brauwesen 🎓.",
+          "Studium in Getränketechnologie oder Brauereiwesen 🖌️."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📚.",
+          "Praktische Eignungstests in Brauereien 🍻."
+        ],
+        "applicationRequirements": [
+          "Interesse an Brauwesen und Getränketechnologie 🍻.",
+          "Sorgfalt und technisches Verständnis ⚙️."
+        ],
+        "applicationTips": [
+          "Betone dein Interesse an Brautradition und modernen Technologien 📚.",
+          "Hebe deine Genauigkeit und Teamfähigkeit hervor 🖌️."
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Chemie und Technik ⚙️.",
+          "Sicherer Umgang mit Maschinen und Anlagen 🍻."
+        ],
+        "requiredPersonalTraits": [
+          "Sorgfalt und Verantwortungsbewusstsein 📊.",
+          "Leidenschaft für Qualität und Geschmack 🍻."
+        ],
+        "theoreticalStructure": [
+          "Theorieunterricht zu Brautechnik, Chemie und Hygienestandards 🖌️."
+        ],
+        "practicalStructure": [
+          "Praktische Arbeit in Brauereien und Mälzerei-Werkstätten 🍻."
+        ],
+        "workEnvironment": [
+          "Brauereien und Mälzereien 🍻.",
+          "Abfüllhallen und Gärkeller 💧."
+        ],
+        "advantages": [
+          "Arbeit in einer traditionsreichen und kreativen Branche 🍻.",
+          "Hohe Nachfrage nach qualifizierten Fachkräften 📈.",
+          "Attraktive Karriere- und Entwicklungschancen 💰."
+        ],
+        "challenges": [
+          "Arbeiten unter Zeitdruck und mit großen Maschinen ⚙️.",
+          "Hohe Verantwortung für gleichbleibende Qualität und Hygiene 📊."
+        ],
+        "didYouKnow": [
+          "Deutschland hat über 500 verschiedene Biersorten 🍻.",
+          "Das Reinheitsgebot ist weltweit das älteste Lebensmittelgesetz 🍻.",
+          "Ein Brauer kann täglich bis zu 100.000 Liter Bier herstellen 💧."
+        ]
+      }
+    }
+  }
+]

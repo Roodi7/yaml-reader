@@ -1,0 +1,118 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "flexible"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 3000,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 5000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Heilpraktiker/in für Psychotherapie",
+        "overview": "Als Heilpraktiker/in für Psychotherapie hilfst du Menschen, ihre seelische Gesundheit zu stärken und psychische Herausforderungen zu bewältigen. Du bietest psychotherapeutische Unterstützung, ohne ein Studium der Psychologie oder Medizin absolvieren zu müssen. Ein Beruf voller Empathie, Verantwortung und dem Ziel, Menschen neuen Lebensmut zu geben! 💙🧠✨",
+        "responsibilities": [
+          "Durchführung von Gesprächstherapien, um Patienten besser zu verstehen und zu unterstützen 💬🤝",
+          "Anwendung verschiedener psychotherapeutischer Methoden wie Verhaltenstherapie oder Hypnose 🧘‍♂️✨",
+          "Erstellung individueller Therapiepläne zur gezielten Problemlösung 📋🌟",
+          "Dokumentation und Analyse des Therapieverlaufs zur kontinuierlichen Optimierung 🖊️📂",
+          "Beratung und Aufklärung zu psychischen Erkrankungen und Präventionsmaßnahmen 🩺🌍"
+        ],
+        "curriculum": [
+          "Psychopathologie: Verständnis psychischer Erkrankungen und deren Symptome 🧠📋",
+          "Psychotherapeutische Verfahren: Einführung in Methoden wie Verhaltenstherapie und Hypnose 🧘‍♀️✨",
+          "Entwicklungspsychologie: Grundlagen menschlicher Entwicklung über Lebensphasen hinweg 📘👶➡️👵",
+          "Gesetzeskunde: Rechtliche Rahmenbedingungen für die psychotherapeutische Arbeit 📜⚖️"
+        ],
+        "careerProspects": [
+          "Selbstständigkeit mit einer eigenen Praxis für Psychotherapie 🏢✨",
+          "Tätigkeit in Beratungsstellen oder sozialen Einrichtungen 💬🌟",
+          "Einsatz in Kliniken und Reha-Zentren für psychotherapeutische Unterstützung 🏥🚀"
+        ],
+        "furtherEducation": [
+          "Spezialisierung auf bestimmte Therapieansätze wie systemische Therapie oder Hypnose 🧘‍♀️✨",
+          "Weiterbildung in spezifischen Themen wie Traumatherapie oder Präventionsarbeit 🧠📚",
+          "Ergänzende Ausbildung in Bereichen wie Lebensberatung oder Coaching 🤝🚀"
+        ],
+        "applicationSteps": [
+          "Anmeldung bei einer Fachschule für Heilpraktiker 📋✨",
+          "Vorbereitung auf die staatliche Prüfung durch theoretische und praktische Kurse 📘🧠",
+          "Absolvierung der Prüfung beim zuständigen Gesundheitsamt 📜✨"
+        ],
+        "applicationRequirements": [
+          "Mindestalter von 25 Jahren 🎂✨",
+          "Hauptschulabschluss als Mindestanforderung 🎓📋",
+          "Gesundheits- und polizeiliches Führungszeugnis zur Eignungsprüfung 🩺📜"
+        ],
+        "applicationTips": [
+          "Bereite dich gründlich auf die staatliche Prüfung vor und nutze angebotene Übungsmaterialien 🧠📚",
+          "Betone deine Kommunikationsfähigkeit und Empathie als besondere Stärken 💬🤝",
+          "Informiere dich frühzeitig über die Anforderungen und Fristen des Gesundheitsamts 🕒📋"
+        ],
+        "requiredPersonalSkills": [
+          "Gute Kommunikationsfähigkeiten und Zuhören können 💬🧠",
+          "Fähigkeit, Therapiepläne zu erstellen und umzusetzen 📋🌟",
+          "Fundiertes Wissen über psychotherapeutische Methoden 🧘‍♀️✨"
+        ],
+        "requiredPersonalTraits": [
+          "Einfühlungsvermögen und Geduld ❤️✨",
+          "Verantwortungsbewusstsein und hohe Motivation 🚀🌟",
+          "Interesse an menschlicher Psychologie und Entwicklung 🧠📘"
+        ],
+        "theoreticalStructure": [
+          "Unterricht zu Themen wie Psychopathologie, psychotherapeutische Verfahren, Entwicklungspsychologie und Gesetzeskunde 📘🧠.\n"
+        ],
+        "practicalStructure": [
+          "Übungen in Gesprächsführung, Diagnosestellung und therapeutischer Interaktion zur direkten Anwendung des theoretischen Wissens 💬✨.\n"
+        ],
+        "workEnvironment": [
+          "Eigene Praxis 🏢",
+          "Beratungsstellen 💬✨",
+          "Kliniken und Reha-Zentren 🏥",
+          "Ambulante Therapieeinrichtungen 🌟🚶‍♀️"
+        ],
+        "advantages": [
+          "Gesellschaftlich wichtige Aufgabe in der Unterstützung psychischer Gesundheit 💙✨",
+          "Flexibilität in der Gestaltung von Arbeitszeiten und Therapieansätzen 🌟🕒",
+          "Möglichkeit, einen tiefgreifenden positiven Einfluss auf das Leben anderer zu nehmen 🤝🌟"
+        ],
+        "challenges": [
+          "Keine Vergütung während der Ausbildungszeit und hohe Ausbildungsgebühren 💸📉",
+          "Hohe Verantwortung und emotional anspruchsvolle Aufgaben 💔✨",
+          "Anspruchsvolle staatliche Prüfung zur Erlangung der Berufserlaubnis 📝⚖️"
+        ],
+        "didYouKnow": [
+          "Heilpraktiker für Psychotherapie dürfen ohne Studium psychotherapeutische Behandlungen anbieten 🧘‍♂️✨.",
+          "Die Ausbildung kann flexibel in Vollzeit- oder Teilzeitkursen absolviert werden 🕒📚.",
+          "Die Nachfrage nach psychotherapeutischer Unterstützung steigt stetig 🚀🌍.",
+          "Die staatliche Prüfung umfasst schriftliche und mündliche Teile zur umfassenden Überprüfung deines Wissens 📜✨.",
+          "Mit einer eigenen Praxis kannst du deine Arbeitsweise individuell gestalten 🏢🌟."
+        ]
+      }
+    }
+  }
+]

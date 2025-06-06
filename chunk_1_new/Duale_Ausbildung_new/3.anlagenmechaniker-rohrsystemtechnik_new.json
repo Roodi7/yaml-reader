@@ -1,0 +1,110 @@
+[
+  {
+    "category": "metal_and_electronics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3.5
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2500,
+    "maxStartingSalary": 3200,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 850,
+        "max": 850
+      },
+      {
+        "min": 900,
+        "max": 900
+      },
+      {
+        "min": 950,
+        "max": 950
+      },
+      {
+        "min": 1000,
+        "max": 1000
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Anlagenmechaniker/in – Rohrsystemtechnik",
+        "overview": "\"Als Anlagenmechaniker/in – Rohrsystemtechnik sorgst du dafür, dass wichtige Versorgungssysteme wie Wasser und Gas reibungslos funktionieren. 🔧🛠️ Mit moderner Technik und handwerklichem Geschick arbeitest du an großen Projekten, die unsere Infrastruktur am Laufen halten. 🚰⚙️\"\n",
+        "responsibilities": [
+          "Herstellung und Installation von Rohrsystemen 🛠️🔩",
+          "Durchführung von Reparaturen und Wartungen an bestehenden Anlagen ⚙️🔧",
+          "Überprüfung und Sicherstellung der Funktionsfähigkeit von Systemen 📋✔️"
+        ],
+        "curriculum": [
+          "Planung und Vorbereitung von Rohrsystemen 📐📋",
+          "Montage und Inbetriebnahme von Anlagen 🏗️",
+          "Wartung und Instandsetzung technischer Systeme 🔧🛠️"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Industriemeister oder Techniker im Bereich Metalltechnik 🎓✨",
+          "Aufstiegsmöglichkeiten in leitende Positionen 📈💼",
+          "Spezialisierung auf neue Technologien wie CNC-Maschinen 🌐⚙️"
+        ],
+        "furtherEducation": [
+          "Techniker für Metallbautechnik oder Verfahrenstechnik ✍️🎓",
+          "Studium im Bereich Maschinenbau oder Versorgungstechnik 🏫📖"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄🖊️",
+          "Praktischer Eignungstest oder Probearbeit 🛠️✔️"
+        ],
+        "applicationRequirements": [
+          "Abschluss der Hauptschule oder Mittleren Reife 🎓",
+          "Technisches Interesse und handwerkliche Fähigkeiten 🔧✨"
+        ],
+        "applicationTips": [
+          "Betone dein Interesse an Technik und Präzision 🌟📐",
+          "Füge Referenzen oder Praktika hinzu, falls vorhanden ✍️📄"
+        ],
+        "requiredPersonalSkills": [
+          "Handwerkliches Geschick und Präzision 💪🔩",
+          "Technisches Verständnis und Problemlösungsfähigkeiten ⚙️🧠"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Zuverlässigkeit 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "Theorieunterricht in der Berufsschule umfasst technische Zeichnungen und Materialkunde 📚🖌️"
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung im Betrieb, wo du direkt an Anlagen und Systemen arbeitest 🏭🔧"
+        ],
+        "workEnvironment": [
+          "Arbeit in Werkstätten, Baustellen und bei Kunden vor Ort 🏭🏗️",
+          "Teamarbeit bei größeren Projekten 🤝👷‍♂️"
+        ],
+        "advantages": [
+          "Vielfältige Aufgaben und Projekte 🛠️✨",
+          "Sichere Berufsperspektive durch hohe Nachfrage 🌟👷‍♂️"
+        ],
+        "challenges": [
+          "Arbeiten in wechselnden Umgebungen und teils schwierigen Bedingungen 🏗️❄️",
+          "Präzision und technisches Know-how erforderlich 🔍⚙️"
+        ],
+        "didYouKnow": [
+          "CNC-Maschinen ermöglichen präzise Anfertigung von Bauteilen 🖥️🔧",
+          "Anlagenmechaniker arbeiten auch an nachhaltigen Projekten, z. B. im Bereich erneuerbarer Energien 🌍⚡",
+          "Die Ausbildung bietet zahlreiche Weiterbildungsmöglichkeiten, z. B. zum Industriemeister oder Techniker 📈🎓"
+        ]
+      }
+    }
+  }
+]

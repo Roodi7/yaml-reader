@@ -1,0 +1,122 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      1,
+      2
+    ],
+    "trainingType": "school_and_dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1600,
+    "maxStartingSalary": 1900,
+    "minAvarageSalary": 1900,
+    "maxAvarageSalary": 3000,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3200,
+    "trainingSalary": [
+      {
+        "min": 800,
+        "max": 800
+      },
+      {
+        "min": 900,
+        "max": 900
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Gesundheits- und Pflegeassistent/in",
+        "overview": "💖 Als Gesundheits- und Pflegeassistent/in hilfst du Menschen, die im Alltag Unterstützung benötigen. Ob beim Waschen, Einkaufen oder einfach für ein nettes Gespräch – du bist ein wertvoller Helfer im Leben vieler Menschen. 🩺 Diese Ausbildung ist generalistisch angelegt, was bedeutet, dass du flexibel in verschiedenen Pflegebereichen wie Alten-, Kranken- oder Familienpflege arbeiten kannst. 🌟",
+        "responsibilities": [
+          "Grundpflege wie Waschen, Anziehen oder Körperpflege. 🚿",
+          "Hilfe bei der Haushaltsführung, inklusive Einkaufen und Kochen. 🛒🍳",
+          "Betreuung und Aktivierung durch Spiele, Spaziergänge und Gespräche. 🎲🚶‍♂️",
+          "Unterstützung im medizinischen Bereich unter Anleitung, z. B. Verbandswechsel. 🩹",
+          "Begleitung von Patienten bei Arztbesuchen oder therapeutischen Maßnahmen. 🩺",
+          "Führen von Dokumentationen über den Pflegeverlauf. 📝"
+        ],
+        "curriculum": [
+          "Grundlagen der Pflege: Körperpflege, Ernährung und Mobilisation. 🚿🍽️",
+          "Hygienevorschriften und deren praktische Umsetzung. 🧼",
+          "Kommunikation und soziale Interaktion mit Patienten und Angehörigen. 🗣️",
+          "Rechtliche Grundlagen im Gesundheitswesen. ⚖️",
+          "Erste Hilfe und medizinische Grundlagen. 🩺",
+          "Pflegedokumentation und Qualitätsmanagement. 📋"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Pflegefachmann/-frau. 📚",
+          "Aufstieg zur Pflegedienstleitung. 🌟",
+          "Spezialisierung im Bereich Altenpflege oder Rehabilitationspflege. 🏥"
+        ],
+        "furtherEducation": [
+          "Pflegefachmann/-frau. 🩺",
+          "Praxisanleitung für neue Mitarbeiter und Auszubildende. 📖",
+          "Fachwirt/in für Alten- und Krankenpflege. 📜",
+          "Pflegedienstleitung in Einrichtungen. 🏡"
+        ],
+        "applicationSteps": [
+          "Erstellung eines Bewerbungsschreibens, Lebenslaufs und Sammeln relevanter Dokumente. 📝",
+          "Einreichung der Unterlagen bei Berufsfachschulen oder Einrichtungen. 📃",
+          "Teilnahme an einem Auswahlgespräch oder Eignungstest. 💬"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss. 🎓",
+          "Einfühlungsvermögen und Geduld im Umgang mit Menschen. 💕",
+          "Physische und psychische Belastbarkeit. 💪"
+        ],
+        "applicationTips": [
+          "Erwähne Erfahrungen im sozialen Bereich oder in der Pflege, z. B. durch Praktika. 🌟",
+          "Hebe Teamfähigkeit und Verantwortungsbewusstsein hervor. 🤝",
+          "Verwende ein professionelles Bewerbungsfoto. 📸"
+        ],
+        "requiredPersonalSkills": [
+          "Pflege- und Organisationsfähigkeiten. 🧹",
+          "Kommunikationsstärke und Empathie. 🗣️",
+          "Belastbarkeit und Flexibilität. 💪"
+        ],
+        "requiredPersonalTraits": [
+          "Hilfsbereitschaft und Geduld. 💖",
+          "Teamfähigkeit und Verantwortungsbewusstsein. 🤝",
+          "Freude am Umgang mit Menschen. 🌟"
+        ],
+        "theoreticalStructure": [
+          "\"Theorie an Berufsfachschulen des Gesundheitswesens, darunter Pflegegrundlagen und rechtliche Aspekte. 📘\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praxis in Pflegeeinrichtungen wie Altenheimen, Kliniken oder ambulanten Pflegediensten. 🏥\"\n"
+        ],
+        "workEnvironment": [
+          "Krankenhäuser und Kliniken. 🏥",
+          "Pflege- und Seniorenheime. 🏡",
+          "Ambulante Pflegedienste. 🚗",
+          "Privathaushalte. 🏠",
+          "Rehabilitationseinrichtungen. ♿"
+        ],
+        "advantages": [
+          "Beruf mit großer Zukunftssicherheit. 🔒",
+          "Vielseitige Einsatzmöglichkeiten in verschiedenen Pflegebereichen. 🌍",
+          "Möglichkeit, Menschen nachhaltig zu helfen. 💖"
+        ],
+        "challenges": [
+          "Körperlich und emotional anspruchsvolle Tätigkeiten. 🛡️",
+          "Unregelmäßige Arbeitszeiten, z. B. Schichtdienste. ⏰",
+          "Erforderliche Belastbarkeit und Stressresistenz. 💪"
+        ],
+        "didYouKnow": [
+          "Pflegeassistenten können in allen Pflegebereichen arbeiten – von Altenpflege bis Familienhilfe. 👩‍⚕️",
+          "Diese Ausbildung bietet eine ideale Grundlage für eine spätere Spezialisierung. 🌍",
+          "Der Bedarf an Pflegepersonal steigt kontinuierlich, was für hohe Jobsicherheit sorgt. 💼"
+        ]
+      }
+    }
+  }
+]

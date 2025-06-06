@@ -1,0 +1,122 @@
+[
+  {
+    "category": "media",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2500,
+    "maxStartingSalary": 3000,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Game Artist",
+        "overview": "Tauche ein in die faszinierende Welt der Videospiele! 🎮✨ Als Game Artist bist du der kreative Kopf hinter den beeindruckenden virtuellen Welten, die Spieler weltweit begeistern. Ob atemberaubende Landschaften, lebensechte Charaktere oder spektakuläre Effekte – du bringst Games mit deinem Talent zum Strahlen. 💡🌟 Mit modernster Technik und unendlicher Kreativität gestaltest du die Zukunft der Gaming-Branche.",
+        "responsibilities": [
+          "Erstellen von Konzeptzeichnungen und Storyboards 🎨✍️",
+          "Entwerfen realistischer Spielcharaktere und Animationen 🕺🤖",
+          "Gestalten virtueller Welten, Gebäude und Requisiten 🏞️🏰",
+          "Umsetzung von Atmosphären durch Moods und Stimmungsbilder 🌅✨",
+          "Arbeiten mit Motion Capturing und 3D-Modellierung 📽️🖥️"
+        ],
+        "curriculum": [
+          "3D-Modeling und Digital Arts 🎨🖥️",
+          "Grundlagen der Animation und Motion Capturing 🕺📽️",
+          "Graphic Design und Character Development 🤖✍️",
+          "Medienkompetenz und Business English 🌐📘",
+          "Mathematik für Spiele und Programmierkenntnisse 🔢💻"
+        ],
+        "careerProspects": [
+          "Arbeit in Gamestudios oder bei Spieleherstellern 🎮🏢",
+          "Karriere in der Film- und Medienbranche 🎥✨",
+          "Selbstständigkeit oder Spezialisierung in Concept Art oder 3D-Animation 🌟📚"
+        ],
+        "furtherEducation": [
+          "Weiterbildung zum Game Programmer für Programmieraufgaben 👨‍💻🚀",
+          "Studium in Gamedesign, Mediendesign oder Kommunikationsdesign 🎓✨",
+          "Spezialisierung auf 3D Game Art oder Character Design 🎮🎨"
+        ],
+        "applicationSteps": [
+          "Einreichen von Bewerbungsunterlagen bei Schulen und Bildungseinrichtungen 📋📧",
+          "Teilnahme an Eignungstests und Vorstellungsgesprächen 🗣️🖋️",
+          "Vorlegen kreativer Arbeitsproben wie Konzeptzeichnungen oder Prototypen 🎨🎮"
+        ],
+        "applicationRequirements": [
+          "Realschulabschluss oder vergleichbarer Schulabschluss 🎓📘",
+          "Kreativität und technisches Verständnis ✍️💻",
+          "Interesse an Games, digitalen Medien und Animation 🌐🎥"
+        ],
+        "applicationTips": [
+          "Zeige vielseitige Arbeitsproben, um deine Fähigkeiten hervorzuheben 🌟✍️",
+          "Betone Praktika oder Projekte in der Gaming-Branche 📋🚀",
+          "Bereite dich auf Eignungstests mit Fokus auf Kreativität und Technik vor 🖋️✨"
+        ],
+        "requiredPersonalSkills": [
+          "Künstlerisches Talent und kreative Denkweise 🎨💡",
+          "Technisches Know-how und sicherer Umgang mit Software 🖥️📚",
+          "Teamfähigkeit und Organisationstalent 🤝📋"
+        ],
+        "requiredPersonalTraits": [
+          "Interesse an Games und visueller Gestaltung 🎮🎥",
+          "Flexibilität und Belastbarkeit unter Zeitdruck ⏳🚀",
+          "Liebe zum Detail und Präzision in der Umsetzung 🧐✨"
+        ],
+        "theoreticalStructure": [
+          "Grundlagen in Game Design, 3D-Modellierung und Digital Arts werden vermittelt 📚🖌️."
+        ],
+        "practicalStructure": [
+          "Mehrwöchige Praktika und Projekte geben praxisnahe Einblicke in die Spieleentwicklung 🚀🎮."
+        ],
+        "workEnvironment": [
+          "Gamestudios und Entwicklungsbüros 🎮💻",
+          "Spielehersteller und Filmproduktion 🎥🏢",
+          "Freiberufliche Tätigkeiten im kreativen Umfeld 🌐✍️"
+        ],
+        "advantages": [
+          "Hohe Nachfrage in der Gaming- und Tech-Branche 🎯🚀",
+          "Spannende Projekte und kreative Freiheit 🌟🎨",
+          "Möglichkeit, an innovativen Technologien wie Virtual Reality mitzuwirken 🕶️🌐"
+        ],
+        "challenges": [
+          "Hohe Verantwortung bei der visuellen Umsetzung eines Spiels 📜🎮",
+          "Kreative Problemlösung unter Zeitdruck ⏳✨",
+          "Kontinuierliche Weiterbildung in einer sich schnell entwickelnden Branche 📚🚀"
+        ],
+        "didYouKnow": [
+          "Game Artists arbeiten oft mit Motion Capturing, um realistische Bewegungen darzustellen 🕺📽️.",
+          "Der Beruf Game Artist bietet Einstiegsmöglichkeiten in die Film- und Medienbranche 🎥🌟.",
+          "Einige Schulen ermöglichen Spezialisierungen wie 3D Game Art oder Concept Art 🎮🎨.",
+          "Mit Virtual und Augmented Reality kannst du an den Technologien der Zukunft arbeiten 🕶️🌐.",
+          "Der Beruf bietet vielfältige Karrierechancen auch außerhalb der Gaming-Branche 🚀📘."
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "shift_work"
+    ],
+    "duration": [
+      3.5
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 3000,
+    "maxStartingSalary": 3500,
+    "minAvarageSalary": 3200,
+    "maxAvarageSalary": 4600,
+    "minExperiencedSalary": 4000,
+    "maxExperiencedSalary": 5200,
+    "trainingSalary": [
+      {
+        "min": 1047,
+        "max": 1109
+      },
+      {
+        "min": 1106,
+        "max": 1190
+      },
+      {
+        "min": 1156,
+        "max": 1258
+      },
+      {
+        "min": 1204,
+        "max": 1389
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Chemikant/in",
+        "overview": "\"Als Chemikant/in steuerst du Produktionsanlagen, die chemische Produkte wie Arzneimittel, Farben oder Kunststoffe herstellen 🔧. Deine Verantwortung liegt in der Überwachung, Optimierung und Wartung der Prozesse 🏢.\"\n",
+        "responsibilities": [
+          "Bedienen von Anlagen zur chemischen Produktion 🔧.",
+          "Überwachung von Produktionsprozessen und Messwerten 🔬.",
+          "Durchführung von Qualitätskontrollen und Probenentnahmen 🧰."
+        ],
+        "curriculum": [
+          "Steuerung und Optimierung von Produktionsanlagen 🔧.",
+          "Verfahrenstechnik und Arbeitssicherheit 🔬.",
+          "Qualitätskontrolle und Umweltmanagement 🌍."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Industriemeister Chemie oder Techniker 🎓.",
+          "Studium in Chemietechnik oder Verfahrenstechnik 🌐.",
+          "Aufstieg in leitende Positionen oder Spezialgebiete 🏆."
+        ],
+        "furtherEducation": [
+          "Kurse in Prozessoptimierung und Digitalisierung 🎨.",
+          "Technikerschulen für chemische Verfahrenstechnik 🔧."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📚.",
+          "Teilnahme an einem naturwissenschaftlichen Eignungstest 🔬."
+        ],
+        "applicationRequirements": [
+          "Technisches Verständnis und Interesse an Chemie 🔧.",
+          "Teamfähigkeit und Verantwortungsbewusstsein 📚."
+        ],
+        "applicationTips": [
+          "Hebe deine Stärken in Mathematik und Technik hervor 🔄.",
+          "Betone deine Bereitschaft, im Schichtdienst zu arbeiten 🏢."
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Chemie und Physik 🧰.",
+          "Sicherer Umgang mit komplexer Technik 🔧."
+        ],
+        "requiredPersonalTraits": [
+          "Flexibilität und Belastbarkeit im Schichtdienst 🔄.",
+          "Präzision und Genauigkeit bei der Prozessüberwachung 🔬."
+        ],
+        "theoreticalStructure": [
+          "Fachunterricht in Chemie, Technik und Prozesssteuerung 🖌️."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung direkt an Produktionsanlagen 🏢."
+        ],
+        "workEnvironment": [
+          "Chemieparks und Produktionshallen 🏢.",
+          "Schichtdienst in industriellen Anlagen 🔧."
+        ],
+        "advantages": [
+          "Attraktive Gehalts- und Karrieremöglichkeiten 💰.",
+          "Arbeiten mit moderner Technik und innovativen Prozessen 🔧.",
+          "Hohe Verantwortung und abwechslungsreiche Aufgaben 🏆."
+        ],
+        "challenges": [
+          "Arbeiten unter Schichtdienst und mit gefährlichen Stoffen 🔄.",
+          "Strenge Sicherheits- und Umweltvorschriften 🌍."
+        ],
+        "didYouKnow": [
+          "Chemikanten tragen durch ihre Arbeit zur Herstellung lebenswichtiger Produkte bei 📚.",
+          "Die Chemiebranche ist eine der am besten bezahlten Industrien weltweit 💰.",
+          "Moderne Chemieparks nutzen Digitalisierung zur Effizienzsteigerung 🌐."
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2300,
+    "maxStartingSalary": 2700,
+    "minAvarageSalary": 2600,
+    "maxAvarageSalary": 3300,
+    "minExperiencedSalary": 2900,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Kinderpfleger/in",
+        "overview": "Als Kinderpfleger/in unterstützt du Erzieher und Pädagogen bei der Betreuung und Förderung von Kindern. Dein Alltag ist abwechslungsreich und voller kreativer Aufgaben wie Spielen, Musizieren und Malen. 🎨🎶 Diese schulische Ausbildung dauert zwei Jahre und beinhaltet spannende Praktika, um praxisnahes Wissen zu erlangen.",
+        "responsibilities": [
+          "Betreuung und Förderung von Kindern durch kreative Aktivitäten 🎭",
+          "Konfliktlösung mit Feingefühl und Durchsetzungsvermögen 🧘‍♀️",
+          "Organisation von Spielen und Projekten 🎉",
+          "Zusammenarbeit mit Erziehern und Eltern für die Entwicklung der Kinder 🤝"
+        ],
+        "curriculum": [
+          "Sozialpädagogik und Erziehungslehre 📚",
+          "Kunst- und Werkerziehung 🎨",
+          "Musik und Musikerziehung 🎶",
+          "Hauswirtschaft und Gesundheitslehre 🏠",
+          "Nahrungszubereitung 🍎"
+        ],
+        "careerProspects": [
+          "Weiterbildung zur Erzieher/in 🎓",
+          "Spezialisierung in Familien- oder Altenpflege 🏡",
+          "Studium in Erziehungswissenschaften oder Pädagogik 🎓"
+        ],
+        "furtherEducation": [
+          "Erzieher/in",
+          "Heilpädagoge/in",
+          "Fachwirt/in für Sozialwesen",
+          "Studium in Erziehungswissenschaft"
+        ],
+        "applicationSteps": [
+          "Individuelles Anschreiben mit Motivation ✍️",
+          "Lebenslauf mit relevanten Erfahrungen 📄",
+          "Nachweise wie Schulzeugnisse und ärztliches Attest 🩺"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss 🎓",
+          "Gesundheitszeugnis für die Eignung 🏥",
+          "Nachweis über Masernimpfung 💉"
+        ],
+        "applicationTips": [
+          "Zeige deine Begeisterung für die Arbeit mit Kindern 🌟",
+          "Erwähne Praktika oder Erfahrungen in der Betreuung 👶",
+          "Betone deine kreative und empathische Seite 🎭"
+        ],
+        "requiredPersonalSkills": [
+          "Kreativität 🎨",
+          "Organisationstalent 📋",
+          "Kommunikationsfähigkeit 🗣️"
+        ],
+        "requiredPersonalTraits": [
+          "Geduld 🧘‍♂️",
+          "Empathie 🤝",
+          "Durchsetzungsvermögen 💪"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du Sozialpädagogik, Kunst- und Musikerziehung, Hauswirtschaft und mehr. 🖌️🎵"
+        ],
+        "practicalStructure": [
+          "Durch abwechslungsreiche Praktika erlebst du den Berufsalltag hautnah und sammelst wertvolle Erfahrungen. 🏫👩‍👧‍👦"
+        ],
+        "workEnvironment": [
+          "Kindergärten und Kindertagesstätten 🏫",
+          "Kinderstationen in Krankenhäusern 🏥",
+          "Kinderheime und Wohngruppen 🏠",
+          "Privathaushalte für individuelle Betreuung 🏡"
+        ],
+        "advantages": [
+          "Hohe Jobchancen durch Fachkräftemangel 🚀",
+          "Abwechslungsreiche Arbeit mit Kindern 🌟",
+          "Gute Möglichkeiten zur Weiterbildung 🎓"
+        ],
+        "challenges": [
+          "Hohe emotionale Anforderungen 🧘‍♀️",
+          "Arbeit in stressigen Situationen 😌",
+          "Verantwortung für das Wohlergehen der Kinder 👶"
+        ],
+        "didYouKnow": [
+          "Kinderpfleger/innen können in vielen Einrichtungen wie Krankenhäusern oder Kinderheimen arbeiten 🏥.",
+          "Mit einer Weiterbildung können Kinderpfleger/innen Erzieher/in werden und mehr Verantwortung übernehmen 🎓."
+        ]
+      }
+    }
+  }
+]

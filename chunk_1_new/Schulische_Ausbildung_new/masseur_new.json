@@ -1,0 +1,119 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "shift_work"
+    ],
+    "duration": [
+      2.5
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1745,
+    "maxStartingSalary": 3508,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 0,
+    "maxExperiencedSalary": 0,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      },
+      {
+        "name": "english",
+        "level": "A2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Masseur/in und medizinische/r Bademeister/in",
+        "overview": "Mit ihren heilenden Händen und tiefem anatomischem Wissen helfen Masseure und medizinische Bademeister bei körperlichen Beschwerden wie Wirbelsäulenerkrankungen oder Stress. 💆‍♂️✨ Sie kombinieren Massagetechniken mit physikalischen Therapien, um das Wohlbefinden ihrer Patienten zu fördern. 🧘‍♀️💖",
+        "responsibilities": [
+          "Erstellung individueller Behandlungspläne für Patienten 📝💡",
+          "Anwendung verschiedener Massagetechniken wie Streichungen und Klopfungen 💆‍♀️✨",
+          "Durchführung von physikalischen Therapien wie Hydro- oder Elektrotherapien 🌊⚡",
+          "Verabreichung von Packungen und Inhalationen für Beschwerden wie Kopfschmerzen oder Atemwegserkrankungen 🫁💨",
+          "Dokumentation der Therapien und Pflege von Patientenakten 📋🖋️",
+          "Pflege und Wartung von Arbeitsgeräten wie Massagebänken und Desinfektionsmitteln 🛠️🧴"
+        ],
+        "curriculum": [
+          "Menschliche Anatomie, Physiologie und Krankheitsbilder 📘🧬",
+          "Techniken wie Hydrotherapien, Packungen und Massagen 🌊💆",
+          "Hygienemaßnahmen und rechtliche Grundlagen im Gesundheitswesen 🧴⚖️"
+        ],
+        "careerProspects": [
+          "Arbeit in Reha-Kliniken oder Wellnesszentren 🏥🌴",
+          "Möglichkeit zur Selbstständigkeit mit eigener Praxis 💼✨",
+          "Weiterbildung zum Physiotherapeuten oder Fitnessfachwirt 🧘‍♀️📈"
+        ],
+        "furtherEducation": [
+          "Fortbildung in manueller Lymphdrainage 🌊🤲",
+          "Zusatzqualifikation zum Physiotherapeuten 🩺🏋️",
+          "Studium in Medizin- oder Sportpädagogik 🎓📖"
+        ],
+        "applicationSteps": [
+          "Erstellung eines kreativen Anschreibens mit Fokus auf Empathie und Praxisbezug ✍️💖",
+          "Zusammenstellung von Lebenslauf und Zeugnissen 📄📜",
+          "Vorstellungsgespräch mit praktischer Demonstration von Massagetechniken 🗣️🤲"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss oder einjährige Berufsausbildung 🎓📝",
+          "Ärztliches Attest über gesundheitliche Eignung 🩺✅",
+          "Erfahrung durch Praktika im Gesundheitswesen von Vorteil 🏥🤝"
+        ],
+        "applicationTips": [
+          "Betone in der Bewerbung dein Interesse an medizinischen und therapeutischen Tätigkeiten ✨🌟",
+          "Hebe praktische Erfahrungen hervor und gestalte die Unterlagen klar und professionell 📋✨"
+        ],
+        "requiredPersonalSkills": [
+          "Fähigkeit, individuelle Therapiepläne zu erstellen 📝📊",
+          "Anwendung verschiedener therapeutischer Techniken 💆‍♂️✨"
+        ],
+        "requiredPersonalTraits": [
+          "Empathie und Kommunikationsfähigkeit 💖🗣️",
+          "Detailgenauigkeit und analytisches Denken 🧠🔍"
+        ],
+        "theoreticalStructure": [
+          "Unterricht an einer Berufsfachschule zu Anatomie, Physiologie und Hygienemaßnahmen 📚🧠"
+        ],
+        "practicalStructure": [
+          "Praxisphasen mit Patientenbehandlung und Anwendung verschiedener Therapien 🤲✨"
+        ],
+        "workEnvironment": [
+          "Krankenhäuser und Rehakliniken 🏥🩺",
+          "Massage- und Krankengymnastikpraxen 💆‍♂️🏡",
+          "Gesundheitszentren, Saunen und Wellnessanlagen 🌊🌴"
+        ],
+        "advantages": [
+          "Tariflich geregeltes Gehalt im öffentlichen Dienst 💶🗂️",
+          "Breite Einsatzmöglichkeiten in medizinischen und Wellnessbereichen 🏥🌴",
+          "Kombination von praktischer und theoretischer Arbeit 🛠️📚"
+        ],
+        "challenges": [
+          "Körperlich anspruchsvolle Arbeit 🏋️‍♀️💪",
+          "Wochenend- und Feiertagsdienste möglich 🕒📅"
+        ],
+        "didYouKnow": [
+          "Massage ist eine der ältesten Heilmethoden der Welt? 🌍✨",
+          "Hot Stone Massagen und neue Massagetrends immer populärer werden? 🔥💆",
+          "Masseure mit der richtigen Technik sogar Angstzustände lindern können? 💖✨"
+        ]
+      }
+    }
+  }
+]

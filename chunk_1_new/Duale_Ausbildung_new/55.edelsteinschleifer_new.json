@@ -1,0 +1,118 @@
+[
+  {
+    "category": "services_and_crafts",
+    "jobType": ["full_time"],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2600,
+    "minAvarageSalary": 2200,
+    "maxAvarageSalary": 3240,
+    "minExperiencedSalary": 2800,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Edelsteinschleifer/in",
+        "overview": "Bevor Diamanten, Rubine oder Saphire ihre funkelnde Schönheit entfalten, müssen sie von einem Edelsteinschleifer in Perfektion gebracht werden 💎✨. Ob Schmuckstücke, Werkzeuge oder technische Bauteile – deine Arbeit gibt jedem Edelstein seinen unvergleichlichen Glanz 🌟.",
+        "responsibilities": [
+          "Bearbeitung von Rohsteinen durch Schleifen, Schneiden und Polieren 🛠️",
+          "Auswahl passender Edelsteine nach Größe, Farbe und Reinheit 🎨",
+          "Bedienung und Wartung von Schleif- und Poliermaschinen ⚙️",
+          "Qualitätskontrolle der fertigen Edelsteine 👀",
+          "Anfertigung individueller Schmuckstücke nach Kundenwünschen 💍"
+        ],
+        "curriculum": [
+          "Grundlagen der Edelsteinbearbeitung 🌟",
+          "Schlifftechniken und Oberflächenbearbeitung 💎",
+          "Qualitätskontrolle und Schmuckgestaltung 🎨"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Edelsteinschleifermeister oder Gestalter für Schmuck und Gerät 🎓",
+          "Selbstständigkeit mit eigener Werkstatt oder als Franchisenehmer 🚀",
+          "Studium in Schmuckdesign oder verwandten künstlerischen Bereichen 🎓"
+        ],
+        "furtherEducation": [
+          "Edelsteinschleifermeister für Führungsaufgaben und Selbstständigkeit 🏢",
+          "Gestalter für Edelstein und Schmuck zur Erweiterung der künstlerischen Fähigkeiten 🎨",
+          "Studium in Schmuckdesign oder Kunsthandwerk für kreative Entfaltung 🎓"
+        ],
+        "applicationSteps": [
+          "Verfassen eines individuellen Bewerbungsschreibens mit Fokus auf Kreativität und Leidenschaft 📝",
+          "Erstellung eines Lebenslaufs mit handwerklichem Bezug 📑",
+          "Vorstellungsgespräch, bei dem Interesse an Edelsteinen betont wird 💬"
+        ],
+        "applicationRequirements": [
+          "Feinmotorische Fähigkeiten und Geschicklichkeit 🤲",
+          "Gutes Gehör und Konzentrationsfähigkeit 🎯",
+          "Interesse an Kunsthandwerk und Edelsteinen 🌟"
+        ],
+        "applicationTips": [
+          "Hebe Praktika oder Erfahrungen im Handwerk hervor 🛠️",
+          "Zeige deine Begeisterung für Edelsteine und Schmuck 💎",
+          "Betone deine Stärken in Mathe, Physik und Chemie 📊"
+        ],
+        "requiredPersonalSkills": [
+          "Handwerkliches Geschick und Präzision 🎯",
+          "Technisches Verständnis und sicherer Umgang mit Maschinen ⚙️",
+          "Künstlerische Fähigkeiten und Sinn für Ästhetik 🎨"
+        ],
+        "requiredPersonalTraits": [
+          "Geduld und Konzentrationsfähigkeit 🕰️",
+          "Kreativität und Liebe zum Detail 🌟",
+          "Faszination für Edelsteine und Schmuck 💎"
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Themen wie Materialkunde, Arbeitssicherheit und technische Unterlagen 📚"
+        ],
+        "practicalStructure": [
+          "Betriebliche Praxis mit Fokus auf Edelsteinschliff und Maschinenbedienung 🛠️"
+        ],
+        "workEnvironment": [
+          "Edelstein- und Schmuckwerkstätten 🏭",
+          "Industriebetriebe für Präzisionswerkzeuge 🛠️",
+          "Juweliergeschäfte und Schmuckateliers 💎"
+        ],
+        "advantages": [
+          "Arbeiten mit wertvollen und faszinierenden Materialien 💎",
+          "Kombination aus Handwerkskunst und technischer Präzision 🛠️",
+          "Individuelle Gestaltungsmöglichkeiten und kreativer Ausdruck 🎨"
+        ],
+        "challenges": [
+          "Arbeiten in lauter Umgebung mit chemischen Substanzen ⚠️",
+          "Hohe Konzentration und Sorgfalt bei der Bearbeitung 🌟",
+          "Physische Belastung durch längeres Arbeiten an Maschinen 💪"
+        ],
+        "didYouKnow": [
+          "Idar-Oberstein in Rheinland-Pfalz ist das Zentrum der Edelsteinverarbeitung in Deutschland 💎.",
+          "Der berühmte „Pink Star“-Diamant wurde für 76,3 Millionen Euro versteigert! 🌟",
+          "Rote Diamanten gelten als die seltensten und teuersten Edelsteine der Welt 💎.",
+          "Im belgischen Antwerpen werden zwei Drittel des weltweiten Diamantenhandels abgewickelt 🌍.",
+          "Der größte Rohdiamant der Welt, der Cullinan, wog unglaubliche 3106,7 Karat! 💎"
+        ]
+      }
+    }
+  }
+]

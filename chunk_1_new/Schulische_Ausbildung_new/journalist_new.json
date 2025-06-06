@@ -1,0 +1,130 @@
+[
+  {
+    "category": "media",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      4
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "high_school",
+    "minStartingSalary": 1400,
+    "maxStartingSalary": 2200,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 3300,
+    "minExperiencedSalary": 3300,
+    "maxExperiencedSalary": 4356,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "C1"
+      },
+      {
+        "name": "english",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Journalist/in",
+        "overview": "📰 Der Beruf des Journalisten ist so vielseitig wie die Medienwelt selbst! Ob für Print, Online, TV oder Radio - Journalisten sind die Stimme der Gesellschaft. Von der Recherche über die Berichterstattung bis zur Moderation vor der Kamera: Hier bist du mitten im Geschehen. 🌟",
+        "responsibilities": [
+          "Recherchearbeit und Überprüfung von Informationen. 🔍",
+          "Aufarbeitung von Nachrichten und Erstellung verständlicher Berichte.",
+          "Verfassen von Artikeln, Reportagen und Nachrichtenmeldungen. 🖋️",
+          "Redigieren und Finalisieren von Beiträgen. 📑",
+          "Moderation von Nachrichten und Durchführung von Interviews. 🎙️",
+          "Zusammenarbeit mit Technikern bei Fernsehproduktionen. 🎥"
+        ],
+        "curriculum": [
+          "Recherche und Überprüfung von Quellen.",
+          "Verfassen journalistischer Beiträge in verschiedenen Stilformen.",
+          "Medienrecht und Presserecht. ⚖️",
+          "Mediengattungen: Print, Radio, Fernsehen und Online.",
+          "Technischer Umgang mit Aufnahmegeräten und Bildbearbeitung."
+        ],
+        "careerProspects": [
+          "Festanstellung in Redaktionen von Medienunternehmen. 🏢",
+          "Freiberufliche Tätigkeit als Journalist oder Texter.",
+          "Dozent an Hochschulen oder Akademien für Journalismus."
+        ],
+        "furtherEducation": [
+          "Studium in Journalismus oder Medienkommunikation. 🎓",
+          "Weiterbildungen zu Cross-Media-Publishing oder neuen Recherchetools.",
+          "Spezialisierung auf Fachgebiete wie Politik- oder Wissenschaftsjournalismus."
+        ],
+        "applicationSteps": [
+          "Bewerbung an Journalistenschulen: Anschreiben, Lebenslauf, Zeugnisse.",
+          "Eingereichte journalistische Proben oder Auswahltest.",
+          "Teilnahme an einem persönlichen Gespräch."
+        ],
+        "applicationRequirements": [
+          "Fachhochschulreife oder Abitur.",
+          "Erfahrung durch Praktika in Medienunternehmen.",
+          "Gute Deutsch- und Englischkenntnisse."
+        ],
+        "applicationTips": [
+          "Betone journalistische Vorerfahrung in deiner Bewerbung.",
+          "Bereite dich auf einen Auswahltest und ein persönliches Gespräch vor. 📝"
+        ],
+        "requiredPersonalSkills": [
+          "Exzellente Schreib- und Kommunikationsfähigkeiten. 🖋️",
+          "Starke Recherche- und Analysekompetenz. 🔍",
+          "Technisches Verständnis für Bild- und Tontechnik. 🎛️"
+        ],
+        "requiredPersonalTraits": [
+          "Perfektionismus und Liebe zum Detail. ✨",
+          "Organisationstalent und Belastbarkeit. 📅",
+          "Neugier und Offenheit für neue Themen. 🌐"
+        ],
+        "theoreticalStructure": [
+          "Grundlagen des Journalismus wie Recherchetechniken, journalistische Darstellungsformen (Berichte, Reportagen) und Medientheorie.\n"
+        ],
+        "practicalStructure": [
+          "Praktika in Zeitungs-, Radio- und Fernsehredaktionen, um praktische Erfahrungen zu sammeln und eigene Beiträge zu erstellen.\n"
+        ],
+        "workEnvironment": [
+          "Redaktionen für Zeitungen, Zeitschriften und Online-Portale.",
+          "Aufnahmestudios bei Radio- und Fernsehsendern. 📻",
+          "Vor Ort bei Pressekonferenzen oder Live-Events.",
+          "Konferenzräume für Teamabsprachen."
+        ],
+        "advantages": [
+          "Abwechslungsreiche Aufgaben und kreatives Arbeiten. ✨",
+          "Hohe gesellschaftliche Relevanz durch Meinungsbildung.",
+          "Flexible Arbeitsmöglichkeiten in unterschiedlichen Medien."
+        ],
+        "challenges": [
+          "Unregelmäßige Arbeitszeiten, oft auch nachts oder am Wochenende. 🌙",
+          "Hoher Druck durch Deadlines und Aktualität. ⏳",
+          "Notwendigkeit zur kontinuierlichen Weiterbildung. 📚"
+        ],
+        "didYouKnow": [
+          "Journalisten sind die Wächter der Demokratie und sichern die Meinungsfreiheit. 🗽",
+          "Die Digitalisierung hat den Journalismus revolutioniert, z.B. durch Live-Streams. 📡",
+          "Reportagen gehören zu den spannendsten journalistischen Stilformen. 🗺️",
+          "Auch im Zeitalter von Social Media bleibt der Bedarf an professionellen Journalisten hoch. 🌟"
+        ]
+      }
+    }
+  }
+]

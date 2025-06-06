@@ -1,0 +1,113 @@
+[
+  {
+    "category": "economy_and_politics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "high_school",
+    "minStartingSalary": 2400,
+    "maxStartingSalary": 3000,
+    "minAvarageSalary": 3000,
+    "maxAvarageSalary": 5500,
+    "minExperiencedSalary": 4000,
+    "maxExperiencedSalary": 6000,
+    "trainingSalary": [
+      {
+        "min": 747,
+        "max": 1140
+      },
+      {
+        "min": 804,
+        "max": 1193
+      },
+      {
+        "min": 921,
+        "max": 1250
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Betriebswirt/in im Außenhandel",
+        "overview": "\"Als Betriebswirt/in im Außenhandel koordinierst du internationale Warenströme 🌍. Du verhandelst mit internationalen Geschäftspartnern, organisierst Im- und Exporte und sorgst für reibungslose Abläufe im globalen Handel 📦.\"\n",
+        "responsibilities": [
+          "Planung und Durchführung von Import- und Exportgeschäften 🌎.",
+          "Verhandlung mit internationalen Lieferanten und Kunden 🗣️.",
+          "Analyse von Märkten und Optimierung der Beschaffungskosten 📊."
+        ],
+        "curriculum": [
+          "Internationale Handelsgesetze und Zollbestimmungen ⚖️.",
+          "Verhandlungsstrategien und Vertragsgestaltung 📝.",
+          "Einsatz von Logistik- und Managementtools 📦."
+        ],
+        "careerProspects": [
+          "Aufstieg zum Exportleiter 🌍.",
+          "Weiterbildung im Bereich Wirtschaftsrecht 🎓.",
+          "Option zur Selbstständigkeit im internationalen Handel 🏢."
+        ],
+        "furtherEducation": [
+          "Studium im Bereich International Business 🎓.",
+          "Zertifikate in Handels- und Logistikmanagement 📜."
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Anschreiben, Lebenslauf und Nachweisen 📄.",
+          "Assessment-Center zur Überprüfung von Sprachkenntnissen und Logistikverständnis 🛠️.",
+          "Praktikum im Handelsbereich zur Eignungsfeststellung 🌐."
+        ],
+        "applicationRequirements": [
+          "Gute Englischkenntnisse und Verständnis für Wirtschaftsthemen 🗣️.",
+          "Organisationsstärke und Kommunikationsfähigkeit 🤝."
+        ],
+        "applicationTips": [
+          "Betone deine Sprachkenntnisse und Auslandserfahrung 🌏.",
+          "Hebe praktische Erfahrungen in kaufmännischen Bereichen hervor 🏢."
+        ],
+        "requiredPersonalSkills": [
+          "Analytisches Denken zur Bewertung von Märkten und Lieferanten 📊.",
+          "Verhandlungsgeschick und Durchsetzungsvermögen 🗣️."
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Belastbarkeit 💪.",
+          "Offenheit für interkulturelle Zusammenarbeit 🌍."
+        ],
+        "theoreticalStructure": [
+          "Fachunterricht in Betriebswirtschaft, Fremdsprachen und Außenhandelsrecht 📚."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung in Unternehmen mit Fokus auf Außenhandel 🌐."
+        ],
+        "workEnvironment": [
+          "Büros mit moderner Technologie und globalem Fokus 💻.",
+          "Reisetätigkeiten zu internationalen Geschäftspartnern ✈️."
+        ],
+        "advantages": [
+          "Hohe Nachfrage nach qualifizierten Fachkräften 📈.",
+          "Internationale Karrieremöglichkeiten 🌎.",
+          "Attraktive Verdienstmöglichkeiten 💰."
+        ],
+        "challenges": [
+          "Hohes Maß an Verantwortung bei internationalen Geschäften 🌍.",
+          "Arbeiten unter Zeitdruck und komplexe Verhandlungen ⏳."
+        ],
+        "didYouKnow": [
+          "Deutschland ist einer der größten Exportnationen weltweit 🚢.",
+          "Jeder vierte Arbeitsplatz in Deutschland hängt direkt oder indirekt vom Export ab 📦.",
+          "Die größten Handelspartner Deutschlands sind China und die USA 🌎."
+        ]
+      }
+    }
+  }
+]

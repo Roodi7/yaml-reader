@@ -1,0 +1,114 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time",
+      "shift_work"
+    ],
+    "duration": [
+      3.5
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "high_school",
+    "minStartingSalary": 1800,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 1073,
+        "max": 1125
+      },
+      {
+        "min": 1142,
+        "max": 1229
+      },
+      {
+        "min": 1194,
+        "max": 1299
+      },
+      {
+        "min": 1243,
+        "max": 1389
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Biologielaborant/in",
+        "overview": "\"Als Biologielaborant/in bist du ein wichtiger Teil der medizinischen und biologischen Forschung 🔬. Du führst Experimente durch, analysierst Proben und unterstützt bei der Entwicklung neuer Medikamente 💊.\"\n",
+        "responsibilities": [
+          "Durchführung von Experimenten und Tests 🧪.",
+          "Analyse biologischer Proben und Dokumentation der Ergebnisse 📄.",
+          "Wartung und Pflege der Laborgeräte ⚙️."
+        ],
+        "curriculum": [
+          "Labor- und Sicherheitstechniken ⚠️.",
+          "Molekularbiologische und gentechnische Methoden 🧬.",
+          "Qualitätsmanagement und Dokumentation 📊."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Biotechniker oder Labortechniker 🎓.",
+          "Arbeit in der pharmazeutischen oder medizinischen Forschung 💊.",
+          "Option auf ein Studium in Biologie oder Biotechnologie 🎓."
+        ],
+        "furtherEducation": [
+          "Fachkurse in molekularbiologischen Techniken 🧬.",
+          "Studium in Biotechnologie oder angewandter Biologie 🎓."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📄.",
+          "Teilnahme an einem naturwissenschaftlichen Eignungstest 🔬.",
+          "Praktikum in einem Labor zur Überprüfung der Eignung 🏢."
+        ],
+        "applicationRequirements": [
+          "Gute Kenntnisse in Naturwissenschaften, besonders Biologie und Chemie 📚.",
+          "Sorgfalt und Genauigkeit im Umgang mit Proben und Geräten ⚙️."
+        ],
+        "applicationTips": [
+          "Erwähne Praktika oder Projekte in der Forschung 🧪.",
+          "Betone deine Begeisterung für wissenschaftliches Arbeiten 🔍."
+        ],
+        "requiredPersonalSkills": [
+          "Analytische Fähigkeiten zur Auswertung komplexer Daten 📊.",
+          "Sicherer Umgang mit technischen Geräten und Laborsoftware ⚙️."
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Kommunikationsstärke 🤝.",
+          "Geduld und Genauigkeit bei experimenteller Arbeit 🧐."
+        ],
+        "theoreticalStructure": [
+          "Fachunterricht zu Biologie, Chemie und Laborstandards 📘."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung in Laboren mit realen Forschungsprojekten 🚀."
+        ],
+        "workEnvironment": [
+          "Laboratorien in Forschungs- und Entwicklungsabteilungen 🏢.",
+          "Arbeiten in hochmodernen medizinischen und biologischen Laboren 🔬."
+        ],
+        "advantages": [
+          "Mitarbeit an wegweisender Forschung 🔍.",
+          "Attraktive Karriere- und Weiterbildungsmöglichkeiten 📈.",
+          "Hohe Nachfrage in Forschung und Industrie 💼."
+        ],
+        "challenges": [
+          "Arbeiten mit biologischen und chemischen Substanzen 🧪.",
+          "Hohes Maß an Konzentration und Sorgfalt erforderlich 🧐."
+        ],
+        "didYouKnow": [
+          "Bis zu 300 Millionen Versuchstiere werden jährlich weltweit genutzt 🐭.",
+          "Biologielaboranten arbeiten oft mit modernsten Technologien und Methoden 🚀.",
+          "Viele Durchbrüche in der Medizin sind ohne Laborexperimente nicht möglich 💊."
+        ]
+      }
+    }
+  }
+]

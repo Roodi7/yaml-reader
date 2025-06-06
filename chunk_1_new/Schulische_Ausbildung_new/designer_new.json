@@ -1,0 +1,125 @@
+[
+  {
+    "category": "design_and_creative_industries",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1200,
+    "maxStartingSalary": 2000,
+    "minAvarageSalary": 1500,
+    "maxAvarageSalary": 3300,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Designer/in",
+        "overview": "Designer/in ist ein Sammelbegriff für kreative Köpfe, die unterschiedlichste Produkte gestalten - von Grafiken und Webseiten über Kleidung bis hin zu Werbefilmen. Ob Fotodesign, Mediendesign oder Kommunikationsdesign, in diesem Beruf steht die Kreativität stets im Mittelpunkt. Die Ausbildung bietet eine Vielzahl von Spezialisierungen, die dir ermöglichen, deinen persönlichen Interessen nachzugehen und in der Designwelt Fuß zu fassen.",
+        "responsibilities": [
+          "Entwicklung von Designkonzepten und -strategien. 🖌️",
+          "Erstellung von Skizzen, Layouts und Prototypen. ✏️",
+          "Umsetzung von Kundenwünschen in kreative Projekte. 🤝",
+          "Arbeiten mit Designprogrammen wie Photoshop, Illustrator oder CAD-Tools. 💻",
+          "Präsentation und Verteidigung von Entwürfen vor Kunden oder Teams. 🎨"
+        ],
+        "curriculum": [
+          "Grundlagen in Zeichentechniken und Gestaltung. ✏️",
+          "Designsoftware-Schulungen (z. B. Photoshop, Illustrator). 💻",
+          "Projektplanung und Kundenkommunikation. 📋",
+          "Medientechnische Grundlagen für Video-, Audio- und Grafikdesign. 📺",
+          "Kunst- und Designgeschichte zur Inspiration. 🖼️"
+        ],
+        "careerProspects": [
+          "Festanstellung in einer Agentur oder Designabteilung. 🏢",
+          "Freiberuflicher Designer mit eigenem Kundenstamm. 🤝",
+          "Aufstieg zum Creative Director oder Art Director. 🌟",
+          "Weiterbildung zum geprüften Medienfachwirt oder Techniker. 🎓"
+        ],
+        "furtherEducation": [
+          "Staatlich geprüfter Techniker in Druck- und Medientechnik. 🧑‍🎓",
+          "Geprüfter Medienfachwirt für Print- oder Digitalmedien. 📖",
+          "Studium in Mediendesign, Kommunikationsdesign oder Modedesign. 🏫"
+        ],
+        "applicationSteps": [
+          "Erstellung eines kreativen Portfolios mit eigenen Arbeiten. 📂",
+          "Bewerbung mit Anschreiben, Lebenslauf und ggf. Mappenpräsentation. 📝"
+        ],
+        "applicationRequirements": [
+          "Künstlerisches Talent und Kreativität. 🎨",
+          "Erfahrung im Umgang mit Designprogrammen. 💻",
+          "Selbstständige Arbeitsweise und Organisationstalent. 📋"
+        ],
+        "applicationTips": [
+          "Betone deine Leidenschaft für kreative Arbeit und nenne Beispiele aus Projekten. 🌟",
+          "Bereite dich auf Eignungstests oder Bewerbungsgespräche mit Arbeitsproben vor. 📂"
+        ],
+        "requiredPersonalSkills": [
+          "Zeichentalent und grafisches Verständnis. ✏️",
+          "Kenntnisse in Design- und Bildbearbeitungssoftware. 💻",
+          "Teamfähigkeit und Kommunikationsstärke. 🤝"
+        ],
+        "requiredPersonalTraits": [
+          "Kreativität und Trendbewusstsein. 🌟",
+          "Detailgenauigkeit und Sorgfalt. 🔍",
+          "Offenheit für neue Ideen und Techniken. 🌐"
+        ],
+        "theoreticalStructure": [
+          "\"Grundlagen in Design- und Medientheorie, Zeichentechniken sowie technische Programme. 📚\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praktika und Projektarbeiten in Zusammenarbeit mit Unternehmen oder Agenturen. 🎨\"\n"
+        ],
+        "workEnvironment": [
+          "Designagenturen. 🏢",
+          "Unternehmensinterne Designabteilungen. 🖥️",
+          "Redaktionen oder Medienunternehmen. 📺",
+          "Selbstständige Tätigkeit in einem eigenen Studio. 🏠"
+        ],
+        "advantages": [
+          "Vielfältige Spezialisierungsmöglichkeiten. ✨",
+          "Hohe Nachfrage nach kreativen Köpfen in vielen Branchen. 🌍",
+          "Freie Entfaltung der eigenen Kreativität. 🖌️"
+        ],
+        "challenges": [
+          "Hohe Konkurrenz in beliebten Designbereichen. 🏁",
+          "Unregelmäßige Arbeitszeiten bei engen Projektfristen. ⏰",
+          "Anpassungsfähigkeit an Kundenwünsche und Markttrends erforderlich. 🔄"
+        ],
+        "didYouKnow": [
+          "Das weltberühmte Nike-Logo wurde von einer Studentin für nur 35 US-Dollar entworfen. 🏃‍♀️",
+          "Die meisten Designer arbeiten mit Programmen wie Adobe Photoshop und Illustrator. 🖼️",
+          "Modedesigner Karl Lagerfeld begann seine Karriere mit einem gewonnenen Zeichenwettbewerb. 🖋️"
+        ]
+      }
+    }
+  }
+]

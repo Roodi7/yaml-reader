@@ -1,0 +1,110 @@
+[
+  {
+    "category": "finance_insurance_and_real_estate",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2800,
+    "maxStartingSalary": 3200,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 3500,
+    "minExperiencedSalary": 3300,
+    "maxExperiencedSalary": 4400,
+    "trainingSalary": [
+      {
+        "min": 1150,
+        "max": 1160
+      },
+      {
+        "min": 1220,
+        "max": 1220
+      },
+      {
+        "min": 1290,
+        "max": 1300
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Bankkaufmann/-frau",
+        "overview": "\"Als Bankkaufmann/-frau bist du der Experte für Finanzprodukte und Kundenberatung. 💶✨ Ob Sparpläne, Kredite oder Versicherungen - du hilfst Kunden, ihre finanziellen Ziele zu erreichen, und sicherst die Stabilität des Geldkreislaufs. 🏦🌟\"\n",
+        "responsibilities": [
+          "Beratung von Kunden zu Finanzprodukten und Dienstleistungen 💬💶",
+          "Bearbeitung von Kreditanträgen und Wertpapiergeschäften 📑📈",
+          "Durchführung von internen Bankprozessen und Buchhaltung ⚙️✨"
+        ],
+        "curriculum": [
+          "Rechnungswesen und Buchhaltung 📊✨",
+          "Kundenberatung und Verkaufsstrategien 💬✨",
+          "Gesetzliche Regelungen und Finanzprodukte 📜💡"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Bankfachwirt/in oder Betriebswirt/in 🎓✨",
+          "Spezialisierung auf Investment oder Immobilienfinanzierung 🌟📈",
+          "Aufstieg in Führungspositionen in Banken 🚀✨"
+        ],
+        "furtherEducation": [
+          "Studium in Finanzdienstleistungen oder Bankmanagement 🎓📘",
+          "Fortbildung im Bereich Digitalisierung im Bankwesen 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Assessment-Center oder Interview bei der Bank 🏦✨"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder Abitur 🎓",
+          "Interesse an Zahlen und wirtschaftlichen Zusammenhängen 🌟📊"
+        ],
+        "applicationTips": [
+          "Hebe deine Kommunikationsfähigkeit und Finanzinteresse hervor 💬✨",
+          "Betone praktische Erfahrungen, wie Praktika im Finanzwesen 📄💡"
+        ],
+        "requiredPersonalSkills": [
+          "Zahlenverständnis und analytisches Denken 🔢✨",
+          "Organisationstalent und Teamfähigkeit 📋✨"
+        ],
+        "requiredPersonalTraits": [
+          "Freundlichkeit und Verlässlichkeit 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du Finanzen, Rechnungswesen und Kundenkommunikation 📘💶"
+        ],
+        "practicalStructure": [
+          "Im Betrieb sammelst du Erfahrung in Kundenberatung und internen Bankprozessen 🏦✨"
+        ],
+        "workEnvironment": [
+          "Arbeit in Bankfilialen oder im Finanzwesen 🏦✨",
+          "Zusammenarbeit mit Kunden und Kollegen im Team 🤝📊"
+        ],
+        "advantages": [
+          "Attraktives Gehalt und vielfältige Entwicklungsmöglichkeiten 💶✨",
+          "Direkter Kundenkontakt und abwechslungsreiche Aufgaben 😊✨"
+        ],
+        "challenges": [
+          "Hohe Verantwortung bei der Beratung und Kreditvergabe 💬✨",
+          "Regelmäßige Weiterbildung und Gesetzesanpassungen notwendig 🌟📜"
+        ],
+        "didYouKnow": [
+          "Die Ausbildung zum Bankkaufmann gehört zu den bestbezahlten in Deutschland 💶✨",
+          "Bankkaufleute können in verschiedenen Bereichen, von Filialbetrieb bis Investmentbanking, tätig sein 🌟✨",
+          "Die Digitalisierung verändert die Anforderungen an Bankkaufleute stetig 🌐✨"
+        ]
+      }
+    }
+  }
+]

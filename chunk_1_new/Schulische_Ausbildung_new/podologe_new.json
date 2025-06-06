@@ -1,0 +1,107 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1900,
+    "maxStartingSalary": 2000,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 2700,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "C1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Podologe/Podologin",
+        "overview": "👣 Die Podologie befasst sich mit der Gesundheit unserer Füße. Als Podologe/Podologin diagnostizierst und behandelst du Fußkrankheiten, entfernst Hühneraugen und unterstützt Menschen dabei, wieder Freude an der Bewegung zu finden. 🏃‍♂️💊",
+        "responsibilities": [
+          "Diagnostizieren von Fußkrankheiten und Beschwerden 🩺👟",
+          "Entfernen von Hühneraugen und Behandlung von Nagelkrankheiten ✂️💅",
+          "Verordnen orthopädischer Einlagen und Medikamente 🦶💊",
+          "Informationen zur Prävention und Rehabilitation bereitstellen 📖🩹",
+          "Dokumentation und Weitergabe von Befunden an Ärzte 📋📧"
+        ],
+        "curriculum": [
+          "Anatomie und Physiologie des Fußes 🦶🩺",
+          "Prävention und Rehabilitation für gesunde Füße 🩹🩼",
+          "Podologische Behandlungsmaßnahmen und Techniken 🦶💼"
+        ],
+        "careerProspects": [
+          "Beschäftigung in Praxen oder Rehabilitationszentren 🏥👣",
+          "Selbstständigkeit mit eigener Praxis für Fußpflege 💼🏠",
+          "Spezialisierung auf Fußpflege oder Massagetechniken 🧴👐"
+        ],
+        "furtherEducation": [
+          "Fortbildungen in Hygiene und Wundmanagement 🧴🩹",
+          "Studium in Gesundheitsmanagement oder Podologie 📚🎓",
+          "Selbstständigkeit mit eigener Praxis 💼👟"
+        ],
+        "applicationSteps": [
+          "Einreichen der Bewerbungsunterlagen an die Berufsschule 📝📩",
+          "Nachweis von Schulabschlüssen und relevanten Praktika 📜🏥"
+        ],
+        "applicationRequirements": [
+          "Interesse an Medizin und Gesundheit 👩‍⚕️🧠",
+          "Feinmotorische Fähigkeiten und Empathie für Patienten 🤲❤️"
+        ],
+        "applicationTips": [
+          "Hebe in deiner Bewerbung gute Noten in Naturwissenschaften hervor 📚🧬",
+          "Erwähne relevante Erfahrungen, z. B. Praktika oder Nebenjobs. 🏥✔️"
+        ],
+        "requiredPersonalSkills": [
+          "Kommunikationsfähigkeit für den Umgang mit Patienten 🗣️🤝",
+          "Feinmotorik für präzise Behandlungen ✋🔧",
+          "Verantwortungsbewusstsein bei medizinischen Maßnahmen ⚖️🩺"
+        ],
+        "requiredPersonalTraits": [
+          "Empathie und Feingefühl für Patientenbedürfnisse ❤️🤲",
+          "Geduld und Sorgfalt in der Behandlung 🌿⏱️"
+        ],
+        "theoreticalStructure": [
+          "In der Theoriephase lernst du Anatomie, Physiologie und Präventionsmaßnahmen kennen. 📘🧠"
+        ],
+        "practicalStructure": [
+          "Praktika in Praxen und Kliniken ergänzen das Gelernte durch praktische Erfahrung. 🏥🔧"
+        ],
+        "workEnvironment": [
+          "Praxen für Podologie und Fußpflege 🏥👟",
+          "Rehabilitationszentren und Krankenhäuser 🏩🦶",
+          "Selbstständigkeit mit eigener Praxis möglich 💼🏠"
+        ],
+        "advantages": [
+          "Hilfreiche und verantwortungsvolle Tätigkeit mit direktem Patientenbezug 🩺👨‍⚕️",
+          "Möglichkeiten zur Spezialisierung und Weiterbildung 📖💼"
+        ],
+        "challenges": [
+          "Physische Anforderungen durch langes Arbeiten im Stehen 🦶🕒",
+          "Herausforderungen bei der Behandlung schwerer Fälle 💪👟"
+        ],
+        "didYouKnow": [
+          "Podologen dürfen Diagnosen stellen und Medikamente verschreiben! 💊🩺",
+          "Füße tragen uns im Laufe eines Lebens im Durchschnitt 128.000 Kilometer! 👣🌍"
+        ]
+      }
+    }
+  }
+]

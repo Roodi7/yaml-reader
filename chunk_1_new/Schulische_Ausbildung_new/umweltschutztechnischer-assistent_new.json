@@ -1,0 +1,107 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2740,
+    "maxStartingSalary": 3070,
+    "minAvarageSalary": 3030,
+    "maxAvarageSalary": 3230,
+    "minExperiencedSalary": 0,
+    "maxExperiencedSalary": 0,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Umweltschutztechnische/r Assistent/in",
+        "overview": "🌍 Wasser, Luft, Erde - das sind elementare Bestandteile des Lebens. Schadstofffreies Trinkwasser, reine Luft und gesunder Boden sind nicht selbstverständlich. Hier kommt der Umweltschutztechnische Assistent ins Spiel. In diesem Beruf bist du Naturwissenschaftler und Umweltschützer in einem. 🧪✨",
+        "responsibilities": [
+          "Proben entnehmen: Umweltschutztechnische Assistenten ermitteln Umweltdaten, um Umweltgefahren beurteilen zu können. 🧑‍🔬🌱",
+          "Elektronische oder chemische Messungen im Labor und im Außenbereich durchführen. 🧪🌡️",
+          "Mess-Ergebnisse protokollieren: Alle Messergebnisse werden detailliert dokumentiert. 📝📊",
+          "Ergebnisse auswerten: Proben und Messwerte werden analysiert und in Tabellen oder Diagrammen aufbereitet. 🔬📈"
+        ],
+        "curriculum": [
+          "Allgemeine Chemie und anorganische Chemie 🧪🔬",
+          "Biologie und Ökologie 🌱🌳",
+          "Toxikologie und Umweltrecht ⚖️🛡️"
+        ],
+        "careerProspects": [
+          "Arbeiten in Naturschutzämtern 🌿🏢",
+          "Einsatz in der chemischen und pharmazeutischen Industrie 🏭💊",
+          "Tätigkeiten in der Abfall- und Abwasserwirtschaft 🚮💧"
+        ],
+        "furtherEducation": [
+          "Studium in Umwelttechnik oder Landschaftsökologie 🎓🌍",
+          "Weiterbildung zum Umweltschutztechniker 🛠️📚"
+        ],
+        "applicationSteps": [
+          "Bewerbung direkt bei einer Schule oder Berufsfachschule. 📄🏫",
+          "Vorstellungsgespräch führen. 🗣️🤝"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife erforderlich. 📜✔️",
+          "Interesse an Naturwissenschaften und Umweltschutz. 🌱🔬"
+        ],
+        "applicationTips": [
+          "Ehrenamtliches Engagement in Naturschutzprojekten hervorheben. 🌿🤝"
+        ],
+        "requiredPersonalSkills": [
+          "Gute Kenntnisse in Chemie und Biologie. 🧪🌱",
+          "Mathematische und analytische Fähigkeiten. 📊🔍"
+        ],
+        "requiredPersonalTraits": [
+          "Organisiert und detailorientiert. 🗂️✔️",
+          "Naturverbunden und verantwortungsbewusst. 🌍🤝"
+        ],
+        "theoreticalStructure": [
+          "Der Unterricht an der Berufsfachschule umfasst allgemeine und berufsbezogene Fächer, darunter Chemie, Mathematik und Umweltrecht. 🏫📘\n"
+        ],
+        "practicalStructure": [
+          "Praxiserfahrung wird im Labor gesammelt, wo Proben genommen und analysiert werden. Praktika vertiefen die Kenntnisse. 🧪🔬\n"
+        ],
+        "workEnvironment": [
+          "Im Labor 🏢🧪",
+          "Im Freien 🌳🏞️",
+          "Im Büro 📋💻"
+        ],
+        "advantages": [
+          "Geregelte Arbeitszeiten 🕒✔️",
+          "Sicherer Job mit Zukunftsperspektive 📈💼"
+        ],
+        "challenges": [
+          "Arbeiten bei schwierigen Umweltbedingungen 🌧️🌪️",
+          "Hohe Konzentration bei Messungen und Analysen erforderlich 🧠🔍"
+        ],
+        "didYouKnow": [
+          "Das erste Ausbildungsjahr ähnelt stark der Ausbildung zum Chemisch-technischen Assistenten. 🧪📘",
+          "UTA arbeiten auch in der Kosmetikindustrie an umweltfreundlichen Produkten. 🧴🌿"
+        ]
+      }
+    }
+  }
+]

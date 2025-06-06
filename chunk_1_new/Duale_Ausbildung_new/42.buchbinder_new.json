@@ -1,0 +1,108 @@
+[
+  {
+    "category": "services_and_crafts",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2100,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2700,
+    "maxAvarageSalary": 3400,
+    "minExperiencedSalary": 3200,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 1068
+      },
+      {
+        "min": 766,
+        "max": 1118
+      },
+      {
+        "min": 876,
+        "max": 1164
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Buchbinder/in",
+        "overview": "\"Als Buchbinder/in gestaltest du einzigartige Bücher und Druckerzeugnisse 📚. Mit handwerklichem Geschick und kreativem Know-how sorgst du für langlebige und ansprechende Ergebnisse ✂️.\"\n",
+        "responsibilities": [
+          "Gestaltung und Herstellung von Buchumschlägen und Einbänden 📖.",
+          "Reparatur und Restaurierung alter Bücher und Druckerzeugnisse 🏺.",
+          "Bedienung moderner Maschinen für Großaufträge ⚙️."
+        ],
+        "curriculum": [
+          "Buchgestaltung und Medientechnologie 🎨.",
+          "Reparatur- und Restaurierungstechniken 🛠️.",
+          "Materialkunde und Produktionsplanung 📏."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Buchbindermeister 🎓.",
+          "Spezialisierung auf Buchrestaurierung oder Digitaldruck 🌟.",
+          "Selbstständigkeit mit eigener Buchbinderei 🏢."
+        ],
+        "furtherEducation": [
+          "Meisterkurse im Buchbinderhandwerk 🎓.",
+          "Kurse in Restaurierungstechniken 🏺."
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf und Anschreiben 📄.",
+          "Praktikum oder Probetag zur Feststellung der handwerklichen Eignung ✂️."
+        ],
+        "applicationRequirements": [
+          "Handwerkliches Geschick und Kreativität 🎨.",
+          "Genauigkeit und Geduld beim Arbeiten mit Details 🧵."
+        ],
+        "applicationTips": [
+          "Betone deine Liebe zu Büchern und handwerklicher Arbeit 📚.",
+          "Hebe Erfahrungen in Restaurierung oder Kreativprojekten hervor ✂️."
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Materialkunde und Medientechnologie 📏.",
+          "Kreativität und Präzision beim Buchbinden 🎨."
+        ],
+        "requiredPersonalTraits": [
+          "Geduld und Sorgfalt bei der Bearbeitung von Büchern 📚.",
+          "Teamfähigkeit und Kommunikationsstärke 🤝."
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Unterricht in Medienproduktion und Buchgestaltung 📘."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung in Werkstätten oder Druckereien ✂️."
+        ],
+        "workEnvironment": [
+          "Werkstätten oder Druckereien 📚.",
+          "Arbeiten in der Buchrestaurierung oder in Bibliotheken 🏺."
+        ],
+        "advantages": [
+          "Kreativer und abwechslungsreicher Beruf 🎨.",
+          "Hohe Nachfrage nach Spezialisten in der Buchrestaurierung 📈.",
+          "Gute Verdienstmöglichkeiten mit wachsender Erfahrung 💰."
+        ],
+        "challenges": [
+          "Arbeiten mit empfindlichen Materialien erfordert Präzision 🧵.",
+          "Anstrengende körperliche Arbeit bei größeren Aufträgen ⚙️."
+        ],
+        "didYouKnow": [
+          "Buchbinderei zählt zu den ältesten Handwerksberufen der Welt 📚.",
+          "Das dickste Buch der Welt hat über 50.000 Seiten 📖.",
+          "Viele antike Bücher wurden durch Buchbinder vor dem Verfall bewahrt 🏺."
+        ]
+      }
+    }
+  }
+]

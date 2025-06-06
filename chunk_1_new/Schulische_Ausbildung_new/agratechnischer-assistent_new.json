@@ -1,0 +1,115 @@
+[
+  {
+    "category": "agriculture",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2945,
+    "maxStartingSalary": 3388,
+    "minAvarageSalary": 2945,
+    "maxAvarageSalary": 4031,
+    "minExperiencedSalary": 3416,
+    "maxExperiencedSalary": 4031,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Agrartechnische/r Assistent/in",
+        "overview": "🌱 Der Beruf des agrartechnischen Assistenten verbindet Naturwissenschaften und Landwirtschaft. Von der Analyse von Pflanzen und Böden bis hin zur Entwicklung innovativer Anbaumethoden - ein spannender Beruf für alle, die Natur und Technik lieben! 🌍",
+        "responsibilities": [
+          "Analyse von Pflanzen, Böden und Wasserproben. 🌾",
+          "Qualitätskontrolle in der Lebensmittelindustrie. 🍎",
+          "Entwicklung gentechnischer Produkte. 🧬",
+          "Durchführung von Feldversuchen und Experimenten. 🔬",
+          "Unterstützung bei der Entwicklung nachhaltiger Anbaumethoden. 🌿"
+        ],
+        "curriculum": [
+          "Biologie, Chemie und Molekularbiologie. 🔬",
+          "Technologie der Lebensmittel. 🍎",
+          "Pflanzenzucht und Pflanzenschutz. 🌾",
+          "Statistik, EDV und Fachenglisch. 📊",
+          "Umwelt- und Naturschutz. 🌿"
+        ],
+        "careerProspects": [
+          "Arbeit in der Lebensmittel-, Pharma- oder Chemieindustrie. 💼",
+          "Forschung in der Biotechnologie. 🧬",
+          "Öffentlicher Dienst in Umweltschutzbehörden. 🌍"
+        ],
+        "furtherEducation": [
+          "Techniker/in - Agrartechnik oder Biotechnik. 📜",
+          "Pflanzentechnologiemeister/in. 🌱",
+          "Studium in Agrarwissenschaften oder Biochemie. 🎓"
+        ],
+        "applicationSteps": [
+          "Anmeldung über Fachschulen oder Berufskollegs. 📝",
+          "Einreichung von ärztlichen Bescheinigungen und Zeugnissen. 📄"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder vergleichbarer Abschluss. 🎓",
+          "Ärztliches Gesundheitszeugnis und ggf. Sachkundenachweis. 💊",
+          "Interesse an Naturwissenschaften und Technik. 🌿"
+        ],
+        "applicationTips": [
+          "Bereitschaft zur Arbeit im Labor und in der Natur zeigen. 🌱",
+          "Organisationstalent und analytisches Denken betonen. 📊"
+        ],
+        "requiredPersonalSkills": [
+          "Naturwissenschaftliches Interesse. 🔬",
+          "Analytisches Denken und Genauigkeit. 📊",
+          "Selbstständigkeit und Sorgfalt. 🧾"
+        ],
+        "requiredPersonalTraits": [
+          "Liebe zur Natur und Umwelt. 🌍",
+          "Teamfähigkeit und Organisationstalent. 🤝",
+          "Kreativität bei der Entwicklung neuer Lösungen. 💡"
+        ],
+        "theoreticalStructure": [
+          "\"Unterricht an Berufsfachschulen: Theorie und Laborpraxis in Naturwissenschaften, Technologie und Qualitätssicherung. 📘\"\n"
+        ],
+        "practicalStructure": [
+          "\"Einjähriges Praktikum in Forschungseinrichtungen oder Industriebetrieben. 🏢\"\n"
+        ],
+        "workEnvironment": [
+          "Forschungseinrichtungen und Labore. 🧪",
+          "Landwirtschaftliche Betriebe und Gewächshäuser. 🌱",
+          "Behörden und Unternehmen der Lebensmittelindustrie. 🏢",
+          "Chemische und pharmazeutische Industrie. 💊"
+        ],
+        "advantages": [
+          "Spannender Mix aus Natur und Technik. 🔬",
+          "Vielfältige Karriere- und Weiterbildungsmöglichkeiten. 🚀",
+          "Gute Zukunftsaussichten durch steigende Nachfrage. 🌍"
+        ],
+        "challenges": [
+          "Keine Ausbildungsvergütung. 💶",
+          "Einsatz in Laboren und im Freien erfordert Flexibilität. ⏰",
+          "Hohe Anforderungen an Genauigkeit und Analytik. 📊"
+        ],
+        "didYouKnow": [
+          "ATAs arbeiten in der Schnittstelle zwischen Wissenschaft, Technik und Landwirtschaft. 🌱",
+          "Die Ausbildung umfasst sowohl Laborarbeit als auch praktische Einsätze im Freien. 🧪",
+          "ATAs tragen zur Entwicklung nachhaltiger Lebensmittelproduktion bei. 🌍"
+        ]
+      }
+    }
+  }
+]

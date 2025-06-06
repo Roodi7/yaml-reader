@@ -1,0 +1,106 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1600,
+    "maxStartingSalary": 2100,
+    "minAvarageSalary": 1800,
+    "maxAvarageSalary": 3000,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 670,
+        "max": 670
+      },
+      {
+        "min": 766,
+        "max": 766
+      },
+      {
+        "min": 876,
+        "max": 876
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Aufbereitungsmechaniker/in",
+        "overview": "\"Als Aufbereitungsmechaniker/in sorgst du für die Verarbeitung und Veredelung von Rohstoffen wie Sand, Kies oder Kohle. 🏗️✨ Mit modernster Technik stellst du sicher, dass die Materialien in höchster Qualität geliefert werden. 🌍⚙️\"\n",
+        "responsibilities": [
+          "Bedienung und Überwachung von Aufbereitungsanlagen ⚙️🔍",
+          "Qualitätskontrolle und Prüfung von Rohstoffen 🧪✅",
+          "Wartung und Instandhaltung der Maschinen 🔧⚙️"
+        ],
+        "curriculum": [
+          "Technische Grundlagen der Rohstoffverarbeitung 🛠️📋",
+          "Einsatz und Steuerung moderner Maschinen 🖥️⚙️",
+          "Umwelt- und Sicherheitsstandards in der Industrie 🌍🛡️"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Techniker/in im Bereich Aufbereitungstechnik 🎓✨",
+          "Spezialisierung auf Recycling oder Umwelttechnik 🌱⚙️",
+          "Aufstieg in leitende Positionen in der Rohstoffindustrie 📈💼"
+        ],
+        "furtherEducation": [
+          "Techniker/in für Bergbautechnik oder Verfahrenstechnik 📖🎓",
+          "Studium im Bereich Rohstofftechnik oder Umweltmanagement 🏫✨"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄🖊️",
+          "Praktischer Eignungstest oder Probearbeit ⚙️✔️"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss oder Mittlere Reife 🎓",
+          "Technisches Interesse und handwerkliches Geschick 🔧✨"
+        ],
+        "applicationTips": [
+          "Betone deine Erfahrungen mit Technik und Maschinen 🛠️🌟",
+          "Hebe Praktika oder relevante Projekte hervor ✍️📄"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und Präzision ⚙️✨",
+          "Teamfähigkeit und Zuverlässigkeit 🤝✨"
+        ],
+        "requiredPersonalTraits": [
+          "Belastbarkeit und Interesse an industrieller Arbeit 🏗️✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du die Grundlagen der Materialkunde und Maschinenbedienung 📚⚙️"
+        ],
+        "practicalStructure": [
+          "Im Betrieb wirst du direkt an den Aufbereitungsanlagen ausgebildet und sammelst wertvolle Praxiserfahrung 🏗️🔧"
+        ],
+        "workEnvironment": [
+          "Einsatz in Steinbrüchen, Kohlegruben oder Produktionshallen 🏭⛏️",
+          "Teamarbeit in technischen und industriellen Umgebungen 👷‍♂️🤝"
+        ],
+        "advantages": [
+          "Arbeiten mit modernster Technik in einem zukunftssicheren Beruf ⚙️✨",
+          "Vielseitige Aufgaben in unterschiedlichen Arbeitsumfeldern 🌍🔧"
+        ],
+        "challenges": [
+          "Arbeiten unter teils rauen Umweltbedingungen ⛏️❄️",
+          "Hohe Konzentration und technisches Know-how erforderlich 🔍⚙️"
+        ],
+        "didYouKnow": [
+          "Der größte Schaufelbagger der Welt wiegt 14.200 Tonnen! 🏗️✨",
+          "Recycling von Baustoffen ist ein wichtiger Teil des Berufs 🌱✨",
+          "Aufbereitungsmechaniker/innen arbeiten mit High-Tech-Anlagen 🌐⚙️"
+        ]
+      }
+    }
+  }
+]

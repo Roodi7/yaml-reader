@@ -1,0 +1,125 @@
+[
+  {
+    "category": "metal_and_electronics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2,
+      4
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2500,
+    "maxStartingSalary": 3000,
+    "minAvarageSalary": 3000,
+    "maxAvarageSalary": 5000,
+    "minExperiencedSalary": 4500,
+    "maxExperiencedSalary": 7000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Chemisch-technischer Assistent (CTA)",
+        "overview": "Als Chemisch-technischer Assistent (CTA) bist du ein unverzichtbarer Teil der Forschung und Entwicklung in Laboren. Du führst chemische Experimente durch, analysierst Proben und dokumentierst deine Ergebnisse präzise. Dabei kommst du mit moderner Technik und spannenden chemischen Prozessen in Berührung. Diese schulische Ausbildung bereitet dich auf eine vielfältige Karriere in der Chemie- und Pharmabranche vor.",
+        "responsibilities": [
+          "Planung und Durchführung chemischer Experimente. 🔬",
+          "Analyse und Dokumentation von Laborergebnissen. 📊",
+          "Wartung und Pflege von Laborgeräten. ⚙️",
+          "Einhaltung von Sicherheits- und Umweltschutzrichtlinien. 🛡️",
+          "Mitwirkung an der Entwicklung chemischer Produkte und Verfahren. 🌱"
+        ],
+        "curriculum": [
+          "Chemische Analytik und Verfahrenstechnik. 🔬",
+          "Gerätekunde und Wartung. ⚙️",
+          "Regelungen zu Umweltschutz und Arbeitssicherheit. 🛡️",
+          "Erstellen von Berichten und grafischen Darstellungen. 📊"
+        ],
+        "careerProspects": [
+          "Einstieg in die Chemie-, Pharma- oder Lebensmittelindustrie. 💊",
+          "Spezialisierung auf Analytik, Biochemie oder Umwelttechnik. 🌍",
+          "Weiterbildung zum Techniker oder Fachwirt. 📜",
+          "Studium in Chemie, Biochemie oder Pharmatechnik. 🎓"
+        ],
+        "furtherEducation": [
+          "Spezialisierungen in Biochemie oder Analytik. 🧬",
+          "Weiterbildung zum Technischen Fachwirt oder Chemietechniker. 📜",
+          "Studium in Chemie oder verwandten Fächern. 🎓"
+        ],
+        "applicationSteps": [
+          "Erstellung eines Lebenslaufs und Anschreibens. 📄",
+          "Nachweis über naturwissenschaftliche Kenntnisse. 🧪"
+        ],
+        "applicationRequirements": [
+          "Gute Noten in Chemie und Mathematik. 📚",
+          "Interesse an Laborarbeit und chemischen Prozessen. 🔬",
+          "Teamfähigkeit und Verantwortungsbewusstsein. 🤝"
+        ],
+        "applicationTips": [
+          "Hebe naturwissenschaftliche Praktika und Projekte hervor. 🔍",
+          "Zeige Begeisterung für chemische und technische Themen. 🌟"
+        ],
+        "requiredPersonalSkills": [
+          "Analytisches Denken und Genauigkeit. 🧠",
+          "Sicherer Umgang mit chemischen Substanzen und Geräten. ⚙️",
+          "Gute Dokumentationsfähigkeiten. 📝"
+        ],
+        "requiredPersonalTraits": [
+          "Verantwortungsbewusstsein und Sorgfalt. ⚖️",
+          "Interesse an Chemie und Forschung. 🔬",
+          "Teamfähigkeit und Eigeninitiative. 🤝"
+        ],
+        "theoreticalStructure": [
+          "\"Theorieunterricht in Chemie, Physik und Biologie an staatlich anerkannten Berufsfachschulen. 📘\"\n"
+        ],
+        "practicalStructure": [
+          "\"Laborpraktika in Forschungseinrichtungen oder Unternehmen der chemischen Industrie. 🧪\"\n"
+        ],
+        "workEnvironment": [
+          "Chemielabore und Forschungseinrichtungen. 🧪",
+          "Pharma- und Lebensmittelindustrie. 💊",
+          "Umweltschutzämter und Produktionsbetriebe. 🏭",
+          "Automobil- oder Kosmetikindustrie. 🚗💄"
+        ],
+        "advantages": [
+          "Hohe Nachfrage in verschiedenen Branchen. 📈",
+          "Abwechslungsreiche Arbeit zwischen Forschung und Praxis. 🔬",
+          "Gute Aufstiegsmöglichkeiten durch Weiterbildungen. 🌟"
+        ],
+        "challenges": [
+          "Arbeit mit gefährlichen Stoffen erfordert Sorgfalt. ⚠️",
+          "Keine Vergütung während der schulischen Ausbildung. 💰",
+          "Teilweise kostenpflichtige Ausbildung. 🏫"
+        ],
+        "didYouKnow": [
+          "Die Ausbildung zum CTA kombiniert theoretisches Wissen mit Praxis im Labor. 🔬",
+          "Du lernst, chemische Substanzen umweltgerecht zu entsorgen. 🌱",
+          "In der Kosmetikindustrie kannst du an Verträglichkeitstests mitwirken. 💄",
+          "CTA-Absolventen haben vielfältige Einsatzmöglichkeiten, auch in der Automobilindustrie. 🚗"
+        ]
+      }
+    }
+  }
+]

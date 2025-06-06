@@ -1,0 +1,127 @@
+[
+  {
+    "category": "energy_and_environment",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1800,
+    "maxStartingSalary": 2400,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 3400,
+    "minExperiencedSalary": 2800,
+    "maxExperiencedSalary": 3400,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Assistent/in für regenerative Energietechnik",
+        "overview": "🌍 Der Beruf als Assistent/in für regenerative Energietechnik bietet die Möglichkeit, aktiv an der Energiewende mitzuwirken. Du unterstützt Ingenieure bei der Forschung und Entwicklung von Technologien, die erneuerbare Energien wie Solar-, Wind- und Erdwärme effizient nutzbar machen. Von der Planung über die Installation bis hin zur Optimierung von Anlagen trägst du dazu bei, die Umwelt nachhaltig zu schützen.",
+        "responsibilities": [
+          "Unterstützung bei der Entwicklung und Optimierung von Anlagen für erneuerbare Energien. ⚡",
+          "Durchführung von Messungen und Analysen zur Energieeffizienz. 🔍",
+          "Beratung von Kunden zu umweltfreundlichen Energielösungen. 💡",
+          "Installation und Wartung von Solaranlagen, Windkraftwerken und anderen Systemen. 🛠️",
+          "Erstellung technischer Dokumentationen und Berichte. 📋"
+        ],
+        "curriculum": [
+          "Grundlagen der Elektrotechnik und Elektronik. ⚙️",
+          "Technologien für erneuerbare Energien wie Solarthermie und Windkraft. 🌞",
+          "Energie- und Ressourcenmanagement. 🌱",
+          "Installation und Wartung von Energietechnik-Anlagen. 🛠️"
+        ],
+        "careerProspects": [
+          "Einstieg bei Energieversorgern oder Ingenieurbüros. 🏢",
+          "Arbeit in der Installation und Wartung von erneuerbaren Energiesystemen. 🌬️",
+          "Spezialisierung in Bereichen wie Solarthermie oder Windkraft. 🔋"
+        ],
+        "furtherEducation": [
+          "Weiterbildung zum Techniker für regenerative Energietechnik. 🎓",
+          "Aufstiegsweiterbildungen wie Technischer Fachwirt oder Fachwirt für Solartechnik. 🚀",
+          "Studium in Energietechnik oder erneuerbaren Energien. 📚"
+        ],
+        "applicationSteps": [
+          "Einreichung von Schulzeugnissen und eines Bewerbungsformulars. 📄",
+          "Vorlage eines Nachweises über Praktika im technischen Bereich. 🛠️",
+          "Absolvierung eines Aufnahmegesprächs oder einer Eignungsprüfung. ✍️"
+        ],
+        "applicationRequirements": [
+          "Interesse an Technik und erneuerbaren Energien. 🌱",
+          "Gute Noten in Mathematik, Physik und Technik. 📚",
+          "Handwerkliches Geschick und Teamfähigkeit. 🤝"
+        ],
+        "applicationTips": [
+          "Hebe Praktika und technisches Interesse in der Bewerbung hervor. 🔧",
+          "Zeige Begeisterung für erneuerbare Energien und Umweltbewusstsein. 🌍"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und Problemlösungskompetenz. ⚙️",
+          "Analytisches Denken und Sorgfalt. 🧠",
+          "Kommunikationsfähigkeit und Kundenorientierung. 📞"
+        ],
+        "requiredPersonalTraits": [
+          "Umweltbewusstsein und Verantwortungsgefühl. 🌱",
+          "Flexibilität und Belastbarkeit. ⏳",
+          "Teamfähigkeit und Eigeninitiative. 🤝"
+        ],
+        "theoreticalStructure": [
+          "\"Unterricht in Physik, Mathematik, Technik und Umweltwissenschaften. 📖\"\n"
+        ],
+        "practicalStructure": [
+          "\"Pflichtpraktika und praktische Projekte in Zusammenarbeit mit Energieunternehmen. 🛠️\"\n"
+        ],
+        "workEnvironment": [
+          "Energieversorger und Stadtwerke. 🏢",
+          "Ingenieurbüros für Energietechnik. 💼",
+          "Hersteller von Solaranlagen und Windkraftwerken. 🌬️",
+          "Elektroinstallationsbetriebe. 🔧",
+          "Forschungseinrichtungen für erneuerbare Energien. 🧪"
+        ],
+        "advantages": [
+          "Möglichkeit, einen aktiven Beitrag zur Energiewende zu leisten. 🌍",
+          "Spannende und abwechslungsreiche Aufgaben im technischen Bereich. 🌟",
+          "Hohe Nachfrage nach Fachkräften in der Branche. 📈"
+        ],
+        "challenges": [
+          "Anforderungen an Präzision und technisches Know-how. ⚙️",
+          "Teilweise körperlich anspruchsvolle Tätigkeiten. 🏋️",
+          "Kein Gehalt während der schulischen Ausbildung. 💶"
+        ],
+        "didYouKnow": [
+          "Deutschland exportiert jährlich mehr Strom als jedes andere europäische Land. ⚡",
+          "1954 wurde die erste Solarzelle von der Firma Bell entwickelt. 🌞",
+          "Windkraft deckt mittlerweile über 8 % des deutschen Stromverbrauchs. 🌬️",
+          "Erneuerbare Energien sollen bis 2025 etwa 45 % der deutschen Stromversorgung ausmachen. 📈",
+          "Es gab weltweit bereits 35 schwere Unfälle in Atomkraftwerken. 🚨"
+        ]
+      }
+    }
+  }
+]

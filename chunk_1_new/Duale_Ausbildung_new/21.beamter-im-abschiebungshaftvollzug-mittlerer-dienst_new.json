@@ -1,0 +1,102 @@
+[
+  {
+    "category": "society",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2447,
+    "maxStartingSalary": 2800,
+    "minAvarageSalary": 2447,
+    "maxAvarageSalary": 3799,
+    "minExperiencedSalary": 3200,
+    "maxExperiencedSalary": 3799,
+    "trainingSalary": [
+      {
+        "min": 1260,
+        "max": 1328
+      },
+      {
+        "min": 1260,
+        "max": 1328
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Beamter/Beamtin Abschiebungshaftvollzug (mittlerer Dienst)",
+        "overview": "\"Als Beamter/Beamtin im Abschiebungshaftvollzug betreust und beaufsichtigst du Personen, die sich in Abschiebungshaft befinden. 🛡️✨ Deine Aufgaben umfassen die Versorgung der Inhaftierten, Verwaltungsaufgaben sowie Sicherheits- und Überwachungstätigkeiten. 🌍🚨\"\n",
+        "responsibilities": [
+          "Betreuung, Beaufsichtigung und Versorgung von ausreisepflichtigen Personen 🤝✨",
+          "Überwachung der Haftzellen und Gemeinschaftsräume 🛡️✨",
+          "Erledigung von Schreib- und Verwaltungsarbeiten 📋✨"
+        ],
+        "curriculum": [
+          "Rechts- und Verwaltungsgrundlagen 📜✨",
+          "Interkulturelle Kompetenz und Deeskalationstechniken 🌟🤝",
+          "Psychologische Betreuung und Konfliktmanagement 🧠✨"
+        ],
+        "careerProspects": [
+          "Weiterbildung im Werk- oder Sanitätsdienst 🎓✨",
+          "Aufstieg in den gehobenen Dienst durch Zusatzqualifikationen 🌟✨",
+          "Karriere in Leitungspositionen im Justiz- und Sicherheitswesen 🚀✨"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Sozialarbeit oder Verwaltungsmanagement 🎓📘",
+          "Fortbildung in Sicherheits- oder Sozialpädagogik 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Eignungstest und psychologische Untersuchung 🧠✨"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder gleichwertiger Abschluss 🎓",
+          "Interesse an sozialen und sicherheitsrelevanten Themen 🌟🛡️"
+        ],
+        "applicationTips": [
+          "Hebe deine Belastbarkeit und soziale Kompetenz hervor 🤝✨",
+          "Betone Erfahrungen im Umgang mit Menschen oder in der Sicherheit 📄✨"
+        ],
+        "requiredPersonalSkills": [
+          "Soziale Kompetenz und Konfliktfähigkeit 🤝✨",
+          "Organisationstalent und Genauigkeit 📋✨"
+        ],
+        "requiredPersonalTraits": [
+          "Empathie und Durchsetzungsvermögen 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "Ausbildung an Justizvollzugsschulen mit Fokus auf rechtliche und psychologische Grundlagen 📘✨"
+        ],
+        "practicalStructure": [
+          "Einsätze in Haftanstalten und anderen relevanten Einrichtungen 🌍✨"
+        ],
+        "workEnvironment": [
+          "Arbeit in Abschiebungshaft- und Justizvollzugsanstalten 🏢✨",
+          "Tätigkeiten im Werk- oder Sanitätsdienst möglich 🚑✨"
+        ],
+        "advantages": [
+          "Verantwortungsvoller Beruf mit gesellschaftlicher Relevanz 🌍✨",
+          "Vielseitige Tätigkeiten zwischen Betreuung und Sicherheit 🤝✨"
+        ],
+        "challenges": [
+          "Emotionale Belastung durch die Arbeit mit traumatisierten Personen 🌟🛡️",
+          "Flexibilität und Belastbarkeit im Schichtdienst erforderlich 🕒✨"
+        ],
+        "didYouKnow": [
+          "Beamte im Abschiebungshaftvollzug arbeiten oft eng mit Psychologen zusammen 🧠✨",
+          "Die Ausbildung umfasst auch spezielle Kurse zu interkulturellen Herausforderungen 🌍✨",
+          "Berufe im Justizwesen bieten eine hohe Arbeitsplatzsicherheit 🛡️✨"
+        ]
+      }
+    }
+  }
+]

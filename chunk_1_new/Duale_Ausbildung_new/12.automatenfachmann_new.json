@@ -1,0 +1,106 @@
+[
+  {
+    "category": "services_and_crafts",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2400,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 5000,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 5000,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 850
+      },
+      {
+        "min": 766,
+        "max": 900
+      },
+      {
+        "min": 876,
+        "max": 950
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Automatenfachmann/-frau",
+        "overview": "\"Als Automatenfachmann/-frau bist du der Experte für Verpflegungs-, Ticket- und Unterhaltungsautomaten. 🎰🍫 Deine Aufgaben reichen von der Installation und Wartung bis zur Analyse des Konsumverhaltens der Kunden. 💡✨\"\n",
+        "responsibilities": [
+          "Installation und Reparatur von Automaten 🛠️🎮",
+          "Auffüllen von Waren und Überprüfung der Funktionsfähigkeit 🍬🔧",
+          "Analyse von Konsumverhalten und Durchführung von Werbeaktionen 📊📢"
+        ],
+        "curriculum": [
+          "Bedienung und Wartung von Automaten ⚙️✨",
+          "Marketingstrategien und Kundenbindung 🌟📢",
+          "Technische Grundlagen der Mechatronik ⚡🔩"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Automatenmeister/in 🎓✨",
+          "Spezialisierung auf Automatendesign oder Softwareentwicklung 🌟💻",
+          "Selbstständigkeit im Bereich Automatenaufstellung und -wartung 🚀✨"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Elektrotechnik oder Maschinenbau 🎓📘",
+          "Fortbildung in Betriebswirtschaft oder Marketingstrategien 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Technischer Eignungstest oder Probearbeiten an Automaten 🎮✨"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder Hauptschulabschluss 🎓",
+          "Technisches Interesse und handwerkliches Geschick 🔩✨"
+        ],
+        "applicationTips": [
+          "Betone deine Fähigkeiten im Umgang mit Technik und Kunden 🌟🤝",
+          "Hebe praktische Erfahrungen oder relevante Projekte hervor 📄💡"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und Problemlösungsfähigkeit ⚙️✨",
+          "Kreativität und Marketingkenntnisse 🌟📊"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Flexibilität 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du Elektrotechnik, Marketing und Kundenkommunikation 📘📈"
+        ],
+        "practicalStructure": [
+          "Im Betrieb sammelst du praktische Erfahrungen an Automaten und Kundenkontakt 🎮🤝"
+        ],
+        "workEnvironment": [
+          "Arbeit an verschiedenen Standorten, wie Bahnhöfen und Einkaufszentren 🚉🏬",
+          "Einsatz in Unternehmen der Automatenwirtschaft 📦✨"
+        ],
+        "advantages": [
+          "Abwechslungsreiche Arbeit an verschiedenen Orten 🌍✨",
+          "Direkter Kontakt mit Kunden und technischen Systemen 🤝⚙️"
+        ],
+        "challenges": [
+          "Hohes Maß an Flexibilität und technisches Verständnis erforderlich 🔧🌟",
+          "Arbeiten unter Zeitdruck bei Reparaturen und Serviceeinsätzen ⏳✨"
+        ],
+        "didYouKnow": [
+          "Automaten in Japan verkaufen sogar frische Eier und Regenschirme! 🥚☂️",
+          "Der höchste Geldgewinn an einem Automaten betrug 39.713.982 Dollar 🎰✨",
+          "Automaten sind in fast allen Branchen vertreten, von Unterhaltung bis Gesundheit 🌍✨"
+        ]
+      }
+    }
+  }
+]

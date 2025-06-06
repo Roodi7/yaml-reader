@@ -1,0 +1,106 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1900,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 1900,
+    "maxAvarageSalary": 3800,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 3800,
+    "trainingSalary": [
+      {
+        "min": 660,
+        "max": 680
+      },
+      {
+        "min": 766,
+        "max": 790
+      },
+      {
+        "min": 876,
+        "max": 890
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Bergbautechnologe/-technologin",
+        "overview": "\"Als Bergbautechnologe/-technologin bist du Experte für die Gewinnung von Rohstoffen und die Sicherung von Bergwerken. 🏔️✨ Deine Arbeit ist entscheidend für die Energie- und Rohstoffversorgung der modernen Gesellschaft. 🌍🚜\"\n",
+        "responsibilities": [
+          "Bedienung und Überwachung von Bergbaumaschinen 🚜✨",
+          "Planung und Durchführung von Bohr- und Sprengarbeiten 💥✨",
+          "Sicherung und Wartung von Stollen und Gruben 🛠️✨"
+        ],
+        "curriculum": [
+          "Geologie und Materialkunde 📜✨",
+          "Bohr- und Sprengtechnik 💥✨",
+          "Maschinenführung und Wartung 🚜✨"
+        ],
+        "careerProspects": [
+          "Spezialisierung auf Tiefbohrtechnik oder Tagebau 🎓✨",
+          "Karriere in internationalen Bergbauprojekten 🚀✨",
+          "Aufstieg in leitende Positionen oder Sicherheitsmanagement 🌟✨"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Geotechnik oder Bergbau 🎓📘",
+          "Fortbildung in Umwelt- und Sicherheitsmanagement 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Eignungstests und Praktika im Bergbau 🧠✨"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder gleichwertiger Schulabschluss 🎓",
+          "Technisches Interesse und körperliche Belastbarkeit 🌟🚜"
+        ],
+        "applicationTips": [
+          "Hebe deine Fähigkeiten in Technik und Teamarbeit hervor 🤝✨",
+          "Betone Erfahrungen in praktischen oder technischen Projekten 📄✨"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und handwerkliches Geschick 🔧✨",
+          "Sorgfältigkeit und Verantwortungsbewusstsein 📋✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Flexibilität 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "Theoriephasen an Berufsschulen mit Fokus auf Geologie und Maschinenkunde 📘✨"
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung in Bergbaubetrieben mit moderner Technologie 🌟🚜"
+        ],
+        "workEnvironment": [
+          "Arbeit in Bergwerken, Tagebauen und unter Tage 🏔️✨",
+          "Einsätze bei unterschiedlichsten Wetter- und Umweltbedingungen 🌦️✨"
+        ],
+        "advantages": [
+          "Abwechslungsreiche Tätigkeiten mit moderner Technologie 🌍✨",
+          "Hohe Nachfrage und attraktive Verdienstmöglichkeiten 🚀✨"
+        ],
+        "challenges": [
+          "Arbeiten unter schwierigen Bedingungen und in belastenden Umgebungen 🌟📜",
+          "Hohe Verantwortung für Sicherheit und Präzision erforderlich 🛡️✨"
+        ],
+        "didYouKnow": [
+          "Bergbautechnologen arbeiten oft mit hochspezialisierten Maschinen 🌍✨",
+          "Die Ausbildung bietet zahlreiche internationale Karrieremöglichkeiten 🚀✨",
+          "Der Beruf ist essenziell für die Rohstoffversorgung moderner Industrien 🌟✨"
+        ]
+      }
+    }
+  }
+]

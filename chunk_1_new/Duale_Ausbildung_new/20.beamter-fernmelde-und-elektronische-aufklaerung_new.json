@@ -1,0 +1,102 @@
+[
+  {
+    "category": "economy_and_politics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1700,
+    "maxStartingSalary": 2000,
+    "minAvarageSalary": 1700,
+    "maxAvarageSalary": 3300,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3300,
+    "trainingSalary": [
+      {
+        "min": 1104,
+        "max": 1104
+      },
+      {
+        "min": 1104,
+        "max": 1104
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Beamter/Beamtin Fernmelde- und Elektronische Aufklärung",
+        "overview": "\"Als Beamter/Beamtin für Fernmelde- und Elektronische Aufklärung bist du ein wichtiger Teil der Nachrichtengewinnung für die Sicherheit Deutschlands. 🌍✨ Deine Aufgaben umfassen die Analyse und Verarbeitung von Funksignalen, oft in spannenden internationalen Kontexten. 🛰️📡\"\n",
+        "responsibilities": [
+          "Erfassung und Auswertung von Funksignalen 📡✨",
+          "Analyse von elektronischen Daten und Kommunikationskanälen 🧠📊",
+          "Unterstützung diplomatischer und militärischer Entscheidungen durch gezielte Informationsaufbereitung 🌍✨"
+        ],
+        "curriculum": [
+          "Technische Grundlagen der Fernmelde- und Signalaufklärung 📡✨",
+          "Analyse- und Auswertungstechniken 📊✨",
+          "Datenschutz- und Sicherheitspolitik 📜✨"
+        ],
+        "careerProspects": [
+          "Spezialisierung in Bereichen wie IT-Forensik oder Nachrichtendienste 🚀✨",
+          "Aufstieg in den gehobenen Dienst durch Weiterbildungen und Erfahrungen 🌟✨",
+          "Karrierechancen in internationalen Organisationen und Behörden 🌍✨"
+        ],
+        "furtherEducation": [
+          "Studium in Informations- und Kommunikationstechnik 🎓📘",
+          "Fortbildung im Bereich Cybersecurity und Datenanalyse 🌟📈"
+        ],
+        "applicationSteps": [
+          "Online-Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Eignungstest und Sicherheitsüberprüfung 🧠✨"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder gleichwertiger Schulabschluss 🎓",
+          "Technisches Interesse und Verantwortungsbewusstsein 🌟📡"
+        ],
+        "applicationTips": [
+          "Hebe dein Interesse an Technik und Datenanalyse hervor 🖥️✨",
+          "Betone Erfahrungen in sicherheitsrelevanten oder technischen Bereichen 📄✨"
+        ],
+        "requiredPersonalSkills": [
+          "Analytisches Denken und technisches Verständnis 📊✨",
+          "Sorgfältigkeit und Verantwortungsbewusstsein 🛡️✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Flexibilität 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "Theoretische Ausbildung an Verwaltungsschulen und spezialisierten Akademien 📘✨"
+        ],
+        "practicalStructure": [
+          "Praktische Einsätze in verschiedenen Standorten der Behörden und in Einsatzteams 🌍✨"
+        ],
+        "workEnvironment": [
+          "Einsatz in Bundesbehörden wie der Bundeswehr oder dem Bundesnachrichtendienst 🏢✨",
+          "Arbeiten in modern ausgestatteten Laboren und mobilen Einsatzzentren 🖥️✨"
+        ],
+        "advantages": [
+          "Spannende Aufgaben in einem hochsicheren Umfeld 🚀✨",
+          "Möglichkeit, zur nationalen und internationalen Sicherheit beizutragen 🌍✨"
+        ],
+        "challenges": [
+          "Hohe Verantwortung und Diskretion erforderlich 🛡️✨",
+          "Arbeiten unter strengen Sicherheitsvorgaben und in wechselnden Einsatzorten 🌟📜"
+        ],
+        "didYouKnow": [
+          "Die Ausbildung dauert nur zwei Jahre und bietet dennoch exzellente Karrierechancen 🚀✨",
+          "Moderne Technologien wie KI und Big Data spielen eine immer größere Rolle in diesem Beruf 💻✨",
+          "Die Arbeit unterstützt entscheidende politische und militärische Prozesse 🌍✨"
+        ]
+      }
+    }
+  }
+]

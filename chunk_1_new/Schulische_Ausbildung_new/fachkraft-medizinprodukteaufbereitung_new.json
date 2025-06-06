@@ -1,0 +1,124 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1800,
+    "maxStartingSalary": 2000,
+    "minAvarageSalary": 1800,
+    "maxAvarageSalary": 2400,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3300,
+    "trainingSalary": [
+      {
+        "min": 900,
+        "max": 900
+      },
+      {
+        "min": 950,
+        "max": 950
+      },
+      {
+        "min": 1000,
+        "max": 1000
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Fachkraft für Medizinprodukteaufbereitung",
+        "overview": "🏥 Sterile Instrumente sind das Herzstück jedes erfolgreichen medizinischen Eingriffs. Als Fachkraft für Medizinprodukteaufbereitung sorgst du dafür, dass Skalpell, Endoskop und Co. blitzblank und einsatzbereit sind. 💉 Mit modernster Technik, einem Auge für Präzision 👀 und Fingerspitzengefühl zerlegst, reinigst und überprüfst du medizinische Geräte – ein Beruf, der nicht nur technisch spannend, sondern auch lebenswichtig ist. 🌟",
+        "responsibilities": [
+          "Reinigung medizinischer Geräte wie Skalpellen, Klemmen oder Endoskopen 🛠️",
+          "Auseinanderbauen und Zusammenbauen komplizierter Geräte mit Präzision ⚙️",
+          "Prüfung der Funktionalität und Sauberkeit nach der Reinigung 🧐",
+          "Sterile Verpackung und Vorbereitung für den nächsten Einsatz 📦",
+          "Vorbereitung von Sonderverbandsstoffen und OP-Zubehör 🩹"
+        ],
+        "curriculum": [
+          "Hygienestandards und -verfahren 🧴",
+          "Reinigungstechniken und Desinfektion 🧼",
+          "Medizinproduktegesetz und rechtliche Grundlagen ⚖️",
+          "Technisches Verständnis für medizintechnische Geräte 🛠️",
+          "Verpackung und Lagerung medizinischer Produkte 📦"
+        ],
+        "careerProspects": [
+          "Anstellung in Krankenhäusern, Operationszentren oder Gemeinschaftspraxen 🚀",
+          "Weiterbildungen im Bereich Hygiene oder Medizinische Assistenz 📚",
+          "Aufstiegsfortbildungen wie Techniker in Hygienetechnik oder Betriebswirt im Gesundheitswesen 💼",
+          "Berufsbegleitendes Studium, z. B. im Gesundheitsmanagement 🎓"
+        ],
+        "furtherEducation": [
+          "Techniker der Fachrichtung Reinigungs- und Hygienetechnik 🛠️",
+          "Betriebswirt im Gesundheitswesen 📈",
+          "Berufsbegleitendes Studium im Gesundheitsmanagement 🎓"
+        ],
+        "applicationSteps": [
+          "Erstellen eines detaillierten Lebenslaufs mit Foto 📋",
+          "Schreiben eines Anschreibens, das deine Motivation und Eignung betont ✍️",
+          "Einreichen von Zeugnissen und einem ärztlichen Attest 📄"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife 🎓",
+          "Körperliche Fitness und keine Allergien gegen chemische Stoffe 💪",
+          "Technisches Verständnis und Sorgfalt 🛠️"
+        ],
+        "applicationTips": [
+          "Hebe praktische Erfahrungen wie technische Hobbys oder Berufserfahrung hervor ⚙️",
+          "Zeige Interesse an Hygiene und medizinischen Standards 🩺",
+          "Betone dein Verantwortungsbewusstsein und deine Präzision 🌟"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis ⚙️",
+          "Sorgfalt und Präzision 🧴",
+          "Kenntnisse im Hygienebereich 🧼"
+        ],
+        "requiredPersonalTraits": [
+          "Verantwortungsbewusstsein 💼",
+          "Belastbarkeit und körperliche Fitness 💪",
+          "Fingerfertigkeit und Geduld 🛠️"
+        ],
+        "theoreticalStructure": [
+          "📚 Im schulischen Teil erlernst du Hygienestandards, medizinisches Fachwissen und den Umgang mit verschiedenen technischen Geräten. Du bekommst Einblicke in Chemie, Biologie und die Medizinprodukteverordnung.\n"
+        ],
+        "practicalStructure": [
+          "🛠️ In Kliniken und ambulanten Einrichtungen sammelst du praktische Erfahrungen. Unter Anleitung reinigst, prüfst und verpackst du Instrumente und lernst die Bedeutung von steriler Arbeitsweise kennen.\n"
+        ],
+        "workEnvironment": [
+          "Krankenhäuser 🏥",
+          "Ambulante Operationszentren 🏨",
+          "Gemeinschaftspraxen 🩺",
+          "Externe Sterilisationsabteilungen 🚑"
+        ],
+        "advantages": [
+          "Lebenswichtige Arbeit mit hoher gesellschaftlicher Relevanz 🌟",
+          "Moderne Technik und abwechslungsreiche Tätigkeiten 🤖",
+          "Stabiler Beruf mit guten Zukunftsperspektiven 📈"
+        ],
+        "challenges": [
+          "Körperliche Anforderungen durch langes Stehen und Bewegung 🚶‍♀️",
+          "Hohe Verantwortung für die Sauberkeit und Funktionalität von Geräten 🧴",
+          "Arbeit im Schichtdienst mit flexiblen Arbeitszeiten ⏰"
+        ],
+        "didYouKnow": [
+          "Tupfer im OP besitzen einen Leuchtstreifen, der auf Röntgenbildern sichtbar ist 🌟",
+          "Die Ausbildung gibt es erst seit 2016 📅",
+          "Du wirst mit über 100 verschiedenen OP-Instrumenten arbeiten 🛠️",
+          "Viele OP-Instrumente tragen die Namen ihrer Erfinder 🧠",
+          "Medizinprodukteaufbereitung ist ein Schlüsselbereich in jedem Krankenhaus 🏥"
+        ]
+      }
+    }
+  }
+]

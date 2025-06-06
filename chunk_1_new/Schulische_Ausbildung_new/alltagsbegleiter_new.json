@@ -1,0 +1,112 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "flexible"
+    ],
+    "duration": [
+      0.25,
+      0.5
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2150,
+    "maxStartingSalary": 2690,
+    "minAvarageSalary": 2150,
+    "maxAvarageSalary": 3400,
+    "minExperiencedSalary": 2700,
+    "maxExperiencedSalary": 3400,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Alltagsbegleiter/in",
+        "overview": "🤝 Der Beruf des/der Alltagsbegleiters/in ist ideal für Menschen, die Senioren und Pflegebedürftige bei der Gestaltung ihres Alltags unterstützen möchten. Vom gemeinsamen Spaziergang bis zu Gedächtnisübungen – Alltagsbegleiter schaffen mehr Lebensqualität für ihre Patienten. 🌟",
+        "responsibilities": [
+          "Planung und Durchführung körperlicher Aktivitäten wie Spaziergänge und Gymnastik. 🏃‍♂️",
+          "Organisation kreativer Aktivitäten wie Gedächtnistraining oder Gesellschaftsspiele. 🎲",
+          "Begleitung zu Arztterminen und Behördengängen. 🏢",
+          "Führen persönlicher Gespräche, um Einsamkeit zu reduzieren. 💬",
+          "Unterstützung im Haushalt, z. B. bei kleineren Einkäufen. 🛒"
+        ],
+        "curriculum": [
+          "Basiswissen über Krankheiten und Behinderungen. 🧬",
+          "Rechtliche Rahmenbedingungen und Kommunikation. ⚖️",
+          "Psychologie und Biografiearbeit. 🧠",
+          "Hygiene und Ernährung. 🍎",
+          "Planung von Aktivitäten und Stressbewältigung. 🌟"
+        ],
+        "careerProspects": [
+          "Arbeit in stationären Einrichtungen oder bei Pflegediensten. 💼",
+          "Möglichkeit zur Spezialisierung, z. B. in Behindertenarbeit. 🛠️",
+          "Selbstständigkeit als Alltagsbegleiter/in. 🚀"
+        ],
+        "furtherEducation": [
+          "Weiterbildung zum Fachwirt im Gesundheitswesen. 📜",
+          "Ausbildung zur Pflegefachkraft oder zum Heilerziehungspfleger. 🏥",
+          "Studium in Sozialer Arbeit oder Heilpädagogik. 🎓"
+        ],
+        "applicationSteps": [
+          "Einreichen einer klassischen Bewerbung mit Lebenslauf und Anschreiben. 📄",
+          "Nachweis von Praktika oder relevanter Berufserfahrung von Vorteil. 🧾"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss. 🎓",
+          "Belastbarkeit und Empathie. 🤝",
+          "Interesse an sozialer Interaktion und Pflege. 💬"
+        ],
+        "applicationTips": [
+          "Hervorheben von Erfahrungen in der Betreuung oder sozialen Diensten. 🌟",
+          "Angabe von Hobbys wie Musik, Kunst oder Sport. 🎶"
+        ],
+        "requiredPersonalSkills": [
+          "Kommunikationsfähigkeit und Einfühlungsvermögen. 💬",
+          "Organisationstalent und Selbstständigkeit. 🗂️",
+          "Belastbarkeit und Verantwortungsbewusstsein. 🌟"
+        ],
+        "requiredPersonalTraits": [
+          "Freude an der Arbeit mit Menschen. 🤝",
+          "Geduld und Zuverlässigkeit. 🕊️",
+          "Kreativität bei der Gestaltung von Aktivitäten. 🎨"
+        ],
+        "theoreticalStructure": [
+          "\"Kleine Betreuungsscheine: Basiswissen über Krankheiten, rechtliche Grundlagen und Kommunikation. Große Betreuungsscheine: Zusätzlich Psychologie, Biografiearbeit und Bewegungsübungen. 📘\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praktikum (optional) in Pflegeeinrichtungen oder ambulanten Diensten. 🏢\"\n"
+        ],
+        "workEnvironment": [
+          "Pflegeheime und Seniorenresidenzen. 🏡",
+          "Ambulante Pflegedienste. 🚑",
+          "Private Haushalte von Patienten. 🏠",
+          "Wohnheime für Menschen mit Behinderungen. ♿"
+        ],
+        "advantages": [
+          "Ein sinnstiftender Beruf mit direkter Wirkung auf Menschen. ❤️",
+          "Flexibilität bei Arbeitszeitmodellen (Vollzeit, Teilzeit, Minijob). ⏰",
+          "Gute Einstiegsmöglichkeiten ohne lange Ausbildung. 🚀"
+        ],
+        "challenges": [
+          "Keine Ausbildungsvergütung. 💶",
+          "Hohe psychische und physische Belastbarkeit erforderlich. 🧠",
+          "Wochenendarbeit und Schichtdienst möglich. 🕒"
+        ],
+        "didYouKnow": [
+          "Alltagsbegleiter können auch selbstständig arbeiten und eigene Kunden betreuen. 🚀",
+          "Die Ausbildungskosten können häufig durch Bildungsgutscheine abgedeckt werden. 💶",
+          "In Baden-Württemberg ist die Ausbildung staatlich geregelt und länger. 📘"
+        ]
+      }
+    }
+  }
+]

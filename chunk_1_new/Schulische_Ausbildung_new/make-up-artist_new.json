@@ -1,0 +1,113 @@
+[
+  {
+    "category": "beauty_cosmetics_and_hairdressing",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1600,
+    "maxStartingSalary": 2600,
+    "minAvarageSalary": 1900,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 0,
+    "maxExperiencedSalary": 0,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      },
+      {
+        "name": "english",
+        "level": "A2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Beauty Artist",
+        "overview": "Bislang waren bis zu fünf Personen für ein perfektes Styling nötig. 🎨✨ Der geprüfte Beauty-Artist vereint klassisches Friseurhandwerk mit Make-Up und Visagistik. Er kann das Styling für Fotoshootings, Filmdreharbeiten, Theater- oder Musicalshows sowie Fashionshows komplett allein übernehmen. 🎭💄",
+        "responsibilities": [
+          "Haare schneiden, waschen, färben und stylen 💇‍♀️💇‍♂️",
+          "Kreatives Arbeiten mit Utensilien wie Lippenstift und Eyeliner 🎨💋",
+          "Visagistik und Make-Up-Techniken anwenden, wie Bodypainting und Airbrushing 🎭🎨",
+          "Styling für Gesichtsformen und Hauttypen entwickeln 👩‍🎨👨‍🎨"
+        ],
+        "curriculum": [
+          "Gesichtsproportionen und Lippenformen 🎭📏",
+          "Unterschiedliche Make-Up-Arten und Techniken wie Airbrushing ✨💨",
+          "Styling für verschiedene Anlässe, von Hochzeiten bis Modenschauen 👗💍"
+        ],
+        "careerProspects": [
+          "Arbeiten bei renommierten Kosmetikherstellern 🏭💄",
+          "Styling bei Film- und Fernsehproduktionen 🎥📺",
+          "Selbstständigkeit als Freelancer mit eigener Kundenbasis 👩‍💼💼"
+        ],
+        "furtherEducation": [
+          "Seminare zu Anti-Aging und typgerechtem Abend-Make-Up 🎨✨",
+          "Weiterbildung zur Leitung eines eigenen Salons 💇‍♀️🏢"
+        ],
+        "applicationSteps": [
+          "Erstellung eines Anschreibens mit kreativem Fokus 📄✍️",
+          "Lebenslauf mit Angaben zu Interessen und Erfahrungen 📜📚",
+          "Vorstellungsgespräch mit Styling-Probe 🗣️💄"
+        ],
+        "applicationRequirements": [
+          "Kreativität und Liebe zu Make-Up und Styling 🎨💄",
+          "Feinmotorik und Gespür für Details 🖌️🔍"
+        ],
+        "applicationTips": [
+          "Verwende schlichte, professionelle Bewerbungsunterlagen 📑✨",
+          "Betone deine praktischen Erfahrungen und kreativen Fähigkeiten 🌟🎭"
+        ],
+        "requiredPersonalSkills": [
+          "Kreativität und visuelles Gespür 🎨👀",
+          "Technische Fertigkeiten im Umgang mit Styling-Utensilien ✂️💄"
+        ],
+        "requiredPersonalTraits": [
+          "Geduld und Kommunikationsfähigkeit 🗣️🤝",
+          "Detailgenauigkeit und Teamarbeit 🌟👥"
+        ],
+        "theoreticalStructure": [
+          "Grundlagen zu Gesichtsproportionen, Lippenformen und Farblehre 🌈📚"
+        ],
+        "practicalStructure": [
+          "Praxisphasen mit Stylingübungen und Make-Up-Techniken 🎨✂️"
+        ],
+        "workEnvironment": [
+          "Fotoshootings und Filmdreharbeiten 🎥📸",
+          "Theater- und Musicalproduktionen 🎭🎶",
+          "Modeschauen und Preisverleihungen 👗🏆",
+          "Kosmetikhersteller und Hochzeiten 💍💄"
+        ],
+        "advantages": [
+          "Kreative Arbeit in einer spannenden Branche 🎭🎨",
+          "Vielfältige Einsatzmöglichkeiten von Film bis Hochzeit 👗💍",
+          "Möglichkeit zur Selbstständigkeit mit hoher Flexibilität 💼✨"
+        ],
+        "challenges": [
+          "Hohe Verantwortung für perfektes Styling 🌟🕒",
+          "Unregelmäßige Arbeitszeiten, abhängig von Projekten 🕘🕔"
+        ],
+        "didYouKnow": [
+          "Im Mittelalter galt nur ein blasser Teint als schön? 🏰✨",
+          "Der erste Oscar für das beste Make-Up ging 1982 an den Film 'American Werewolf'? 🏆🐺",
+          "Der teuerste Lippenstift der Welt kostet 45.000 Euro? 💄💎",
+          "Im Alten Ägypten wurden schon Lippenfarben verwendet? 🇪🇬👄"
+        ]
+      }
+    }
+  }
+]

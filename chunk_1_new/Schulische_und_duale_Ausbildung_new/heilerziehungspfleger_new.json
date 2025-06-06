@@ -1,0 +1,126 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time",
+      "part_time"
+    ],
+    "duration": [
+      2,
+      3
+    ],
+    "trainingType": "school_and_dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2800,
+    "maxStartingSalary": 3000,
+    "minAvarageSalary": 3000,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4900,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Heilerziehungspfleger/in",
+        "overview": "💡 Als Heilerziehungspfleger/in arbeitest du mit Menschen, die besondere Bedürfnisse haben, und hilfst ihnen, ein selbstbestimmtes Leben zu führen. Dein Beruf ist vielseitig und erfüllt – von der Unterstützung im Alltag bis hin zur kreativen Freizeitgestaltung. 👫",
+        "responsibilities": [
+          "Betreuung und Förderung von Menschen mit Behinderungen im Alltag. 🌟",
+          "Unterstützung bei der Körperpflege, Ernährung und Hygiene. 🚿🍽️",
+          "Gestaltung von Freizeitangeboten wie Sport, Spielen und Basteln. 🎨🎲",
+          "Erstellung und Umsetzung individueller Förderpläne. 📝",
+          "Begleitung bei Arztbesuchen oder anderen Terminen. 🩺",
+          "Zusammenarbeit mit Familien und anderen Fachkräften. 🤝"
+        ],
+        "curriculum": [
+          "Heilerziehung in Theorie und Praxis: Unterstützung und Förderung im Alltag. 🌟",
+          "Pflege- und Gesundheitsmanagement: Hygiene und Grundpflege. 🩺",
+          "Psychiatrische Grundlagen: Verständnis für psychische Erkrankungen. 🧠",
+          "Kommunikation und Organisation: Zusammenarbeit mit Teams und Familien. 🗣️",
+          "Kreative Therapieansätze: Musik, Kunst und Bewegung. 🎨🎵"
+        ],
+        "careerProspects": [
+          "Weiterbildung zur Pflegedienstleitung. 🌟",
+          "Spezialisierung auf Sprachförderung oder Psychosomatik. 🗣️",
+          "Karriere als Heilpädagoge/in oder im Bereich Sonderpädagogik. 🏫"
+        ],
+        "furtherEducation": [
+          "Heilpädagoge/in. 📚",
+          "Fachwirt/in im Sozialwesen. 📜",
+          "Studium in Sozialpädagogik oder Rehabilitationspsychologie. 🎓",
+          "Selbstständigkeit im Pflege- oder Sozialdienst. 🏢"
+        ],
+        "applicationSteps": [
+          "Erstellung eines Bewerbungsschreibens und Lebenslaufs mit relevanten Nachweisen. 📝",
+          "Einreichung der Unterlagen bei Fachschulen oder Einrichtungen. 📄",
+          "Teilnahme an einem Vorstellungsgespräch und ggf. einem Eignungstest. 💬"
+        ],
+        "applicationRequirements": [
+          "Mittlerer Schulabschluss. 🎓",
+          "Abgeschlossene Ausbildung oder Vorpraktikum im sozialen Bereich. 📋",
+          "Empathie und psychische Belastbarkeit. 💕"
+        ],
+        "applicationTips": [
+          "Hebe Erfahrungen im Umgang mit Menschen mit Behinderungen hervor. 🌟",
+          "Betone deine Teamfähigkeit und Verantwortungsbewusstsein. 🤝",
+          "Nutze ein professionelles Bewerbungsfoto. 📸"
+        ],
+        "requiredPersonalSkills": [
+          "Pflege- und Förderkompetenzen. 🩺",
+          "Kommunikationsstärke und Teamfähigkeit. 🗣️",
+          "Belastbarkeit und Geduld. 💪"
+        ],
+        "requiredPersonalTraits": [
+          "Empathie und Mitgefühl. 💖",
+          "Organisationstalent. 📋",
+          "Freude an der Arbeit mit Menschen. 🌟"
+        ],
+        "theoreticalStructure": [
+          "\"Theoretische Inhalte an Berufsfachschulen, darunter Psychiatrie, Organisation und Kommunikation. 📘\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praktische Einsätze in sozialen Einrichtungen wie Wohngruppen oder Kliniken. 🏥\"\n"
+        ],
+        "workEnvironment": [
+          "Einrichtungen für Menschen mit Behinderungen. 🏠",
+          "Psychiatrische Kliniken. 🏥",
+          "Tagesstätten und Werkstätten für Menschen mit Behinderungen. 🔧",
+          "Wohnheime und Pflegeeinrichtungen. 🏡",
+          "Integrative Schulen und Kindertagesstätten. 🏫"
+        ],
+        "advantages": [
+          "Ein Beruf mit hoher gesellschaftlicher Relevanz. 💡",
+          "Vielseitige und abwechslungsreiche Tätigkeiten. 🌟",
+          "Gute Karriereaussichten und Aufstiegsmöglichkeiten. 📈"
+        ],
+        "challenges": [
+          "Emotionale Belastungen im Umgang mit schwierigen Situationen. 🛡️",
+          "Physisch fordernde Aufgaben, insbesondere in der Pflege. 💪",
+          "Unregelmäßige Arbeitszeiten im Schichtdienst. ⏰"
+        ],
+        "didYouKnow": [
+          "Heilerziehungspfleger arbeiten häufig interdisziplinär mit anderen Fachkräften zusammen. 🤝",
+          "Die Ausbildung kann praxisintegriert (PiA) absolviert werden, mit Gehalt von Anfang an. 💼",
+          "Der Beruf bietet zahlreiche Spezialisierungsmöglichkeiten, etwa in der Elternberatung oder Entspannungstherapie. 🧘"
+        ]
+      }
+    }
+  }
+]

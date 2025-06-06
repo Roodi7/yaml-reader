@@ -1,0 +1,109 @@
+[
+  {
+    "category": "services_and_crafts",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2400,
+    "maxAvarageSalary": 4300,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 800
+      },
+      {
+        "min": 766,
+        "max": 900
+      },
+      {
+        "min": 876,
+        "max": 1000
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Böttcher/in",
+        "overview": "\"Als Böttcher/in pflegst du eine jahrtausendealte Tradition und stellst Holzfässer her, die für Wein, Bier und Spirituosen genutzt werden ⚡️. Dein Handwerk ist gefragt in der Wein-, Brau- und Brennereiwirtschaft.\"\n",
+        "responsibilities": [
+          "Herstellung und Reparatur von Holzfässern und Bottichen 🍇.",
+          "Behandlung und Anpassung der Holzarten für verschiedene Anwendungen 🪑.",
+          "Arbeiten mit traditionellen Werkzeugen und modernen Techniken 🔨."
+        ],
+        "curriculum": [
+          "Holzbehandlung und Lagerung 🍃.",
+          "Techniken der Fassherstellung und Reparatur 🔨.",
+          "Berechnung von Fassvolumina und Materialbedarf 📈."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Böttchermeister 🎓.",
+          "Spezialisierung auf Design und Restaurierung ✨.",
+          "Selbstständigkeit mit eigener Böttcherei 🏢."
+        ],
+        "furtherEducation": [
+          "Meisterkurse im Böttcherhandwerk 🎓.",
+          "Studium in Holztechnik oder verwandten Bereichen 🔧."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📝.",
+          "Teilnahme an einem handwerklichen Eignungstest 🔧.",
+          "Praktikum zur Feststellung der handwerklichen Eignung 🎑."
+        ],
+        "applicationRequirements": [
+          "Handwerkliches Geschick und Freude an Tradition ⚡️.",
+          "Kraft und Ausdauer bei der Arbeit mit Holz 🎑."
+        ],
+        "applicationTips": [
+          "Betone deine Liebe zu handwerklicher Präzision 🔧.",
+          "Erwähne Projekte oder Praktika in der Holzverarbeitung 🎨."
+        ],
+        "requiredPersonalSkills": [
+          "Handwerkliche Fähigkeiten und technisches Verständnis 🔧.",
+          "Kenntnisse über Holzarten und Materialien 🍃."
+        ],
+        "requiredPersonalTraits": [
+          "Präzision und Geduld bei der Arbeit 🔄.",
+          "Kreativität und Sinn für Design 🎨."
+        ],
+        "theoreticalStructure": [
+          "Theorieunterricht zu Holzarten, Handwerkstechniken und Kundenbedürfnissen 🔄."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung in Böttchereien mit traditionellen und modernen Arbeitsmitteln 🎑."
+        ],
+        "workEnvironment": [
+          "Handwerksbetriebe und Böttchereien 🏞️.",
+          "Arbeiten in der Wein- und Brauwirtschaft 🍺."
+        ],
+        "advantages": [
+          "Erhalt eines traditionsreichen Handwerks ⚡️.",
+          "Kreative und vielseitige Aufgaben 🎨.",
+          "Attraktive Karrieremöglichkeiten und hohe Nachfrage 📈."
+        ],
+        "challenges": [
+          "Arbeiten mit schweren Materialien und Maschinen 🎑.",
+          "Präzision und Geduld bei der Fassherstellung 🔄."
+        ],
+        "didYouKnow": [
+          "Der Beruf des Böttchers ist einer der ältesten Handwerksberufe der Welt 🎑.",
+          "Ein leeres Holzfass kann bis zu 200 Kilogramm wiegen 🍇.",
+          "Holzfässer können den Geschmack von Wein und Whisky beeinflussen 🍺."
+        ]
+      }
+    }
+  }
+]

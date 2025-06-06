@@ -1,0 +1,131 @@
+[
+  {
+    "category": "media",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      4
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1500,
+    "maxStartingSalary": 1900,
+    "minAvarageSalary": 1900,
+    "maxAvarageSalary": 2500,
+    "minExperiencedSalary": 2300,
+    "maxExperiencedSalary": 2600,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Gestaltungstechnische/r Assistent/in",
+        "overview": "Kreative Köpfe aufgepasst! 🎨💡 Als Gestaltungstechnische/r Assistent/in verwandelst du Ideen in beeindruckende Designs. Ob Buchlayouts, Websites oder Modeentwürfe – hier kannst du deiner Fantasie freien Lauf lassen und kreative Lösungen entwickeln. Du arbeitest eng mit Kunden zusammen, entwickelst Konzepte und setzt diese mit Leidenschaft um. Wenn du kreativ bist und gerne in einem dynamischen Umfeld arbeitest, ist dieser Beruf wie für dich gemacht! 🌟✨",
+        "responsibilities": [
+          "Entwicklung und Umsetzung von Layouts für Print- und Digitalmedien 📘💻",
+          "Erstellung von Konzepten und Designs für Mode und Grafik 🎨👗",
+          "Screen-Design und Webentwicklung, inklusive Animationen und Filme 🌐🎥",
+          "Zusammenführung von Bild, Text und Ton für Multimedia-Projekte 🎶🖼️",
+          "Enger Kontakt mit Kunden und Redakteuren zur Umsetzung von Projekten 🤝📋"
+        ],
+        "curriculum": [
+          "Farb- und Formlehre für ästhetische Gestaltung 🎨🖼️",
+          "Grundlagen der Typografie und Schriftgestaltung ✍️✨",
+          "Einführung in Webdesign, HTML und CSS 🌐💻",
+          "Mode- und Textildesign für kreative Entwürfe 👗✂️",
+          "Medienrecht und Projektmanagement für den Berufsalltag 📋⚖️"
+        ],
+        "careerProspects": [
+          "Karriere in Werbeagenturen, Verlagen oder Modeateliers 🚀🎨",
+          "Spezialisierung auf Game Art, Mediendesign oder Kommunikationsdesign 🎮✨",
+          "Selbstständigkeit als freiberuflicher Web- oder Mediendesigner 🌟🌐"
+        ],
+        "furtherEducation": [
+          "Weiterbildung zum staatlich geprüften Techniker Fachrichtung Druck- und Medientechnik 📚✨",
+          "Fernstudium zum Betriebswirt Medien für Führungspositionen 📋🚀",
+          "Bachelorstudium in Kommunikationsdesign für weitere Karriereschritte 🎓🌟"
+        ],
+        "applicationSteps": [
+          "Zusammenstellung klassischer Bewerbungsunterlagen (Lebenslauf, Zeugnisse, Zertifikate) 📋📧",
+          "Erstellung einer kreativen Arbeitsmappe mit Designbeispielen 🎨✨",
+          "Vorstellungsgespräch mit Fokus auf deine künstlerischen Fähigkeiten 🗣️🎥"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder gleichwertiger Abschluss 🎓📘",
+          "Kreatives Talent und technisches Verständnis 🎨💻",
+          "Erfahrung mit Grafikprogrammen und Grundkenntnisse in Webdesign 🌐📋"
+        ],
+        "applicationTips": [
+          "Hebe deine künstlerischen Arbeiten in einer Arbeitsmappe hervor 🌟🖼️",
+          "Betone deine Teamfähigkeit und Flexibilität im Umgang mit Kunden 🤝✨",
+          "Zeige deine Motivation durch eigene kreative Projekte und Ideen 🚀💡"
+        ],
+        "requiredPersonalSkills": [
+          "Kreativität und ästhetisches Gespür 🎨✨",
+          "Technisches Verständnis und sicherer Umgang mit Software 💻📋",
+          "Teamfähigkeit und Kommunikationsgeschick 🤝📧"
+        ],
+        "requiredPersonalTraits": [
+          "Leidenschaft für Design und visuelle Medien 🌟🎨",
+          "Flexibilität und Bereitschaft für unregelmäßige Arbeitszeiten ⏳🚀",
+          "Zuverlässigkeit und Eigenverantwortung bei Projekten 🧐📋"
+        ],
+        "theoreticalStructure": [
+          "Grundlagen in Farb- und Formlehre, Typografie und Kunstgeschichte 📚🎓"
+        ],
+        "practicalStructure": [
+          "Projektarbeit in Grafik-, Mode- und Mediendesign 🚀👗"
+        ],
+        "workEnvironment": [
+          "Werbeagenturen und Verlage 🏢✨",
+          "Modeateliers und Designstudios 👗🎨",
+          "Druckereien und Rundfunkveranstalter 📺📰",
+          "Eigenverantwortliches Arbeiten oder Teamprojekte 🧑‍🤝‍🧑🚀"
+        ],
+        "advantages": [
+          "Hohe kreative Freiheit bei der Gestaltung von Projekten 🎨✨",
+          "Vielfältige Einsatzmöglichkeiten in verschiedenen Branchen 🌐🚀",
+          "Dynamisches Arbeitsumfeld mit spannenden Herausforderungen 🌟📋"
+        ],
+        "challenges": [
+          "Unregelmäßige Arbeitszeiten, abhängig von der Projektlage ⏳🚀",
+          "Hohe Kundenorientierung und Stressresistenz bei Termindruck 🤝💡",
+          "Kontinuierliche Weiterbildung in Design- und Technologietrends 📚⚡"
+        ],
+        "didYouKnow": [
+          "GTA steht für Gestaltungstechnischer Assistent – kreativ und technisch vereint! 🌟✨",
+          "Du kannst dich auf spannende Bereiche wie Game Art oder Screen-Design spezialisieren 🎮💻.",
+          "In der Modebranche erstellst du nicht nur Entwürfe, sondern auch produktionsreife Schnitte 👗✂️.",
+          "Gestaltungstechnische Assistenten arbeiten oft mit CAD-Programmen für 3-D-Designs 🖥️✨.",
+          "Typografie ist die Kunst, gedruckte Schrift professionell zu gestalten ✍️📘."
+        ]
+      }
+    }
+  }
+]

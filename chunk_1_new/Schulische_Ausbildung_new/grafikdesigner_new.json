@@ -1,0 +1,127 @@
+[
+  {
+    "category": "media",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2500,
+    "maxStartingSalary": 2700,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 4500,
+    "minExperiencedSalary": 3200,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Grafikdesigner/in",
+        "overview": "Kreativität ist deine Superkraft? ✨🎨 Als Grafikdesigner/in kannst du deiner künstlerischen Ader freien Lauf lassen und aus deiner Leidenschaft einen Beruf machen! Ob Firmenlogos, Webseiten oder Werbematerial – deine Designs prägen die visuelle Identität von Unternehmen und Marken. Mit einer Ausbildung als Grafikdesigner/in startest du in eine kreative und abwechslungsreiche Karriere. 🖌️✨",
+        "responsibilities": [
+          "Entwurf und Gestaltung von Firmenlogos, Anzeigen und Marketingmaterialien 📈🎨",
+          "Erstellung und Pflege von Webseiten und digitalen Auftritten 🌐💻",
+          "Entwicklung von Layouts für Print- und Digitalmedien 📖🖥️",
+          "Zusammenarbeit mit Kunden und Creative Directors für individuelle Projekte 🤝✨",
+          "Kreation einzigartiger Designs, die die Markenbotschaft transportieren 🌟🎯"
+        ],
+        "curriculum": [
+          "Typografie und Schriftgestaltung für professionelle Designs ✍️📘",
+          "Illustration und digitale Bildbearbeitung 🎨🖥️",
+          "Webdesign und Grundlagen der Programmierung 🌐💻",
+          "Kreative Projektarbeit und Portfolioentwicklung 🚀✨",
+          "Kunst- und Mediengeschichte für den kulturellen Hintergrund 📚📺"
+        ],
+        "careerProspects": [
+          "Karriere in Werbeagenturen, Verlagen oder Designstudios 🚀🎨",
+          "Selbstständigkeit als freiberuflicher Grafikdesigner 🌟💻",
+          "Spezialisierung auf Illustration, Werbegrafik oder digitales Design 🖼️✨"
+        ],
+        "furtherEducation": [
+          "Weiterbildung zum geprüften Medienfachwirt/in für Führungspositionen 📋🚀",
+          "Studium in Mediendesign, Kommunikationsdesign oder visueller Kommunikation 🎓✨",
+          "Aufstieg zum staatlich geprüften Techniker/in Fachrichtung Druck- und Medientechnik 🖨️📚"
+        ],
+        "applicationSteps": [
+          "Erstellung einer kreativen Designmappe mit Arbeitsproben 🎨🖼️",
+          "Einreichung der Bewerbungsunterlagen beim Bildungsträger 📋📧",
+          "Teilnahme an einer Aufnahmeprüfung oder einem Vorstellungsgespräch 🗣️📋"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder gleichwertiger Abschluss 🎓📘",
+          "Kreatives Talent und Erfahrung mit Designprogrammen 🎨💻",
+          "Fähigkeit, visuelle Ideen in professionelle Designs umzusetzen 🌟📋"
+        ],
+        "applicationTips": [
+          "Hebe deine kreativen Stärken in deiner Bewerbungsmappe hervor 🌟🖼️",
+          "Zeige dein Interesse an spezifischen Designrichtungen und Projekten 🚀✨",
+          "Bereite dich auf Fragen zu deinem künstlerischen Stil und deinen Zielen vor 🧐💡"
+        ],
+        "requiredPersonalSkills": [
+          "Kreativität und gestalterisches Talent 🎨✨",
+          "Technisches Verständnis und Software-Kenntnisse 💻📋",
+          "Kommunikations- und Teamfähigkeit 🤝📧"
+        ],
+        "requiredPersonalTraits": [
+          "Leidenschaft für Design und visuelle Kommunikation 🌟🎨",
+          "Flexibilität und Anpassungsfähigkeit an Kundenwünsche 💡✨",
+          "Zuverlässigkeit und Sinn für Ästhetik 🧐📋"
+        ],
+        "theoreticalStructure": [
+          "Grundlagen der Typografie, Farblehre und Gestaltungstechniken 📚✨"
+        ],
+        "practicalStructure": [
+          "Praktische Projektarbeiten und Portfolioentwicklung 🚀🖼️"
+        ],
+        "workEnvironment": [
+          "Werbeagenturen und Designstudios 🏢✨",
+          "Verlage und Medienunternehmen 📰📺",
+          "Freiberufliche Arbeit mit individuellen Kundenprojekten 🌟📋",
+          "Eigenverantwortliches Arbeiten in einem kreativen Umfeld 🎨🚀"
+        ],
+        "advantages": [
+          "Kreative Freiheit und abwechslungsreiche Aufgaben 🎨✨",
+          "Hohe Nachfrage nach Grafikdesign-Experten 🚀📋",
+          "Möglichkeit zur Spezialisierung und Weiterentwicklung 🌟🎯"
+        ],
+        "challenges": [
+          "Kein Ausbildungsgehalt und mögliche Ausbildungskosten 📉🖋️",
+          "Hohe Kundenorientierung und Anpassung an individuelle Wünsche 🤝💡",
+          "Zeitdruck bei Projekten mit engen Deadlines ⏳📋"
+        ],
+        "didYouKnow": [
+          "Die Wurzeln des Grafikdesigns liegen in New York und wurden in den 60er Jahren nach Deutschland gebracht 🌆✨.",
+          "Grafikdesign ist ein Berufsfeld ohne einheitliche Standards in Ausbildung und Praxis 🌟📚.",
+          "Viele Bildungsinstitute verlangen eine Designmappe zur Bewerbung – lass deiner Kreativität freien Lauf! 🎨✨",
+          "Staatlich zugelassene Online-Kurse können den Einstieg ins Grafikdesign erleichtern 💻📘.",
+          "Eignungsprüfungen können kreative Herausforderungen wie unkonventionelle Problemlösungen beinhalten 🌟🖋️."
+        ]
+      }
+    }
+  }
+]

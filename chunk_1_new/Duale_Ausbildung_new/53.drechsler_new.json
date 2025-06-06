@@ -1,0 +1,119 @@
+[
+  {
+    "category": "services_and_crafts",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "no_school_degree",
+    "minStartingSalary": 1800,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 649
+      },
+      {
+        "min": 766,
+        "max": 766
+      },
+      {
+        "min": 876,
+        "max": 876
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Drechsler/in",
+        "overview": "Der frische Geruch von Holz am Morgen und die Stille einer Werkstatt - so beginnt der Tag eines Drechslers 🪵. Mit viel Fingerspitzengefühl zauberst du aus rohem Holz kunstvolle Schalen, Vasen oder Möbelfüße, die jedes Zuhause verschönern 🌟. Entfache deine kreative Seite in diesem traditionsreichen Handwerk! ✨",
+        "responsibilities": [
+          "Herstellung von Holzprodukten wie Schalen, Vasen oder Möbelfüßen 🏺",
+          "Planung und Skizzierung der Produkte vor der Fertigung 📝",
+          "Bedienung und Wartung von Drechselmaschinen ⚙️",
+          "Schleifen, Lackieren und Veredeln der Werkstücke ✨"
+        ],
+        "curriculum": [
+          "Materialkunde und Holzverarbeitung 🌳",
+          "Techniken der Oberflächenbehandlung und Veredelung ✨",
+          "Sicherer Umgang mit Drechselmaschinen ⚙️"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Drechslermeister oder Techniker für Holztechnik 🎓",
+          "Selbstständigkeit mit einer eigenen Werkstatt 🏠",
+          "Studium in Holztechnik oder verwandten Bereichen 📖"
+        ],
+        "furtherEducation": [
+          "Drechslermeister für mehr Verantwortung und höheres Einkommen 🛠️",
+          "Techniker mit Fachrichtung Holztechnik für Managementaufgaben 📊",
+          "Studium in Holztechnik für vertieftes Wissen und Büroarbeit 🎓"
+        ],
+        "applicationSteps": [
+          "Verfassen eines detaillierten Bewerbungsschreibens 📝",
+          "Einsendung eines Lebenslaufs mit Fokus auf handwerkliche Fähigkeiten 📑",
+          "Vorstellungsgespräch, um Kreativität und Motivation zu zeigen 🤝"
+        ],
+        "applicationRequirements": [
+          "Fingerspitzengefühl und handwerkliches Geschick ✋",
+          "Technisches Verständnis und Kreativität 🛠️",
+          "Freude an der Arbeit mit Holz und Maschinen 🌲"
+        ],
+        "applicationTips": [
+          "Betone Erfahrungen in Kunst, Werkunterricht oder Praktika 🎨",
+          "Erwähne Hobbys wie Holzarbeiten oder Modellbau 🪵",
+          "Zeige Begeisterung für Tradition und kreative Entfaltung 🌟"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und sicherer Umgang mit Maschinen ⚙️",
+          "Handwerkliches Geschick und Kreativität ✋",
+          "Geduld und Präzision bei der Bearbeitung von Werkstücken 🎯"
+        ],
+        "requiredPersonalTraits": [
+          "Körperliche Belastbarkeit und Ausdauer 💪",
+          "Liebe zum Detail und Begeisterung für Holz 🌳",
+          "Eigenständigkeit und Sorgfalt bei der Arbeit ✨"
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Fächern wie Materialkunde, Mathematik und Zeichnen 📚"
+        ],
+        "practicalStructure": [
+          "Praxis in Werkstätten mit Fokus auf Drechseltechniken und Veredelung 🛠️"
+        ],
+        "workEnvironment": [
+          "Arbeiten in Werkstätten oder bei Möbelherstellern 🏭",
+          "Verwendung von traditionellen Werkzeugen und modernen Maschinen 🔧",
+          "Umgeben von Holzstaub und dem Duft von frischem Holz 🌲"
+        ],
+        "advantages": [
+          "Traditioneller und kreativer Beruf mit einzigartigen Produkten 🎨",
+          "Arbeiten mit natürlichen Materialien und moderner Technik 🌳",
+          "Vielfältige Weiterbildungsmöglichkeiten und kreative Entfaltung 🚀"
+        ],
+        "challenges": [
+          "Arbeiten in staubiger Umgebung mit physischer Belastung 💪",
+          "Erfordert Geduld und Präzision bei der Herstellung ✏️",
+          "Verantwortungsvoller Umgang mit Maschinen und Werkzeugen ⚙️"
+        ],
+        "didYouKnow": [
+          "Die Arbeit des Drechslers zählt zu den ältesten Handwerksberufen der Welt 🛠️.",
+          "Der Verband Deutscher Drechsler setzt sich für die Anerkennung als immaterielles Kulturerbe ein 🌟.",
+          "Es gibt Fachrichtungen wie Bernsteindrechsler und Reifendreher 💎.",
+          "Der „Deutsche Drechslertag“ wird jedes Jahr gefeiert 🥳.",
+          "Bad Kissingen ist einer der Standorte für Berufsschulen im Drechslerhandwerk 🎓."
+        ]
+      }
+    }
+  }
+]

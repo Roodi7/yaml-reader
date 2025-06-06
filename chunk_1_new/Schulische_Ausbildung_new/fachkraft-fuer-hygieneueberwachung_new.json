@@ -1,0 +1,130 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1800,
+    "maxStartingSalary": 2200,
+    "minAvarageSalary": 2200,
+    "maxAvarageSalary": 2600,
+    "minExperiencedSalary": 2600,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "C1"
+      },
+      {
+        "name": "english",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Fachkraft für Hygieneüberwachung",
+        "overview": "🧼 Du sorgst als Fachkraft für Hygieneüberwachung für Sicherheit und Sauberkeit in unserer Gesellschaft! Ob in Schwimmbädern, Krankenhäusern oder Kindergärten – deine Arbeit schützt Menschen vor Gesundheitsgefahren und trägt dazu bei, dass Hygienestandards eingehalten werden. 🔬 Mit deiner Expertise führst du Kontrollen durch, analysierst Proben und berätst Bürger sowie Unternehmen. Wenn du gerne präzise arbeitest, Interesse an Naturwissenschaften hast und Hygiene für dich mehr als nur ein Wort ist, dann ist dieser Beruf wie für dich gemacht! 🌟",
+        "responsibilities": [
+          "Hygienekontrollen in Einrichtungen wie Krankenhäusern, Schwimmbädern und Kindergärten durchführen 🏥🏊‍♂️",
+          "Messungen vor Ort, z. B. pH-Wert und Chlorgehalt in Schwimmbädern, durchführen 🌡️",
+          "Proben entnehmen und zur Analyse ins Labor schicken 🧪",
+          "Gutachten und Berichte basierend auf den Kontrollergebnissen erstellen 📄",
+          "Hygienepläne entwickeln und kommunizieren 📋",
+          "Bürger und Unternehmen zu hygienischen Maßnahmen beraten 🗣️"
+        ],
+        "curriculum": [
+          "Hygiene- und Arzneimittellehre 💊",
+          "Biologie und Mikrobiologie 🧬",
+          "Medizinische Statistik 📊",
+          "Betriebswirtschaftliche Grundlagen 💼",
+          "Fachspezifisches Englisch 🇬🇧"
+        ],
+        "careerProspects": [
+          "Karriere im Gesundheits- oder Umweltschutzamt 🚀",
+          "Spezialisierung auf Hygienemanagement 📋",
+          "Aufstieg zur Führungskraft in öffentlichen Einrichtungen 📈",
+          "Studium in Umwelttechnik oder Public Health 🎓"
+        ],
+        "furtherEducation": [
+          "Fachwirt im Gesundheits- und Sozialwesen 📚",
+          "Studium in Umwelttechnik oder Gesundheitswissenschaft 🎓",
+          "Weiterbildung im Bereich Hygienemanagement 🔬"
+        ],
+        "applicationSteps": [
+          "Bewerbung an Berufsfachschule senden 📄",
+          "Einreichen von Zeugniskopien und Lebenslauf 📋",
+          "Praktische Erfahrungen oder Laborführerschein als Vorteil erwähnen 🏅"
+        ],
+        "applicationRequirements": [
+          "Realschulabschluss mit guten Noten in Mathe, Biologie und Chemie 📚",
+          "Organisierte und sorgfältige Arbeitsweise 🧹",
+          "Kommunikationsstärke und sicheres Auftreten 🗣️"
+        ],
+        "applicationTips": [
+          "Betone dein Interesse an Naturwissenschaften und Hygiene 🌟",
+          "Hebe praktische Erfahrungen und deine Genauigkeit hervor 🔍",
+          "Zeige deine Bereitschaft, Verantwortung zu übernehmen 💪"
+        ],
+        "requiredPersonalSkills": [
+          "Präzision und Sorgfalt 🎯",
+          "Analytisches Denken 🧠",
+          "Kommunikationsfähigkeit 🗣️"
+        ],
+        "requiredPersonalTraits": [
+          "Verantwortungsbewusstsein 💼",
+          "Interesse an Naturwissenschaften 🌍",
+          "Flexibilität und Belastbarkeit 💪"
+        ],
+        "theoreticalStructure": [
+          "📚 In der Berufsfachschule lernst du Biologie, Hygiene- und Arzneimittellehre, medizinische Statistik sowie betriebswirtschaftliche Grundlagen. Ergänzt wird der Unterricht durch fachspezifisches Englisch und naturwissenschaftliche Inhalte.\n"
+        ],
+        "practicalStructure": [
+          "🛠️ Praktika bei Gesundheitsämtern, Umweltämtern oder in Laboren geben dir die Möglichkeit, das Gelernte anzuwenden. Du führst Wasserkontrollen durch, überprüfst Einrichtungen auf Hygienestandards und wertest Proben aus.\n"
+        ],
+        "workEnvironment": [
+          "Krankenhäuser und Kliniken 🏥",
+          "Schwimmbäder und öffentliche Einrichtungen 🏊‍♂️",
+          "Gesundheitsämter und Umweltämter 🌍",
+          "Labore für Probenanalysen 🧪"
+        ],
+        "advantages": [
+          "Vielfältiger Arbeitsalltag mit abwechslungsreichen Aufgaben 🌟",
+          "Gesellschaftlich relevante Arbeit mit großem Impact 🌍",
+          "Hohe Nachfrage nach Fachkräften 📈",
+          "Möglichkeiten zur beruflichen Weiterentwicklung 🚀"
+        ],
+        "challenges": [
+          "Sorgfältige und präzise Arbeitsweise erforderlich 🔍",
+          "Emotionale Belastung durch kritische Hygienefälle 😓",
+          "Flexibilität bei wechselnden Einsatzorten erforderlich 🚗"
+        ],
+        "didYouKnow": [
+          "Feuchte Hände übertragen mehr Bakterien als trockene 🖐️💧",
+          "Rhinoviren sind Hauptverursacher von Erkältungen 🤧",
+          "Die meisten Keime in Hotels finden sich an Fernbedienungen und Lichtschaltern 🛋️💡",
+          "Es gibt über 4.000 verschiedene Bakterienarten 🦠",
+          "Jährlich findet ein Kongress für Krankenhaushygiene statt 🏥"
+        ]
+      }
+    }
+  }
+]

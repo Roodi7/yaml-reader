@@ -1,0 +1,126 @@
+[
+  {
+    "category": "transport_and_logistics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "high_school",
+    "minStartingSalary": 4500,
+    "maxStartingSalary": 5900,
+    "minAvarageSalary": 6000,
+    "maxAvarageSalary": 8000,
+    "minExperiencedSalary": 7000,
+    "maxExperiencedSalary": 8000,
+    "trainingSalary": [
+      {
+        "min": 1400,
+        "max": 1400
+      },
+      {
+        "min": 1400,
+        "max": 4500
+      },
+      {
+        "min": 4500,
+        "max": 5900
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "english",
+        "level": "C1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Fluglotse/-lotsin",
+        "overview": "✈️ Fluglotsen sind die unsichtbaren Helden des Luftverkehrs. Sie sorgen dafür, dass jedes Flugzeug sicher von A nach B kommt, indem sie den Luftraum überwachen, Flugzeuge koordinieren und Start- sowie Landegenehmigungen erteilen. Mit einer Kombination aus technologischem Know-how und höchster Konzentration bewältigen sie eine der anspruchsvollsten Aufgaben in der Luftfahrt. 🌍",
+        "responsibilities": [
+          "Überwachung und Steuerung des Flugverkehrs vom Start bis zur Landung 🛫",
+          "Kommunikation mit Piloten und internationalen Flugsicherungsstellen 🌍",
+          "Erteilung von Start-, Landungs- und Rollgenehmigungen ✈️",
+          "Analyse von Wetter- und Gefahrenlagen 🌦️",
+          "Einhaltung und Kontrolle der Sicherheitsvorschriften 🛡️"
+        ],
+        "curriculum": [
+          "Navigationslehre 🌍",
+          "Meteorologie 🌦️",
+          "Luftrecht und Sprechfunkverfahren 📡",
+          "Technische Systeme und Flugzeugtypenkunde 🛫",
+          "Risikomanagement und Entscheidungsfindung 🛡️"
+        ],
+        "careerProspects": [
+          "Arbeit bei der Deutschen Flugsicherung oder Flughafenbetrieben 🌐",
+          "Weiterbildung zum Supervisor oder Fachlehrer 📈",
+          "Studium in Luftverkehrsmanagement oder Luft- und Raumfahrttechnik 🚀",
+          "Karriere im internationalen Flugverkehr 🌍"
+        ],
+        "furtherEducation": [
+          "Spezialisierung als Supervisor oder Fachlehrer 👨‍🏫",
+          "Bachelorstudium in Meteorologie oder Luftverkehrsmanagement 🎓",
+          "Weiterbildung in internationalen Flugsicherheitsnormen 🌎"
+        ],
+        "applicationSteps": [
+          "Online-Bewerbung bei der Deutschen Flugsicherung 🌐",
+          "Teilnahme an einem mehrstufigen Auswahlverfahren im DLR Hamburg 📋",
+          "Absolvierung eines medizinischen Checks und psychologischer Tests 🩺"
+        ],
+        "applicationRequirements": [
+          "Mindestalter: 18 Jahre und Höchstalter: 24 Jahre 📅",
+          "Allgemeine Hochschulreife (Abitur) 🎓",
+          "Sehr gute Englischkenntnisse (C1) 🌍",
+          "Hohe Stressresistenz und Teamfähigkeit 🤝",
+          "Bestätigung der Zuverlässigkeit durch die Luftsicherheitsbehörde 🛡️"
+        ],
+        "applicationTips": [
+          "Übe Englisch und trainiere dein räumliches Vorstellungsvermögen 📘",
+          "Zeige in der Bewerbung deine Belastbarkeit und technisches Verständnis 🌟",
+          "Bereite dich auf die Simulationsaufgaben und Teamtests gut vor 🛠️"
+        ],
+        "requiredPersonalSkills": [
+          "Exzellentes räumliches Vorstellungsvermögen 🗺️",
+          "Präzision und Entscheidungsfähigkeit unter Zeitdruck ⏱️",
+          "Analytisches und logisches Denken 🧠"
+        ],
+        "requiredPersonalTraits": [
+          "Stressresistenz und Belastbarkeit 💼",
+          "Kommunikationsstärke und Teamfähigkeit 🗣️",
+          "Verantwortungsbewusstsein und Disziplin 🌟"
+        ],
+        "theoreticalStructure": [
+          "📚 Die theoretische Ausbildung an der Flugsicherungsakademie in Langen dauert 12-15 Monate und umfasst Navigationslehre, Meteorologie, Luftrecht, Flugzeugkunde und praktische Simulationen.\n"
+        ],
+        "practicalStructure": [
+          "🛠️ Der Praxisteil erfolgt direkt an einem Kontrollzentrum oder Tower und dauert 12-18 Monate. Dabei übernimmst du erste Aufgaben im Luftverkehr unter Anleitung eines Coaches.\n"
+        ],
+        "workEnvironment": [
+          "Kontrolltürme auf Flughäfen 🏢",
+          "Kontrollzentralen der Deutschen Flugsicherung 🌐",
+          "Verkehrsflughäfen und militärische Einrichtungen 🛡️"
+        ],
+        "advantages": [
+          "Hohe Gehaltsaussichten bereits während der Ausbildung 💰",
+          "Spannende Aufgaben mit Verantwortung und Abwechslung 🌟",
+          "Arbeit in einer zukunftssicheren und technologisch fortschrittlichen Branche 🚀"
+        ],
+        "challenges": [
+          "Arbeiten unter hoher Konzentration und Verantwortung 🧠",
+          "Einhaltung der hohen Anforderungen im Auswahlverfahren 🎯",
+          "Schichtdienst inklusive Nachtschichten 🌙"
+        ],
+        "didYouKnow": [
+          "Fluglotsen steuern täglich bis zu 5.000 Flugzeuge im deutschen Luftraum 🛫",
+          "Die Ausbildung ist eine der anspruchsvollsten und bestbezahlten in Deutschland 💰",
+          "Fluglotsen arbeiten durchschnittlich 34-38 Stunden pro Woche, mit verpflichtenden Pausen ⏱️",
+          "Englisch ist die verbindliche Sprache in der internationalen Luftfahrt 🌍",
+          "Rund 2.200 Fluglotsen sind in Deutschland im Einsatz 🌟"
+        ]
+      }
+    }
+  }
+]

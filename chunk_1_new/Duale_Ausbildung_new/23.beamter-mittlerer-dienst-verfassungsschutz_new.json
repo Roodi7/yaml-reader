@@ -1,0 +1,102 @@
+[
+  {
+    "category": "society",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2100,
+    "maxStartingSalary": 2550,
+    "minAvarageSalary": 2100,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 2800,
+    "maxExperiencedSalary": 3200,
+    "trainingSalary": [
+      {
+        "min": 1100,
+        "max": 1100
+      },
+      {
+        "min": 1100,
+        "max": 1100
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Beamter/Beamtin Verfassungsschutz (mittlerer Dienst)",
+        "overview": "\"Als Beamter/Beamtin im mittleren Dienst des Verfassungsschutzes spielst du eine Schlüsselrolle bei der Wahrung der inneren Sicherheit Deutschlands. 🛡️✨ Deine Arbeit umfasst die Analyse und Überwachung verfassungswidriger Aktivitäten sowie den Schutz vor Extremismus und Spionage. 🌍📜\"\n",
+        "responsibilities": [
+          "Analyse von Informationen und Berichten über potenziell verfassungswidrige Aktivitäten 📊✨",
+          "Überwachung und Überprüfung von Personen und Organisationen 🌟🛡️",
+          "Zusammenarbeit mit Sicherheitsbehörden und Nachrichtendiensten 🤝✨"
+        ],
+        "curriculum": [
+          "Grundlagen der Verfassungs- und Sicherheitspolitik 📜✨",
+          "Methoden der Informationsbeschaffung und -auswertung 📊✨",
+          "Rechtsvorschriften und Datenschutz in der Sicherheitsarbeit 📘✨"
+        ],
+        "careerProspects": [
+          "Spezialisierung auf IT-Forensik oder operative Sicherheitsmaßnahmen 🚀✨",
+          "Aufstieg in den gehobenen Dienst durch Weiterbildungen 🌟✨",
+          "Karrierechancen in internationalen Organisationen und Behörden 🌍✨"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Sicherheitsmanagement oder Informationssicherheit 🎓📘",
+          "Fortbildung in Spionageabwehr oder Extremismusprävention 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Eignungstests und Sicherheitsüberprüfung 🧠✨"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder gleichwertiger Abschluss 🎓",
+          "Interesse an Sicherheit und politischem Geschehen 🌟📜"
+        ],
+        "applicationTips": [
+          "Hebe deine Fähigkeiten in Analyse und Kommunikation hervor 🗣️✨",
+          "Betone Erfahrungen in sicherheitsrelevanten Bereichen oder Projekten 📄✨"
+        ],
+        "requiredPersonalSkills": [
+          "Analytisches Denken und Problemlösungsfähigkeiten 🧠✨",
+          "Sorgfalt und Verantwortungsbewusstsein 🛡️✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Flexibilität 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "Theoriephasen an spezialisierten Akademien mit Schwerpunkt auf Staatsrecht und Sicherheitspolitik 📘✨"
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung im Bundesamt oder in Landesämtern für Verfassungsschutz 🌍✨"
+        ],
+        "workEnvironment": [
+          "Einsatz in den Büros und Außeneinsätzen des Verfassungsschutzes 🏢✨",
+          "Arbeiten in geschützten und sicherheitsrelevanten Umgebungen 🛡️✨"
+        ],
+        "advantages": [
+          "Spannende Aufgaben mit gesellschaftlicher Bedeutung 🌍✨",
+          "Hohe Arbeitsplatzsicherheit und vielfältige Entwicklungsmöglichkeiten 🛡️✨"
+        ],
+        "challenges": [
+          "Arbeiten in sicherheitskritischen Bereichen mit hoher Verantwortung 🌟📜",
+          "Flexibilität und Belastbarkeit bei wechselnden Aufgaben und Einsätzen 🕒✨"
+        ],
+        "didYouKnow": [
+          "Der Verfassungsschutz arbeitet mit modernsten Technologien wie Big Data und KI 💻✨",
+          "Die Ausbildung bietet spannende Einblicke in politische und gesellschaftliche Themen 🌍✨",
+          "Verfassungsschutzbeamte tragen entscheidend zur nationalen Sicherheit bei 🛡️✨"
+        ]
+      }
+    }
+  }
+]

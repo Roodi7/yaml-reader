@@ -1,0 +1,102 @@
+[
+  {
+    "category": "services_and_crafts",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2200,
+    "minAvarageSalary": 2230,
+    "maxAvarageSalary": 2406,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3000,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 766
+      },
+      {
+        "min": 1000,
+        "max": 1065
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Änderungsschneider/in",
+        "overview": "\"Die Ausbildung zur Änderungsschneiderin bietet dir die Möglichkeit, handwerkliches Geschick und Kreativität in einem abwechslungsreichen Beruf einzusetzen. 🌟 Egal ob alte Kleidungsstücke wieder modern zu gestalten oder Heimtextilien nach Maß anzufertigen – du verwandelst Stoffe in wahre Kunstwerke! 🧵✂️\"\n",
+        "responsibilities": [
+          "Maß nehmen und Kleidungsstücke anpassen, damit sie perfekt sitzen 👗📏",
+          "Reparaturen von defekten Kleidungsstücken durchführen 👖🛠️",
+          "Heimtextilien wie Gardinen oder Bettwäsche auf Maß zuschneiden 🏠🪡"
+        ],
+        "curriculum": [
+          "Textiltechnologie und Materialkunde 🌈📚",
+          "Maschinenführung und Wartung 🛠️",
+          "Kundengespräche und Beratungstechniken 🤝💬"
+        ],
+        "careerProspects": [
+          "Weiterbildung zur Maßschneidermeister/in ✨👔",
+          "Selbstständigkeit mit einem eigenen Atelier 🏡💼",
+          "Tätigkeit in der Mode- oder Textilindustrie 👗🌍"
+        ],
+        "furtherEducation": [
+          "Fortbildung in Modedesign 🖌️🎓",
+          "Spezialisierung auf Heimtextilien 🏠📐"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄🖊️",
+          "Praktische Eignungsprüfung in der Schneiderei ✂️🔍"
+        ],
+        "applicationRequirements": [
+          "Sekundarschulabschluss erforderlich 🎓",
+          "Grundlegende Fertigkeiten im Nähen von Vorteil 🧵"
+        ],
+        "applicationTips": [
+          "Betone dein handwerkliches Geschick und deine Kreativität 🌟✏️",
+          "Bereite Beispiele eigener Näharbeiten vor 🧷✂️"
+        ],
+        "requiredPersonalSkills": [
+          "Sorgfalt und Präzision 💎",
+          "Kreativität und modisches Gespür 🎨👗"
+        ],
+        "requiredPersonalTraits": [
+          "Geduld und Kundenorientierung 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du alles über Textilbearbeitung und moderne Schneidetechniken 📚🧵"
+        ],
+        "practicalStructure": [
+          "In der Schneiderei wirst du von Profis an Maschinen und Werkzeugen ausgebildet 💪✂️"
+        ],
+        "workEnvironment": [
+          "Arbeit in einer kreativen und präzisen Werkstatt 🎨",
+          "Beratung von Kunden, um individuelle Wünsche umzusetzen 🗣️💡"
+        ],
+        "advantages": [
+          "Kreatives Arbeiten mit Stoffen 🌟🎨",
+          "Hohe Kundenzufriedenheit durch individuelle Lösungen 😊💬"
+        ],
+        "challenges": [
+          "Hohe Konzentration und Genauigkeit erforderlich 🔍🖋️",
+          "Teilweise intensive Kundenberatung 🗣️👥"
+        ],
+        "didYouKnow": [
+          "Das 'kleine Schwarze' wurde durch Coco Chanel populär 👗✨",
+          "1152 wurde die erste Schneiderzunft in Deutschland gegründet 📜🇩🇪",
+          "Knöpfe und Knopflöcher wurden im 13. Jahrhundert erfunden 🧵🪡"
+        ]
+      }
+    }
+  }
+]

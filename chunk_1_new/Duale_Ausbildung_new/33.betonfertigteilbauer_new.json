@@ -1,0 +1,109 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2200,
+    "maxStartingSalary": 2700,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 3000,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 710,
+        "max": 1040
+      },
+      {
+        "min": 790,
+        "max": 1310
+      },
+      {
+        "min": 910,
+        "max": 1490
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Betonfertigteilbauer/in",
+        "overview": "\"Als Betonfertigteilbauer/in stellst du Bauelemente aus Beton, Holz und Stahl her 🏗️. Du sorgst dafür, dass der Bau schneller, kostengünstiger und präziser wird. Deine Arbeit erfordert technisches Geschick und präzises Arbeiten 📏.\"\n",
+        "responsibilities": [
+          "Herstellung von Bauelementen aus Beton, Holz und Stahl 🏗️.",
+          "Anmischen von Betongemischen nach Vorgaben 🧪.",
+          "Durchführung von Präzisionsarbeiten für maßgenaue Ergebnisse 📐."
+        ],
+        "curriculum": [
+          "Erlernen von Bau- und Schalungstechniken 🧱.",
+          "Sicherheitsvorschriften und Unfallvermeidung ⚠️.",
+          "Materialkunde und Betonzusammensetzung 🧪."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Bautechniker 🎓.",
+          "Aufstieg zum Industriemeister im Bauwesen 🏗️.",
+          "Option zur Selbstständigkeit als Bauunternehmer 🏢."
+        ],
+        "furtherEducation": [
+          "Meisterkurse im Betonbau 🎓.",
+          "Schulungen in modernen Bautechnologien 🌐."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📄.",
+          "Teilnahme an einem Eignungstest für Bauberufe 🛠️.",
+          "Praktikum zur Orientierung im Berufsfeld 🏗️."
+        ],
+        "applicationRequirements": [
+          "Räumliches Vorstellungsvermögen und Präzision 📐.",
+          "Teamfähigkeit und handwerkliches Geschick 🤝."
+        ],
+        "applicationTips": [
+          "Betone deine Stärke in Mathematik und Technik 📊.",
+          "Hebe praktische Erfahrungen wie Bauprojekte hervor 🧱."
+        ],
+        "requiredPersonalSkills": [
+          "Mathematische Fähigkeiten zur Berechnung von Mengen und Maßeinheiten 📊.",
+          "Sicherer Umgang mit technischen Geräten und Werkzeugen ⚙️."
+        ],
+        "requiredPersonalTraits": [
+          "Körperliche Belastbarkeit und Ausdauer 💪.",
+          "Präzises und zuverlässiges Arbeiten 🧐."
+        ],
+        "theoreticalStructure": [
+          "Theorieunterricht zu Bauverfahren, Materialkunde und Sicherheitsmaßnahmen 📚."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung im Umgang mit Betongemischen und Maschinen 🛠️."
+        ],
+        "workEnvironment": [
+          "Arbeit in Fabrikhallen für Betonfertigteile 🏭.",
+          "Montagearbeiten auf Baustellen bei jedem Wetter 🌦️."
+        ],
+        "advantages": [
+          "Hohes Ansehen in der Baubranche 🏆.",
+          "Gute Verdienstmöglichkeiten auch in der Ausbildung 💰.",
+          "Vielfältige Karrieremöglichkeiten 📈."
+        ],
+        "challenges": [
+          "Körperlich anspruchsvolle Arbeit 🏋️.",
+          "Arbeiten mit schweren Materialien und Maschinen ⚙️."
+        ],
+        "didYouKnow": [
+          "Beton kann Drücke von über 200 Kilogramm pro Quadratzentimeter aushalten 💪.",
+          "Die größte Betonpumpe der Welt ist 110 Meter hoch 🚚.",
+          "Betonfertigteile beschleunigen den Hausbau erheblich 🏠."
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "category": "economy_and_politics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 3000,
+    "minAvarageSalary": 2400,
+    "maxAvarageSalary": 3100,
+    "minExperiencedSalary": 3400,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "english",
+        "level": "B1"
+      },
+      {
+        "name": "german",
+        "level": "C1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Fremdsprachenkorrespondent/in",
+        "overview": "Als Fremdsprachenkorrespondent/in bist du die Brücke zwischen Kulturen und Sprachen 🌍📜. Mit deinem Talent für Kommunikation und Organisation hilfst du internationalen Unternehmen, den globalen Austausch zu meistern. Du übersetzt Dokumente, dolmetschst Gespräche und trägst dazu bei, dass wirtschaftliche und kulturelle Beziehungen weltweit gestärkt werden. Egal ob Englisch, Spanisch oder Chinesisch – deine Sprachkenntnisse sind der Schlüssel zum Erfolg! 🔑💬",
+        "responsibilities": [
+          "Übersetzen von Verträgen, Berichten und Betriebsanleitungen 📜✍️",
+          "Dolmetschen bei internationalen Geschäftsverhandlungen 🗣️🤝",
+          "Verfassen und Bearbeiten fremdsprachiger Korrespondenzen 📧🖋️",
+          "Pflegen und Aktualisieren von Terminologiedatenbanken 📊📚",
+          "Organisation und Abwicklung von Zolldokumenten 🚢🛃"
+        ],
+        "curriculum": [
+          "Erlernen und Vertiefen von Fremdsprachen 🌐📚",
+          "Wirtschaftsbezogene Fächer wie Marketing und Rechnungswesen 📈📊",
+          "Handelskorrespondenz und Büroorganisation ✍️📁",
+          "Übersetzungstechniken und Dolmetschtraining 🗣️📜",
+          "Außenhandelsgrundlagen und Landeskunde 🌍📘"
+        ],
+        "careerProspects": [
+          "Arbeit in internationalen Unternehmen oder Organisationen 🌐🏢",
+          "Tätigkeit in der Export- und Importbranche 🚢📦",
+          "Möglichkeiten zur Spezialisierung durch Weiterbildung 📚📈"
+        ],
+        "furtherEducation": [
+          "Studium in interkultureller Kommunikation oder internationaler Wirtschaft 🎓🌍",
+          "Aufstiegsweiterbildung zum Handelsbetriebswirt oder Exportmanager 📑📈",
+          "Selbstständigkeit mit einem eigenen Übersetzungsbüro 🖋️🏢"
+        ],
+        "applicationSteps": [
+          "Zusammenstellen von Lebenslauf, Anschreiben und Zeugnissen 📋✍️",
+          "Einreichen der Bewerbung bei einer Berufsfachschule oder Bildungseinrichtung 📧🏫",
+          "Absolvieren von Aufnahmeprüfungen und persönlichen Gesprächen 🗣️🎓"
+        ],
+        "applicationRequirements": [
+          "Realschulabschluss oder höherer Schulabschluss 🎓📘",
+          "Grundkenntnisse in Englisch und weiteren Fremdsprachen 🌐📚",
+          "Interesse an interkultureller Kommunikation und wirtschaftlichen Themen 🌍📊"
+        ],
+        "applicationTips": [
+          "Betone deine Sprachkenntnisse und kulturelle Erfahrungen im Lebenslauf 🌟📋",
+          "Bereite dich auf Aufnahmegespräche vor, um deine Motivation zu zeigen 🗣️💬",
+          "Hebe frühere Auslandserfahrungen oder Schüleraustausche hervor ✈️🌏"
+        ],
+        "requiredPersonalSkills": [
+          "Exzellente Sprach- und Kommunikationsfähigkeiten 💬📘",
+          "Organisationsgeschick und Multitasking-Fähigkeiten 📑🖋️",
+          "Fähigkeit, unter Zeitdruck präzise zu arbeiten ⏳📜"
+        ],
+        "requiredPersonalTraits": [
+          "Interesse an Kulturen und Sprachen 🌍✨",
+          "Flexibilität und Anpassungsfähigkeit 🌐🌀",
+          "Sorgfältigkeit und ein Auge fürs Detail 🧐📄"
+        ],
+        "theoreticalStructure": [
+          "Sprachliche, kulturelle und wirtschaftliche Grundlagen werden in kleinen Klassen vermittelt 🏫📘."
+        ],
+        "practicalStructure": [
+          "Praktika in internationalen Unternehmen bieten dir wertvolle Einblicke in die Berufspraxis 🌍🏢."
+        ],
+        "workEnvironment": [
+          "Büro und Besprechungsräume 🏢💼",
+          "Messen und internationale Veranstaltungen 🌐🎪",
+          "Auslandseinsätze und Geschäftsreisen ✈️🌍"
+        ],
+        "advantages": [
+          "Hohe Nachfrage nach Sprachspezialisten auf dem globalen Markt 🌍💼",
+          "Vielfältige Einsatzmöglichkeiten in spannenden Branchen ✈️📊",
+          "Chancen auf Auslandseinsätze und interkulturelle Erfahrungen 🌏✨"
+        ],
+        "challenges": [
+          "Hoher Anspruch an Genauigkeit und Sprachbeherrschung 📜🖋️",
+          "Flexibilität bei wechselnden Aufgaben und Arbeitszeiten ⏳🌍",
+          "Ständige Weiterbildung, um sprachlich und fachlich up-to-date zu bleiben 📘🚀"
+        ],
+        "didYouKnow": [
+          "Englisch ist in der Ausbildung obligatorisch, aber weitere Sprachen wie Chinesisch oder Spanisch bieten zusätzliche Karrieremöglichkeiten 🌐✍️.",
+          "Einige Ausbildungsträger bieten verpflichtende Auslandsaufenthalte an, um Praxiserfahrung zu sammeln ✈️🌏.",
+          "Die Abschlussprüfung kann je nach Bundesland variieren – in Bayern bist du beispielsweise Staatlich geprüfter Euro-Korrespondent 📜🇩🇪.",
+          "Ein breites Spektrum an Weiterbildungsmöglichkeiten eröffnet dir zahlreiche Karrieremöglichkeiten 🎓📈.",
+          "Mit jeder zusätzlichen Sprache kannst du deinen Wert auf dem Arbeitsmarkt erheblich steigern 🌟🌍."
+        ]
+      }
+    }
+  }
+]

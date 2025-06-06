@@ -1,0 +1,126 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1360,
+    "maxStartingSalary": 1400,
+    "minAvarageSalary": 1360,
+    "maxAvarageSalary": 2000,
+    "minExperiencedSalary": 2000,
+    "maxExperiencedSalary": 2600,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Fachkraft für Pflegeassistenz",
+        "overview": "👩‍⚕️ Möchtest du Menschen helfen und ihren Alltag erleichtern? Als Fachkraft für Pflegeassistenz bist du die helfende Hand für ältere, behinderte oder kranke Menschen, die auf Unterstützung angewiesen sind. ❤️ Ob bei der Grundpflege, im Haushalt oder als soziale Begleitung – deine Arbeit bringt nicht nur Freude, sondern auch Selbstständigkeit in das Leben deiner Schützlinge. Mit Empathie und Engagement kannst du einen wertvollen Beitrag leisten und den Alltag anderer heller machen. 🌟",
+        "responsibilities": [
+          "Unterstützung bei der Grund- und Körperpflege, wie Waschen, Anziehen und Essen 🛁🍴",
+          "Hauswirtschaftliche Tätigkeiten wie Kochen, Einkaufen und Sauberkeit sicherstellen 🛒🧹",
+          "Betreuung und soziale Begleitung von Pflegebedürftigen, z. B. durch Gesellschaftsspiele 🎲",
+          "Anleitung zur Eigenständigkeit und Förderung von Mobilität 🚶‍♀️",
+          "Kontrolle von Lebensmitteln und Hygienestandards in Privathaushalten 🥫🧼",
+          "Begleitung bei Arztbesuchen und anderen Terminen 🚗"
+        ],
+        "curriculum": [
+          "Grundpflege und Körperhygiene 🛁",
+          "Hauswirtschaft und Ernährung 🥗",
+          "Soziale Betreuung und Kommunikation 🗣️",
+          "Gesundheits- und Krankenpflege 📚",
+          "Rechts- und Berufskunde ⚖️"
+        ],
+        "careerProspects": [
+          "Anstellung in Krankenhäusern, Altenheimen oder ambulanten Diensten 🚀",
+          "Spezialisierung auf soziale Betreuung oder Hauswirtschaft 🏠",
+          "Weiterbildung zur Fachkraft in der Alten- und Krankenpflege 📋",
+          "Selbstständigkeit im Pflege- oder Hauswirtschaftsbereich 💼"
+        ],
+        "furtherEducation": [
+          "Weiterbildung zum Haus- und Familienpfleger 🏡",
+          "Fachwirt in der Alten- und Krankenpflege 📚",
+          "Selbstständigkeit im pflegerischen oder hauswirtschaftlichen Bereich 💼"
+        ],
+        "applicationSteps": [
+          "Erstellen eines professionellen Lebenslaufs mit Foto 📋",
+          "Schreiben eines individuellen Anschreibens, das Motivation und Eignung betont ✍️",
+          "Einreichen von Zeugniskopien und eventuell Praktikumsnachweisen 📄"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss 🎓",
+          "Soziales Engagement und Empathie 🤝",
+          "Körperliche Belastbarkeit 💪"
+        ],
+        "applicationTips": [
+          "Betone praktische Erfahrungen wie Babysitter- oder Pflegejobs 👶",
+          "Hebe deine sozialen und kommunikativen Fähigkeiten hervor 🗣️",
+          "Zeige, dass dir die Arbeit mit Menschen Freude bereitet 🌟"
+        ],
+        "requiredPersonalSkills": [
+          "Pflege- und Betreuungskompetenz 🧑‍⚕️",
+          "Hauswirtschaftliche Fähigkeiten 🧹",
+          "Kommunikationsstärke 🗣️"
+        ],
+        "requiredPersonalTraits": [
+          "Empathie und Einfühlungsvermögen ❤️",
+          "Verantwortungsbewusstsein 💼",
+          "Geduld und Belastbarkeit 💪"
+        ],
+        "theoreticalStructure": [
+          "📚 Der schulische Teil vermittelt dir Fachwissen in der Pflege, Hauswirtschaft und sozialen Betreuung. Du lernst, wie du die Bedürfnisse von Pflegebedürftigen erkennst und ihnen mit professioneller Unterstützung hilfst.\n"
+        ],
+        "practicalStructure": [
+          "🛠️ Praktika in verschiedenen Einrichtungen wie Altenheimen, Krankenhäusern oder ambulanten Diensten helfen dir, das Gelernte in die Praxis umzusetzen und wertvolle Erfahrungen zu sammeln.\n"
+        ],
+        "workEnvironment": [
+          "Alten- und Pflegeheime 🏡",
+          "Krankenhäuser 🏥",
+          "Einrichtungen zur Betreuung behinderter Menschen ♿",
+          "Ambulante Pflegedienste 🚐"
+        ],
+        "advantages": [
+          "Sinnvolle und erfüllende Arbeit mit direktem Impact auf das Leben anderer 🌟",
+          "Vielseitige Arbeitsbereiche mit unterschiedlichen Aufgaben 🧹",
+          "Gute Einstiegsmöglichkeiten und sichere Berufsaussichten 📈"
+        ],
+        "challenges": [
+          "Hohe körperliche und emotionale Belastung 💪😓",
+          "Anstrengender Schichtdienst mit flexiblen Arbeitszeiten ⏰",
+          "Verantwortung für das Wohl anderer Menschen 💼"
+        ],
+        "didYouKnow": [
+          "Es gibt mehr weibliche als männliche Pflegebedürftige in Deutschland 👵🧓",
+          "Die Zahl der Pflegebedürftigen ist in den letzten Jahren stark gestiegen 📈",
+          "Pflegefehler haben in den letzten Jahren abgenommen 🧼",
+          "Es gibt eine pflegewissenschaftliche Fachzeitschrift namens 'Pflege' 📚",
+          "Behinderungen müssen nicht angeboren sein – viele entstehen im Laufe des Lebens ♿"
+        ]
+      }
+    }
+  }
+]

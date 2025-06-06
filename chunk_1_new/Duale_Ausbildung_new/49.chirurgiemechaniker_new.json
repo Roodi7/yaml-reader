@@ -1,0 +1,112 @@
+[
+  {
+    "category": "metal_and_electronics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3.5
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2800,
+    "maxStartingSalary": 3300,
+    "minAvarageSalary": 3100,
+    "maxAvarageSalary": 4700,
+    "minExperiencedSalary": 4000,
+    "maxExperiencedSalary": 5200,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 999
+      },
+      {
+        "min": 766,
+        "max": 1043
+      },
+      {
+        "min": 876,
+        "max": 1119
+      },
+      {
+        "min": 909,
+        "max": 1177
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Chirurgiemechaniker/in",
+        "overview": "\"Als Chirurgiemechaniker/in stellst du hochpräzise medizinische Instrumente her, die in der Chirurgie verwendet werden 💉. Deine Arbeit trägt dazu bei, Leben zu retten und die medizinische Versorgung zu verbessern 📚.\"\n",
+        "responsibilities": [
+          "Herstellung und Reparatur von chirurgischen Instrumenten 🔧.",
+          "Bedienung von Fräs- und Schleifmaschinen zur Präzisionsarbeit 🎨.",
+          "Qualitätskontrolle und Materialprüfung 🔄."
+        ],
+        "curriculum": [
+          "Werkstoffkunde und Maschinenbedienung 🔄.",
+          "Präzisionsarbeit und Sicherheitsstandards 🎨.",
+          "Qualitätskontrolle und Materialprüfung 🎨."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Chirurgiemechanikermeister 🏆.",
+          "Studium in Medizintechnik oder Ingenieurwissenschaften 🔬.",
+          "Aufstieg in leitende oder spezialisierte Positionen 📚."
+        ],
+        "furtherEducation": [
+          "Kurse in moderner Medizintechnik und Digitalisierung 🔧.",
+          "Technikerschulen für Feinwerktechnik 🎨."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📚.",
+          "Teilnahme an einem technischen Eignungstest 🎨."
+        ],
+        "applicationRequirements": [
+          "Technisches Verständnis und handwerkliches Geschick 🔧.",
+          "Hohes Maß an Konzentration und Genauigkeit 🎨."
+        ],
+        "applicationTips": [
+          "Betone deine Erfahrungen in Technik oder Handwerk 🔧.",
+          "Hebe deine Stärken in Präzisionsarbeit und Verantwortung hervor 🎨."
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Technik und Werkstoffkunde 🔄.",
+          "Fähigkeit zur Präzisionsarbeit und Teamarbeit 🔧."
+        ],
+        "requiredPersonalTraits": [
+          "Zuverlässigkeit und Belastbarkeit in stressigen Situationen 🔄.",
+          "Flexibilität und Innovationsfreude 🔧."
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Schwerpunkt auf Werkstoffkunde, Technik und Medizin 🎨."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung in Werkstätten mit moderner Technik 🔧."
+        ],
+        "workEnvironment": [
+          "Werkstätten und Produktionshallen der Medizintechnik 🏢.",
+          "Arbeiten in hochsterilen Umgebungen 📚."
+        ],
+        "advantages": [
+          "Hohe Verantwortung in einem lebensrettenden Beruf 📚.",
+          "Attraktive Gehalts- und Entwicklungschancen 💰.",
+          "Arbeiten mit innovativer Technologie und hoher Präzision 🎨."
+        ],
+        "challenges": [
+          "Arbeiten mit hohen Konzentrationsanforderungen 🔄.",
+          "Strenge Hygienerichtlinien und Sicherheitsvorkehrungen 📚."
+        ],
+        "didYouKnow": [
+          "Chirurgische Instrumente müssen oft millimetergenaue Präzision haben 🎨.",
+          "Die Medizintechnikbranche gehört zu den innovativsten weltweit 🔧.",
+          "Als Chirurgiemechaniker/in trägst du direkt zur Patientenversorgung bei 📚."
+        ]
+      }
+    }
+  }
+]

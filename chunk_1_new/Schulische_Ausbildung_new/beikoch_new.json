@@ -1,0 +1,121 @@
+[
+  {
+    "category": "gastronomy_and_food",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1200,
+    "maxStartingSalary": 1400,
+    "minAvarageSalary": 1400,
+    "maxAvarageSalary": 2000,
+    "minExperiencedSalary": 1800,
+    "maxExperiencedSalary": 2500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Beikoch/Beiköchin",
+        "overview": "Als Beikoch/Beiköchin bist du die rechte Hand des Kochs und sorgst dafür, dass die Küche wie ein gut geöltes Uhrwerk läuft. Vom Gemüse schneiden über das Anrichten von Speisen bis hin zur Organisation des Küchenablaufs bist du ein unverzichtbarer Teil jedes Küchenteams. Dieser Beruf ist ideal für Menschen, die Spaß an Teamarbeit haben, multitaskingfähig sind und die Gastronomie lieben.",
+        "responsibilities": [
+          "Unterstützung des Kochs bei der Zubereitung und dem Anrichten von Speisen. 🥗",
+          "Sicherstellung der Einhaltung von Hygienevorschriften in der Küche. 🧼",
+          "Vorbereitung von Zutaten wie Schneiden von Gemüse und Marinieren von Fleisch. 🍖",
+          "Mitwirkung bei der Planung und Organisation des Küchenbetriebs. 📋",
+          "Hilfstätigkeiten bei der Zubereitung von Desserts und Vorspeisen. 🍰"
+        ],
+        "curriculum": [
+          "Hygienevorschriften und Lebensmittelkunde. 🧼",
+          "Grundlagen der Zubereitungstechniken und Rezeptentwicklung. 📘",
+          "Ernährungslehre und Warenkunde. 🍎",
+          "Kostenkalkulation und Einkauf. 💰"
+        ],
+        "careerProspects": [
+          "Arbeit in renommierten Restaurants oder Hotelketten. 🌟",
+          "Weiterbildung zum Koch oder Küchenmeister. 🍽️",
+          "Einstieg in die Systemgastronomie oder Eventgastronomie. 🎉"
+        ],
+        "furtherEducation": [
+          "Fortbildung zum Koch. 👨‍🍳",
+          "Aufstiegsweiterbildung zum Küchenmeister. 📜",
+          "Studium in Lebensmitteltechnik oder Ökotrophologie. 🎓"
+        ],
+        "applicationSteps": [
+          "Einreichen eines Lebenslaufs und Zeugnissen. 📄",
+          "Erstellung eines Anschreibens mit Motivation und Erfahrungen. ✍️"
+        ],
+        "applicationRequirements": [
+          "Gute Noten in Fächern wie Hauswirtschaft oder Naturwissenschaften. 📚",
+          "Freude am Umgang mit Lebensmitteln und Teamarbeit. 🥗",
+          "Zuverlässigkeit und Belastbarkeit. 💪"
+        ],
+        "applicationTips": [
+          "Betone praktische Erfahrungen wie ein Schülerpraktikum in der Gastronomie. 👨‍🍳",
+          "Zeige Interesse und Leidenschaft für die Gastronomie. 🌟"
+        ],
+        "requiredPersonalSkills": [
+          "Gute Organisation und Multitasking-Fähigkeiten. 📋",
+          "Schnelligkeit und Präzision bei der Arbeit. ⏱️",
+          "Teamfähigkeit und Belastbarkeit. 💪"
+        ],
+        "requiredPersonalTraits": [
+          "Kreativität und Liebe zum Detail. 🎨",
+          "Stressresistenz und Flexibilität. 🧘‍♂️",
+          "Ehrgeiz und Lernbereitschaft. 📘"
+        ],
+        "theoreticalStructure": [
+          "\"Unterricht an privaten Bildungseinrichtungen, z.B. zu Hygiene, Ernährungskunde und Betriebswirtschaft. 📖\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praktische Einsätze in Großküchen und Restaurants. 🍳\"\n"
+        ],
+        "workEnvironment": [
+          "Restaurants und Hotels. 🏨",
+          "Krankenhäuser und Seniorenheime. 🏥",
+          "Kantinen und Großküchen. 🍴",
+          "Catering-Firmen und Eventgastronomie. 🎉"
+        ],
+        "advantages": [
+          "Abwechslungsreicher Arbeitsalltag in der Gastronomie. 🔄",
+          "Hohe Nachfrage nach qualifizierten Fachkräften. 📈",
+          "Gute Basis für eine Karriere in der Gastronomie. 🏆"
+        ],
+        "challenges": [
+          "Hohe körperliche Belastung durch langes Stehen und Arbeiten unter Zeitdruck. ⏰",
+          "Schwankendes Einkommen je nach Betrieb und Region. 💰",
+          "Unregelmäßige Arbeitszeiten, auch an Wochenenden und Feiertagen. 📆"
+        ],
+        "didYouKnow": [
+          "Das größte Restaurant der Welt steht in Damaskus und hat 6014 Plätze. 🍽️",
+          "Viele moderne Restaurants entstanden nach der Französischen Revolution. 🇫🇷",
+          "Salmonellen sind eine der häufigsten Ursachen für Lebensmittelvergiftungen. 🧼",
+          "In Japan geben Menschen bis zu 30% ihres Einkommens für Essen aus. 🍣",
+          "In Deutschland essen täglich 6,1 Millionen Menschen in Kantinen zu Mittag. 🍴"
+        ]
+      }
+    }
+  }
+]

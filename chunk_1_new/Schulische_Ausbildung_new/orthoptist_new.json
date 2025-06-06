@@ -1,0 +1,120 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "part_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2418,
+    "maxStartingSalary": 2733,
+    "minAvarageSalary": 2418,
+    "maxAvarageSalary": 3340,
+    "minExperiencedSalary": 3170,
+    "maxExperiencedSalary": 4300,
+    "trainingSalary": [
+      {
+        "min": 1068,
+        "max": 1068
+      },
+      {
+        "min": 1118,
+        "max": 1118
+      },
+      {
+        "min": 1164,
+        "max": 1164
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Orthoptist/in",
+        "overview": "Orthoptisten sind Experten für Augenheilkunde und unterstützen Ärzte bei der Diagnose und Behandlung von Sehschwächen und Augenerkrankungen. 👁️",
+        "responsibilities": [
+          "Diagnose und Behandlung von Sehschwächen wie Schielen oder Augenzittern 🩺",
+          "Beratung von Patienten aller Altersgruppen über geeignete Therapieoptionen 📋",
+          "Anpassung von Sehhilfen und Durchführung von präventiven Augenuntersuchungen 🕶️",
+          "Dokumentation von Untersuchungsergebnissen und Fortschritten 📑"
+        ],
+        "curriculum": [
+          "Grundlagen der Anatomie des Auges und seiner Funktion 🧠",
+          "Diagnoseverfahren für Sehschwächen und Augenerkrankungen 🩺",
+          "Therapieverfahren wie Pleoptik und Orthoptik 👓",
+          "Arzneimittelkunde und Neuroophthalmologie 🧬"
+        ],
+        "careerProspects": [
+          "Tätigkeit in Augenkliniken, Praxen oder Universitätskliniken 🏥",
+          "Spezialisierung auf bestimmte Bereiche wie Neuroophthalmologie 🎯",
+          "Aufstiegsmöglichkeiten durch Weiterbildungen oder Studium 🎓"
+        ],
+        "furtherEducation": [
+          "Weiterbildung zur Fachkraft für Augenoptik oder Hygiene im Gesundheitswesen 🩺",
+          "Studium im Bereich Gesundheitsmanagement oder Humanmedizin 📚",
+          "Betriebswirt im Management des Gesundheitswesens für Führungspositionen 📈"
+        ],
+        "applicationSteps": [
+          "Bewerbungsunterlagen einschließlich Lebenslauf und Anschreiben erstellen 📑",
+          "Nachweis über gesundheitliche Eignung und Praktika beilegen 🏥",
+          "Bewerbung an eine der wenigen Fachschulen für Orthoptik senden ✉️"
+        ],
+        "applicationRequirements": [
+          "Guter mittlerer Schulabschluss 🎓",
+          "Interesse an Biologie, Chemie und Physik 🧬",
+          "Geduld, Geschicklichkeit und Verantwortungsbewusstsein 🤝"
+        ],
+        "applicationTips": [
+          "Hebe deine Begeisterung für Augenheilkunde und Patientenbetreuung hervor ✨",
+          "Betone praktische Erfahrungen wie Schulpraktika im medizinischen Bereich 🌟",
+          "Vermeide Floskeln und sei authentisch in deiner Bewerbung 📝"
+        ],
+        "requiredPersonalSkills": [
+          "Präzise Durchführung diagnostischer Tests und Anpassung von Sehhilfen 👓",
+          "Effektive Kommunikation mit Patienten und Kollegen 📋",
+          "Fundiertes Wissen über Augenanatomie und therapeutische Verfahren 🩺"
+        ],
+        "requiredPersonalTraits": [
+          "Geduld und Einfühlungsvermögen im Umgang mit Patienten 🤗",
+          "Sorgfalt und Verantwortungsbewusstsein im Berufsalltag 🎯",
+          "Interesse an ständiger Weiterbildung und medizinischen Entwicklungen 📚"
+        ],
+        "theoreticalStructure": [
+          "Umfasst Fächer wie Anatomie, Pleoptik und Arzneimittelkunde 📘"
+        ],
+        "practicalStructure": [
+          "4-monatige Praxisphase in Augenkliniken, Praxen oder Rehakliniken 🏥"
+        ],
+        "workEnvironment": [
+          "Augenkliniken und -arztpraxen 🏥",
+          "Rehabilitationszentren für Menschen mit Sehbehinderungen 👓",
+          "Universitätskliniken mit Abteilungen für Neuroophthalmologie oder Strabologie 🎓"
+        ],
+        "advantages": [
+          "Hohe Nachfrage nach spezialisierten Fachkräften im Gesundheitswesen 🩺",
+          "Abwechslungsreicher und verantwortungsvoller Arbeitsalltag 🏥",
+          "Direkter Kontakt mit Patienten aller Altersgruppen 👩‍⚕️"
+        ],
+        "challenges": [
+          "Hoher Lernaufwand in Theorie und Praxis 📘",
+          "Umgang mit empfindlichen medizinischen Geräten erfordert Geschicklichkeit 🎯",
+          "Einsatz in Kliniken kann Schichtdienst und Wochenendarbeit umfassen ⏰"
+        ],
+        "didYouKnow": [
+          "Mehr als 60 % der Deutschen tragen eine Brille 👓",
+          "Schielen ist in 6 % der Bevölkerung Mitteleuropas verbreitet 🧠",
+          "Augen bewegen sich auch im Schlaf in der REM-Phase 🌙",
+          "Orthoptisten arbeiten oft mit kleinen Kindern und älteren Menschen zusammen 👩‍⚕️",
+          "Die Ausbildung erfolgt an nur 14 Fachschulen in Deutschland 🎓"
+        ]
+      }
+    }
+  }
+]

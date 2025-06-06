@@ -1,0 +1,117 @@
+[
+  {
+    "category": "transport_and_logistics",
+    "jobType": ["full_time"],
+    "duration": [3],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2200,
+    "maxStartingSalary": 2600,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 3800,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Eisenbahner/in",
+        "overview": "Ob als Lokführer:in im Betriebsdienst oder bei der Steuerung des Zugverkehrs – Eisenbahner:innen sorgen für einen reibungslosen Bahnverkehr und tragen Verantwortung für Personen- und Gütertransporte. 🚉",
+        "responsibilities": [
+          "Steuerung von Zügen und Triebfahrzeugen 🚂",
+          "Planung und Überwachung von Fahrplänen und Zugverkehr 📋",
+          "Sicherstellung der Einhaltung von Fahrdienstvorschriften ⚠️",
+          "Wartung und Überprüfung von Fahrzeugen und Infrastruktur 🔧",
+          "Weichenstellung und Signalbedienung im Stellwerk 🛠️"
+        ],
+        "curriculum": [
+          "Fahrdienstvorschriften und Sicherheitsvorkehrungen ⚠️",
+          "Fahrzeugtechnik und Wartung 🚂",
+          "Bedienung von Stellwerkseinrichtungen 🏢",
+          "Kundenorientierung und Kommunikation 💬"
+        ],
+        "careerProspects": [
+          "Lokführer:in im Personen- oder Güterverkehr 🚉",
+          "Fahrdienstleiter:in im Stellwerk 🏢",
+          "Weiterbildung zum Meister oder Techniker im Bahnverkehr 🎓"
+        ],
+        "furtherEducation": [
+          "Meister (Bahnverkehr) für Führungsaufgaben 🏢",
+          "Techniker (Verkehrstechnik) für technische Spezialisierungen ⚙️",
+          "Studium in Verkehrsingenieurwesen oder Fahrzeugtechnik 🎓"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Anschreiben, Lebenslauf und Zeugnissen 📄",
+          "Einstellungstests mit Fokus auf technische Fähigkeiten und Konzentration 📋",
+          "Vorstellungsgespräch im Casual-Look 🧥"
+        ],
+        "applicationRequirements": [
+          "Technisches Verständnis und handwerkliches Geschick ⚙️",
+          "Verantwortungsbewusstsein und schnelle Reaktionsfähigkeit 🎯",
+          "Gute Noten in Physik, Mathematik und Technik 📚"
+        ],
+        "applicationTips": [
+          "Betone Erfahrungen in technischen oder logistischen Bereichen 🔧",
+          "Zeige Begeisterung für Technik und Schienenverkehr 🚉",
+          "Hebe Teamfähigkeit und Stressresistenz hervor 🧠"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und handwerkliches Geschick ⚙️",
+          "Fähigkeit zur Teamarbeit und klare Kommunikation 💬",
+          "Schnelle Reaktionsfähigkeit und Stressresistenz 🧠"
+        ],
+        "requiredPersonalTraits": [
+          "Aufmerksame und präzise Arbeitsweise 🎯",
+          "Hohes Verantwortungsbewusstsein und Zuverlässigkeit ✅",
+          "Faszination für Züge und Bahntechnik 🚉"
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Schwerpunkt auf Regeln des Schienenverkehrs, Fahrdienstvorschriften und technischer Infrastruktur 📚"
+        ],
+        "practicalStructure": [
+          "Einsatz im Ausbildungsbetrieb für das Bedienen von Fahrzeugen oder Stellwerksystemen 🛠️"
+        ],
+        "workEnvironment": [
+          "Lokomotiven und Zugcockpits 🚂",
+          "Stellwerke und Betriebsleitzentralen 🏢",
+          "Eisenbahninfrastrukturunternehmen 🏭"
+        ],
+        "advantages": [
+          "Hohes Maß an Jobsicherheit durch steigende Nachfrage 🚉",
+          "Verantwortungsvolle Tätigkeiten mit klaren Strukturen 📋",
+          "Gute Entwicklungsmöglichkeiten und Karrierechancen 🎓"
+        ],
+        "challenges": [
+          "Schichtarbeit und Arbeit an Wochenenden und Feiertagen ⏰",
+          "Hohe Konzentration und Stressresistenz erforderlich 🧠",
+          "Verantwortung für Sicherheitsmaßnahmen und Technik ⚠️"
+        ],
+        "didYouKnow": [
+          "Das deutsche Schienennetz umfasst über 40.000 Kilometer 🚆.",
+          "Die erste Eisenbahnstrecke Deutschlands wurde 1835 eröffnet 🚂.",
+          "Lokführer:innen tragen die Verantwortung für bis zu 1.000 Fahrgäste pro Fahrt! 🚉",
+          "Im Zuge des Klimaschutzes soll der Bahnverkehr massiv ausgebaut werden 🌍.",
+          "Die Digitalisierung spielt eine immer größere Rolle im Bahnverkehr 💻."
+        ]
+      }
+    }
+  }
+]

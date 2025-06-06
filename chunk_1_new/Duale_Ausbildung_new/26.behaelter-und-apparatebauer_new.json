@@ -1,0 +1,110 @@
+[
+  {
+    "category": "metal_and_electronics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3.5
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2900,
+    "maxStartingSalary": 3200,
+    "minAvarageSalary": 2900,
+    "maxAvarageSalary": 5000,
+    "minExperiencedSalary": 4000,
+    "maxExperiencedSalary": 5000,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 999
+      },
+      {
+        "min": 766,
+        "max": 1043
+      },
+      {
+        "min": 876,
+        "max": 1119
+      },
+      {
+        "min": 909,
+        "max": 1177
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Behälter- und Apparatebauer/in",
+        "overview": "\"Als Behälter- und Apparatebauer/in stellst du komplexe Behälter und Apparaturen her, die in unterschiedlichsten Branchen verwendet werden. 🛠️✨ Deine Arbeit ist entscheidend für die Sicherheit und Effizienz moderner Anlagen. 🚀🔩\"\n",
+        "responsibilities": [
+          "Fertigung von Behältern und Apparaten aus Metall 🛠️✨",
+          "Schweißen, Löten und Montieren von Bauteilen 🔧✨",
+          "Qualitätskontrolle und Wartung fertiger Produkte 📋✨"
+        ],
+        "curriculum": [
+          "Schweißtechniken und Werkstoffkunde 📜✨",
+          "Planung und Umsetzung von Fertigungsprozessen 📋✨",
+          "Qualitätsmanagement und Sicherheitstechnik 🧾✨"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Behälter- und Apparatebauermeister/in 🎓✨",
+          "Karriere in Bereichen wie Verfahrenstechnik oder Produktionsleitung 🚀✨",
+          "Selbstständigkeit in der Metallverarbeitung 🌟✨"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Maschinenbau oder Metalltechnik 🎓📘",
+          "Fortbildung in Schweißtechnik oder Qualitätsmanagement 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Eignungstests und praktisches Probearbeiten 🧠✨"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss oder höherer Schulabschluss 🎓",
+          "Handwerkliches Geschick und technisches Interesse 🌟🛠️"
+        ],
+        "applicationTips": [
+          "Hebe deine Fähigkeiten in Technik und Präzision hervor 📄✨",
+          "Betone Erfahrungen in handwerklichen oder technischen Projekten 📋✨"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und handwerkliches Geschick 🔧✨",
+          "Sorgfalt und Genauigkeit bei der Arbeit 📋✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Verantwortungsbewusstsein 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "Theoriephasen in Berufsschulen mit Fokus auf Werkstoffkunde und Fertigungsverfahren 📘✨"
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung im Betrieb mit Schwerpunkt auf Produktion und Montage 🌟✨"
+        ],
+        "workEnvironment": [
+          "Arbeit in Werkstätten und Produktionshallen 🏭✨",
+          "Einsatz in Betrieben der Metall- und Energiebranche 🌍✨"
+        ],
+        "advantages": [
+          "Abwechslungsreiche Tätigkeiten mit modernen Technologien 🌍✨",
+          "Hohe Nachfrage und attraktive Verdienstmöglichkeiten 🚀✨"
+        ],
+        "challenges": [
+          "Arbeiten unter hohen Sicherheitsanforderungen und Präzision 🌟📜",
+          "Körperliche Belastung bei der Montage großer Bauteile 🛠️✨"
+        ],
+        "didYouKnow": [
+          "Behälter- und Apparatebauer arbeiten oft mit High-Tech-Materialien 🌍✨",
+          "Der Beruf bietet zahlreiche Spezialisierungsmöglichkeiten, z. B. in der Schweißtechnik 🔧✨",
+          "Die Ausbildung dauert 3,5 Jahre und bietet einen direkten Einstieg in die Industrie 🚀✨"
+        ]
+      }
+    }
+  }
+]

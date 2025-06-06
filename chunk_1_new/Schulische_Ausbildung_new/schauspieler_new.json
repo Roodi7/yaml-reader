@@ -1,0 +1,130 @@
+[
+  {
+    "category": "media",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3,
+      4
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1850,
+    "maxStartingSalary": 2100,
+    "minAvarageSalary": 1850,
+    "maxAvarageSalary": 6000,
+    "minExperiencedSalary": 4000,
+    "maxExperiencedSalary": 6000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Schauspieler/in",
+        "overview": "Die Oscarverleihung zieht dich jedes Jahr vor den Bildschirm 🎥, und du stellst dir vor, deine Dankesrede vor tosendem Applaus zu halten 👏. Doch was auf der Bühne so leicht aussieht, erfordert harte Arbeit 💪. Diese Ausbildung vermittelt dir die Fähigkeiten, um erfolgreich im Theater oder Fernsehen zu bestehen 🌟.",
+        "responsibilities": [
+          "Entwicklung und Darstellung von Charakteren auf der Bühne 🎭.",
+          "Zusammenarbeit mit Regisseuren und anderen Schauspielern 🤝.",
+          "Vorbereitung und Proben für Aufführungen 🎬.",
+          "Integration von Tanz und Gesang in die Darstellung 🎶.",
+          "Teilnahme an Vorsprechen und kontinuierliche Weiterbildung 📚."
+        ],
+        "curriculum": [
+          "Theoretisches Schauspieltraining und Theatergeschichte 🎓.",
+          "Kameratraining und Interpretation klassischer Stücke 📽️.",
+          "Training in Tanz und Gesang für Musicals 🎶."
+        ],
+        "careerProspects": [
+          "Theaterdarsteller 🎭.",
+          "Filmschauspieler 🎬.",
+          "Musicaldarsteller 🎤.",
+          "Regisseur 🎥."
+        ],
+        "furtherEducation": [
+          "Weiterbildung in Regie oder Theaterpädagogik 🎓.",
+          "Kameratraining für Film und Fernsehen 📽️.",
+          "Spezialisierung auf Tanz oder Gesang 🎶."
+        ],
+        "applicationSteps": [
+          "Recherchiere geeignete Schauspielschulen 🎓.",
+          "Bereite einen handschriftlichen Lebenslauf und Bewerbungsunterlagen vor ✍️.",
+          "Nimm an einem Vorsprechen teil und präsentiere ausgewählte Rollen 🎭."
+        ],
+        "applicationRequirements": [
+          "Mindestalter von 17 Jahren 📅.",
+          "Erfolgreicher Abschluss der 10. Klasse 🎓.",
+          "Künstlerisches Interesse und erste Bühnenerfahrungen 🌟."
+        ],
+        "applicationTips": [
+          "Engagiere dich in Theatergruppen oder nimm privaten Schauspielunterricht 🎭.",
+          "Übe klassische Rollen und Gedichte für die Bewerbung 📖.",
+          "Bereite dich auf unterschiedliche Anforderungen vor 🌟."
+        ],
+        "requiredPersonalSkills": [
+          "Texte auswendig lernen 📖.",
+          "Improvisation und Ausdrucksstärke 🎭.",
+          "Teamfähigkeit und Flexibilität 🤝."
+        ],
+        "requiredPersonalTraits": [
+          "Kreativität 🌟.",
+          "Durchhaltevermögen 💪.",
+          "Emotionale Ausdrucksfähigkeit 🎭."
+        ],
+        "theoreticalStructure": [
+          "Unterricht in Schauspieltechniken, Literatur und Theaterpädagogik 📚."
+        ],
+        "practicalStructure": [
+          "Proben und Aufführungen unter realen Bedingungen 🎭."
+        ],
+        "workEnvironment": [
+          "Theaterbühnen und Filmsets 🎥.",
+          "Proberäume und Schauspielschulen 🎭.",
+          "Reisetätigkeiten zu unterschiedlichen Aufführungsorten ✈️."
+        ],
+        "advantages": [
+          "Abwechslungsreiche Tätigkeiten in verschiedenen Rollen 🌟.",
+          "Möglichkeit, in Theater und Film zu arbeiten 🎥.",
+          "Kreative Entfaltung und persönliche Weiterentwicklung 🎭."
+        ],
+        "challenges": [
+          "Hoher Konkurrenzdruck bei Vorsprechen 🎭.",
+          "Unregelmäßige Arbeitszeiten und Reisen ✈️.",
+          "Finanzielle Unsicherheiten während der Ausbildung 💰."
+        ],
+        "didYouKnow": [
+          "Anthony Hopkins war in 'Das Schweigen der Lämmer' nur 16 Minuten zu sehen 🎥.",
+          "Das Musical 'Phantom der Oper' wurde über 10.450 Mal am Broadway aufgeführt 🎶.",
+          "Jennifer Lawrence übersprang in der Schule zwei Klassen 📚.",
+          "William Shakespeare war auch selbst Schauspieler 🎭.",
+          "Die deutsche Schauspielerin Heike Makatsch war mit Daniel Craig liiert 🎬."
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "category": "finance_insurance_and_real_estate",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2170,
+    "maxStartingSalary": 2330,
+    "minAvarageSalary": 2170,
+    "maxAvarageSalary": 2753,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 2753,
+    "trainingSalary": [
+      {
+        "min": 1100,
+        "max": 1100
+      },
+      {
+        "min": 1100,
+        "max": 1100
+      },
+      {
+        "min": 1100,
+        "max": 1100
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Beamter/Beamtin Bundesbank (mittlerer Dienst)",
+        "overview": "\"Als Beamter/Beamtin bei der Bundesbank im mittleren Dienst übernimmst du wichtige Aufgaben hinter den Kulissen des deutschen Finanzsystems. 💶✨ Du prüfst Geldscheine auf ihre Echtheit, bist an der Verteilung neuer Banknoten beteiligt und sorgst dafür, dass der Geldkreislauf reibungslos funktioniert. 🏦⚙️\"\n",
+        "responsibilities": [
+          "Prüfung und Vernichtung von Falschgeld 🔍💸",
+          "Bearbeitung und Verteilung von Bargeld an Banken und Finanzinstitute 🏦📤",
+          "Verwaltung großer Bargeldbestände in Tresoren 🏢🔐"
+        ],
+        "curriculum": [
+          "Finanzmathematik und Rechnungswesen 📊✨",
+          "Gesetzliche Vorschriften und Verwaltungsanweisungen 📜⚖️",
+          "Praktische Geldbearbeitung und Sicherheitstechniken 💶🔍"
+        ],
+        "careerProspects": [
+          "Aufstieg in den gehobenen Bankdienst bei der Deutschen Bundesbank 🚀🎓",
+          "Weiterbildung in spezialisierten Finanzbereichen 🌟📈",
+          "Karrierechancen in öffentlichen Institutionen und Banken 🏦✨"
+        ],
+        "furtherEducation": [
+          "Bachelorstudium im Bereich Finanzdienstleistungen oder Verwaltungswissenschaften 🎓📚",
+          "Fortbildung zum Bankfachwirt oder Bankbetriebswirt ✨📘"
+        ],
+        "applicationSteps": [
+          "Online-Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄💻",
+          "Eignungstest zu Logik, Rechtschreibung und Rechnen 🧠✏️"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder gleichwertiger Schulabschluss 🎓",
+          "Deutsche oder EU-Staatsbürgerschaft erforderlich 🇩🇪✨"
+        ],
+        "applicationTips": [
+          "Betone deine Stärken in Mathematik und Organisation ✍️📊",
+          "Hebe Praktika oder Erfahrungen in der Finanzwelt hervor 📄💡"
+        ],
+        "requiredPersonalSkills": [
+          "Mathematisches und analytisches Denken 🔢✨",
+          "Organisationsgeschick und Genauigkeit 📋✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Verantwortungsbewusstsein 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Theoriephase lernst du Bankbetriebslehre, Finanzmathematik und rechtliche Grundlagen 📘💡"
+        ],
+        "practicalStructure": [
+          "Während der Praxisphase sammelst du Erfahrung in der Zentrale und in den Filialen der Bundesbank 🏦🔧"
+        ],
+        "workEnvironment": [
+          "Einsatz in der Zentrale oder in einer der Filialen der Deutschen Bundesbank 🏢✨",
+          "Arbeiten in Büros oder speziellen Geldbearbeitungsräumen 📂💶"
+        ],
+        "advantages": [
+          "Sicherer Arbeitsplatz im öffentlichen Dienst 🌟🏦",
+          "Attraktive Arbeitszeitmodelle und Work-Life-Balance 🌍⌚"
+        ],
+        "challenges": [
+          "Arbeiten mit sehr hohen Geldmengen erfordert großes Verantwortungsbewusstsein 💼✨",
+          "Regelmäßige Weiterbildung und hohe Konzentration notwendig 🔍📚"
+        ],
+        "didYouKnow": [
+          "Die Deutsche Bundesbank vernichtet jährlich über vier Millionen gefälschte Banknoten 💸🔥",
+          "Die Ausbildung umfasst Einsätze in über 35 Filialen deutschlandweit 🏢✨",
+          "Banknoten können bis zu 4000 Mal gefaltet werden, bevor sie reißen! 💶📜"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "category": "trade",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1500,
+    "maxStartingSalary": 2200,
+    "minAvarageSalary": 1500,
+    "maxAvarageSalary": 2900,
+    "minExperiencedSalary": 2000,
+    "maxExperiencedSalary": 2900,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "C1"
+      },
+      {
+        "name": "english",
+        "level": "B2"
+      },
+      {
+        "name": "Zweite Fremdsprache (z.B. Spanisch)",
+        "level": "A2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Kaufmännische/r Assistent/in - Fremdsprachen und Korrespondenz",
+        "overview": "🌍 Sprachen öffnen Türen! Als Kaufmännische/r Assistent/in mit Schwerpunkt Fremdsprachen und Korrespondenz wirst du zum unverzichtbaren Bindeglied zwischen internationalen Partnern und deinem Unternehmen. Deine Arbeit vereint sprachliche Expertise mit kaufmännischem Know-how - perfekt für alle, die Büroarbeit lieben und kommunikativ sind! 💬",
+        "responsibilities": [
+          "Führen von Gesprächen mit internationalen Partnern. 📞",
+          "Übersetzen von Formularen und Dokumenten. 🌐",
+          "Unterstützen als Dolmetscher bei Meetings. 🤝",
+          "Erstellen von Schriftverkehr und E-Mails in verschiedenen Sprachen. ✉️",
+          "Bearbeiten von Aufträgen und administrative Aufgaben im Sekretariat."
+        ],
+        "curriculum": [
+          "Betriebs- und Volkswirtschaftslehre.",
+          "Rechnungswesen und Datenverarbeitung (Excel, Word, PowerPoint).",
+          "Sprachkurse in Englisch und einer weiteren Fremdsprache.",
+          "Übungen zur Übersetzung und Korrespondenz."
+        ],
+        "careerProspects": [
+          "Spezialisierung auf Import-/Exportbearbeitung. 🌎",
+          "Weiterbildung als Fremdsprachenkorrespondent/in. 🎓",
+          "Karriere in internationalen Handelsunternehmen."
+        ],
+        "furtherEducation": [
+          "Studium in Wirtschaftssprachen oder Internationale Wirtschaft.",
+          "Weiterbildung als Fremdsprachenkaufmann/-frau.",
+          "Spezialisierung auf bestimmte Sprachen oder Aufgabenbereiche."
+        ],
+        "applicationSteps": [
+          "Bewerbung an Berufskollegs mit Anschreiben, Lebenslauf und Zeugnis.",
+          "Einreichen relevanter Dokumente über Online-Formulare. 📝",
+          "Prüfung der sprachlichen und schulischen Voraussetzungen."
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife mit guten Noten in Englisch.",
+          "Interesse an Fremdsprachen und wirtschaftlichen Themen.",
+          "Grundkenntnisse in Microsoft Office von Vorteil."
+        ],
+        "applicationTips": [
+          "Betone in deinem Lebenslauf Erfahrungen mit Sprachen oder Office-Programmen.",
+          "Achte auf fristgerechte Einreichung der Bewerbungsunterlagen."
+        ],
+        "requiredPersonalSkills": [
+          "Kommunikationsfähigkeit und Sprachgefühl. 🗣️",
+          "Organisationstalent und Genauigkeit. 📋",
+          "Gute EDV-Kenntnisse für Office-Anwendungen. 💻"
+        ],
+        "requiredPersonalTraits": [
+          "Freude an Teamarbeit und Kommunikation. 🤝",
+          "Interesse an interkulturellem Austausch. 🌍",
+          "Affinität für Büroorganisation und wirtschaftliche Prozesse."
+        ],
+        "theoreticalStructure": [
+          "Unterricht in Betriebs- und Volkswirtschaft, Rechnungswesen sowie Sprachkursen in Englisch und einer weiteren Fremdsprache (z.B. Spanisch, Französisch). 📚\n"
+        ],
+        "practicalStructure": [
+          "Mindestens vier Wochen Praktikum, um praktische Büroerfahrung zu sammeln und die erlernten Fähigkeiten anzuwenden. ✨\n"
+        ],
+        "workEnvironment": [
+          "Büros von Unternehmen mit internationalem Handel. 🏢",
+          "Organisationen mit ausländischen Partnern.",
+          "Abteilungen für Import und Export."
+        ],
+        "advantages": [
+          "Vielfältige Einsatzmöglichkeiten in internationalen Unternehmen. 🌐",
+          "Geregelte Arbeitszeiten und planbare Freizeit. 🕒",
+          "Kombination aus Sprache und Wirtschaft für abwechslungsreiche Aufgaben. ✨"
+        ],
+        "challenges": [
+          "Intensive Lernphasen durch Sprachkurse und kaufmännische Inhalte. 📖",
+          "Hohe Anforderungen an Organisation und Genauigkeit. 📋",
+          "Erfordert ständige Weiterbildung, um in der Sprache und Wirtschaft aktuell zu bleiben."
+        ],
+        "didYouKnow": [
+          "Englisch ist die meistgesprochene Sprache der Welt! 🌎",
+          "Spanien bedeutet wörtlich 'Land der Hasen'. 🐇",
+          "In Südafrika gibt es 11 offizielle Landessprachen! 🇿🇦",
+          "Die Bildschirmarbeitsverordnung regelt sogar den Arbeitsplatz vor deinem PC. 🖥️",
+          "Ein 'Daumen hoch' kann in Australien eine Beleidigung sein! 👍❌"
+        ]
+      }
+    }
+  }
+]

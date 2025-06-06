@@ -1,0 +1,106 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2800,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 673,
+        "max": 1068
+      },
+      {
+        "min": 843,
+        "max": 1230
+      },
+      {
+        "min": 982,
+        "max": 1495
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Bauzeichner/in",
+        "overview": "\"Als Bauzeichner/in bist du verantwortlich für die Erstellung technischer Zeichnungen und Pläne, die bei Bauprojekten unverzichtbar sind. 🏗️✨ Ob Häuser, Brücken oder Landschaften - deine Arbeit sorgt dafür, dass Visionen Wirklichkeit werden! 🌍🖊️\"\n",
+        "responsibilities": [
+          "Erstellung technischer Zeichnungen mit CAD-Software 🖥️✨",
+          "Berechnung von Abmessungen und Materialbedarf 📏📊",
+          "Vermessungsarbeiten auf Baustellen durchführen 📍✨"
+        ],
+        "curriculum": [
+          "Konstruktionslehre und Bauplanung 📏✨",
+          "Materialkunde und Statik 📚✨",
+          "CAD-Software und Digitalisierung 🖥️✨"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Techniker/in für Bautechnik 🎓✨",
+          "Karriere in Architektur- oder Ingenieurbüros 🚀✨",
+          "Selbstständigkeit als Bauzeichner/in 🌟✨"
+        ],
+        "furtherEducation": [
+          "Studium der Architektur oder des Bauingenieurwesens 🎓📘",
+          "Fortbildung zur CAD-Fachkraft oder Bauleiter/in 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Einstellungstest oder Praktikum im Bereich Bauplanung 🏗️✨"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder höherer Schulabschluss 🎓",
+          "Technisches Verständnis und räumliches Vorstellungsvermögen 🌟🔧"
+        ],
+        "applicationTips": [
+          "Betone deine Erfahrung mit Software oder Zeichnen 🎨✨",
+          "Hebe Praktika oder Projekte im Bauwesen hervor 📄✨"
+        ],
+        "requiredPersonalSkills": [
+          "Mathematische und analytische Fähigkeiten 📊✨",
+          "Detailgenauigkeit und Sorgfalt 🖊️✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Kreativität 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du bautechnische Grundlagen, Mathematik und Softwareanwendungen 📘✨"
+        ],
+        "practicalStructure": [
+          "Im Betrieb wendest du das Gelernte an und arbeitest an realen Bauprojekten 🌟🏗️"
+        ],
+        "workEnvironment": [
+          "Arbeit in Büros von Architekten und Ingenieuren 🏢✨",
+          "Einsätze auf Baustellen für Vermessungen und Kontrollen 🚧✨"
+        ],
+        "advantages": [
+          "Abwechslungsreiche Arbeit zwischen Büro und Baustelle 🌍✨",
+          "Kreativer Beruf mit technischem Anspruch 🎨✨"
+        ],
+        "challenges": [
+          "Hohe Präzision und Konzentration erforderlich 🌟📋",
+          "Verantwortung für die Genauigkeit der Baupläne 🛠️✨"
+        ],
+        "didYouKnow": [
+          "Die Bauzeichner-Ausbildung ist eine der vielseitigsten im Bauwesen 🏗️✨",
+          "Bauzeichnungen können heute komplett digital erstellt werden 💻✨",
+          "Der Beruf bietet vielfältige Spezialisierungsmöglichkeiten 🌟✨"
+        ]
+      }
+    }
+  }
+]

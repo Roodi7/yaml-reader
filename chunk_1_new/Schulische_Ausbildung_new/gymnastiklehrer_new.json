@@ -1,0 +1,122 @@
+[
+  {
+    "category": "sports_and_fitness",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2080,
+    "maxStartingSalary": 2250,
+    "minAvarageSalary": 2250,
+    "maxAvarageSalary": 3350,
+    "minExperiencedSalary": 2800,
+    "maxExperiencedSalary": 3350,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Staatlich geprüfte/r Gymnastiklehrer/in",
+        "overview": "Als staatlich geprüfte/r Gymnastiklehrer/in bist du Expert/in für Bewegung, Gesundheit und Fitness. Dein Beruf ist mehr als nur Sport – du unterstützt Menschen dabei, ihre körperliche Leistungsfähigkeit zu verbessern, Verletzungen vorzubeugen oder zu rehabilitieren. Ein zukunftssicherer und gesellschaftlich wichtiger Beruf für alle, die ihre Leidenschaft für Bewegung zum Beruf machen wollen! 🏋️‍♂️✨",
+        "responsibilities": [
+          "Planung und Durchführung von Fitness- und Gymnastikkursen 🏃‍♀️🧘‍♂️",
+          "Betreuung von Präventions- und Rehabilitationsmaßnahmen 🩺🚶‍♂️",
+          "Erstellung individueller Trainingspläne 📋✨",
+          "Unterricht und Workshops im Bereich Bewegung und Gesundheit 📚🏋️‍♀️",
+          "Motivierung und Unterstützung von Patienten und Kursteilnehmern 🤝🌟"
+        ],
+        "curriculum": [
+          "Sportmedizin: Grundlagen der Anatomie und Physiologie des menschlichen Körpers 🩺🧠",
+          "Bewegungspädagogik: Lern- und Motivationstheorien, Didaktik und Methodik 📘✨",
+          "Prävention und Rehabilitation: Bewegungsprogramme für verschiedene Zielgruppen 🚶‍♂️🏋️‍♀️",
+          "Wahlfächer: Yoga, Pilates, Modern-Dance, Schwimmen oder Leichtathletik 🧘‍♂️🏃‍♂️"
+        ],
+        "careerProspects": [
+          "Karriere in Reha-Zentren, Sportvereinen oder Kurhotels 🏨🚀",
+          "Tätigkeit in pädagogischen Einrichtungen oder Schulen 🏫📚",
+          "Selbstständigkeit als Fitness- oder Gesundheitscoach 🧘‍♂️🌟"
+        ],
+        "furtherEducation": [
+          "Weiterbildung zum Physiotherapeuten oder Bewegungstherapeuten 🩺📘",
+          "Studium der Sportwissenschaften oder Gesundheitsmanagement 🎓✨",
+          "Spezialisierung auf Yoga-Lehrer oder Rückenschul-Kursleiter 🧘‍♀️🩹"
+        ],
+        "applicationSteps": [
+          "Einreichung von Bewerbungsunterlagen, inklusive ärztlichem Attest und Sportabzeichen 📋🩺",
+          "Teilnahme an einem Eignungstest mit praktischen und theoretischen Aufgaben 🏃‍♀️📘",
+          "Absolvierung eines persönlichen Interviews mit den Ausbildungsleitern 🗣️✨"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder Hauptschulabschluss mit Zusatzqualifikationen 🎓📋",
+          "Grundlegende sportliche Fähigkeiten und Fitness 🏃‍♂️🌟",
+          "Interesse an Gesundheit, Bewegung und Pädagogik 🧠🧘‍♀️"
+        ],
+        "applicationTips": [
+          "Präsentiere Mitgliedschaften in Sportvereinen oder Trainererfahrungen als Pluspunkt 🌟🤝",
+          "Bringe zum Eignungstest Sportbekleidung mit und sei vorbereitet auf praktische Übungen 🏋️‍♀️🩺",
+          "Bereite dich auf Fragen zu deiner Motivation und deinem Verständnis von Bewegungspädagogik vor 🧠📋"
+        ],
+        "requiredPersonalSkills": [
+          "Sportliche Fähigkeiten und körperliche Fitness 🏋️‍♀️✨",
+          "Pädagogisches Geschick und Freude am Unterrichten 📚🤝",
+          "Organisationstalent und Teamfähigkeit 🗂️🌟"
+        ],
+        "requiredPersonalTraits": [
+          "Begeisterung für Bewegung und Gesundheit 🚀🩺",
+          "Einfühlungsvermögen und Motivationstalent 🌟✨",
+          "Flexibilität und Durchhaltevermögen 🏃‍♀️⏳"
+        ],
+        "theoreticalStructure": [
+          "Theoriefächer wie Sportmedizin, Bewegungspädagogik und Prävention 🚀📚"
+        ],
+        "practicalStructure": [
+          "Regelmäßige Praktika in Reha-Zentren, Fitnessstudios oder Schulen 🤝🏋️‍♀️"
+        ],
+        "workEnvironment": [
+          "Sporthallen und Fitnessstudios 🏋️‍♂️🏟️",
+          "Kliniken und Rehazentren 🏥🚶‍♂️",
+          "Schulen und pädagogische Einrichtungen 🎓🏫",
+          "Sport- und Kurhotels 🏨🏊‍♂️"
+        ],
+        "advantages": [
+          "Gesellschaftlich wichtiger und zukunftssicherer Beruf 🌟✨",
+          "Vielseitige Einsatzmöglichkeiten in unterschiedlichen Einrichtungen 🏋️‍♀️🏥",
+          "Kombination aus Theorie und Praxis für abwechslungsreiche Aufgaben 🚀📋"
+        ],
+        "challenges": [
+          "Kein Ausbildungsgehalt und mögliche Zusatzkosten 📉💸",
+          "Körperliche Belastung und hohe persönliche Einsatzbereitschaft 🏋️‍♂️💪",
+          "Flexible Arbeitszeiten, inklusive Wochenend- und Feiertagseinsätzen ⏳📅"
+        ],
+        "didYouKnow": [
+          "Die Ausbildung umfasst sowohl Theorie als auch Praxis und ermöglicht Spezialisierungen in verschiedenen Sportarten 🏋️‍♀️📘.",
+          "Die Berufsbezeichnung kann je nach Bundesland variieren, z. B. Bewegungspädagoge für Gymnastik, Tanz und Sport 🏫✨.",
+          "Eignungstests prüfen neben körperlicher Fitness auch dein Rhythmusgefühl und deine Motivation 🧘‍♀️🎵.",
+          "Viele Berufsfachschulen bieten die Möglichkeit, zusätzlich die Fachhochschulreife zu erwerben 🎓✨.",
+          "Gymnastiklehrer können auch in den Bereichen Prävention und Reha arbeiten, um Patienten aktiv zu unterstützen 🚶‍♂️🏥."
+        ]
+      }
+    }
+  }
+]

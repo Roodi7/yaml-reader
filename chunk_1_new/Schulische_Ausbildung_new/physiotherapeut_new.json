@@ -1,0 +1,121 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "shift_work"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2500,
+    "maxStartingSalary": 2700,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 3600,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 3600,
+    "trainingSalary": [
+      {
+        "min": 1215,
+        "max": 1215
+      },
+      {
+        "min": 1275,
+        "max": 1275
+      },
+      {
+        "min": 1372,
+        "max": 1372
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Physiotherapeut/in",
+        "overview": "Physiotherapeuten sind Experten für Bewegungsabläufe und helfen Patienten mit Beschwerden an Muskeln, Gelenken und Nerven, ihre Lebensqualität zu verbessern. 🏋️‍♂️",
+        "responsibilities": [
+          "Untersuchung und Analyse von Patienten zur Feststellung von Beschwerden 🩺",
+          "Erstellung individueller Therapiepläne und Anpassung bei Bedarf 📋",
+          "Durchführung von Behandlungen wie Krankengymnastik, Massagen oder Elektrotherapie ⚡",
+          "Beratung der Patienten zu Übungen für Zuhause und präventiven Maßnahmen 🏠",
+          "Dokumentation der Behandlungsergebnisse und Fortschritte 🖋️"
+        ],
+        "curriculum": [
+          "1. Jahr: Grundlagen in Anatomie, Physiologie und Bewegungslehre 🧠",
+          "2. Jahr: Einführung in Behandlungstechniken und Krankheitslehre ⚕️",
+          "3. Jahr: Spezialisierung in Prävention und Rehabilitation 🏋️‍♂️"
+        ],
+        "careerProspects": [
+          "Einsatz in Kliniken, Praxen oder Rehabilitationszentren 🏨",
+          "Spezialisierungen wie Sportphysiotherapie oder Neurologie 🎯",
+          "Selbstständigkeit mit eigener Praxis 🏢"
+        ],
+        "furtherEducation": [
+          "Fortbildung zum Fitness- und Wellnesstrainer 🏋️‍♀️",
+          "Fachwirt für Prävention und Gesundheitsförderung 📊",
+          "Studium in Gesundheitsmanagement oder Physiotherapie 🎓"
+        ],
+        "applicationSteps": [
+          "Zusammenstellen von Anschreiben, Lebenslauf und relevanten Zeugnissen 📑",
+          "Ärztliches Attest und Führungszeugnis einholen 🏥",
+          "Bewerbung an eine Berufsfachschule oder ein Krankenhaus senden ✉️"
+        ],
+        "applicationRequirements": [
+          "Mittlerer Schulabschluss (Realschulabschluss) 🎓",
+          "Interesse an Biologie, Physik und Sport 🏋️‍♀️",
+          "Geduld, Empathie und körperliche Fitness 🤝"
+        ],
+        "applicationTips": [
+          "Betone praktische Erfahrungen in Pflege oder Sport 👟",
+          "Hebe deine Begeisterung für Bewegung und Gesundheit hervor 🌟",
+          "Bereite dich auf mögliche Aufnahmeverfahren und Gespräche vor 🎯"
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Anatomie und Physiologie 🩻",
+          "Fähigkeit, Patienten individuell zu behandeln und zu motivieren 🏋️‍♂️",
+          "Effektive Kommunikation und Teamfähigkeit 📋"
+        ],
+        "requiredPersonalTraits": [
+          "Empathie und Geduld im Umgang mit Patienten 🤗",
+          "Organisationstalent und Belastbarkeit 🕒",
+          "Interesse an lebenslangem Lernen im medizinischen Bereich 📚"
+        ],
+        "theoreticalStructure": [
+          "Theorieunterricht in Physiologie, Anatomie und Bewegungslehre 📘"
+        ],
+        "practicalStructure": [
+          "1600 Stunden Praxis in Einrichtungen wie Kliniken und Rehabilitationszentren 🏥"
+        ],
+        "workEnvironment": [
+          "Physiotherapeutische Praxen 🏥",
+          "Krankenhäuser und Rehabilitationszentren 🏨",
+          "Sport- und Fitnessstudios 🏋️‍♂️",
+          "Wellnesshotels und Altersheime 🛋️"
+        ],
+        "advantages": [
+          "Hohe Nachfrage durch demografischen Wandel und Bewegungsmangel in der Gesellschaft 📈",
+          "Direkter Kontakt und sichtbare Erfolge mit Patienten 👩‍⚕️",
+          "Vielfältige Einsatzmöglichkeiten und Spezialisierungen 🩺"
+        ],
+        "challenges": [
+          "Hohe körperliche Belastung durch lange Arbeitszeiten und anspruchsvolle Patienten 🏋️‍♂️",
+          "Schichtdienst in manchen Einrichtungen wie Krankenhäusern ⏰",
+          "Kombination aus Theorie und Praxis erfordert kontinuierliches Lernen 📚"
+        ],
+        "didYouKnow": [
+          "Die Ausbildung kann in einigen Bundesländern kostenlos sein 🎓",
+          "Physiotherapeuten können sich mit eigener Praxis selbstständig machen 🏢",
+          "Der demografische Wandel steigert den Bedarf an Physiotherapeuten 📈",
+          "An vielen Universitäten gibt es Physiotherapie auch als Studiengang 📚",
+          "Eine gute körperliche Verfassung ist für den Beruf essenziell 🏋️‍♀️"
+        ]
+      }
+    }
+  }
+]

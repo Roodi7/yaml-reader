@@ -1,0 +1,108 @@
+[
+  {
+    "category": "design_and_creative_industries",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "high_school",
+    "minStartingSalary": 1600,
+    "maxStartingSalary": 2000,
+    "minAvarageSalary": 1600,
+    "maxAvarageSalary": 3500,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 730,
+        "max": 800
+      },
+      {
+        "min": 800,
+        "max": 900
+      },
+      {
+        "min": 900,
+        "max": 1000
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Bühnenmaler/in und Bühnenplastiker/in",
+        "overview": "\"Als Bühnenmaler/in und Bühnenplastiker/in sorgst du für beeindruckende Kulissen und Requisiten 🎨. Du gestaltest detailreiche Hintergründe und plastische Elemente, die Theater- und Filmproduktionen zum Leben erwecken 🎮.\"\n",
+        "responsibilities": [
+          "Erstellen von Kulissen und Bühnenbildern für Theater und Film 🎨.",
+          "Bemalen von Leinwänden und Modellieren von Plastiken 🎮.",
+          "Zusammenarbeit mit Regisseuren und Bühnenbildnern 📚."
+        ],
+        "curriculum": [
+          "Techniken der Bühnenmalerei und Plastikgestaltung 🎮.",
+          "Materialkunde und Arbeitssicherheit 🎮.",
+          "Kunstgeschichte und Kreativtechniken 🖌️."
+        ],
+        "careerProspects": [
+          "Weiterbildung in Farb- und Lacktechnik 📚.",
+          "Spezialisierung auf bestimmte Kunst- oder Filmtechniken 🎮.",
+          "Selbstständigkeit im Bereich Bühnen- und Kulissenbau 🏢."
+        ],
+        "furtherEducation": [
+          "Studium in Theater- oder Szenografie 🖌️.",
+          "Kurse in innovativen Mal- und Gestaltungstechniken 🎨."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf, Anschreiben und Arbeitsproben 📚.",
+          "Vorstellungsgespräch zur Überprüfung der kreativen Eignung 🎮."
+        ],
+        "applicationRequirements": [
+          "Künstlerisches Talent und Kreativität 🎮.",
+          "Handwerkliches Geschick und technisches Verständnis 🎨."
+        ],
+        "applicationTips": [
+          "Betone deine Begeisterung für Kunst und Theater 🖌️.",
+          "Erwähne kreative Projekte oder künstlerische Erfahrungen 🎨."
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Kunst- und Materialkunde 🎨.",
+          "Fähigkeit zur Teamarbeit und Projektplanung 🎮."
+        ],
+        "requiredPersonalTraits": [
+          "Leidenschaft für Kreativität und Design 🖌️.",
+          "Flexibilität und Belastbarkeit bei anspruchsvollen Projekten 🎮."
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Fokus auf Kunstgeschichte, Farbenlehre und Materialkunde 🎮."
+        ],
+        "practicalStructure": [
+          "Praktische Arbeit in Werkstätten oder an Sets von Produktionen 🎨."
+        ],
+        "workEnvironment": [
+          "Theater, Filmstudios oder Messebauer 🎮.",
+          "Arbeit in kreativen Teams und Werkstätten 🎨."
+        ],
+        "advantages": [
+          "Kreative Arbeit in abwechslungsreichen Projekten 🖌️.",
+          "Hohe Nachfrage bei Theater- und Filmproduktionen 🎮.",
+          "Möglichkeit zur Spezialisierung und Weiterentwicklung 🏆."
+        ],
+        "challenges": [
+          "Arbeiten unter Zeitdruck, besonders vor Premieren 🎮.",
+          "Physisch fordernde Aufgaben beim Aufbau großer Kulissen 🎨."
+        ],
+        "didYouKnow": [
+          "Bühnenbilder prägen den Eindruck von Theater- und Filmproduktionen 🎮.",
+          "Die größte Theaterbühne der Welt steht in Berlin 🎨.",
+          "Bühnenmalerei war früher oft ein Familienhandwerk, das weitervererbt wurde 🖌️."
+        ]
+      }
+    }
+  }
+]

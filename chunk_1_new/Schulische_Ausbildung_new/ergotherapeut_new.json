@@ -1,0 +1,126 @@
+[
+  {
+    "category": "Gesundheits- und Sozialberufe",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1900,
+    "maxStartingSalary": 2250,
+    "minAvarageSalary": 2250,
+    "maxAvarageSalary": 2500,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3400,
+    "trainingSalary": [
+      {
+        "min": 1065,
+        "max": 1065
+      },
+      {
+        "min": 1125,
+        "max": 1125
+      },
+      {
+        "min": 1222,
+        "max": 1222
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Ergotherapeut/in",
+        "overview": "Als Ergotherapeut/in unterstützt du Menschen dabei, ihre Selbstständigkeit und Handlungsfähigkeit trotz körperlicher, geistiger oder seelischer Beeinträchtigungen wiederzuerlangen. Ob nach Unfällen, Operationen oder durch Krankheiten – du trägst zur Verbesserung der Lebensqualität bei und bietest individuell angepasste Therapien an.",
+        "responsibilities": [
+          "Einschränkungen analysieren und individuelle Behandlungspläne erstellen. 📋",
+          "Alltagsbewegungen und motorische Fähigkeiten trainieren. 🏋️‍♀️",
+          "Kreative Übungen wie Malen oder Musizieren zur Förderung anwenden. 🎨🎶",
+          "Patientenakten führen und Fortschritte dokumentieren. 🖥️",
+          "Zusammenarbeit mit Ärzten und anderen Fachkräften. 🤝"
+        ],
+        "curriculum": [
+          "Medizinische Grundlagen wie Anatomie und Physiologie. 🩻",
+          "Ergotherapeutische Verfahren und Techniken. ✋",
+          "Psychologie und Pädagogik für den Umgang mit Patienten. 🧠",
+          "Kreative Ansätze wie Kunst und Musik. 🎨🎶",
+          "Arzneimittellehre und Krankheitslehre. 💊"
+        ],
+        "careerProspects": [
+          "Tätigkeit in Kliniken, Reha-Zentren oder Praxen. 🏥",
+          "Selbstständigkeit als Ergotherapeut/in. 💼",
+          "Weiterbildung im Bereich Psychotherapie oder Rehabilitation. 🎓",
+          "Leitung eines Bereichs in einer medizinischen Einrichtung. 🩺"
+        ],
+        "furtherEducation": [
+          "Fachwirt/in im Gesundheits- und Sozialwesen. 🎓",
+          "Betriebswirt/in im Sozialwesen. 📈",
+          "Zusatzqualifikationen wie Entspannungstherapie oder Musiktherapie. 🎶",
+          "Studium in Ergotherapie oder Heilpädagogik. 📘"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Zeugnissen und Motivationsschreiben. 📝",
+          "Vorpraktika oder ein freiwilliges soziales Jahr von Vorteil. 🌟",
+          "Gesundheitszeugnis und evtl. Eignungstest erforderlich. ✅"
+        ],
+        "applicationRequirements": [
+          "Kreativität, Empathie und körperliche Fitness. 🎨💪",
+          "Geduld und Sensibilität im Umgang mit Patienten. 💬",
+          "Bereitschaft zu Schichtdiensten und flexiblen Arbeitszeiten. ⏰"
+        ],
+        "applicationTips": [
+          "Betone in deiner Bewerbung deine soziale Kompetenz und Erfahrungen im Gesundheitsbereich. 🩺",
+          "Ein Praktikum im sozialen Bereich kann deine Chancen erhöhen. 🌟"
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Medizin und Psychologie. 🧠",
+          "Handwerkliches Geschick und Kreativität. 🎨",
+          "Körperliche Belastbarkeit und Fitness. 💪"
+        ],
+        "requiredPersonalTraits": [
+          "Empathie und Geduld im Umgang mit Patienten. 💛",
+          "Kommunikationsfähigkeit und Motivation. 🗣️",
+          "Flexibilität und Organisationstalent. 📋"
+        ],
+        "theoreticalStructure": [
+          "\"Unterricht in medizinischen Grundlagen, Ergotherapie-Verfahren und Psychologie. 📚\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praktika in Kliniken, Praxen und Pflegeeinrichtungen zur Anwendung der erlernten Inhalte. 🏥\"\n"
+        ],
+        "workEnvironment": [
+          "Kliniken und Krankenhäuser. 🏥",
+          "Pflegeheime und Rehabilitationszentren. 🩺",
+          "Praxen für Ergotherapie. 🛋️",
+          "Hausbesuche bei Patient/innen. 🚗"
+        ],
+        "advantages": [
+          "Hohe Nachfrage nach Ergotherapeuten auf dem Arbeitsmarkt. 🌍",
+          "Direkter Einfluss auf die Lebensqualität von Patienten. 💛",
+          "Vielfältige Einsatzmöglichkeiten und kreative Arbeitsweise. 🚀"
+        ],
+        "challenges": [
+          "Emotionale Belastung durch Umgang mit schwerkranken Patienten. 💔",
+          "Körperlich anspruchsvolle Arbeit. 🏋️‍♂️",
+          "Unregelmäßige Arbeitszeiten bei Schichtdiensten. ⏰"
+        ],
+        "didYouKnow": [
+          "Über 90 % der Ergotherapieschulen in Deutschland sind privat. 🏫",
+          "Die Ausbildung umfasst mindestens 1700 Stunden Praxis. ⏳",
+          "Ergotherapie wird häufig in der Rehabilitation und Prävention eingesetzt. 🩺"
+        ]
+      }
+    }
+  }
+]

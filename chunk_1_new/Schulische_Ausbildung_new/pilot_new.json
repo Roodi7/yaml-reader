@@ -1,0 +1,107 @@
+[
+  {
+    "category": "transport_and_logistics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "high_school",
+    "minStartingSalary": 4000,
+    "maxStartingSalary": 5000,
+    "minAvarageSalary": 5000,
+    "maxAvarageSalary": 7500,
+    "minExperiencedSalary": 9000,
+    "maxExperiencedSalary": 19000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "english",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Pilot/in",
+        "overview": "🚀 Der Beruf Pilot/in ist der Inbegriff von Abenteuer und Präzision. Während du Passagiere sicher und komfortabel über den Wolken beförderst, trägst du eine große Verantwortung. Moderne Technik unterstützt dich, doch bei Start und Landung zählt dein Können. 🌍✈️",
+        "responsibilities": [
+          "Erstellen von Flugplänen 🗺️✏️",
+          "Überwachung der Wetterbedingungen 🌦️⛅",
+          "Durchführen von Checklisten vor jedem Flug ✔️🛫",
+          "Steuerung des Flugzeugs während des Fluges ✈️🎛️",
+          "Kommunikation mit der Flugsicherung 🎙️📡",
+          "Erstellung von Flugberichten nach jedem Flug 📋🖊️"
+        ],
+        "curriculum": [
+          "Aerodynamik: Physikalische Grundlagen des Fliegens verstehen. 🌀✈️",
+          "Navigation: Instrumente nutzen, um sicher zu fliegen. 🧭📍",
+          "Meteorologie: Auswirkungen des Wetters auf Flüge analysieren. ☀️🌧️"
+        ],
+        "careerProspects": [
+          "Aufstieg zum Kapitän mit hoher Verantwortung und Einkommen. 🎖️💼",
+          "Arbeit bei internationalen Fluggesellschaften. 🌍✈️",
+          "Optionen im Rettungs- oder Frachtflugverkehr. 🚑📦"
+        ],
+        "furtherEducation": [
+          "Zertifizierungen für neue Flugzeugtypen. 🛫📜",
+          "Fortbildungen in Navigationstechniken. 🧭🔧"
+        ],
+        "applicationSteps": [
+          "Einreichung einer schriftlichen Bewerbung 📝📩",
+          "Bestehen der flugmedizinischen Untersuchung 🩺✔️",
+          "Erfolg bei Eignungstests und Interviews 🧠💬"
+        ],
+        "applicationRequirements": [
+          "Mindestalter von 17 Jahren für den Start der Ausbildung 🎂✔️",
+          "Gute Englischkenntnisse und solides Verständnis in Mathematik und Physik. 📚🧮"
+        ],
+        "applicationTips": [
+          "Bereite dich gründlich auf Eignungstests vor! 🧠💪"
+        ],
+        "requiredPersonalSkills": [
+          "Exzellente Konzentrationsfähigkeit 🧠🎯",
+          "Technisches Verständnis für Flugzeuginstrumente. 🎛️✈️"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Kommunikationsstärke 👥📣",
+          "Ruhiges Verhalten in Stresssituationen 🌊🧘"
+        ],
+        "theoreticalStructure": [
+          "Theoriephase umfasst Themen wie Aerodynamik, Flugzeugtechnik und Meteorologie. 🧠📘"
+        ],
+        "practicalStructure": [
+          "Praxisphase beinhaltet Flugtraining, Notfallübungen und Simulatorstunden. 🛫🖥️"
+        ],
+        "workEnvironment": [
+          "Fluggesellschaften im Linien- oder Charterverkehr 🌐✈️",
+          "Frachttransport bei internationalen Unternehmen 📦🌍",
+          "Rettungsflüge und Krankentransport 🚑🛩️",
+          "Tätigkeiten als Fluglehrer/in in Flugschulen 📚👩‍🏫"
+        ],
+        "advantages": [
+          "Attraktives Gehalt mit Entwicklungsmöglichkeiten 💰📈",
+          "Reisen um die Welt und internationale Erfahrungen 🌍🧳"
+        ],
+        "challenges": [
+          "Hohes Verantwortungsbewusstsein erforderlich ⚖️🛫",
+          "Unregelmäßige Arbeitszeiten, inkl. Nacht- und Feiertagsflüge 🌙⏱️"
+        ],
+        "didYouKnow": [
+          "Piloten tragen je nach Rang unterschiedliche Streifen auf ihrer Uniform! 👨‍✈️🎖️",
+          "Langstreckenpiloten übernachten oft in exotischen Ländern. 🌍🛏️"
+        ]
+      }
+    }
+  }
+]

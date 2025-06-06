@@ -1,0 +1,122 @@
+[
+  {
+    "category": "design_and_creative_industries",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 3000,
+    "maxStartingSalary": 3700,
+    "minAvarageSalary": 3000,
+    "maxAvarageSalary": 4500,
+    "minExperiencedSalary": 4000,
+    "maxExperiencedSalary": 6000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "3D-Designer/in",
+        "overview": "🎨 3D-Designer/innen gestalten digitale Welten, erschaffen beeindruckende Animationen und realistische Modelle für Filmproduktionen, Videospiele oder Architekturprojekte. Mit künstlerischem Talent, technischem Know-how und Kreativität kannst du in diesem Beruf die virtuelle Realität zum Leben erwecken. 🚀",
+        "responsibilities": [
+          "Erstellung von 3D-Modellen und Animationen. 🖥️",
+          "Entwicklung von Drehbüchern und Storylines. ✍️",
+          "Texturierung und Gestaltung realistischer Oberflächen. 🎨",
+          "Integration visueller Effekte und Nachbearbeitung. 🎥",
+          "Zusammenarbeit mit Game Designern und Entwicklern. 🤝"
+        ],
+        "curriculum": [
+          "Visuelle Gestaltung und Zeichentechniken. 🎨",
+          "3D-Modellierung und Texturierung. 🖥️",
+          "Compositing und Animationstechniken. 🎥",
+          "Projektmanagement und Kommunikation. 📋",
+          "Englisch für Fachbegriffe und internationale Projekte. 🌍"
+        ],
+        "careerProspects": [
+          "Einstieg in die Film-, Gaming- oder Werbebranche. 🎬",
+          "Aufstieg zum VFX Supervisor oder Projektmanager. 🌟",
+          "Selbstständigkeit im Bereich Visual FX. 💼"
+        ],
+        "furtherEducation": [
+          "Spezialisierung auf Gamedesign oder Visual FX. 🕹️",
+          "Studium in Digital Arts, Game Design oder Animation. 🎓",
+          "Weiterbildung zum VFX Producer oder Gestalter für immersive Medien. 📜"
+        ],
+        "applicationSteps": [
+          "Erstellung eines Anschreibens, Lebenslaufs und einer Mappe mit Arbeitsproben. 📝",
+          "Einreichung der Unterlagen bei Akademien oder Schulen. 📄",
+          "Teilnahme an einem kreativen Einstellungstest und einem Vorstellungsgespräch. 💬"
+        ],
+        "applicationRequirements": [
+          "Künstlerische Begabung und Kreativität. 🎨",
+          "Technisches Interesse und Kenntnisse in 3D-Software. 🖥️",
+          "Mittlerer Schulabschluss. 🎓"
+        ],
+        "applicationTips": [
+          "Arbeitsproben wie Animationen, Konzeptzeichnungen oder Websites einreichen. 🌟",
+          "Individuellen Stil in der Bewerbung betonen. 🎨",
+          "Vorstellungsgespräch im Casual-Look absolvieren. 👔"
+        ],
+        "requiredPersonalSkills": [
+          "Künstlerisches und technisches Talent. 🎨",
+          "Organisationstalent und Zeitmanagement. 📋",
+          "Fähigkeit zur Teamarbeit und Kommunikation. 🤝"
+        ],
+        "requiredPersonalTraits": [
+          "Kreativität und Fantasie. ✨",
+          "Geduld und Liebe zum Detail. 🔍",
+          "Interesse an Innovationen und Trends. 🌟"
+        ],
+        "theoreticalStructure": [
+          "\"Theorie an Design- und Medienakademien: Grundlagen der visuellen Gestaltung, Animation, Storyboarding und 3D-Modellierung. 📘\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praxisprojekte und Abschlussarbeiten in Kooperation mit Studios oder Kreativagenturen. 🏢\"\n"
+        ],
+        "workEnvironment": [
+          "Filmstudios und VFX-Studios. 🎬",
+          "Gaming-Studios und Kreativagenturen. 🕹️",
+          "Architekturbüros und Marketingagenturen. 🏙️",
+          "Softwareentwickler für Apps und Spiele. 📱"
+        ],
+        "advantages": [
+          "Hohe Nachfrage nach 3D-Designern weltweit. 🌍",
+          "Möglichkeit, in internationalen Film- oder Gamingprojekten mitzuwirken. 🚀",
+          "Kreativer und abwechslungsreicher Arbeitsalltag. 🎨"
+        ],
+        "challenges": [
+          "Oft keine Vergütung während der Ausbildung. 💶",
+          "Kostenpflichtige Ausbildung an privaten Schulen. 🎓",
+          "Stressige Projektphasen mit Überstunden vor Deadlines. ⏰"
+        ],
+        "didYouKnow": [
+          "Toy Story (1995) war der erste vollständig am Computer erstellte Spielfilm. 🎥",
+          "Die Ausbildung umfasst praktische Projekte mit Deadlines wie in der Branche. ⏰",
+          "3D-Designer können sich auf Bereiche wie Animation, Gamedesign oder Architektur spezialisieren. 🏙️"
+        ]
+      }
+    }
+  }
+]

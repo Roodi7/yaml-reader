@@ -1,0 +1,128 @@
+[
+  {
+    "category": "economy_and_politics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1800,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 1800,
+    "maxAvarageSalary": 3500,
+    "minExperiencedSalary": 2800,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "english",
+        "level": "B2"
+      },
+      {
+        "name": "french",
+        "level": "B1"
+      },
+      {
+        "name": "spanish",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Europasekretär/in",
+        "overview": "🌍 Als Europasekretär/in bist du ein Multitasking-Talent, das internationales Flair und sprachliche Eleganz miteinander vereint. 💼 Dein Arbeitsplatz in den Führungsetagen internationaler Unternehmen macht dich zur Visitenkarte deines Unternehmens. Während deiner zweijährigen Ausbildung 🏫 lernst du mehrere Sprachen, wie Englisch, Französisch und Spanisch, perfekt zu beherrschen, übersetzt Texte und Telefonate 🌐 und organisierst Meetings mit Präzision. Deine Expertise macht dich unverzichtbar für globale Geschäftsbeziehungen und interkulturelle Kommunikation. 🤝\"",
+        "responsibilities": [
+          "Führen von geschäftlichen Telefonaten in verschiedenen Sprachen ☎️",
+          "Übersetzen von Dokumenten und Präsentationen 📝",
+          "Organisation von Terminen und Geschäftsreisen 🗓️✈️",
+          "Unterstützung der Geschäftsleitung als rechte Hand 💼",
+          "Vertretung des Unternehmens gegenüber internationalen Partnern 🌐"
+        ],
+        "curriculum": [
+          "Sprachunterricht in Englisch, Französisch und einer weiteren Sprache 🗣️",
+          "Landeskunde und interkulturelle Kommunikation 🌏",
+          "Übersetzungen und Dolmetschen 🔄",
+          "IT und Büroorganisation 💻",
+          "Grundlagen der Buchhaltung 📊"
+        ],
+        "careerProspects": [
+          "Chefsekretär/in in internationalen Konzernen 🌟",
+          "Vorstandsassistent/in mit umfassender Verantwortung 🤝",
+          "Möglichkeiten zur Weiterbildung als Dolmetscher/in oder Übersetzer/in 📜",
+          "Studium in Übersetzung oder Dolmetschen möglich 🎓"
+        ],
+        "furtherEducation": [
+          "Weiterbildung zur Dolmetscherin 🌍",
+          "Studium in Übersetzung und Dolmetschen 🎓",
+          "Qualifikation zur Vorstandsassistentin 💼"
+        ],
+        "applicationSteps": [
+          "Einreichen der Bewerbungsunterlagen 📄",
+          "Nachweis von Englischkenntnissen auf B1-Niveau oder höher 🗣️",
+          "Abschlusszeugnisse und Sprachzertifikate beilegen 🏆"
+        ],
+        "applicationRequirements": [
+          "Mindestens Realschulabschluss 🎓",
+          "Gute Grundkenntnisse in mindestens zwei Fremdsprachen 🗣️",
+          "Organisations- und Kommunikationsstärke 💬"
+        ],
+        "applicationTips": [
+          "Betone deine Freude am Sprachenlernen in deinem Anschreiben 📝",
+          "Füge Zertifikate und Praktikumsnachweise hinzu, um deine Qualifikationen zu untermauern 🏆",
+          "Sei präzise und fehlerfrei in deiner Bewerbung, da Genauigkeit in diesem Beruf unerlässlich ist ✅"
+        ],
+        "requiredPersonalSkills": [
+          "Hervorragende Sprachkenntnisse in Englisch, Französisch und einer weiteren Sprache 🗣️",
+          "Gute IT-Kenntnisse und sicherer Umgang mit Bürotechnik 💻",
+          "Organisationstalent und Multitasking-Fähigkeiten 📋"
+        ],
+        "requiredPersonalTraits": [
+          "Sorgfältigkeit und Genauigkeit ✅",
+          "Selbstbewusstes Auftreten 🤝",
+          "Interesse an verschiedenen Kulturen 🌍"
+        ],
+        "theoreticalStructure": [
+          "📚 Die theoretischen Inhalte konzentrieren sich auf Sprachunterricht in mindestens drei Fremdsprachen, interkulturelle Kompetenzen 🌏 und Büroorganisation. Du lernst außerdem IT-Kenntnisse und Grundlagen der Buchhaltung.\n"
+        ],
+        "practicalStructure": [
+          "🛠️ Ein vierwöchiges Praktikum gibt dir die Gelegenheit, dein Wissen in einem realen Arbeitsumfeld anzuwenden und wertvolle Berufserfahrung zu sammeln.\n"
+        ],
+        "workEnvironment": [
+          "Führungsetagen internationaler Unternehmen 🏢",
+          "Büros mit moderner technischer Ausstattung 💻",
+          "Englischsprachige Konferenzen und Meetings 🤝",
+          "Vielfältige internationale Kontakte 🌍"
+        ],
+        "advantages": [
+          "Hohe Nachfrage nach qualifizierten Fachkräften 🌟",
+          "Vielfältige Einsatzmöglichkeiten in globalen Unternehmen 🌍",
+          "Chance, deine Sprachkenntnisse täglich einzusetzen und zu erweitern 🗣️",
+          "Stabile Karriere mit Aufstiegsmöglichkeiten 🚀"
+        ],
+        "challenges": [
+          "Hohe Konzentration und Genauigkeit in der Arbeit erforderlich 🧠",
+          "Sprachliche und organisatorische Herausforderungen bei internationalen Aufgaben 🌐",
+          "Manchmal lange Arbeitszeiten bei Termindruck ⏱️"
+        ],
+        "didYouKnow": [
+          "Die EU hat 24 Amtssprachen! 🌍",
+          "Deutsch ist die meistgesprochene Muttersprache in der EU 🇩🇪",
+          "Die USA haben keine offizielle Amtssprache 🇺🇸",
+          "Dolmetscher arbeiten mit gesprochenem Wort, Übersetzer mit geschriebenen Texten 📝"
+        ]
+      }
+    }
+  }
+]

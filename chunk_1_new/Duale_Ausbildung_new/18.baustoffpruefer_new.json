@@ -1,0 +1,106 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1800,
+    "maxStartingSalary": 2300,
+    "minAvarageSalary": 1800,
+    "maxAvarageSalary": 3000,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3000,
+    "trainingSalary": [
+      {
+        "min": 672,
+        "max": 672
+      },
+      {
+        "min": 821,
+        "max": 821
+      },
+      {
+        "min": 897,
+        "max": 897
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Baustoffprüfer/in",
+        "overview": "\"Als Baustoffprüfer/in sorgst du dafür, dass Baustellen mit den besten Materialien ausgestattet werden. 🏗️✨ Durch deine Arbeit garantierst du die Sicherheit und Langlebigkeit von Bauwerken. 🌍🔍\"\n",
+        "responsibilities": [
+          "Prüfung von Baustoffen wie Beton, Asphalt und Mörtel auf Qualität 🔬✨",
+          "Durchführung von Tests und Analysen im Labor und auf Baustellen 🧪🏗️",
+          "Dokumentation der Ergebnisse und Beratung von Bauleitern 📋💡"
+        ],
+        "curriculum": [
+          "Chemische und physikalische Eigenschaften von Baustoffen 🔬✨",
+          "Materialprüfungen und Analysen 📋🧪",
+          "Qualitätsmanagement und Dokumentation 📊✨"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Techniker/in für Bautechnik 🎓✨",
+          "Spezialisierung auf Geotechnik oder Betontechnik 🌟🔍",
+          "Karriere als Bauleiter/in oder Materialexperte/in 🚀✨"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Bauingenieurwesen oder Materialwissenschaft 🎓📘",
+          "Fortbildung in Umwelttechnik oder Qualitätsmanagement 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Probearbeiten oder Praktikum im Bereich Materialprüfung 🔬✨"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder höherer Schulabschluss 🎓",
+          "Interesse an Chemie und Technik 🌟🔧"
+        ],
+        "applicationTips": [
+          "Hebe deine analytischen Fähigkeiten und Präzision hervor 🔍✨",
+          "Betone praktische Erfahrungen oder relevante Projekte 📄💡"
+        ],
+        "requiredPersonalSkills": [
+          "Analytisches Denken und technisches Verständnis 🔬✨",
+          "Organisationsgeschick und Teamfähigkeit 📋✨"
+        ],
+        "requiredPersonalTraits": [
+          "Sorgfalt und Verantwortungsbewusstsein 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du chemische und physikalische Grundlagen 📘🔬"
+        ],
+        "practicalStructure": [
+          "Im Betrieb sammelst du praktische Erfahrungen in der Materialprüfung und Analyse 🧪✨"
+        ],
+        "workEnvironment": [
+          "Arbeit in Laboren und auf Baustellen 🌍🔬",
+          "Zusammenarbeit mit Ingenieuren und Bauleitern 🤝📊"
+        ],
+        "advantages": [
+          "Vielfältige Arbeitsbereiche zwischen Labor und Baustelle 🌍✨",
+          "Hohe Nachfrage nach qualifizierten Fachkräften in der Baubranche 🚀✨"
+        ],
+        "challenges": [
+          "Arbeiten unter Zeitdruck und strengen Qualitätsanforderungen 🌟📋",
+          "Erforderliche Präzision und technisches Verständnis 🔧✨"
+        ],
+        "didYouKnow": [
+          "Baustoffprüfer arbeiten eng mit Geologen und Ingenieuren zusammen 🌍✨",
+          "Zement stammt vom lateinischen Wort 'caementum', was Baustein bedeutet 📜✨",
+          "Der Beruf des Baustoffprüfers wurde 1940 offiziell anerkannt 📆✨"
+        ]
+      }
+    }
+  }
+]

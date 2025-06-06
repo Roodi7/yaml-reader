@@ -1,0 +1,119 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "part_time"
+    ],
+    "duration": [
+      2,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2400,
+    "maxStartingSalary": 2700,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 3300,
+    "minExperiencedSalary": 0,
+    "maxExperiencedSalary": 0,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Medizinische/r Dokumentationsassistent/in",
+        "overview": "In dieser spannenden Ausbildung kombinierst du medizinisches Wissen mit IT-Fähigkeiten. 💻🩺 Als Medizinische/r Dokumentationsassistent/in lernst du, medizinische Daten zu erfassen, zu sichern und zu verwalten – eine unverzichtbare Rolle im modernen Gesundheitssystem! 📊✨",
+        "responsibilities": [
+          "Anlegen und Verwalten von Krankenakten 📂📋",
+          "Erfassung und Verarbeitung medizinischer Daten mit speziellen Programmen 💻🖋️",
+          "Statistische Auswertung medizinischer Informationen 📊📈",
+          "Betreuung medizinischer Informationssysteme und Datenbanken 🧑‍💻🔍",
+          "Koordination zwischen Ärzten und Verwaltung für eine reibungslose Datenverarbeitung 🤝🩺"
+        ],
+        "curriculum": [
+          "Medizinische Fachsprache und Dokumentation 🩺📘",
+          "EDV-gestützte Datenerfassung und -verwaltung 💻📂",
+          "Statistische Auswertungen und Analyse 📊🔍"
+        ],
+        "careerProspects": [
+          "Arbeit in Kliniken, Gesundheitsämtern oder der Pharmaindustrie 🏥🏭",
+          "Weiterbildung im Bereich Datenbankentwicklung oder Qualitätsmanagement 📚💡",
+          "Karriere als Fachwirt/in für Medien- und Informationsdienste 📈✨"
+        ],
+        "furtherEducation": [
+          "Weiterbildung zum Fachwirt für Medien- und Informationsdienste 📘🏢",
+          "Studium im Bereich Informationsmanagement oder medizinische Informatik 🎓💻",
+          "Anpassungsweiterbildungen in Datenbankprogrammierung und Projektmanagement 📂✨"
+        ],
+        "applicationSteps": [
+          "Erstellung eines Anschreibens mit Fokus auf medizinisches Interesse und IT-Fähigkeiten ✍️🔬",
+          "Zusammenstellung eines Lebenslaufs mit praktischen Erfahrungen und IT-Kenntnissen 📄💻",
+          "Einreichung von Zeugnissen und Bewerbungsfoto 📜📷"
+        ],
+        "applicationRequirements": [
+          "Organisationsfähigkeit und Präzision 📝✨",
+          "Interesse an medizinischen und technischen Themen 🩺💻"
+        ],
+        "applicationTips": [
+          "Hebe relevante Praktika oder IT-Projekte hervor 🌟🏥",
+          "Betone deine Fähigkeit zur sorgfältigen und verantwortungsvollen Arbeit 🧠✨"
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Datenverarbeitung und Statistik 📊💻",
+          "Sicherer Umgang mit medizinischer Fachsprache 🩺📘"
+        ],
+        "requiredPersonalTraits": [
+          "Genauigkeit und Verantwortungsbewusstsein 🧠✨",
+          "Teamfähigkeit und technisches Verständnis 🤝💻"
+        ],
+        "theoreticalStructure": [
+          "Vermittlung medizinischer Fachbegriffe, Datenverarbeitung und Statistik in der Berufsfachschule 📚✨"
+        ],
+        "practicalStructure": [
+          "Praktische Anwendung während der Ausbildung durch Pflichtpraktika in medizinischen Einrichtungen 🏥👩‍⚕️"
+        ],
+        "workEnvironment": [
+          "Krankenhäuser und Kliniken 🏥💉",
+          "Arztpraxen und Gesundheitsämter 🩺🏢",
+          "Pharmazeutische und chemische Industrie 🏭🧪",
+          "Krankenkassen und Versicherungen 💳📂"
+        ],
+        "advantages": [
+          "Kombination von Medizin und IT für eine abwechslungsreiche Tätigkeit 🩺💻",
+          "Vielfältige Einsatzmöglichkeiten in verschiedenen Bereichen des Gesundheitswesens 📊🏢",
+          "Attraktive Karrieremöglichkeiten durch Weiterbildungen und Studium 🎓✨"
+        ],
+        "challenges": [
+          "Hohe Konzentration und Genauigkeit bei der Datenverarbeitung erforderlich 🧠🔍",
+          "Arbeit hauptsächlich vor dem Computer 💻🖥️"
+        ],
+        "didYouKnow": [
+          "In den USA entscheiden Patienten selbst, ob eine Krankenakte geführt wird? 🇺🇸📂",
+          "Mit medizinischen Daten kann das Risiko eines Herzinfarkts berechnet werden? 💓📊",
+          "Rückenschmerzen und Bluthochdruck sind die häufigsten Diagnosen in Deutschland? 🇩🇪🩺"
+        ]
+      }
+    }
+  }
+]

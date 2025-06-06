@@ -1,0 +1,121 @@
+[
+  {
+    "category": "advertising_and_marketing",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "high_school",
+    "minStartingSalary": 1700,
+    "maxStartingSalary": 2100,
+    "minAvarageSalary": 1700,
+    "maxAvarageSalary": 2700,
+    "minExperiencedSalary": 2400,
+    "maxExperiencedSalary": 3000,
+    "trainingSalary": [
+      {
+        "min": 800,
+        "max": 800
+      },
+      {
+        "min": 800,
+        "max": 800
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Kreativ-Konzepter/in",
+        "overview": "Als Kreativ-Konzepter/in erweckst du Geschichten in Filmen, Blogs, Werbespots und Online-Games zum Leben. 🎥🎮 Deine Ausbildung kombiniert kreative Prozesse mit modernster Technologie, um Inhalte zu entwickeln, die begeistern. Zwei Jahre lang erhältst du sowohl theoretisches Wissen als auch praktische Erfahrungen in Medienagenturen. Deine Ideen und deine Kreativität sind dabei deine wertvollsten Werkzeuge. 🌟",
+        "responsibilities": [
+          "Entwicklung von kreativen Konzepten für Werbung und Medienprojekte 🎨📽️",
+          "Verfassen von Drehbüchern für Filme, Spots und Online-Games 🖊️🎮",
+          "Planung und Umsetzung von Social-Media-Strategien 📱",
+          "Teilnahme an Brainstormings und Präsentations-Meetings 🧠",
+          "Zusammenarbeit mit Agenturen und Unternehmen für Werbekampagnen 🤝"
+        ],
+        "curriculum": [
+          "Texterstellung und SEO-Optimierung 🖊️🔍",
+          "Grundlagen der Programmierung 💻",
+          "Drehbuchgestaltung und Werbekampagnen 🎥",
+          "Social Media Management 📱",
+          "Praxisprojekte und Agentureinsätze 🏢"
+        ],
+        "careerProspects": [
+          "Tätigkeit in der Werbebranche als Copywriter 🖊️",
+          "Spezialisierung auf Gamedesign oder Multimedia 🌟",
+          "Weiterbildung zum Creative Director 🎓",
+          "Selbstständigkeit in der Kreativbranche 💼"
+        ],
+        "furtherEducation": [
+          "Grafikkurse und Schreibwerkstätten 🎨",
+          "Workshops in Programmierung und Mediengestaltung 💻",
+          "Studium in Medien- und Kommunikationswissenschaften 🎓",
+          "Karriereentwicklung bis zum Creative Director 🏢"
+        ],
+        "applicationSteps": [
+          "Erstellung eines individuellen Anschreibens, das deine Kreativität zeigt 🖊️",
+          "Lebenslauf mit praktischen Erfahrungen in der Medienbranche 📄",
+          "Einsendung von Arbeitsproben oder Projekten als Portfolio 📂"
+        ],
+        "applicationRequirements": [
+          "Fachabitur oder Abitur 🎓",
+          "Erste Erfahrungen mit Grafik- oder Bearbeitungsprogrammen 💻",
+          "Kreativität und Begeisterung für Trends und Medien 🌟"
+        ],
+        "applicationTips": [
+          "Hebe praktische Erfahrungen hervor, z. B. Praktika oder eigene Projekte 🎥",
+          "Zeige deine Begeisterung für die Medienbranche 🌐",
+          "Sorge für ein fehlerfreies und kreatives Bewerbungsschreiben ✍️"
+        ],
+        "requiredPersonalSkills": [
+          "Kreativität und Innovationsfähigkeit 🌟",
+          "Gutes Sprachgefühl und Textsicherheit 🖊️",
+          "Kenntnisse in Social Media und Grafiksoftware 💻"
+        ],
+        "requiredPersonalTraits": [
+          "Neugier und Begeisterung für Trends 🌐",
+          "Eigeninitiative und Teamfähigkeit 🤝",
+          "Flexibilität und Belastbarkeit 💪"
+        ],
+        "theoreticalStructure": [
+          "Die Ausbildung beinhaltet Fächer wie Textgestaltung, Social Media, Werbekonzeption und Programmier-Basics. 📚"
+        ],
+        "practicalStructure": [
+          "Praxisphasen in Medienagenturen, Workshops und Projekte ergänzen die Theorie. 🏢💡"
+        ],
+        "workEnvironment": [
+          "Werbe- und Grafikagenturen 🏢",
+          "Produktionsfirmen und Filmstudios 🎥",
+          "Redaktionen von Magazinen und Online-Plattformen 📰",
+          "Spieleentwickler und Multimedia-Agenturen 🎮"
+        ],
+        "advantages": [
+          "Kreativer und abwechslungsreicher Berufsalltag 🌟",
+          "Hohe Nachfrage nach innovativen Ideen in der Medienwelt 🚀",
+          "Direkter Einstieg in eine zukunftsorientierte Branche 🌐"
+        ],
+        "challenges": [
+          "Arbeiten unter Zeitdruck und Deadlines ⏰",
+          "Kreativität auf Knopfdruck liefern 🎨",
+          "Hohe Anforderungen in schnelllebigen Projekten 🌟"
+        ],
+        "didYouKnow": [
+          "Werbeplakate zeigen niemals unbearbeitete Bilder 🎨.",
+          "Der teuerste Sendeplatz ist während des Superbowls 🏈.",
+          "ASAP stammt ursprünglich aus der US-Luftfahrt ✈️.",
+          "Kreativ-Konzepter werden auch Copywriter genannt 🖊️.",
+          "Superbowl-Werbung wird manchmal sogar selbst beworben 📺."
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "category": "services_and_crafts",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2500,
+    "maxStartingSalary": 3000,
+    "minAvarageSalary": 3000,
+    "maxAvarageSalary": 4600,
+    "minExperiencedSalary": 3800,
+    "maxExperiencedSalary": 5000,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 999
+      },
+      {
+        "min": 766,
+        "max": 1043
+      },
+      {
+        "min": 876,
+        "max": 1119
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Büchsenmacher/in",
+        "overview": "\"Als Büchsenmacher/in bist du ein Experte für die Herstellung und Reparatur von Waffen 🔫. Du kombinierst handwerkliches Geschick mit technischer Präzision und sorgst für sichere und hochwertige Produkte 📚.\"\n",
+        "responsibilities": [
+          "Anfertigung und Reparatur von Schusswaffen 🔫.",
+          "Anpassung von Waffen an individuelle Kundenwünsche 🔬.",
+          "Beratung von Kunden und Verkauf von Waffenzubehör 🎓."
+        ],
+        "curriculum": [
+          "Waffenbau und Werkstoffkunde 🔧.",
+          "Präzisionstechniken und Sicherheitsstandards 🔫.",
+          "Waffenrecht und Beratungskompetenz 🎓."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Büchsenmachermeister 📚.",
+          "Spezialisierung auf Jagdwaffen oder Sportschützenzubehör 🏀.",
+          "Selbstständigkeit mit eigenem Betrieb 🏢."
+        ],
+        "furtherEducation": [
+          "Technikerkurse für Feinwerktechnik 🔧.",
+          "Studium in Maschinenbau oder Ingenieurwissenschaften 🔫."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 🎓.",
+          "Eignungstest oder Probetag zur Feststellung der technischen Fähigkeiten 🔧."
+        ],
+        "applicationRequirements": [
+          "Handwerkliches Geschick und technisches Verständnis 🔧.",
+          "Kenntnisse in Mathematik und Physik 🎨."
+        ],
+        "applicationTips": [
+          "Betone deine Erfahrungen in technischen oder handwerklichen Bereichen 🔧.",
+          "Hebe dein Verständnis für Sicherheit und Präzision hervor 🌈."
+        ],
+        "requiredPersonalSkills": [
+          "Präzision und technisches Verständnis für Waffenbau 🔧.",
+          "Fähigkeit zur Kundenberatung und Anpassung 🎓."
+        ],
+        "requiredPersonalTraits": [
+          "Zuverlässigkeit und Verantwortungsbewusstsein 🚒.",
+          "Teamfähigkeit und Flexibilität 🌍."
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Unterricht zu Ballistik, Technik und Recht 🎨."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung in Werkstätten und Betrieben der Waffenherstellung 🔫."
+        ],
+        "workEnvironment": [
+          "Werkstätten und Betriebe der Waffenherstellung 🏢.",
+          "Spezialisierte Werkhäuser für Reparatur und Anpassung 🔫."
+        ],
+        "advantages": [
+          "Arbeiten mit hochwertigen Materialien und präzisen Techniken 🎨.",
+          "Hohe Nachfrage nach spezialisierten Fachkräften 🌍.",
+          "Attraktive Verdienst- und Karrieremöglichkeiten 💰."
+        ],
+        "challenges": [
+          "Hohe Konzentration und Präzision erforderlich 💡.",
+          "Verantwortung für Sicherheit und Funktionalität der Produkte 🔫."
+        ],
+        "didYouKnow": [
+          "Büchsenmacher sind Experten für Sicherheit und Präzision 🔫.",
+          "Die Kunst des Waffenbaus reicht Jahrhunderte zurück 🏰.",
+          "Moderne Büchsenmacher arbeiten oft mit High-Tech-Werkzeugen 🔧."
+        ]
+      }
+    }
+  }
+]

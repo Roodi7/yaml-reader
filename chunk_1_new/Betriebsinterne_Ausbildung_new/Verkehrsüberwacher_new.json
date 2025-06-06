@@ -1,0 +1,111 @@
+[
+  {
+    "category": "transport_and_logistics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      0.25
+    ],
+    "trainingType": "company_based_training",
+    "requiredEducationalLevel": "no_school_degree",
+    "minStartingSalary": 1700,
+    "maxStartingSalary": 1900,
+    "minAvarageSalary": 1700,
+    "maxAvarageSalary": 2200,
+    "minExperiencedSalary": 2000,
+    "maxExperiencedSalary": 2200,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Verkehrsüberwacher/in",
+        "overview": "🚗 Täglich sind fast 44 Millionen Autos auf deutschen Straßen unterwegs. Damit kein Chaos ausbricht, bist du als Verkehrsüberwacher/in im Einsatz: Du überprüfst parkende Fahrzeuge, hältst Rettungswege frei und sorgst für einen reibungslosen Verkehrsfluss. Mit dieser verantwortungsvollen Tätigkeit machst du Straßen sicherer und trägst zur Ordnung bei! 🛣️",
+        "responsibilities": [
+          "Überwachung von Parkverboten und Rettungswegen. 🚓",
+          "Ausstellen von Strafzetteln und Veranlassen des Abschleppens von Fahrzeugen. 📝",
+          "Einsatz moderner Geräte zur Erfassung und Protokollierung von Verstößen. 💻",
+          "Bearbeitung von Einsprüchen gegen Bußgelder. ⚖️",
+          "Dokumentation von Verkehrsverstößen für Behörden."
+        ],
+        "curriculum": [
+          "Grundlagen von Verfassungs-, Verwaltungs- und Straßenverkehrsrecht.",
+          "Erste-Hilfe-Kurse und Verhaltenstraining. ⛑️",
+          "Nutzung moderner Erfassungsgeräte. 📱",
+          "Konfliktmanagement und angewandte Psychologie. 🧠"
+        ],
+        "careerProspects": [
+          "Aufstiegsmöglichkeiten zum/zur Sachbearbeiter/in für Verkehrsmanagement. 📈",
+          "Karriere als Hilfspolizist/in mit erweiterten Verantwortungen. 🚨",
+          "Regelmäßige Fortbildungen in rechtlichen und kommunikativen Themen."
+        ],
+        "furtherEducation": [
+          "Weiterbildungen zu aktuellen rechtlichen Änderungen.",
+          "Trainings in Konfliktmanagement und Kommunikation. 💬",
+          "Spezialisierungen im Bereich Sachbearbeitung oder Verkehrsüberwachung. 🖋️"
+        ],
+        "applicationSteps": [
+          "Einreichen eines Anschreibens, Lebenslaufs und relevanter Zeugnisse.",
+          "Nachweis eines Führerscheins der Klasse B (falls erforderlich). 🚗",
+          "Teilnahme an theoretischen und praktischen Prüfungen."
+        ],
+        "applicationRequirements": [
+          "Selbstständige und strukturierte Arbeitsweise. 🗂️",
+          "Gute Kenntnisse im Verkehrsrecht und technisches Verständnis. ⚖️",
+          "Fähigkeiten in Konfliktlösung und Kommunikation. 🗣️"
+        ],
+        "applicationTips": [
+          "Betone deine Verantwortungsbereitschaft und praktische Erfahrungen. 💪",
+          "Gib konkrete Beispiele für deine Fähigkeiten an. 📋"
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse im Verkehrsrecht und sicherer Umgang mit Technik. ⚙️",
+          "Konfliktlösungskompetenz und Kommunikationsstärke. 💬",
+          "Präzises Arbeiten und schnelles Handeln. 🕒"
+        ],
+        "requiredPersonalTraits": [
+          "Durchsetzungsstärke und souveränes Auftreten. ✨",
+          "Sachlichkeit in schwierigen Situationen. 🛠️",
+          "Hohe Belastbarkeit und Organisationstalent. 🗂️"
+        ],
+        "theoreticalStructure": [
+          "\"Theorieunterricht zu Verfassungsrecht, allgemeinem Verwaltungsrecht, Straßenverkehrsrecht, Verhaltenstraining und Psychologie. Auch die Nutzung moderner Technik wird erlernt.\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praxisphase mit erfahrener Begleitung, in der du selbstständig Probleme löst und Entscheidungen triffst. 🛑\"\n"
+        ],
+        "workEnvironment": [
+          "Arbeit im Freien, oft bei wechselnden Wetterbedingungen. 🌦️",
+          "Einsatz bei Städten, Gemeinden oder Polizeidienststellen."
+        ],
+        "advantages": [
+          "Abwechslungsreiche Arbeit an der frischen Luft. 🌤️",
+          "Hohe Eigenverantwortung und Einfluss auf die Sicherheit im Straßenverkehr. 🔒",
+          "Einsatz moderner Technik und technikbasierter Prozesse. ⚙️"
+        ],
+        "challenges": [
+          "Konfrontation mit unzufriedenen Verkehrsteilnehmern. 😡",
+          "Arbeiten bei allen Wetterlagen - Sonne, Regen oder Schnee. ❄️",
+          "Hohe Verantwortung erfordert Sorgfalt und Stressresistenz. 🛑"
+        ],
+        "didYouKnow": [
+          "Verkehrsüberwacher prüfen Fahrzeuge auf Schäden, bevor sie abgeschleppt werden. 🚘",
+          "Es gibt 52 verschiedene Parksünden, die unterschiedlich geahndet werden. 📜",
+          "Parken auf der Autobahn kostet 70 Euro - die teuerste Parksünde! 💸",
+          "Häufigeres Falschparken kann den Führerschein kosten! 🚫",
+          "Strafzettel für Parkverstöße sind häufiger als Geschwindigkeitsstrafen. ⚡"
+        ]
+      }
+    }
+  }
+]

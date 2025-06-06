@@ -1,0 +1,108 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2300,
+    "maxStartingSalary": 2700,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 650,
+        "max": 850
+      },
+      {
+        "min": 750,
+        "max": 1050
+      },
+      {
+        "min": 950,
+        "max": 1300
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Dachdecker/in",
+        "overview": "\"Als Dachdecker/in sorgst du dafür, dass Gebäude von oben gut geschützt sind 🏔️. Du deckst Dächer, installierst Solaranlagen und machst Häuser wetterfest 💦. Deine Arbeit ist hoch hinaus und abwechslungsreich 🌐.\"\n",
+        "responsibilities": [
+          "Deckung und Abdichtung von Dächern und Fassaden 🏔️.",
+          "Installation von Dachfenstern und Solaranlagen 🌟.",
+          "Sanierung und Reparatur von Dächern 🛠️."
+        ],
+        "curriculum": [
+          "Deckungstechniken für verschiedene Dacharten 🏔️.",
+          "Abdichtungs- und Dämmtechniken 🌐.",
+          "Montage von Dachfenstern und Photovoltaikanlagen 🌟."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Dachdeckermeister 🎓.",
+          "Spezialisierung auf Solartechnik oder Energieberatung 🔋.",
+          "Selbstständigkeit mit eigenem Dachdeckerbetrieb 🏢."
+        ],
+        "furtherEducation": [
+          "Fachkurse zu Energiemanagement und modernen Dachtechniken 🌟.",
+          "Studium im Bauingenieurwesen oder Gebäudetechnik 🎓."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📚.",
+          "Praktische Eignungstests auf der Baustelle 🛠️."
+        ],
+        "applicationRequirements": [
+          "Schwindelfreiheit und gute körperliche Fitness 🏆.",
+          "Handwerkliches Geschick und technisches Verständnis 🛠️."
+        ],
+        "applicationTips": [
+          "Betone deine Stärken in Technik und Teamarbeit 🔋.",
+          "Erwähne Erfahrungen im Handwerk oder Baugewerbe 🛠️."
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Bauphysik und Werkstoffkunde 🌐.",
+          "Sicherer Umgang mit Werkzeugen und Maschinen 🛠️."
+        ],
+        "requiredPersonalTraits": [
+          "Höhentauglichkeit und Belastbarkeit 💪.",
+          "Präzision und Verantwortungsbewusstsein 🏙️."
+        ],
+        "theoreticalStructure": [
+          "Theorieunterricht zu Bauphysik, Werkstoffkunde und Sicherheit 📐."
+        ],
+        "practicalStructure": [
+          "Praktische Arbeit auf Dächern, Fassaden und Baustellen 🏙️."
+        ],
+        "workEnvironment": [
+          "Arbeiten auf Baustellen und in luftiger Höhe 🏙️.",
+          "Einsatz bei Neubau, Sanierung und Reparaturen 🌐."
+        ],
+        "advantages": [
+          "Abwechslungsreiche Arbeit in einem gefragten Beruf 🏔️.",
+          "Hohe Nachfrage nach Fachkräften im Bauwesen 📈.",
+          "Gute Verdienstmöglichkeiten mit Erfahrung 💰."
+        ],
+        "challenges": [
+          "Arbeiten in großer Höhe und bei Wind und Wetter 🌐.",
+          "Körperlich anspruchsvolle Tätigkeiten 💪."
+        ],
+        "didYouKnow": [
+          "Dachdecker gehören zu den ältesten Bauhandwerksberufen der Welt 🌐.",
+          "Ein gut isoliertes Dach spart bis zu 30% Energie 🔋.",
+          "Moderne Dächer können auch als Lebensraum für Pflanzen und Tiere genutzt werden 🌿."
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "category": "design_and_creative_industries",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2200,
+    "maxStartingSalary": 2600,
+    "minAvarageSalary": 2200,
+    "maxAvarageSalary": 3400,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 3400,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Assistent/in - Innenarchitektur",
+        "overview": "🎨 Assistenten in der Innenarchitektur unterstützen kreative Konzepte und sorgen dafür, dass Innenräume sowohl funktional als auch ästhetisch überzeugen. Sie arbeiten Hand in Hand mit Innenarchitekten, übernehmen technische Umsetzungen und sind oft das Bindeglied zwischen Kunden, Designern und Technikern.",
+        "responsibilities": [
+          "Prüfen von Gestaltungsvorschlägen auf technische und wirtschaftliche Umsetzbarkeit. 📐",
+          "Erstellung und Bearbeitung von Entwürfen mit CAD-Programmen. 💻",
+          "Kommunikation mit Kunden und anderen Fachabteilungen. 📞",
+          "Unterstützung bei der Planung und Gestaltung von Innenräumen. 🏠",
+          "Projektmanagement und Organisation. 📋"
+        ],
+        "curriculum": [
+          "Entwerfen und Perspektivisches Zeichnen. 🎨",
+          "Baustoffkunde und Haustechnik. 🛠️",
+          "Kunst- und Sozialgeschichte. 📚",
+          "CAD und computergestütztes Konstruieren. 💻"
+        ],
+        "careerProspects": [
+          "Einstieg in Innenarchitekturbüros, Möbelindustrie oder Messebau. 🏢",
+          "Karriere im Produkt- oder Ausstellungsdesign. 🖼️",
+          "Selbstständigkeit als Innenarchitekt/in mit entsprechender Erfahrung. 🚀"
+        ],
+        "furtherEducation": [
+          "Weiterbildungen in Qualitätsmanagement, Lichttechnik oder altersgerechtem Bauen. 🎓",
+          "Studium in Innenarchitektur, Architektur oder Produktdesign. 📚",
+          "Möglichkeit zur Eintragung in die Architektenliste mit ausreichender Erfahrung. 🏛️"
+        ],
+        "applicationSteps": [
+          "Vorlage eines Aufnahmeantrags und Nachweis des Schulabschlusses. 📄",
+          "Absolvierung einer Eignungsprüfung mit Arbeitsproben. ✍️",
+          "Nachweis eines Tischlerpraktikums, vor oder während der Ausbildung. 🛠️"
+        ],
+        "applicationRequirements": [
+          "Kreativität und gestalterisches Talent. 🎨",
+          "Gute Noten in Kunst, Mathe und Technik. 📚",
+          "Freude am Umgang mit CAD-Software und technisches Verständnis. 💻"
+        ],
+        "applicationTips": [
+          "Arbeitsmappe mit eigenen Entwürfen und Zeichnungen vorlegen. ✏️",
+          "Praktische Erfahrungen im Handwerk oder Design hervorheben. 🔨"
+        ],
+        "requiredPersonalSkills": [
+          "Kreativität und technisches Verständnis. 🎨",
+          "Organisationstalent und Zeitmanagement. ⏳",
+          "Kommunikationsfähigkeit und Teamarbeit. 🤝"
+        ],
+        "requiredPersonalTraits": [
+          "Detailgenauigkeit und Geduld. 🕵️",
+          "Offenheit und Interesse an Designtrends. 🌟",
+          "Analytisches Denken und Problemlösungskompetenz. 🧠"
+        ],
+        "theoreticalStructure": [
+          "\"Fächer wie Entwerfen, Baustoffkunde, Freihandzeichnen, Kunstgeschichte, CAD und Statik bilden die Grundlage. 📖\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praktische Projekte in der Schule und ein verpflichtendes Tischlerpraktikum während der Ausbildung. 🛠️\"\n"
+        ],
+        "workEnvironment": [
+          "Innenarchitekturbüros. 🏢",
+          "Raumausstatterbetriebe. 🛋️",
+          "Möbelindustrie und Produktdesign. 🛠️",
+          "Ausstellungs- und Messebau. 🎤",
+          "Behörden und Bauaufsichtsämter. 🏛️"
+        ],
+        "advantages": [
+          "Kreative und abwechslungsreiche Tätigkeiten. 🌟",
+          "Vielfältige Einsatzmöglichkeiten in unterschiedlichen Branchen. 🛋️",
+          "Möglichkeit zur Weiterqualifikation und Spezialisierung. 🚀"
+        ],
+        "challenges": [
+          "Erforderliche Präzision und Detailgenauigkeit bei der Arbeit. 📏",
+          "Hohe Verantwortung für technische und wirtschaftliche Umsetzbarkeit. ⚙️",
+          "Teilweise Schicht- oder Wochenendarbeit je nach Projekt. ⏰"
+        ],
+        "didYouKnow": [
+          "Die Blocherer Schule in München ist eine der renommiertesten für diese Ausbildung. 🎓",
+          "Das New Century Global Center in China bietet 1,8 Millionen m² Platz für Innenarchitekten. 🏢",
+          "Der Ames-Raum von Adelbert Ames zeigt faszinierende optische Täuschungen. 🎭"
+        ]
+      }
+    }
+  }
+]

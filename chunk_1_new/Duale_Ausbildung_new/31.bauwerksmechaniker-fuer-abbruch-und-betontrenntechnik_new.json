@@ -1,0 +1,109 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "no_school_degree",
+    "minStartingSalary": 1800,
+    "maxStartingSalary": 2200,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 649
+      },
+      {
+        "min": 766,
+        "max": 766
+      },
+      {
+        "min": 876,
+        "max": 876
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "A2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Bauwerksmechaniker/-in für Abbruch und Betontrenntechnik",
+        "overview": "\"Als Bauwerksmechaniker/-in arbeitest du mit modernster Technik, um Bauwerke sicher und umweltgerecht zurückzubauen 🏗️. Dabei wird Nachhaltigkeit großgeschrieben 🌍.\"\n",
+        "responsibilities": [
+          "Sicherer Rückbau von Gebäuden und Brücken 🛠️.",
+          "Einsatz von Spezialmaschinen wie Betontrennsägen und Abbruchbaggern 🚧.",
+          "Materialtrennung zur Wiederverwertung ♻️."
+        ],
+        "curriculum": [
+          "Bedienung von Baumaschinen und Geräten 🏗️.",
+          "Arbeitssicherheit und Umweltstandards ⚠️.",
+          "Materialkunde und Trenntechniken 📚."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Baumaschinenführer 🏗️.",
+          "Spezialisierung auf nachhaltigen Rückbau 🌱.",
+          "Option zur Selbstständigkeit im Bauwesen 🏢."
+        ],
+        "furtherEducation": [
+          "Kurse in digitaler Baustellentechnik 🌐.",
+          "Aufbauqualifikationen in Recycling- und Umwelttechnik 🌍."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Bewerbung 📄.",
+          "Teilnahme an einem technischen Test 🛠️.",
+          "Praktischer Einblick in einem Baustellenpraktikum 🚧."
+        ],
+        "applicationRequirements": [
+          "Interesse an Technik und Maschinen ⚙️.",
+          "Teamfähigkeit und Belastbarkeit 💪."
+        ],
+        "applicationTips": [
+          "Erwähne praktische Erfahrungen und technisches Interesse 🔧.",
+          "Betone deine Zuverlässigkeit und Flexibilität 🤝."
+        ],
+        "requiredPersonalSkills": [
+          "Bedienung von Maschinen und Werkzeugen ⚙️.",
+          "Grundkenntnisse in Umweltschutz und Recycling ♻️."
+        ],
+        "requiredPersonalTraits": [
+          "Sorgfalt und Verantwortungsbewusstsein 🧐.",
+          "Belastbarkeit und Teamfähigkeit 💪."
+        ],
+        "theoreticalStructure": [
+          "Theorieunterricht mit Fokus auf Bautechnik und Umweltschutz 📘."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung direkt auf Baustellen mit modernster Technik 🚧."
+        ],
+        "workEnvironment": [
+          "Baustellen im Freien oder in Gebäuden 🏢.",
+          "Arbeiten unter Einhaltung strenger Sicherheitsvorschriften ⚠️."
+        ],
+        "advantages": [
+          "Arbeiten mit modernster Technologie 💻.",
+          "Hohe Nachfrage nach qualifizierten Kräften 📈.",
+          "Abwechslungsreiche und verantwortungsvolle Aufgaben 🛠️."
+        ],
+        "challenges": [
+          "Hohe körperliche Belastung 🏋️.",
+          "Arbeiten in staubiger und lauter Umgebung 🌫️."
+        ],
+        "didYouKnow": [
+          "Bauwerksmechaniker setzen auch neueste Abbruchmethoden ein, die besonders leise sind 🔇.",
+          "Recyclingmaterialien aus Abbrüchen helfen der Umwelt 🌱.",
+          "Die Neuordnung dieses Berufs fokussiert sich stark auf Digitalisierung und Nachhaltigkeit 🌐."
+        ]
+      }
+    }
+  }
+]

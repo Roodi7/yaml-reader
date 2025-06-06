@@ -13,29 +13,28 @@ function renderTree(container, items) {
             const ul = document.createElement('ul');
             renderTree(ul, item.children);
             li.appendChild(ul);
-        } else if (item.name.endsWith('.yaml')) {
+        } else if (item.name.endsWith('.json')) {
             li.textContent = item.name;
-            li.onclick = () => loadYAML(item.path);
+            li.onclick = () => loadJSON(item.path);
         }
         container.appendChild(li);
     });
 }
-async function loadYAML(path) {
+async function loadJSON(path) {
     const res = await fetch(path + '?t=' + new Date().getTime());
-     const text = await res.text();
+    const text = await res.text();
 
     const titleElem = document.getElementById('yaml-title');
-    // نحصل على اسم الملف فقط من المسار (بدون المجلدات)
+    // Get just the filename from the path (without folders)
     const fileName = path.split('/').pop();
     titleElem.textContent = fileName;
 
-
-    // تحويل YAML لكائن جافاسكريبت
+    // Parse JSON to JavaScript object
     let data;
     try {
-        data = jsyaml.load(text);
+        data = JSON.parse(text);
     } catch (e) {
-        alert('خطأ في قراءة YAML: ' + e.message);
+        alert('Error reading JSON: ' + e.message);
         return;
     }
 

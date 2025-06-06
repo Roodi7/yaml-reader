@@ -1,0 +1,102 @@
+[
+  {
+    "category": "economy_and_politics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2963,
+    "maxStartingSalary": 3400,
+    "minAvarageSalary": 2963,
+    "maxAvarageSalary": 4294,
+    "minExperiencedSalary": 3700,
+    "maxExperiencedSalary": 4294,
+    "trainingSalary": [
+      {
+        "min": 1473,
+        "max": 1473
+      },
+      {
+        "min": 1473,
+        "max": 1473
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Beamter/Beamtin Zoll (mittlerer Dienst)",
+        "overview": "\"Als Beamter/Beamtin im mittleren Zolldienst bist du Teil der Sicherheitskräfte, die den Warenverkehr überwachen, Schmuggel verhindern und Steuergesetze durchsetzen. 🚛✨ Deine Arbeit trägt maßgeblich zur wirtschaftlichen Stabilität und Sicherheit des Landes bei. 🌍🛡️\"\n",
+        "responsibilities": [
+          "Überprüfung von Waren und Fahrzeugen an Grenzen 🚛✨",
+          "Kontrolle von Reisenden und Gepäck an Flughäfen ✈️✨",
+          "Bekämpfung von Schmuggel und illegalem Handel 🌟🛡️"
+        ],
+        "curriculum": [
+          "Grundlagen des Zoll- und Steuerrechts 📜✨",
+          "Kontrolltechniken und Sicherheitstraining 📊✨",
+          "Einsatztraining und internationale Zusammenarbeit 🌍✨"
+        ],
+        "careerProspects": [
+          "Spezialisierung auf Bereiche wie Schmuggelbekämpfung oder Finanzkontrolle 🚀✨",
+          "Aufstieg in den gehobenen Dienst durch Weiterbildungen 🌟✨",
+          "Karrierechancen in internationalen Organisationen oder Botschaften 🌍✨"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Zollmanagement oder Public Administration 🎓📘",
+          "Fortbildung in Zollfahndung oder internationalen Handelsgesetzen 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Eignungstests und körperliche Untersuchung 🧠✨"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder gleichwertiger Abschluss 🎓",
+          "Interesse an Sicherheit und internationalem Handel 🌟📜"
+        ],
+        "applicationTips": [
+          "Hebe deine Genauigkeit und Teamfähigkeit hervor 🤝✨",
+          "Betone relevante Erfahrungen in sicherheitsrelevanten Bereichen 📄✨"
+        ],
+        "requiredPersonalSkills": [
+          "Analytisches Denken und technisches Verständnis 🧠✨",
+          "Kommunikationsfähigkeit und Verantwortungsbewusstsein 🗣️✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Flexibilität 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "Ausbildung an Zollschulen mit Fokus auf Zollrecht und Sicherheitspolitik 📘✨"
+        ],
+        "practicalStructure": [
+          "Praktische Einsätze in Zollämtern und bei mobilen Kontrollen 🚛✨"
+        ],
+        "workEnvironment": [
+          "Arbeit an Grenzübergängen, Flughäfen und Zollämtern 🏢✨",
+          "Einsätze im In- und Ausland sowie in mobilen Teams 🌍✨"
+        ],
+        "advantages": [
+          "Abwechslungsreiche Aufgaben mit gesellschaftlicher Relevanz 🌍✨",
+          "Hohe Arbeitsplatzsicherheit und attraktive Sozialleistungen 🛡️✨"
+        ],
+        "challenges": [
+          "Arbeiten unter teils schwierigen Bedingungen und hoher Verantwortung 🌟📜",
+          "Flexibilität und Mobilität bei wechselnden Einsatzorten erforderlich 🕒✨"
+        ],
+        "didYouKnow": [
+          "Zollbeamte tragen zur Sicherheit des internationalen Handels bei 🌍✨",
+          "Die Ausbildung umfasst praktische Übungen und Auslandseinsätze 🚛✨",
+          "Der Zoll spielt eine entscheidende Rolle bei der Bekämpfung von Schmuggel und Steuerhinterziehung 🛡️✨"
+        ]
+      }
+    }
+  }
+]

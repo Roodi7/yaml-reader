@@ -1,0 +1,106 @@
+[
+  {
+    "category": "gastronomy_and_food",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "no_school_degree",
+    "minStartingSalary": 1900,
+    "maxStartingSalary": 2300,
+    "minAvarageSalary": 1900,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3200,
+    "trainingSalary": [
+      {
+        "min": 860,
+        "max": 1133
+      },
+      {
+        "min": 945,
+        "max": 1270
+      },
+      {
+        "min": 1085,
+        "max": 1446
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Bäcker/in",
+        "overview": "\"Als Bäcker/in bereitest du jeden Tag köstliche Backwaren zu und sorgst dafür, dass andere mit einem Lächeln in den Tag starten können. 🥐✨ Dein handwerkliches Geschick und dein Gespür für Geschmack machen dich zum Helden der Frühstückstische! 🧁🍞\"\n",
+        "responsibilities": [
+          "Herstellung von Brot, Brötchen, Kuchen und anderen Backwaren 🍞🧁",
+          "Einhaltung von Hygienevorschriften und Qualitätssicherung 🌟🧽",
+          "Arbeiten mit modernen Backmaschinen und traditionellen Handwerkstechniken 🔧✨"
+        ],
+        "curriculum": [
+          "Lebensmittelkunde und Hygienevorschriften 🌟🧽",
+          "Backtechniken und Rezepturen 🍞✨",
+          "Qualitätsmanagement und Kundenorientierung 📊✨"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Meister/in im Bäckerhandwerk 🎓✨",
+          "Spezialisierung auf besondere Backtechniken oder Patisserie 🍰✨",
+          "Selbstständigkeit mit einer eigenen Bäckerei 🚀✨"
+        ],
+        "furtherEducation": [
+          "Studium der Lebensmitteltechnologie oder Ernährungswissenschaften 🎓📘",
+          "Fortbildung im Bereich Produktentwicklung oder Lebensmittelmanagement 🌟📊"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Probearbeiten oder Praktikum in einer Bäckerei 🍞✨"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss oder keine Schulpflicht 🎓",
+          "Geschicklichkeit und Interesse an Lebensmitteln 🌟🍞"
+        ],
+        "applicationTips": [
+          "Hebe deine Kreativität und Leidenschaft für Backwaren hervor 🍰✨",
+          "Betone praktische Erfahrungen oder Projekte in der Küche 📄💡"
+        ],
+        "requiredPersonalSkills": [
+          "Handwerkliches Geschick und Präzision 🎨✨",
+          "Hygienebewusstsein und Organisationstalent 📋✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Freude an der Arbeit mit Lebensmitteln 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du die Grundlagen der Lebensmittelkunde und Betriebswirtschaft 📘🍞"
+        ],
+        "practicalStructure": [
+          "Im Betrieb erwirbst du handwerkliche Fähigkeiten und erlernst den Umgang mit Backmaschinen 🧁🔧"
+        ],
+        "workEnvironment": [
+          "Arbeit in Backstuben und Bäckereien 🏠✨",
+          "Frühaufsteherroutine und manchmal Schichtarbeit 🌅✨"
+        ],
+        "advantages": [
+          "Kreatives Arbeiten mit Lebensmitteln 🍰✨",
+          "Vielfältige Aufgaben und ein erfüllender Beruf 🌟🤝"
+        ],
+        "challenges": [
+          "Körperliche Anstrengung und Arbeiten in frühen Morgenstunden 🌅✨",
+          "Präzision und Sauberkeit bei der Zubereitung von Lebensmitteln erforderlich 🌟📋"
+        ],
+        "didYouKnow": [
+          "Deutschland hat über 3.000 verschiedene Brotsorten! 🍞✨",
+          "Bäcker gehören zu den ältesten Handwerksberufen der Welt 🌍✨",
+          "Ein guter Bäcker kann Teig in weniger als 5 Minuten perfekt kneten 💪✨"
+        ]
+      }
+    }
+  }
+]

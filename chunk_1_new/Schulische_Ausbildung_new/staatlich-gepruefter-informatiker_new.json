@@ -1,0 +1,115 @@
+[
+  {
+    "category": "telecommunications_and_it",
+    "jobType": [
+      "part_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "high_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 3000,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 5000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Staatlich geprüfte/r Informatiker/in",
+        "overview": "In der digitalen Welt sind Informatiker unentbehrlich. Von Softwareentwicklung bis Netzwerkadministration tragen sie zur Modernisierung und Digitalisierung bei 🌐. Mit dem Abschluss als Staatlich geprüfter Informatiker eröffnen sich spannende Karrieremöglichkeiten in der IT-Branche 🚀.",
+        "responsibilities": [
+          "Entwicklung neuer Anwendungen und Software 📱.",
+          "Einrichtung, Wartung und Pflege von IT-Systemen 🖥️.",
+          "Aufbau und Management von Datenbanken 📊.",
+          "Programmierung von Verschlüsselungssoftware 🔒."
+        ],
+        "curriculum": [
+          "Softwareentwicklung und Internetanwendungen 🌐.",
+          "Fachwissen über Betriebssysteme und Netzwerke 💻.",
+          "Datenbankmanagement und IT-Sicherheit 🔒.",
+          "Spezialisierungen wie Wirtschaftsinformatik oder Software Development 💡."
+        ],
+        "careerProspects": [
+          "Softwareentwickler/in in IT-Unternehmen 🖥️.",
+          "Wirtschaftsinformatiker/in in Unternehmensberatungen 📊.",
+          "Spezialisierungen in Web- und App-Entwicklung 📱.",
+          "Selbstständigkeit mit eigener IT-Firma 💼."
+        ],
+        "furtherEducation": [
+          "Weiterbildung in Mediengestaltung oder IT-Sicherheit 🔧.",
+          "Verkürztes Studium in Informatik für einen Bachelor-Abschluss 🎓.",
+          "Spezialisierungen in Wirtschaftsinformatik oder Webentwicklung 🚀."
+        ],
+        "applicationSteps": [
+          "Recherchiere Berufsfachschulen und informiere dich über deren Anforderungen 🔍.",
+          "Erstelle eine Bewerbung mit Anschreiben, Lebenslauf und Schulzeugnissen 📄.",
+          "Bereite dich auf mögliche Eignungstests vor 📝."
+        ],
+        "applicationRequirements": [
+          "Fachhochschulreife oder Abitur 🎓.",
+          "Interesse an Informatik und modernen Technologien 💡.",
+          "Grundkenntnisse in Mathematik und Logik 📐."
+        ],
+        "applicationTips": [
+          "Erlerne erste Programmierkenntnisse in Sprachen wie C++ oder Python 💻.",
+          "Sammle Erfahrung durch Projekte oder Praktika im IT-Bereich 📂.",
+          "Hebe deine analytischen Fähigkeiten und IT-Affinität hervor 🌟."
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und Problemlösungsfähigkeiten ⚙️.",
+          "Mathematisches Denken und Analysefähigkeiten 📊.",
+          "Kenntnisse in Softwareentwicklung und IT-Systemen 💻."
+        ],
+        "requiredPersonalTraits": [
+          "Analytische Denkweise und Kreativität 🧠.",
+          "Zuverlässigkeit und Verantwortungsbewusstsein ✅.",
+          "Interesse an kontinuierlichem Lernen und Weiterentwicklung 📚."
+        ],
+        "theoreticalStructure": [
+          "IT-Fachwissen in Softwareentwicklung, Netzwerken und Datenbanken 📚."
+        ],
+        "practicalStructure": [
+          "Praktika und eigene Projekte zur Anwendung des erlernten Wissens 🛠️."
+        ],
+        "workEnvironment": [
+          "Büros 🏢.",
+          "Kundenstandorte vor Ort 🌍."
+        ],
+        "advantages": [
+          "Exzellente Zukunftsperspektiven in der IT-Branche 🌍.",
+          "Spannende Spezialisierungsmöglichkeiten von Medieninformatik bis Wirtschaftsinformatik 💼.",
+          "Sicherer Arbeitsplatz mit fairen Arbeitszeiten 🕒."
+        ],
+        "challenges": [
+          "Ständig neue technologische Entwicklungen erfordern kontinuierliche Weiterbildung 🛠️.",
+          "Herausfordernde Projekte mit hohem Maß an Verantwortlichkeit ⚙️."
+        ],
+        "didYouKnow": [
+          "Staatlich geprüfte Informatiker können ihre Ausbildung um ein Studium erweitern 🎓.",
+          "Die IT-Branche bietet sichere Jobs mit attraktiven Gehältern 💶.",
+          "Programmieren ist eine Kernkompetenz und bietet vielseitige Einsatzmöglichkeiten 🚀.",
+          "Mit IT-Kenntnissen kannst du auch als Berater oder Selbstständiger tätig sein 💼.",
+          "Die Nachfrage nach IT-Fachkräften steigt kontinuierlich weltweit 🌍."
+        ]
+      }
+    }
+  }
+]

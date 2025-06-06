@@ -1,0 +1,106 @@
+[
+  {
+    "category": "transport_and_logistics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "no_school_degree",
+    "minStartingSalary": 2400,
+    "maxStartingSalary": 2600,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 1160
+      },
+      {
+        "min": 766,
+        "max": 1227
+      },
+      {
+        "min": 876,
+        "max": 1289
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Berufskraftfahrer/in",
+        "overview": "\"Als Berufskraftfahrer/in sorgst du dafür, dass Menschen und Waren sicher an ihr Ziel gelangen. 🚚✨ Ob im Güter- oder Personenverkehr – du bist der Profi hinter dem Steuer, der die Welt in Bewegung hält. 🌍🚛\"\n",
+        "responsibilities": [
+          "Fahren von Lastkraftwagen und Bussen über kurze und lange Strecken 🚛✨",
+          "Sicherung und Transport von Gütern oder Personen 📦✨",
+          "Kontrolle und Wartung der Fahrzeuge sowie Einhaltung der Vorschriften 🛠️✨"
+        ],
+        "curriculum": [
+          "Fahrzeugtechnik und Wartung 📜✨",
+          "Logistik und Routenplanung 🌍✨",
+          "Sicherheits- und Verkehrsvorschriften 📋✨"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Meister/in im Kraftverkehr 🎓✨",
+          "Spezialisierung auf internationale Transporte oder Gefahrgutverkehr 🚀✨",
+          "Karriere als Fuhrparkleiter oder Logistikmanager 🌟✨"
+        ],
+        "furtherEducation": [
+          "Fortbildung in Verkehrsmanagement oder Disposition 🎓📘",
+          "Studium im Bereich Logistik oder Verkehrswesen 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Eignungstests und praktisches Probearbeiten 🧠✨"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss oder keine Schulpflicht 🎓",
+          "Technisches Interesse und Verantwortungsbewusstsein 🌟🚛"
+        ],
+        "applicationTips": [
+          "Hebe deine Fähigkeiten in Technik und Teamarbeit hervor 🤝✨",
+          "Betone Erfahrungen in praktischen oder technischen Projekten 📄✨"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und handwerkliches Geschick 🔧✨",
+          "Sorgfältigkeit und Verantwortungsbewusstsein 📋✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Flexibilität 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "Theoriephasen an Berufsschulen mit Fokus auf Verkehrsvorschriften und Fahrzeugtechnik 📘✨"
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung im Betrieb mit realen Fahreinsätzen 🌟🚛"
+        ],
+        "workEnvironment": [
+          "Arbeit in Speditionen, Transportunternehmen oder im öffentlichen Nahverkehr 🏢✨",
+          "Einsätze auf Straßen, Autobahnen und internationalen Routen 🌍✨"
+        ],
+        "advantages": [
+          "Abwechslungsreiche Tätigkeiten und internationale Einsätze 🌍✨",
+          "Hohe Nachfrage und attraktive Verdienstmöglichkeiten 🚀✨"
+        ],
+        "challenges": [
+          "Langes Sitzen und Arbeiten unter Zeitdruck 🌟📋",
+          "Hohe Verantwortung für Sicherheit und Präzision erforderlich 🛡️✨"
+        ],
+        "didYouKnow": [
+          "Berufskraftfahrer sind essenziell für die globale Lieferkette 🌍✨",
+          "Die Ausbildung umfasst praktische Übungen und Fahrtrainings 🚛✨",
+          "Der Beruf bietet zahlreiche internationale Karrieremöglichkeiten 🌟✨"
+        ]
+      }
+    }
+  }
+]

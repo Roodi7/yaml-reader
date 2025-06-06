@@ -1,0 +1,125 @@
+[
+  {
+    "category": "media",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1500,
+    "maxStartingSalary": 2200,
+    "minAvarageSalary": 2400,
+    "maxAvarageSalary": 3100,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 5000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Fotodesigner/in",
+        "overview": "Als Fotodesigner/in verwandelst du kreative Ideen in visuelle Meisterwerke. Du entwickelst Gestaltungskonzepte, arrangierst Motive und Requisiten, und perfektionierst deine Werke mit moderner Bildbearbeitung. 🌟📸 Mit deinem künstlerischen Gespür prägst du Werbekampagnen, Modeaufnahmen und technische Dokumentationen. Die Ausbildung bietet dir spannende Einblicke in die Welt des kreativen Designs und lässt dich in faszinierende Bereiche wie Werbung und Wissenschaft eintauchen. 🖼️✨",
+        "responsibilities": [
+          "Kreative Gestaltung von Fotoideen 🎨",
+          "Konzeption und Umsetzung von Fotografien für Werbung, Mode und Sachfotografie 🏙️👗",
+          "Arrangieren von Motiven, Hintergründen und Beleuchtung 💡📷",
+          "Bearbeiten und Optimieren von Fotos mit modernsten Programmen 🖥️📑",
+          "Erstellung technischer und wissenschaftlicher Fotografien 🔬⚙️"
+        ],
+        "curriculum": [
+          "Fotografische Grundlagen: Bildaufbau, Komposition und Beleuchtung 🖼️💡",
+          "Kreatives Arbeiten mit digitalen Werkzeugen und Software 🎨🖥️",
+          "Gestaltung von Werbe- und Modefotografien 👗📢",
+          "Technische und wissenschaftliche Fotografie 🔬⚙️"
+        ],
+        "careerProspects": [
+          "Anstellung in Fotostudios, Werbeagenturen oder Verlagen 🏢✨",
+          "Freiberufliche Tätigkeit mit individuellen Projekten 🌍📷",
+          "Karriere in der digitalen Mediengestaltung oder als Medienfachwirt/in 📚🚀"
+        ],
+        "furtherEducation": [
+          "Weiterbildung in digitaler Bildbearbeitung und Fototechnik 🖼️🖥️",
+          "Medienfachwirt/in Print oder Digital für Führungsaufgaben 📑📈",
+          "Studium in Fotografie oder Design für weiterführende Spezialisierungen 🎓📸"
+        ],
+        "applicationSteps": [
+          "Zusammenstellen von Lebenslauf, Zeugnis und kreativem Anschreiben 🖋️📑",
+          "Einreichen der Bewerbung bei einer Berufsfachschule oder einem Ausbildungsanbieter ✉️🏫",
+          "Vorbereitung eines Portfolios, um kreative Fähigkeiten zu präsentieren 🎨📂"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss oder vergleichbarer Schulabschluss 📜🎓",
+          "Kreativität und künstlerisches Talent 🎨✨",
+          "Technisches Verständnis für Bildbearbeitungssoftware 🖥️🖌️"
+        ],
+        "applicationTips": [
+          "Hebe deine kreativen Projekte und künstlerischen Fähigkeiten im Lebenslauf hervor 🌟📑",
+          "Nutze ein kreatives und professionelles Bewerbungsfoto 📸🤵",
+          "Betone deine Leidenschaft für Fotografie und Design im Anschreiben 💌✨"
+        ],
+        "requiredPersonalSkills": [
+          "Kreativität und gestalterisches Geschick 🎨✨",
+          "Technisches Verständnis für Kameras und Software 🖥️📸",
+          "Organisationsfähigkeit für komplexe Projekte 📂📑"
+        ],
+        "requiredPersonalTraits": [
+          "Kundenorientierung und kommunikative Fähigkeiten 🤝✨",
+          "Flexibilität und Anpassungsfähigkeit an unterschiedliche Projekte 🌍🎨",
+          "Engagement und Freude an der Arbeit im kreativen Bereich 🚀📸"
+        ],
+        "theoreticalStructure": [
+          "Konzepte der Fotografie, digitale Bildbearbeitung, Beleuchtungstechnik und Projektplanung werden im Unterricht vermittelt. 🏫📚"
+        ],
+        "practicalStructure": [
+          "Praktische Arbeiten umfassen Fotoshootings, kreative Projekterstellung und die Bearbeitung von Aufnahmen. 📸🎞️"
+        ],
+        "workEnvironment": [
+          "Ateliers und Studios 🏢🎥",
+          "Werbeagenturen und Designbüros ✍️✨",
+          "Freiberufliche Tätigkeiten mit vielfältigen Kundenprojekten 🌍🤝"
+        ],
+        "advantages": [
+          "Künstlerischer Beruf mit viel kreativer Freiheit 🎨✨",
+          "Vielfältige Arbeitsmöglichkeiten in spannenden Branchen 🏙️📸",
+          "Technologische Entwicklung sorgt für stetige Innovation 🚀🖥️"
+        ],
+        "challenges": [
+          "Hoher Konkurrenzdruck in der kreativen Branche 🏁💼",
+          "Eigenverantwortung bei der Projektplanung und Umsetzung 🤔📑",
+          "Regelmäßige Weiterbildung, um up-to-date zu bleiben 📚🚀"
+        ],
+        "didYouKnow": [
+          "Fotografie wird oft als 'Malen mit Licht' bezeichnet. 🖼️✨",
+          "Walter Lautenbacher war ein einflussreicher Fotodesigner und Begründer des Berufs in Deutschland. 🇩🇪📸",
+          "Moderne Kameras bieten weit mehr Filteroptionen als Smartphone-Kameras. 📱✨",
+          "Die Belichtungszeiten früherer Kameras konnten bis zu 10 Minuten dauern! ⏱️📷",
+          "Raumaufteilung ist ein Schlüsselkonzept im Fotodesign. 🏠✨"
+        ]
+      }
+    }
+  }
+]

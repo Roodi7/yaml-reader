@@ -1,0 +1,102 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2800,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 3600,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 880,
+        "max": 880
+      },
+      {
+        "min": 1095,
+        "max": 1095
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Ausbaufacharbeiter/in",
+        "overview": "\"Als Ausbaufacharbeiter/in arbeitest du im Innenausbau von Gebäuden und trägst dazu bei, aus Rohbauten wohnliche Räume zu machen. 🏠✨ Mit handwerklichem Geschick schaffst du Grundlagen für Fliesen, Dämmungen und mehr! 🛠️🌟\"\n",
+        "responsibilities": [
+          "Ausführen von Trockenbauarbeiten und Verlegen von Estrich 🛠️🏗️",
+          "Isolierung von Wänden und Rohren gegen Wärme, Kälte oder Schall 🧱✨",
+          "Arbeiten mit modernen Maschinen und Werkzeugen ⚙️🔧"
+        ],
+        "curriculum": [
+          "Planung und Umsetzung von Innenausbauarbeiten 📋🏠",
+          "Materialverarbeitung und Dämmtechniken 🧱✨",
+          "Arbeitssicherheit und Umweltschutz 🌍🛡️"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Trockenbaumonteur/in oder Fliesenleger/in 🎓✨",
+          "Spezialisierung auf moderne Dämmtechniken 🌟🛠️",
+          "Aufstieg in Bauleitung oder Meisterpositionen 📈💼"
+        ],
+        "furtherEducation": [
+          "Techniker/in im Bereich Bauwesen oder Gebäudeenergieberatung 📖🎓",
+          "Studium in Architektur oder Bauingenieurwesen 🏫✨"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄🖊️",
+          "Praktische Aufgaben oder Probearbeiten auf einer Baustelle 🏗️✔️"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss oder Mittlere Reife 🎓",
+          "Handwerkliches Geschick und räumliches Vorstellungsvermögen 🔧✨"
+        ],
+        "applicationTips": [
+          "Betone deine Teamfähigkeit und Begeisterung für den Bau ✍️✨",
+          "Hebe relevante Praktika oder Projekte hervor 📄🔧"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und handwerkliches Geschick ⚙️✨",
+          "Kreativität und Präzision bei Bauarbeiten 🎨✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Belastbarkeit 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du Grundlagen in Bauphysik, Materialkunde und technischem Zeichnen 📚📐"
+        ],
+        "practicalStructure": [
+          "Im Betrieb wirst du praktisch an Baustellen ausgebildet und lernst den Umgang mit Werkzeugen und Maschinen 🏗️🔧"
+        ],
+        "workEnvironment": [
+          "Einsatz auf Baustellen oder in Werkstätten 🏗️🔨",
+          "Arbeiten in Teams mit Fachkräften aus unterschiedlichen Gewerken 🤝👷‍♂️"
+        ],
+        "advantages": [
+          "Vielseitige Aufgaben im Innenausbau mit kreativen Herausforderungen 🌟🏠",
+          "Hohe Nachfrage nach handwerklichen Fachkräften im Bauwesen 🚀🔧"
+        ],
+        "challenges": [
+          "Arbeiten unter wechselnden Bedingungen auf Baustellen 🏗️❄️",
+          "Körperlich anstrengende Tätigkeiten und Präzision erforderlich 💪📏"
+        ],
+        "didYouKnow": [
+          "10 % der Ausbaufacharbeiter-Azubis haben keinen Schulabschluss und schaffen die Ausbildung trotzdem erfolgreich! 🎓✨",
+          "Moderne Dämmtechniken sparen bis zu 30 % der Heizkosten ein! 🌍✨",
+          "Die Arbeit im Trockenbau ist eine Schlüsselkompetenz im nachhaltigen Bauen! 🏗️🌟"
+        ]
+      }
+    }
+  }
+]

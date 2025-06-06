@@ -1,0 +1,119 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "shift_work"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2200,
+    "maxStartingSalary": 2800,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 3500,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 945,
+        "max": 945
+      },
+      {
+        "min": 1013,
+        "max": 1013
+      },
+      {
+        "min": 1125,
+        "max": 1125
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Notfallsanitäter/in",
+        "overview": "Notfallsanitäter sind die ersten am Einsatzort und leisten lebensrettende Maßnahmen in herausfordernden Situationen. Sie arbeiten unter Zeitdruck und sorgen für die Sicherheit und Stabilisierung von Patienten. 🚑",
+        "responsibilities": [
+          "Entgegennahme von Einsätzen und Fahrt zum Einsatzort 🚨",
+          "Medizinische Erstversorgung und Stabilisierung von Patienten 🩺",
+          "Dokumentation und Weitergabe von Patientendaten ans Krankenhaus 📝",
+          "Transport und Überwachung von Patienten ins Krankenhaus 🏥"
+        ],
+        "curriculum": [
+          "Lebensrettende Sofortmaßnahmen 🩺",
+          "Notfallmedizin und Medikamentengabe 💊",
+          "Transport und Überwachung von Patienten 🚑"
+        ],
+        "careerProspects": [
+          "Einsatz als Leitender Notfallsanitäter 🌟",
+          "Weiterbildung zum Lehrrettungsassistent 🎓",
+          "Studium im Gesundheitsmanagement 🎓"
+        ],
+        "furtherEducation": [
+          "Leitender Notfallsanitäter 🌟",
+          "Lehrrettungsassistent 🎓",
+          "Betriebswirt im Gesundheitswesen 📊"
+        ],
+        "applicationSteps": [
+          "Informiere dich über die Voraussetzungen und geeignete Berufsfachschulen 📑",
+          "Reiche deine vollständige Bewerbung mit ärztlichem Attest ein ✍️",
+          "Bereite dich auf ein Vorstellungsgespräch vor, um deine Eignung zu präsentieren 🎤"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife 🎓",
+          "Körperliche Fitness und psychische Belastbarkeit 💪",
+          "Teamfähigkeit und Verantwortungsbewusstsein 🤝"
+        ],
+        "applicationTips": [
+          "Hebe deine Motivation und Erfahrungen in der Bewerbung hervor ✨",
+          "Bereite dich mit Erste-Hilfe-Kursen oder Praktika auf die Ausbildung vor 🩺",
+          "Zeige Begeisterung für den Beruf in deinem Anschreiben 🌟"
+        ],
+        "requiredPersonalSkills": [
+          "Medizinische Kenntnisse und technisches Verständnis 🩺",
+          "Fähigkeit, Entscheidungen unter Zeitdruck zu treffen ⏱️",
+          "Kommunikations- und Teamfähigkeit 🤝"
+        ],
+        "requiredPersonalTraits": [
+          "Empathie und Belastbarkeit 💖",
+          "Flexibilität und Einsatzbereitschaft 🚑",
+          "Schnelles Reaktionsvermögen ⚡"
+        ],
+        "theoreticalStructure": [
+          "Theorieunterricht in Berufsfachschulen mit 1.920 Stunden 📘"
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung in Lehrrettungswachen und Krankenhäusern mit 2.680 Stunden 🏥"
+        ],
+        "workEnvironment": [
+          "Rettungswachen 🚑",
+          "Krankenhäuser 🏥",
+          "Einsatzorte bei Notfällen, wie Unfälle oder Brände 🚨"
+        ],
+        "advantages": [
+          "Lebensrettender Beruf mit gesellschaftlicher Relevanz 🌍",
+          "Spannende Einsätze und vielfältige Aufgaben 🚨",
+          "Hohe Nachfrage nach qualifiziertem Personal 📈"
+        ],
+        "challenges": [
+          "Physisch und psychisch belastende Situationen 💪",
+          "Schichtarbeit, auch nachts und am Wochenende 🌙",
+          "Arbeit unter Zeitdruck in Notfällen ⏱️"
+        ],
+        "didYouKnow": [
+          "Der Beruf Notfallsanitäter hat 2014 den Rettungsassistenten abgelöst 🚨",
+          "Das Martinshorn heißt offiziell Folgetonhorn 📢",
+          "Ein Rettungshubschrauber kann in Deutschland in 15 Minuten an jedem Ort sein 🚁",
+          "Die Abkürzung für Notfallsanitäter ist NotSan oder NFS 🔤",
+          "Im Rettungsdienst vergeht zwischen Notruf und Alarmierung der Kräfte durchschnittlich 1 Minute ⏱️"
+        ]
+      }
+    }
+  }
+]

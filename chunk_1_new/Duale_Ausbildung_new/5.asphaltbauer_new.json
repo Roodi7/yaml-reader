@@ -1,0 +1,106 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2500,
+    "maxStartingSalary": 3300,
+    "minAvarageSalary": 3000,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 855,
+        "max": 855
+      },
+      {
+        "min": 1060,
+        "max": 1060
+      },
+      {
+        "min": 1270,
+        "max": 1270
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Asphaltbauer/in",
+        "overview": "\"Asphaltbauer/innen sind die Macher unserer Straßen, Parkplätze und Flughäfen. 🛣️✈️ Mit modernsten Technologien und viel handwerklichem Geschick sorgen sie dafür, dass der Verkehr stets sicher unterwegs ist. 🚗✨\"\n",
+        "responsibilities": [
+          "Anmischen und Verlegen von Asphaltdecken 🛠️🚧",
+          "Bedienung von schweren Baumaschinen 🏗️⚙️",
+          "Reparaturen und Instandhaltung bestehender Straßenbeläge 🔧🛣️"
+        ],
+        "curriculum": [
+          "Planung und Vorbereitung von Asphaltierungsarbeiten 🛠️📋",
+          "Einsatz moderner Maschinen und Technologien für die Straßenbauarbeiten 🚜⚙️",
+          "Sicherheitsmaßnahmen und Umweltschutz am Arbeitsplatz 🌍🛡️"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Vorarbeiter oder Polier im Straßenbau 🎓✨",
+          "Spezialisierung auf besondere Asphaltmischungen und Verfahren 🛠️📈",
+          "Aufstieg in Führungspositionen oder Selbstständigkeit 📈💼"
+        ],
+        "furtherEducation": [
+          "Techniker im Bereich Bautechnik oder Straßenbau 📖🎓",
+          "Studium im Bereich Bauingenieurwesen 🏫✨"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄🖊️",
+          "Praktischer Test oder Probearbeit auf einer Baustelle 🏗️✔️"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss oder Mittlere Reife 🎓",
+          "Gute körperliche Fitness und technisches Verständnis 💪⚙️"
+        ],
+        "applicationTips": [
+          "Betone dein Interesse am Straßenbau und Umgang mit Maschinen 🛠️🌟",
+          "Hebe relevante Praktika oder handwerkliche Erfahrungen hervor ✍️📄"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und handwerkliches Geschick 🔧✨",
+          "Teamfähigkeit und körperliche Belastbarkeit 🤝💪"
+        ],
+        "requiredPersonalTraits": [
+          "Zuverlässigkeit und Sorgfalt 🔍✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du Baustoffkunde und Maschinenführung 📚⚙️"
+        ],
+        "practicalStructure": [
+          "Im Betrieb übst du den Umgang mit Asphaltmischanlagen und großen Maschinen 🏗️🔧"
+        ],
+        "workEnvironment": [
+          "Einsatz auf Baustellen im Freien und bei unterschiedlichen Wetterbedingungen 🌧️☀️",
+          "Teamarbeit in Kolonnen für effizientes Arbeiten 👷‍♂️🤝"
+        ],
+        "advantages": [
+          "Vielseitige Arbeit an spannenden Großprojekten 🛣️🏗️",
+          "Gute Berufsperspektiven und sichere Zukunft 🌟👷‍♂️"
+        ],
+        "challenges": [
+          "Arbeit bei wechselnden Wetterbedingungen und teils in der Nacht 🌧️🌙",
+          "Hohe körperliche Belastung und Einsatz schwerer Maschinen 💪⚙️"
+        ],
+        "didYouKnow": [
+          "Asphalt wurde schon in der Antike für Bauarbeiten genutzt 🏺✨",
+          "Der weltweit längste Highway, die Panamericana, erstreckt sich über 30.000 km 🌎🛣️",
+          "Moderne Asphaltmischungen tragen zum Klimaschutz bei 🌍✨"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "category": "economy_and_politics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1800,
+    "maxStartingSalary": 2200,
+    "minAvarageSalary": 1800,
+    "maxAvarageSalary": 2700,
+    "minExperiencedSalary": 2200,
+    "maxExperiencedSalary": 2700,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "C1"
+      },
+      {
+        "name": "english",
+        "level": "B2"
+      },
+      {
+        "name": "Zweite Fremdsprache (optional)",
+        "level": "A2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Wirtschaftsassistent/in / Kaufmännische/r Assistent/in",
+        "overview": "📊 Organisationstalente aufgepasst! Als Wirtschaftsassistent/in bist du das Rückgrat eines jeden Unternehmens. Ob in der Buchhaltung, im Marketing oder in der Eventplanung – deine Fähigkeiten sind gefragt. Mit dieser Ausbildung legst du den Grundstein für eine vielfältige Karriere in der Unternehmenswelt! 🏢",
+        "responsibilities": [
+          "Bearbeiten von Anfragen und schriftlicher Korrespondenz. ✉️",
+          "Durchführen von Buchhaltungs- und Rechnungswesenaufgaben. 📚",
+          "Planen und Organisieren von Events oder Medienprojekten. 🎥",
+          "Übersetzen von Dokumenten und Dolmetschen bei Gesprächen. 🌍",
+          "Entwickeln von Werbekonzepten und Zielgruppenanalysen. 💡"
+        ],
+        "curriculum": [
+          "Deutsch, Englisch und Politische Bildung.",
+          "Betriebswirtschaft, Rechnungswesen und Marketing.",
+          "Informatik und IT-Anwendungen (je nach Schwerpunkt).",
+          "Eventmanagement und Social-Media-Marketing."
+        ],
+        "careerProspects": [
+          "Spezialisierung im Bereich Marketing oder IT. 🌟",
+          "Weiterbildung zum Fach- oder Betriebswirt. 🎓",
+          "Karriere im internationalen Handels- oder Eventmanagement."
+        ],
+        "furtherEducation": [
+          "Studium der Wirtschaftswissenschaften oder Betriebswirtschaftslehre.",
+          "Weiterbildung in IT-Projektmanagement oder Qualitätssicherung.",
+          "Techniker-Weiterbildung im Bereich IT oder Controlling."
+        ],
+        "applicationSteps": [
+          "Einreichen eines Aufnahmebogens bei der Fachschule. 📝",
+          "Beifügen eines Lebenslaufs und beglaubigter Schulzeugnisse.",
+          "Eventuell Teilnahme an Auswahlgesprächen oder Eignungstests. 📋"
+        ],
+        "applicationRequirements": [
+          "Mittlerer Schulabschluss mit guten Noten in Deutsch und Englisch.",
+          "Grundkenntnisse in Office-Anwendungen von Vorteil.",
+          "Interesse an kaufmännischen und organisatorischen Themen."
+        ],
+        "applicationTips": [
+          "Bereite dich auf Auswahlverfahren vor, falls erforderlich.",
+          "Achte auf fristgerechte Einreichung der Bewerbungsunterlagen."
+        ],
+        "requiredPersonalSkills": [
+          "Organisationstalent und strukturiertes Arbeiten. 📋",
+          "Kommunikationsfähigkeit und Teamarbeit. 🤝",
+          "Gute EDV-Kenntnisse für Office-Programme. 💻"
+        ],
+        "requiredPersonalTraits": [
+          "Eigeninitiative und Verantwortungsbewusstsein. 🌟",
+          "Interesse an wirtschaftlichen Zusammenhängen. 📊",
+          "Flexibilität und Belastbarkeit."
+        ],
+        "theoreticalStructure": [
+          "Unterricht in Betriebswirtschaft, Rechnungswesen, und je nach Schwerpunkt, spezifische Inhalte wie Marketing, Fremdsprachen oder IT. 📖\n"
+        ],
+        "practicalStructure": [
+          "Ein mindestens achtwöchiges Praktikum in einem Unternehmen, um praktische Erfahrungen zu sammeln und die Theorie anzuwenden. ✨\n"
+        ],
+        "workEnvironment": [
+          "Büros in Unternehmen aller Branchen. 🏢",
+          "Eventlocations bei Veranstaltungen. 🎤",
+          "Arbeitsplätze mit internationalen Kundenkontakt. 🌐"
+        ],
+        "advantages": [
+          "Vielfältige Einsatzmöglichkeiten in allen Branchen. 🌐",
+          "Option, die Fachhochschulreife während der Ausbildung zu erwerben. 🎓",
+          "Geregelte Arbeitszeiten und abwechslungsreiche Aufgaben. 🕒"
+        ],
+        "challenges": [
+          "Hohes Maß an Organisation und Selbstständigkeit erforderlich. 📋",
+          "Vielseitige Anforderungen durch unterschiedliche Schwerpunkte. 🔄",
+          "Intensive Lernphasen, besonders bei Zusatzqualifikationen. 📖"
+        ],
+        "didYouKnow": [
+          "Diese Ausbildung kann je nach Bundesland Fachabitur ermöglichen. 🎓",
+          "Wirtschaftsassistenten können auch in der Eventbranche arbeiten! 🎤",
+          "Mit der richtigen Spezialisierung sind internationale Karrieren möglich. 🌍",
+          "Gleitzeitmodelle sind in vielen Unternehmen gängig. 🕒",
+          "Schwerpunkte reichen von Marketing bis IT-Management. 💡"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "category": "telecommunications_and_it",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1600,
+    "maxStartingSalary": 2400,
+    "minAvarageSalary": 1900,
+    "maxAvarageSalary": 3000,
+    "minExperiencedSalary": 0,
+    "maxExperiencedSalary": 0,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Wirtschaftsassistent/in - Informationsverarbeitung",
+        "overview": "💻 Als Wirtschaftsassistent/in für Informationsverarbeitung bist du der erste Ansprechpartner bei IT-Problemen. Neben der technischen Unterstützung übernimmst du auch organisatorische Aufgaben. Die Ausbildung findet an einer Fachschule statt und bietet eine ideale Kombination aus Theorie und Praxis. 🚀✨",
+        "responsibilities": [
+          "Einrichtung von Computern, Tablets und branchenspezifischer Software. 🖥️🔧",
+          "Fehlersuche und Behebung von IT-Problemen wie Druckerausfällen oder langsamer Internetverbindung. 🔍📶",
+          "Mitarbeit bei der Entwicklung und Optimierung von Software. 🛠️💡",
+          "Unterstützung in kaufmännischen Bereichen wie Marketing, Buchhaltung und Controlling. 📊📈"
+        ],
+        "curriculum": [
+          "Informatik und Programmierung 💻💡",
+          "Kaufmännisches Rechnen und Controlling 📊🧮",
+          "Marketing und Kommunikation 📈🗣️",
+          "Technische Dokumentation und IT-Projektmanagement 📋💻"
+        ],
+        "careerProspects": [
+          "Arbeiten in IT-Unternehmen, Banken oder Versicherungen. 🏦💾",
+          "Positionen im Marketing oder Controlling. 📊💼",
+          "Selbstständigkeit im Bereich IT-Dienstleistungen. 🚀👩‍💻"
+        ],
+        "furtherEducation": [
+          "Weiterbildung im IT-Projektmanagement 🛠️📚",
+          "Aufstiegsweiterbildung zum Fach- oder Betriebswirt 📈🎓",
+          "Studium in Informatik oder Wirtschaftsinformatik 🎓💻"
+        ],
+        "applicationSteps": [
+          "Bewerbung an einer Berufsfachschule einreichen. 📝📋",
+          "Praktika absolvieren und Erfahrungen sammeln. 🖥️🔧"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife als Mindestvoraussetzung. 📜✔️",
+          "Interesse an Informatik und kaufmännischen Tätigkeiten. 💻📊"
+        ],
+        "applicationTips": [
+          "Erwähne Programmierkenntnisse und IT-Erfahrung in der Bewerbung. 💡📄"
+        ],
+        "requiredPersonalSkills": [
+          "Gute Kenntnisse in Informatik und Mathematik. 💻🧮",
+          "Organisationsfähigkeit und analytisches Denken. 📋🔍"
+        ],
+        "requiredPersonalTraits": [
+          "Geduldig und serviceorientiert. 🧠🤝",
+          "Technisch versiert und teamfähig. 👨‍💻🤝"
+        ],
+        "theoreticalStructure": [
+          "Der Unterricht an der Berufsfachschule umfasst Fächer wie Informatik, Wirtschaft und Kommunikation. Theorie und Praxis wechseln sich ab. 📘💻\n"
+        ],
+        "practicalStructure": [
+          "Praktika in Unternehmen ermöglichen dir, deine Kenntnisse anzuwenden und erste Berufserfahrungen zu sammeln. 🔧🖥️\n"
+        ],
+        "workEnvironment": [
+          "Im Büro 🏢📋",
+          "Bei Kundenprojekten 💼🤝"
+        ],
+        "advantages": [
+          "Vielfältige Einsatzmöglichkeiten in fast allen Branchen. 🌍🔧",
+          "Hohe Nachfrage nach IT-Fachkräften. 📈👨‍💻",
+          "Möglichkeit zur Spezialisierung in verschiedenen IT-Bereichen. 🛠️✨"
+        ],
+        "challenges": [
+          "Technische Probleme können komplex und zeitaufwändig sein. 🔍⏳",
+          "Hohe Anforderungen an Geduld und Problemlösungsfähigkeit. 🧠⚙️"
+        ],
+        "didYouKnow": [
+          "Es gibt über 8500 Programmiersprachen! 🖥️🌐",
+          "Computer füllten in den 50er Jahren ganze Räume. 🏢💾",
+          "Du kannst nach der Ausbildung ein Jahr Praktikum machen und zusätzlich den Abschluss als Kauffrau/-mann für Bürokommunikation erwerben. 📜✨"
+        ]
+      }
+    }
+  }
+]

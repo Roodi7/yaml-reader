@@ -1,0 +1,116 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1500,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 3500,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 5000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Heilpraktiker/in",
+        "overview": "🌿 In der Naturheilkunde geht es darum, Krankheiten ohne klassische Medikamente zu therapieren. Heilpraktikerinnen und Heilpraktiker betrachten den Menschen ganzheitlich, einschließlich Körper, Psyche und andere Aspekte. 🌼",
+        "responsibilities": [
+          "Anamnese: durch Erfragen die Krankengeschichte des Patienten kennenlernen.",
+          "Diagnose: mithilfe diagnostischer Verfahren die Krankheitsursache bestimmen.",
+          "Beratungsgespräche: mögliche Therapien und Verhaltensänderungen besprechen.",
+          "Therapeutische Maßnahmen wie Akupunktur, Lymphdrainagen oder Homöopathie anwenden.",
+          "Praxisorganisation: Patientendaten dokumentieren und Behandlungen abrechnen."
+        ],
+        "curriculum": [
+          "Anatomie und Physiognomie.",
+          "Therapeutische Verfahren wie Akupunktur und Homöopathie.",
+          "Rechts- und Berufskunde.",
+          "Praxisführung."
+        ],
+        "careerProspects": [
+          "Eigenpraxis eröffnen.",
+          "Kooperationen mit Schulmedizinern eingehen.",
+          "Spezialisierung in Bereichen wie Psychotherapie oder Chiropraktik."
+        ],
+        "furtherEducation": [
+          "Komplementärmedizin studieren.",
+          "Weiterbildung in spezialisierten Therapieverfahren."
+        ],
+        "applicationSteps": [
+          "Klassische schriftliche Bewerbung an Heilpraktikerschulen.",
+          "Motivationsschreiben und Lebenslauf einreichen."
+        ],
+        "applicationRequirements": [
+          "Mindestalter von 25 Jahren für die Heilpraktikerprüfung.",
+          "Polizeiliches Führungszeugnis.",
+          "Ärztliche Bescheinigung zur gesundheitlichen Eignung."
+        ],
+        "applicationTips": [
+          "Besuche vorab Seminare zu Heilkunde oder Alternativmedizin.",
+          "Betone medizinische Vorerfahrung in deiner Bewerbung."
+        ],
+        "requiredPersonalSkills": [
+          "Feinfühligkeit und Empathie. 💖",
+          "Exzellente diagnostische Fähigkeiten. 🩺",
+          "Organisationsgeschick für Praxisführung. 📋"
+        ],
+        "requiredPersonalTraits": [
+          "Helfersyndrom. 🤝",
+          "Gespür für menschliche Bedürfnisse. 🌈",
+          "Perfektionismus in der Therapie. 🎯"
+        ],
+        "theoreticalStructure": [
+          "Medizinische Grundlagen, naturheilkundliche Verfahren und rechtliche Vorgaben."
+        ],
+        "practicalStructure": [
+          "Praktika in Lehrpraxen oder bei erfahrenen Heilpraktikern."
+        ],
+        "workEnvironment": [
+          "Naturheilpraxen.",
+          "Privatkliniken.",
+          "Eigenständig in der eigenen Praxis."
+        ],
+        "advantages": [
+          "Flexibilität durch Selbstständigkeit. 🕊️",
+          "Wachsende Anerkennung alternativer Heilmethoden. 🌟",
+          "Möglichkeit, Menschen ganzheitlich zu helfen. ❤️"
+        ],
+        "challenges": [
+          "Keine geregelte Ausbildung - viel Eigeninitiative erforderlich.",
+          "Hohe Prüfungsanforderungen.",
+          "Einkommensunsicherheit in der Anfangsphase."
+        ],
+        "didYouKnow": [
+          "Heilpraktiker dürfen keine meldepflichtigen Infektionskrankheiten behandeln. 🚨",
+          "Die Ausbildungskosten variieren stark und können mehrere Tausend Euro betragen. 💰",
+          "Naturheilkunde wird zunehmend wissenschaftlich anerkannt. 📚"
+        ]
+      }
+    }
+  }
+]

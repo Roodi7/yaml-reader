@@ -1,0 +1,122 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1900,
+    "maxStartingSalary": 2200,
+    "minAvarageSalary": 1900,
+    "maxAvarageSalary": 3000,
+    "minExperiencedSalary": 2800,
+    "maxExperiencedSalary": 3400,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 649
+      },
+      {
+        "min": 1040,
+        "max": 1040
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Heilerziehungsassistent/in",
+        "overview": "Als Heilerziehungsassistent/in begleitest du Menschen mit Behinderungen im Alltag, unterstützt sie in ihrer Selbstständigkeit und trägst zur gesellschaftlichen Inklusion bei. Dein Beruf ist geprägt von Menschlichkeit, Kreativität und der Förderung von Lebensfreude – eine erfüllende Aufgabe, die sowohl dich als auch andere inspiriert! 💙🤝✨",
+        "responsibilities": [
+          "Unterstützung bei alltäglichen Aufgaben wie Waschen, Ankleiden und Einkaufen 🛍️🚿",
+          "Durchführung von Grundpflege für Menschen mit Schwerst- und Mehrfachbehinderungen 🩺🤲",
+          "Dokumentation der individuellen Entwicklung deiner Klienten 📋🖊️",
+          "Förderung von Freizeitaktivitäten und kreativen Hobbys 🎨🎶",
+          "Beratung und Unterstützung der Angehörigen in regelmäßigen Gesprächen 💬🌟",
+          "Begleitung von Therapien und sozialen Übungen 🏋️‍♀️🎭",
+          "Aktive Förderung von Inklusionsprozessen und gesellschaftlicher Teilhabe 🌍🤝"
+        ],
+        "curriculum": [
+          "Grundlagen der körperlichen, geistigen und psychischen Behinderungen 🧠✨",
+          "Musikalische und kreative Förderung von Patienten 🎶🎨",
+          "Organisation und Dokumentation der Pflegearbeit 📝📋",
+          "Kommunikation und Beratung von Angehörigen 💬🤝",
+          "Therapeutische Maßnahmen und Bewegungsförderung 🏋️‍♂️🚶‍♀️"
+        ],
+        "careerProspects": [
+          "Direkter Berufseinstieg in Pflegeeinrichtungen und Reha-Kliniken 🏥🚀",
+          "Arbeit in Schulen und Kindergärten zur Förderung von Inklusion 🏫✨",
+          "Weiterbildung zum/zur Heilerziehungspfleger/in mit mehr Verantwortung 📘🌟"
+        ],
+        "furtherEducation": [
+          "Spezialisierungen wie musikalische Arbeit, Ergotherapie oder Elternberatung 🎶🖌️",
+          "Weiterbildung zum Fach- oder Betriebswirt im Sozial- und Gesundheitswesen 📚✨",
+          "Studium in Sozialpädagogik, Sozialer Arbeit oder Erziehungswissenschaft 🎓🌍"
+        ],
+        "applicationSteps": [
+          "Bewerbung an einer Fachschule mit Nachweis des Hauptschulabschlusses 📜✨",
+          "Suche nach einem Praxispartner, z. B. Pflegeeinrichtung oder Klinik 🏥🤝",
+          "Einreichung eines ärztlichen Attests über die gesundheitliche Eignung 🩺🖊️"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss oder gleichwertiger Abschluss 🎓📋",
+          "Ärztliches Attest zur gesundheitlichen Eignung 🩺✨",
+          "Interesse an Pflege, Inklusion und sozialer Arbeit 🤝🌍"
+        ],
+        "applicationTips": [
+          "Betone Praktika oder private Erfahrungen in der Pflege als Vorteil 💡✨",
+          "Hebe deine Motivation und Freude an der Arbeit mit Menschen hervor 🌟🤲",
+          "Erwähne relevante Hobbys wie Musizieren oder kreatives Arbeiten 🎶🎨"
+        ],
+        "requiredPersonalSkills": [
+          "Kommunikationsfähigkeit und Einfühlungsvermögen 💬💙",
+          "Kreativität und musikalisches Geschick 🎨🎶",
+          "Organisationstalent und Teamfähigkeit 🗂️🌟"
+        ],
+        "requiredPersonalTraits": [
+          "Empathie und Sensibilität für die Bedürfnisse anderer ❤️✨",
+          "Belastbarkeit und körperliche Fitness 💪🚀",
+          "Motivation und Freude an der Arbeit mit Menschen 🤝🌟"
+        ],
+        "theoreticalStructure": [
+          "Vermittlung von Grundlagen zu Behinderungen, psychischen Erkrankungen, medizinischer Pflege und kreativen sowie organisatorischen Aufgaben 📚🎶.\n"
+        ],
+        "practicalStructure": [
+          "Praktische Anwendung in Pflegeheimen, Kliniken oder ambulanten Diensten mit stetiger Begleitung durch erfahrene Fachkräfte 🤝🏥.\n"
+        ],
+        "workEnvironment": [
+          "Pflegeheime 🏠",
+          "Wohnanlagen für Menschen mit Behinderungen 🏘️",
+          "Fach- und Rehakliniken 🏥",
+          "Ambulante Pflegedienste 🏡",
+          "Schulen und Kindergärten im Rahmen der Inklusion 🏫"
+        ],
+        "advantages": [
+          "Gesellschaftlich wichtige und erfüllende Tätigkeit 🤝💙",
+          "Abwechslungsreiche Aufgaben zwischen Pflege, Therapie und Beratung 🌟✨",
+          "Gute Einstiegsmöglichkeiten und sicherer Arbeitsplatz 📈🏥"
+        ],
+        "challenges": [
+          "Arbeiten im Schichtdienst, auch an Wochenenden und Feiertagen ⏳📅",
+          "Körperliche und emotionale Belastungen 💪💔",
+          "Zusätzliche Kosten für Schulgeld oder Materialien 📉💸"
+        ],
+        "didYouKnow": [
+          "Nach der Ausbildung erwirbst du auch den Realschulabschluss 🎓✨.",
+          "Gebärdensprache hat regionale Dialekte und spannende Unterschiede 🧏🌍.",
+          "Es gibt Hinweise auf Blindenführhunde bereits im Mittelalter 🐕📜.",
+          "Inklusion schafft wertvolle Arbeitsplätze in Schulen und Kindergärten 🏫💙.",
+          "Die Ausbildung verbindet Theorie und Praxis für eine optimale Vorbereitung 🚀📋."
+        ]
+      }
+    }
+  }
+]

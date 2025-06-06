@@ -1,0 +1,129 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time",
+      "part_time"
+    ],
+    "duration": [
+      1,
+      4
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 3300,
+    "minExperiencedSalary": 2800,
+    "maxExperiencedSalary": 3300,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 649
+      },
+      {
+        "min": 766,
+        "max": 766
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Gesundheits- und Krankenpflegehelfer/in",
+        "overview": "Als Gesundheits- und Krankenpflegehelfer/in unterstützt du Krankenpfleger/innen und Ärzte bei der Betreuung von Patienten. Du bist die helfende Hand, sorgst für die Genesung der Patienten und hilfst, weitere Erkrankungen zu verhindern. 🩺💉 Diese schulische Ausbildung kombiniert Theorie mit spannenden Praktika in Krankenhäusern oder Pflegeheimen. Deine Fürsorge und Einfühlungsvermögen machen den Unterschied im Alltag der Patienten. 🌟",
+        "responsibilities": [
+          "Betreuung von Patienten und Unterstützung bei der Genesung 🤝",
+          "Anlegen von Verbänden und Prävention von Infektionen 🩹",
+          "Hilfe bei Hygiene, Ankleiden und Mobilität der Patienten 🚿👕",
+          "Begleitung von Ärzten und Pflegepersonal bei Untersuchungen 👨‍⚕️",
+          "Schnelles Handeln in Notfallsituationen 🚨"
+        ],
+        "curriculum": [
+          "Grundlagen der Gesundheits- und Krankenpflege 📚",
+          "Hygiene und Infektionsprävention 🚿",
+          "Erste Hilfe und Notfallmanagement 🚑",
+          "Patientenbetreuung und Kommunikation 🤝",
+          "Praktische Übungen in Pflegeeinrichtungen 🏥"
+        ],
+        "careerProspects": [
+          "Spezialisierung in der Kinder- und Säuglingspflege 👶",
+          "Weiterbildung in der Altenpflege 👵",
+          "Fachwirt/in im Gesundheits- und Sozialwesen 🎓",
+          "Studium in Pflege- und Gesundheitswissenschaften 🎓"
+        ],
+        "furtherEducation": [
+          "Fachwirt/in in Alten- und Krankenpflege 🎓",
+          "Betriebswirt/in für Management und Gesundheitswesen 💼",
+          "Lehramt Pflegewissenschaft 🏫",
+          "Pflegemanagement und Pflegepädagogik 🏢"
+        ],
+        "applicationSteps": [
+          "Erstellung eines fehlerfreien Lebenslaufs 📄",
+          "Einreichen von Zeugnissen und Praktikumsnachweisen 📂",
+          "Bewerbung mit Anschreiben, das die Motivation für den Beruf zeigt ✍️"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss 📜",
+          "Gesundheitszeugnis vom Arzt 🩺",
+          "Belastbarkeit und Einfühlungsvermögen 🤝"
+        ],
+        "applicationTips": [
+          "Erwähne frühere Praktika oder Erfahrungen in der Pflege 🏥",
+          "Betone deine sozialen Fähigkeiten und deine Motivation 🌟",
+          "Halte das Anschreiben klar und auf den Punkt ✍️"
+        ],
+        "requiredPersonalSkills": [
+          "Einfühlungsvermögen und Kommunikationsfähigkeit 🤝",
+          "Belastbarkeit und Organisationstalent 💪",
+          "Schnelle Entscheidungsfähigkeit in Notfällen 🚨"
+        ],
+        "requiredPersonalTraits": [
+          "Geduld und Verantwortungsbewusstsein 🧘‍♀️",
+          "Zuverlässigkeit und Teamfähigkeit 🤝",
+          "Freundliches und fürsorgliches Auftreten 🌟"
+        ],
+        "theoreticalStructure": [
+          "Unterricht an Schulen des Gesundheitswesens, inklusive medizinischer Grundlagen und praktischer Übungen 📚🩺"
+        ],
+        "practicalStructure": [
+          "Praktika in Krankenhäusern, Facharztpraxen oder Gesundheitszentren zur Festigung des Wissens 🏥"
+        ],
+        "workEnvironment": [
+          "Krankenhäuser und Kliniken 🏥",
+          "Pflegeheime und Seniorenresidenzen 🏡",
+          "Facharztpraxen und Gesundheitszentren 🩺"
+        ],
+        "advantages": [
+          "Ein Beruf mit großer Nachfrage und sicheren Jobperspektiven 🚀",
+          "Möglichkeiten zur Weiterbildung und Spezialisierung 🎓",
+          "Ein Beruf, der direkt die Lebensqualität der Menschen verbessert 🌟"
+        ],
+        "challenges": [
+          "Arbeiten im Schichtdienst, inklusive Nachtschichten 🌙",
+          "Körperlich und emotional anspruchsvoller Beruf 💪",
+          "Schnelles Handeln in stressigen Situationen 🚨"
+        ],
+        "didYouKnow": [
+          "In einigen Bundesländern wird diese Ausbildung 'Pflegefachhelfer/in' genannt 🩺.",
+          "Nach der Ausbildung stehen dir viele Weiterbildungen offen, z. B. zum Fachwirt 🎓.",
+          "Die Ausbildung kombiniert Theorie mit Praxis und bietet abwechslungsreiche Aufgaben 🏥.",
+          "Einfühlungsvermögen und Belastbarkeit sind wichtige Eigenschaften in diesem Beruf 🌟."
+        ]
+      }
+    }
+  }
+]

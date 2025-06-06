@@ -1,0 +1,106 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2200,
+    "maxStartingSalary": 3000,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 4600,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4600,
+    "trainingSalary": [
+      {
+        "min": 1341,
+        "max": 1341
+      },
+      {
+        "min": 1402,
+        "max": 1402
+      },
+      {
+        "min": 1503,
+        "max": 1503
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Anästhesietechnische/r Assistent/in (ATA)",
+        "overview": "\"Die Ausbildung als Anästhesietechnischer Assistent (ATA) bereitet dich auf eine verantwortungsvolle Aufgabe im OP vor. 💉✨ Du unterstützt Anästhesisten bei der Vorbereitung, Durchführung und Nachsorge von Narkosen. Für alle, die einen abwechslungsreichen und patientennahen Beruf suchen, ist ATA eine großartige Wahl! 🏥👨‍⚕️\"\n",
+        "responsibilities": [
+          "Vorbereitung und Überwachung von Narkosen 🛌💊",
+          "Betreuung von Patienten vor und nach der Operation 🤝🩺",
+          "Dokumentation des Narkoseverlaufs und Pflege der medizinischen Geräte 📋⚙️"
+        ],
+        "curriculum": [
+          "Patientenüberwachung und -betreuung 🩺✨",
+          "Medikamentenvorbereitung und rechtliche Grundlagen 💊📜",
+          "Hygiene- und Sicherheitsstandards 🧴⚠️"
+        ],
+        "careerProspects": [
+          "Fachweiterbildung in Intensiv- und Anästhesiepflege 🏥✨",
+          "Spezialisierung auf Palliativ- oder Notfallmedizin 🚨",
+          "Aufstieg zur Stationsleitung oder Bereichsleitung 📈👩‍⚕️"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Gesundheitsmanagement oder Medizin ✍️🎓",
+          "Weiterbildung als Fachwirt im Gesundheitswesen 🏢💼"
+        ],
+        "applicationSteps": [
+          "Online-Bewerbung mit Anschreiben, Lebenslauf und Zeugnissen 📄💻",
+          "Eingangsdiagnostik und Vorstellungsgespräch 🩺🤝"
+        ],
+        "applicationRequirements": [
+          "Mittlerer Schulabschluss erforderlich 🎓",
+          "Gesundheitliche Eignung und Immunität gegen übertragbare Krankheiten 🩺⚠️"
+        ],
+        "applicationTips": [
+          "Betone dein Interesse an Biologie und Chemie 🧬💡",
+          "Zeige deine Teamfähigkeit und Belastbarkeit 🌟🤝"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und Verantwortungsbewusstsein ⚙️✨",
+          "Schnelle Reaktionsfähigkeit und Präzision 🕒🔍"
+        ],
+        "requiredPersonalTraits": [
+          "Einfühlungsvermögen und Stressresistenz 💖💪"
+        ],
+        "theoreticalStructure": [
+          "Blockunterricht in Berufsschulen vermittelt dir Wissen in Hygiene, Anatomie und Arzneimittellehre 📚🧬"
+        ],
+        "practicalStructure": [
+          "Praxiserfahrung sammelst du direkt in Krankenhäusern unter Anleitung erfahrener Fachkräfte 🏥👨‍🏫"
+        ],
+        "workEnvironment": [
+          "Einsatz in Operationssälen und Aufwachräumen 🏥",
+          "Zusammenarbeit im Team von Ärzten und Pflegepersonal 👨‍⚕️👩‍⚕️"
+        ],
+        "advantages": [
+          "Direkter Kontakt mit Patienten und sinnstiftende Arbeit 🤝💙",
+          "Arbeiten in einem innovativen und spannenden Umfeld ⚙️✨"
+        ],
+        "challenges": [
+          "Emotionale Belastung durch den Umgang mit kranken Patienten 😥",
+          "Schichtdienst und hohe Konzentration während Operationen ⏰🔍"
+        ],
+        "didYouKnow": [
+          "ATA gibt es erst seit den 1990er Jahren! 🕰️💉",
+          "Die erste Narkose wurde Mitte des 19. Jahrhunderts durchgeführt 💊✨",
+          "Die Sterbewahrscheinlichkeit bei einer Narkose beträgt nur 0,05-0,5 % – eine enorme Sicherheit 🚑👍"
+        ]
+      }
+    }
+  }
+]

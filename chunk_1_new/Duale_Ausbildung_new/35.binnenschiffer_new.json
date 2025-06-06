@@ -1,0 +1,109 @@
+[
+  {
+    "category": "transport_and_logistics",
+    "jobType": [
+      "shift_work"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2200,
+    "maxStartingSalary": 2700,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 5000,
+    "trainingSalary": [
+      {
+        "min": 900,
+        "max": 1100
+      },
+      {
+        "min": 1040,
+        "max": 1200
+      },
+      {
+        "min": 1175,
+        "max": 1350
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Binnenschiffer/in",
+        "overview": "\"Als Binnenschiffer/in bist du auf Flüssen, Kanälen und Seen zu Hause 🚢. Du steuerst Schiffe, kontrollierst Ladungen und navigierst durch die Wasserstraßen Europas 🌍.\"\n",
+        "responsibilities": [
+          "Steuerung von Schiffen und Navigation durch Wasserstraßen ⚓.",
+          "Be- und Entladen sowie Sicherung der Ladung 📦.",
+          "Wartung und Instandhaltung der Schiffstechnik ⚙️."
+        ],
+        "curriculum": [
+          "Schiffsführung und Navigation 🧭.",
+          "Ladungsmanagement und Sicherheitsvorschriften ⚠️.",
+          "Wartung und Reparatur der Schiffstechnik 🛠️."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Schiffsführer mit Patent 🌍.",
+          "Aufstieg zum Kapitän oder Hafenmeister ⚓.",
+          "Arbeit in der internationalen Schifffahrtslogistik 📦."
+        ],
+        "furtherEducation": [
+          "Studium in Nautik oder Schifffahrtsmanagement 🎓.",
+          "Zertifikate in Gefahrgut- und Transportlogistik 📜."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📄.",
+          "Teilnahme an einem Eignungstest für technische Berufe ⚙️.",
+          "Praktikum an Bord zur Feststellung der Eignung 🚢."
+        ],
+        "applicationRequirements": [
+          "Technisches Verständnis und handwerkliches Geschick 🛠️.",
+          "Belastbarkeit und Verantwortungsbewusstsein 💪."
+        ],
+        "applicationTips": [
+          "Erwähne praktische Erfahrungen im Bereich Technik und Logistik 🚛.",
+          "Hebe deine Flexibilität und Reiselust hervor 🌍."
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Schifffahrtstechnik und Navigation ⚙️.",
+          "Sicherer Umgang mit Sicherheits- und Rettungssystemen ⚠️."
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Kommunikationsstärke 🤝.",
+          "Eigenverantwortlichkeit und Zuverlässigkeit 🧐."
+        ],
+        "theoreticalStructure": [
+          "Theorieunterricht an Schifffahrtsschulen zu Navigation, Technik und Recht 📘."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung direkt an Bord von Schiffen 🚢."
+        ],
+        "workEnvironment": [
+          "An Bord von Frachtschiffen, Passagierschiffen und Schleppern 🚤.",
+          "Arbeit im Schichtdienst auf europäischen Wasserstraßen 🌊."
+        ],
+        "advantages": [
+          "Attraktive Gehälter und Schichtzulagen 💰.",
+          "Reisen und Arbeiten in ganz Europa 🌍.",
+          "Hohe Verantwortung und vielseitige Aufgaben ⚓."
+        ],
+        "challenges": [
+          "Lange Abwesenheiten von Zuhause 🏠.",
+          "Arbeiten bei schwierigen Wetterbedingungen 🌪️."
+        ],
+        "didYouKnow": [
+          "Deutschland hat das größte Netz an Binnenwasserstraßen in Europa 🌊.",
+          "Binnenschiffe können bis zu 200 Container gleichzeitig transportieren 🚚.",
+          "Viele europäische Häfen sind auf Binnenschifffahrt angewiesen ⚓."
+        ]
+      }
+    }
+  }
+]

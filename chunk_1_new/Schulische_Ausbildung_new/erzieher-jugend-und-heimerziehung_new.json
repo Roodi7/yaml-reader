@@ -1,0 +1,126 @@
+[
+  {
+    "category": "society",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 3000,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 3600,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 1502,
+        "max": 1502
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "C1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Erzieher/in mit Schwerpunkt Jugend- und Heimerziehung",
+        "overview": "👨‍👩‍👧‍👦 Als Erzieher/in mit Schwerpunkt Jugend- und Heimerziehung begleitest du Jugendliche, die ohne familiäre Unterstützung aufwachsen. Deine Rolle geht weit über die Betreuung hinaus: Du wirst zur Bezugsperson, zum Mentor und zum Unterstützer in allen Lebenslagen. 💡 Ob beim Lernen, in der Freizeit oder in schwierigen Situationen – du gibst ihnen Orientierung und Hilfe. 🌟 Dieser Beruf bietet dir die Möglichkeit, mit Herz und Verstand einen echten Unterschied zu machen. 💪",
+        "responsibilities": [
+          "Betreuung von Kindern und Jugendlichen in Heimen 👶👦",
+          "Unterstützung bei schulischen und alltäglichen Aufgaben 📚",
+          "Förderung der kreativen, musikalischen und körperlichen Entwicklung 🎨🎵🤸‍♂️",
+          "Organisation und Durchführung pädagogischer Aktivitäten 🏞️",
+          "Pflege und Überwachung des Gesundheitszustands 🏥",
+          "Erstellen und Dokumentieren individueller Entwicklungspläne 📝"
+        ],
+        "curriculum": [
+          "Pädagogik und Sozialarbeitswissenschaften 👩‍🏫",
+          "Musisch-kreative Gestaltung 🎨",
+          "Psychologie und Soziologie 🧠",
+          "Gesundheits- und Umweltpädagogik 🌱",
+          "Religion und Ethik 🕊️"
+        ],
+        "careerProspects": [
+          "Aufstieg zur Heimleitung oder Stationsleitung 🚀",
+          "Spezialisierung als Fachlehrer für Sonderschulen 🎓",
+          "Karriere als Betriebswirt im Sozialwesen 📈",
+          "Möglichkeit eines Studiums in Sozialer Arbeit oder Pädagogik 🎓"
+        ],
+        "furtherEducation": [
+          "Fachwirt im Sozialwesen 📚",
+          "Weiterbildung zum Motopäden 🤸‍♀️",
+          "Studium in Erziehungswissenschaft 🎓",
+          "Qualifikation als Betriebswirt im Sozialwesen 📊"
+        ],
+        "applicationSteps": [
+          "Einreichung der Bewerbungsunterlagen 📄",
+          "Nachweis eines Vorpraktikums oder Berufserfahrung 🏅",
+          "Polizeiliches Führungszeugnis und ärztliches Attest 🩺"
+        ],
+        "applicationRequirements": [
+          "Mittlerer Schulabschluss 🎓",
+          "Interesse an sozialer Arbeit und Pädagogik 🧑‍🏫",
+          "Erfahrungen im sozialen Bereich von Vorteil 🏅"
+        ],
+        "applicationTips": [
+          "Hebe deine Erfahrungen in der Arbeit mit Jugendlichen hervor 🌟",
+          "Betone deine Teamfähigkeit und Belastbarkeit 🧑‍🤝‍🧑",
+          "Erwähne deine Kreativität und Freude an pädagogischer Arbeit 🎨"
+        ],
+        "requiredPersonalSkills": [
+          "Organisationstalent 📋",
+          "Fähigkeit zur Konfliktbewältigung 🤝",
+          "Kreativität und Einfühlungsvermögen ❤️"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit 🧑‍🤝‍🧑",
+          "Geduld und Belastbarkeit 🕊️",
+          "Verantwortungsbewusstsein 💼"
+        ],
+        "theoreticalStructure": [
+          "📚 Die theoretische Ausbildung umfasst Pädagogik, Sozialarbeitswissenschaften, Psychologie und kreative Gestaltung. Du lernst, wie du pädagogische Ziele definierst und individuelle Erziehungsmaßnahmen umsetzt.\n"
+        ],
+        "practicalStructure": [
+          "🛠️ Praktika in sozialpädagogischen Einrichtungen ergänzen die Theorie und geben dir die Möglichkeit, praktische Erfahrungen im Umgang mit Jugendlichen zu sammeln.\n"
+        ],
+        "workEnvironment": [
+          "Kinder- und Jugendwohnheime 🏠",
+          "Erziehungsheime mit familiären Strukturen 👨‍👩‍👧‍👦",
+          "Internate und Sonderschulen 🎓",
+          "Tagesstätten für Menschen mit Behinderung ♿",
+          "Beratungsstellen für Jugend und Familie 💬"
+        ],
+        "advantages": [
+          "Sicherer Arbeitsplatz durch hohe Nachfrage 📈",
+          "Emotionale Erfüllung durch die Arbeit mit Jugendlichen ❤️",
+          "Vielfältige Entwicklungsmöglichkeiten 🚀",
+          "Abwechslungsreicher Arbeitsalltag 🌟"
+        ],
+        "challenges": [
+          "Emotionale Belastung durch intensive Betreuung 😓",
+          "Unregelmäßige Arbeitszeiten im Schichtdienst ⏱️",
+          "Herausforderungen in der Konfliktbewältigung 🤝"
+        ],
+        "didYouKnow": [
+          "Heimerzieher/innen sind unersetzlich für Kinder ohne familiären Rückhalt 👩‍👦",
+          "Die Arbeit kann nicht durch moderne Technik ersetzt werden 🤖❌",
+          "Viele Jugendliche entwickeln sich dank Heimerziehern zu selbstbewussten Erwachsenen 🌱"
+        ]
+      }
+    }
+  }
+]

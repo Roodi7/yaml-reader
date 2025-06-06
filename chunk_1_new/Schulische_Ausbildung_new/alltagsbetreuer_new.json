@@ -1,0 +1,115 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "flexible"
+    ],
+    "duration": [
+      0.5,
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "no_school_degree",
+    "minStartingSalary": 2300,
+    "maxStartingSalary": 2600,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 3300,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Alltagsbetreuer/in",
+        "overview": "💡 Der Beruf des/der Alltagsbetreuers/in verbindet Menschlichkeit mit Organisationstalent. Alltagsbetreuer/innen unterstützen Senioren, Menschen mit Behinderungen oder Demenzpatienten dabei, den Alltag zu meistern und eine aktive Lebensgestaltung zu ermöglichen. 🌟",
+        "responsibilities": [
+          "Hauswirtschaftliche Tätigkeiten wie Einkaufen, Kochen oder Wäschewaschen. 🛒🍳",
+          "Planung und Durchführung kreativer und körperlicher Aktivitäten. 🎨🏃‍♂️",
+          "Individuelle Begleitung zu Terminen wie Arztbesuchen. 🚗",
+          "Unterstützung bei der Strukturierung des Alltags. 📋",
+          "Pflege sozialer Kontakte und Förderung von Gemeinschaftsaktivitäten. 🤝"
+        ],
+        "curriculum": [
+          "Hauswirtschaftliche Grundlagen wie Ernährung und Hygiene. 🧹",
+          "Psychologie und Biografiearbeit. 🧠",
+          "Kommunikations- und Konfliktmanagement. 💬",
+          "Rechts- und Pflegegrundlagen. ⚖️",
+          "Planung von Freizeit- und Aktivitätsprogrammen. 🎲"
+        ],
+        "careerProspects": [
+          "Einstieg in soziale und pflegerische Berufe. 🚀",
+          "Möglichkeit zur Spezialisierung, z. B. in Behindertenarbeit. 🛠️",
+          "Leitung einer Einrichtung nach Weiterbildung. 🏢"
+        ],
+        "furtherEducation": [
+          "Fortbildung zur Betreuungskraft. 📜",
+          "Weiterbildung zum Fachwirt im Gesundheits- und Sozialwesen. 🏥",
+          "Studium in Sozialer Arbeit oder verwandten Bereichen. 🎓"
+        ],
+        "applicationSteps": [
+          "Einreichen von Bewerbung, Lebenslauf und Zeugnissen. 📄",
+          "Nachweis von Sprachkenntnissen und ggf. ein ärztliches Attest. 🧾"
+        ],
+        "applicationRequirements": [
+          "Gute Deutschkenntnisse und physische Belastbarkeit. 🇩🇪",
+          "Empathie und Freude an der Arbeit mit Menschen. 💬"
+        ],
+        "applicationTips": [
+          "Praktika und Erfahrungen im sozialen Bereich hervorheben. 🌟",
+          "Einzigartige Eigenschaften wie Kreativität betonen. 🎨"
+        ],
+        "requiredPersonalSkills": [
+          "Kommunikationsfähigkeit und Geduld. 💬",
+          "Organisationstalent und Eigeninitiative. 🗂️",
+          "Belastbarkeit und Kreativität. 🌟"
+        ],
+        "requiredPersonalTraits": [
+          "Freude an der Arbeit mit Menschen. 🤝",
+          "Einfühlungsvermögen und Zuverlässigkeit. 🕊️",
+          "Offenheit für flexible Arbeitszeiten. ⏰"
+        ],
+        "theoreticalStructure": [
+          "\"960 Stunden Unterricht in Fächern wie Hauswirtschaft, Psychologie, Deutsch, Mathe und Recht. 📘\"\n"
+        ],
+        "practicalStructure": [
+          "\"1600 Stunden praktische Tätigkeit in sozialen Einrichtungen. 🏥\"\n"
+        ],
+        "workEnvironment": [
+          "Senioren- oder Pflegeheime. 🏡",
+          "Einrichtungen für Menschen mit Behinderungen. ♿",
+          "Ambulante Pflegedienste. 🚑",
+          "Privathaushalte der betreuten Personen. 🏠"
+        ],
+        "advantages": [
+          "Kein Schulabschluss nötig, Einstieg leicht möglich. 🚪",
+          "Verschiedene Arbeitszeitmodelle für Flexibilität. ⏰",
+          "Sinnstiftender Beruf mit direktem Einfluss auf das Leben der Menschen. ❤️"
+        ],
+        "challenges": [
+          "Physische und psychische Belastbarkeit erforderlich. 🧠",
+          "Keine Ausbildungsvergütung in der Regel. 💶",
+          "Wochenend- und Schichtdienste gehören dazu. 🕒"
+        ],
+        "didYouKnow": [
+          "Der Beruf wurde erst 2008 im Rahmen der Pflegereform geschaffen. 📅",
+          "Nach der Ausbildung wird automatisch ein Hauptschulabschluss verliehen. 🎓",
+          "Die Ausbildungskosten können oft durch Förderungen gedeckt werden. 💶"
+        ]
+      }
+    }
+  }
+]

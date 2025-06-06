@@ -1,0 +1,110 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time",
+      "shift_work"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2200,
+    "maxStartingSalary": 2600,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 855,
+        "max": 920
+      },
+      {
+        "min": 1060,
+        "max": 1230
+      },
+      {
+        "min": 1270,
+        "max": 1495
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Bauwerksabdichter/in",
+        "overview": "Bauwerksabdichter sorgen dafür, dass Nässe und Feuchtigkeit keine Chance haben 🌧️. Sie arbeiten auf Dächern, Straßen und Brücken und bringen Abdichtungen an, die Gebäude und Infrastruktur schützen 🏠🌉. Die Ausbildung ist anspruchsvoll und abwechslungsreich 💪.",
+        "responsibilities": [
+          "Versiegelung von Dächern und Böden 🛠️.",
+          "Mitarbeit bei Tunnel- und Straßenbauprojekten 🚧.",
+          "Prüfung von Materialien auf Schäden 🔍."
+        ],
+        "curriculum": [
+          "Abdichtungsmaterialien und ihre Anwendung 📚.",
+          "Sicherheitsmaßnahmen auf Baustellen ⚠️.",
+          "Verfahren zur Schadensprüfung und Reparatur 🔧."
+        ],
+        "careerProspects": [
+          "Fortbildung zum Industriemeister 🏗️.",
+          "Qualifikation als Techniker mit Fokus auf Bautechnik 🎓.",
+          "Option zur Selbstständigkeit mit eigenem Betrieb 🏢."
+        ],
+        "furtherEducation": [
+          "Kurse zur Digitalisierung im Bauwesen 🌐.",
+          "Weiterbildungen in Nachhaltigkeitskonzepten 🌱."
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf und Anschreiben 📄.",
+          "Vorstellungsgespräch und ggf. Eignungstest 🗣️.",
+          "Praktikum zur Erprobung der Fähigkeiten 🛠️."
+        ],
+        "applicationRequirements": [
+          "Körperliche Fitness und Schwindelfreiheit 💪.",
+          "Technisches Verständnis und handwerkliches Geschick 🛠️."
+        ],
+        "applicationTips": [
+          "Betone deine Teamfähigkeit und Zuverlässigkeit 🤝.",
+          "Hebe praktische Erfahrungen wie Praktika hervor 👷."
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis für Materialien und Werkzeuge ⚙️.",
+          "Präzise Arbeitsweise und Sorgfalt 🧐."
+        ],
+        "requiredPersonalTraits": [
+          "Schwindelfreiheit und Wetterfestigkeit 🌦️.",
+          "Teamfähigkeit und Verantwortungsbewusstsein 🧑‍🤝‍🧑."
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Theorieblöcken zu Abdichtungsmaterialien und Techniken 📘."
+        ],
+        "practicalStructure": [
+          "Einsatz auf Baustellen mit realen Projekten und Herausforderungen 🚧."
+        ],
+        "workEnvironment": [
+          "Baustellen in großer Höhe und Tiefe 🌁.",
+          "Arbeiten im Freien bei jeder Witterung ☀️🌧️."
+        ],
+        "advantages": [
+          "Hohe Nachfrage auf dem Arbeitsmarkt 📈.",
+          "Vielfältige Projekte und Arbeitsorte 🌍.",
+          "Stabile und tarifgebundene Gehälter 💰."
+        ],
+        "challenges": [
+          "Körperlich anstrengende Arbeit 🏋️.",
+          "Arbeiten in großer Höhe oder unter Tage 🕳️."
+        ],
+        "didYouKnow": [
+          "Bauwerksabdichter können auch grüne Dächer bepflanzen 🌱.",
+          "Dieser Beruf schützt nicht nur Gebäude, sondern auch die Umwelt 🌍.",
+          "Der längste Tunnel der Welt, der Seikan-Tunnel in Japan, ist fast 54 Kilometer lang 🚇."
+        ]
+      }
+    }
+  }
+]

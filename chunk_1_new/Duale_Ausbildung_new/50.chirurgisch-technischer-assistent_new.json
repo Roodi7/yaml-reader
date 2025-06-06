@@ -1,0 +1,109 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time",
+      "shift_work"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "high_school",
+    "minStartingSalary": 2500,
+    "maxStartingSalary": 3000,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 650,
+        "max": 1040
+      },
+      {
+        "min": 700,
+        "max": 1100
+      },
+      {
+        "min": 750,
+        "max": 1180
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Chirurgisch-technische/r Assistent/in",
+        "overview": "\"Als Chirurgisch-technische/r Assistent/in unterstützt du Ärzte bei Operationen und sorgst für eine optimale Patientenversorgung im OP-Bereich 🏥. Du bist für spezialisierte Assistenzaufgaben vor, während und nach chirurgischen Eingriffen verantwortlich 🖌️.\"\n",
+        "responsibilities": [
+          "Assistieren bei operativen Eingriffen unter Aufsicht des Arztes 🏥.",
+          "Vor- und Nachbereitung von OP-Sälen und Instrumenten 🛠️.",
+          "Versorgung von Patienten vor, während und nach der Operation 🫡."
+        ],
+        "curriculum": [
+          "Medizinische Assistenztechniken und Instrumentenkunde 🖌️.",
+          "Hygienevorschriften und Sterilisationsmethoden 🧰.",
+          "OP-Abläufe und Patientenbetreuung 👨‍⚕️."
+        ],
+        "careerProspects": [
+          "Einsatz in spezialisierten OP-Bereichen wie Neurochirurgie oder Herzchirurgie 💓.",
+          "Weiterbildung zum OP-Manager oder Praxisanleiter 🎓.",
+          "Studium im Bereich Physician Assistance 🏥."
+        ],
+        "furtherEducation": [
+          "Kurse in neuen OP-Techniken und Medizintechnik 🛠️.",
+          "Zertifikate in Anästhesie- oder Notfallversorgung 🫡."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📚.",
+          "Gesundheitliche Eignungsprüfung 👩‍🎓."
+        ],
+        "applicationRequirements": [
+          "Abitur oder Fachhochschulreife als schulische Grundlage 📚.",
+          "Empathie und handwerkliches Geschick im OP 🛠️."
+        ],
+        "applicationTips": [
+          "Betone dein Interesse an der Chirurgie und medizinischer Assistenz 🏥.",
+          "Zeige Teamfähigkeit und Belastbarkeit 🌍."
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Naturwissenschaften wie Biologie und Chemie 🖌️.",
+          "Fähigkeit zur Zusammenarbeit im OP-Team 💓."
+        ],
+        "requiredPersonalTraits": [
+          "Ruhe und Konzentration in stressigen Situationen 👨‍⚕️.",
+          "Hohe Sorgfalt und Pflichtbewusstsein 🫡."
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Fächern wie Anatomie, Physiologie und Hygiene 🖌️."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung im Krankenhaus unter Aufsicht erfahrener Ärzte 🏥."
+        ],
+        "workEnvironment": [
+          "Operationssäle in Krankenhäusern und Kliniken 🏥.",
+          "Ambulante und stationäre Versorgungsbereiche 👨‍⚕️."
+        ],
+        "advantages": [
+          "Verantwortungsvoller und zukunftssicherer Beruf im OP-Bereich 👨‍⚕️.",
+          "Arbeiten in einem dynamischen und professionellen Umfeld 🏥.",
+          "Attraktive Gehalts- und Weiterbildungsmöglichkeiten 💰."
+        ],
+        "challenges": [
+          "Hohe physische und psychische Belastung bei Operationen 🫡.",
+          "Schichtdienst, inklusive Wochenend- und Feiertagsarbeit 🗓."
+        ],
+        "didYouKnow": [
+          "Der Beruf des Chirurgisch-Technischen Assistenten ist noch nicht staatlich anerkannt 🛠️.",
+          "CTAs sind ein wichtiger Teil des OP-Teams und entlasten Ärzte erheblich 🏥.",
+          "In vielen Ländern ist der Beruf bereits akademisiert 🖌️."
+        ]
+      }
+    }
+  }
+]

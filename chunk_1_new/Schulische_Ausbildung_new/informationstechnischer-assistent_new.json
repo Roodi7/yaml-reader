@@ -1,0 +1,125 @@
+[
+  {
+    "category": "telecommunications_and_it",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1500,
+    "maxStartingSalary": 2200,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 3600,
+    "minExperiencedSalary": 2700,
+    "maxExperiencedSalary": 3600,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Informationstechnische/r Assistent/in",
+        "overview": "💻 Informationstechnische Assistenten (ITAs) sind wahre Allrounder der IT-Branche! Sie entwickeln Software, warten Netzwerke und kümmern sich um die perfekte Funktionalität moderner IT-Systeme. Ob als Programmierer, System-Admin oder Webentwickler - ITAs sind in nahezu allen Unternehmen unersetzlich. 🌟",
+        "responsibilities": [
+          "Entwicklung von Software-, Web-Anwendungen und Apps. 📱",
+          "Einrichtung, Installation und Wartung von IT-Systemen. 🖥️",
+          "Vernetzung von Hardware- und Software-Komponenten.",
+          "Durchführung von Datensicherungsabläufen und Fehlerbehebungen. 🔧",
+          "Beratung von Kunden zu IT-Lösungen und Energiesparmaßnahmen."
+        ],
+        "curriculum": [
+          "Programmieren in C++ und Java.",
+          "Datenbankentwicklung und -management. 🗄️",
+          "Rechnernetze und Automatisierungstechniken.",
+          "Hardware- und Softwareintegration.",
+          "Mobile Device Development."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Betriebsinformatiker. 🎓",
+          "Studium in Informatik oder Automatisierungstechnik.",
+          "Führungspositionen in IT-Unternehmen."
+        ],
+        "furtherEducation": [
+          "Techniker für Informatik. 🖥️",
+          "Datenbankexperte oder Spezialist in Automatisierung.",
+          "Bachelor- oder Masterstudium in Informatik."
+        ],
+        "applicationSteps": [
+          "Kontaktaufnahme mit Schulen oder Bildungseinrichtungen.",
+          "Einreichen von Bewerbungsunterlagen: Anschreiben, Lebenslauf, Zeugnisse.",
+          "Abschluss eines Praktikums in einem kooperierenden Unternehmen."
+        ],
+        "applicationRequirements": [
+          "Realschulabschluss oder vergleichbarer Schulabschluss.",
+          "Technisches Interesse und Grundkenntnisse in IT.",
+          "Sorgfalt und analytisches Denken."
+        ],
+        "applicationTips": [
+          "Betone technische Projekte oder Erfahrungen in deinem Anschreiben.",
+          "Gute Noten in Mathematik, Informatik und Englisch sind ein Plus. 📈"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und Problemlösungskompetenz. 🧩",
+          "Programmierfähigkeiten und Systemkenntnisse. 👨‍💻",
+          "Präzise Dokumentation und Teamfähigkeit. 🤝"
+        ],
+        "requiredPersonalTraits": [
+          "Analytisches Denken und Organisationstalent. 🧐",
+          "Kreativität für innovative IT-Lösungen. 🎨",
+          "Teamplayer-Mentalität und Kommunikationsstärke. 💬"
+        ],
+        "theoreticalStructure": [
+          "Vermittlung von Grundlagen in Hardwaretechnik, Softwareentwicklung, Programmierung und Netzwerktechnik. Zusätzliche Inhalte wie Robotik und Mobile Device Development. 📚\n"
+        ],
+        "practicalStructure": [
+          "Praktische Anwendungen in Laboren und Fachräumen, z.B. Server einrichten, Datenbanken erstellen und technische Dokumentationen verwalten. 📂\n"
+        ],
+        "workEnvironment": [
+          "In Büros und Rechenzentren. 🏢",
+          "Im Außendienst bei Kunden. 🚗",
+          "In Produktionshallen. 🏭",
+          "In kleinen bis mittelständischen Unternehmen."
+        ],
+        "advantages": [
+          "Hohe Nachfrage nach IT-Fachkräften. 🔥",
+          "Vielfältige Karriere- und Weiterbildungsmöglichkeiten. 🚀",
+          "Spannendes Arbeitsumfeld mit technologischen Herausforderungen."
+        ],
+        "challenges": [
+          "Hohes Maß an technischer Präzision erforderlich.",
+          "Dynamische Anforderungen und stetige Weiterbildung. 📘",
+          "Unregelmäßige Arbeitszeiten im Außendienst möglich."
+        ],
+        "didYouKnow": [
+          "ITAs können in fast jeder Branche arbeiten - von Softwarefirmen bis zur Automobilindustrie. 🚗",
+          "Der Beruf des ITA kombiniert Kreativität und Technik. ✨",
+          "Du kannst dich mit zusätzlicher Fachhochschulreife für ein Studium qualifizieren. 📘",
+          "Die IT-Branche wächst kontinuierlich, was ITAs zu gefragten Experten macht. 🌱"
+        ]
+      }
+    }
+  }
+]

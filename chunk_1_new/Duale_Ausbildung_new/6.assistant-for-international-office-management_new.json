@@ -1,0 +1,114 @@
+[
+  {
+    "category": "economy_and_politics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "high_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2200,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 2800,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 800,
+        "max": 800
+      },
+      {
+        "min": 900,
+        "max": 900
+      },
+      {
+        "min": 1000,
+        "max": 1000
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B2"
+      },
+      {
+        "name": "spanish",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Assistant for International Office Management",
+        "overview": "\"Als Assistant for International Office Management arbeitest du in einem spannenden, internationalen Umfeld und bist für die Organisation und Kommunikation in Unternehmen verantwortlich. 🌍✈️ Du planst Meetings, koordinierst Projekte und behältst in einem dynamischen Büroalltag den Überblick. 🖋️✨\"\n",
+        "responsibilities": [
+          "Planung und Organisation von Geschäftsreisen und Meetings 📅✈️",
+          "Pflege von internationalen Geschäftskontakten und Übersetzungsaufgaben 🌐💼",
+          "Erstellung von Berichten, Statistiken und Präsentationen 📊🖋️"
+        ],
+        "curriculum": [
+          "Büroorganisation und Projektmanagement 📋✨",
+          "Sprachkurse und interkulturelle Kompetenzen 🌍🗣️",
+          "IT-Anwendungen und Betriebswirtschaft 🖥️📊"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Betriebswirt/in 🎓📈",
+          "Spezialisierung auf internationale Handelsbeziehungen 🌐💼",
+          "Aufstieg in Führungspositionen im Office-Management 📈💼"
+        ],
+        "furtherEducation": [
+          "Bachelorstudium in International Business oder Management 📖🎓",
+          "Zusatzqualifikationen in spezifischen Branchen wie Tourismus oder Logistik 🌍✈️"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄🖊️",
+          "Eignungstest für Sprachkenntnisse und Organisationsfähigkeiten 🌐📝"
+        ],
+        "applicationRequirements": [
+          "Abitur oder Fachhochschulreife 🎓",
+          "Gute Kenntnisse in Englisch und weiteren Fremdsprachen 🌍🗣️"
+        ],
+        "applicationTips": [
+          "Hebe deine Sprachkenntnisse und Organisationstalente hervor ✍️✨",
+          "Betone Erfahrungen aus Schüleraustauschen oder internationalen Projekten 🌍📄"
+        ],
+        "requiredPersonalSkills": [
+          "Organisationsgeschick und Multitasking-Fähigkeit 📋✨",
+          "Sprachbegabung und interkulturelles Verständnis 🌐🗣️"
+        ],
+        "requiredPersonalTraits": [
+          "Flexibilität und Belastbarkeit 🕒✨"
+        ],
+        "theoreticalStructure": [
+          "Fokus auf Sprachen, Betriebswirtschaft und Projektmanagement in der Schule 📚🌐"
+        ],
+        "practicalStructure": [
+          "Praktika und Aufgaben im Unternehmen, um theoretisches Wissen anzuwenden 🏢🖋️"
+        ],
+        "workEnvironment": [
+          "Büroarbeit in einem internationalen Team 🌏👩‍💻",
+          "Einsatz bei Veranstaltungen und Projekten im Ausland ✈️📋"
+        ],
+        "advantages": [
+          "Arbeit in einem internationalen und dynamischen Umfeld 🌏✨",
+          "Möglichkeit, verschiedene Kulturen und Sprachen kennenzulernen 🗺️🗣️"
+        ],
+        "challenges": [
+          "Hohes Maß an Organisation und Multitasking erforderlich 🖋️📊",
+          "Stressige Phasen durch Fristen und Deadlines 🕒✨"
+        ],
+        "didYouKnow": [
+          "Die EU hat Mitgliedsländer in Südamerika, Afrika und Asien 🌍✨",
+          "Englisch, Deutsch und Französisch sind die wichtigsten Amtssprachen der EU 🗣️🇪🇺",
+          "Das EU-Binnenmarktgebiet ist der größte Wirtschaftsraum der Welt 🌐💼"
+        ]
+      }
+    }
+  }
+]

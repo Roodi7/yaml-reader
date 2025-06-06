@@ -1,0 +1,126 @@
+[
+  {
+    "category": "telecommunications_and_it",
+    "jobType": [
+      "part_time"
+    ],
+    "duration": [
+      2,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1500,
+    "maxStartingSalary": 2200,
+    "minAvarageSalary": 1900,
+    "maxAvarageSalary": 2700,
+    "minExperiencedSalary": 2300,
+    "maxExperiencedSalary": 3300,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Technische/r Assistent/in für Informatik",
+        "overview": "Als Technische/r Assistent/in für Informatik bist du ein Allround-Talent im IT-Bereich 💻. Ob Programmierung, Netzwerke oder Hardware, du beherrschst das Innenleben von Computern und bist Experte für digitale Technologien 🌐. Deine Ausbildung öffnet dir Türen zu vielfältigen Karrierewegen in der Informations- und Telekommunikationstechnik 🚀.",
+        "responsibilities": [
+          "Entwicklung von Software und Programmen 💡.",
+          "Analyse und Reparatur von Hardwarekomponenten 🖥️.",
+          "Installation und Verwaltung von Netzwerken 🔌.",
+          "Problemlösung bei technischen Störungen 🔧."
+        ],
+        "curriculum": [
+          "Erlernen von Programmiersprachen wie Java und C++ 💻.",
+          "Hardware-Analyse und Netzwerkverwaltung 🔌.",
+          "IT-Sicherheits- und Datenbankmanagement 🔒.",
+          "Zusätzliche Qualifikationen wie VR/AR-Entwicklung oder Game-Design 🎮."
+        ],
+        "careerProspects": [
+          "IT-Support in technischen Dienstleistungsunternehmen 📞.",
+          "Softwareentwicklung bei Technologieanbietern 🌐.",
+          "Netzwerkadministration und IT-Beratung 🖥️.",
+          "Selbstständigkeit mit eigenem IT-Unternehmen 💼."
+        ],
+        "furtherEducation": [
+          "Weiterbildung zum IT-Projektkoordinator oder Softwareentwickler 🔧.",
+          "Techniker in Technischer Informatik für Führungspositionen 🎓.",
+          "Fach- oder Betriebswirt im Bereich IT für betriebswirtschaftliche Aufgaben 📊.",
+          "Studium in Informatik oder Wirtschaftsinformatik für spezialisierte Karrieren 📚."
+        ],
+        "applicationSteps": [
+          "Informiere dich über Fachschulen und deren Anforderungen 🔍.",
+          "Bereite Anschreiben, Lebenslauf und Zeugnisse vor 📄.",
+          "Füge relevante Praktikumsbescheinigungen oder Projekte hinzu 🗂️."
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder höher 🎓.",
+          "Grundkenntnisse in Mathematik und Logik 📐.",
+          "Interesse an IT und technischen Systemen 💡."
+        ],
+        "applicationTips": [
+          "Erstelle ein strukturiertes Anschreiben mit klarer Motivation ✍️.",
+          "Hebe praktische Erfahrungen oder IT-Projekte hervor 💻.",
+          "Lass deine Bewerbung von Freunden oder Verwandten prüfen ✅."
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis für IT-Systeme und Netzwerke ⚙️.",
+          "Kenntnisse in Programmierung und Datenverarbeitung 💻.",
+          "Analytisches Denken und Problemlösungsfähigkeiten 🧠."
+        ],
+        "requiredPersonalTraits": [
+          "Interesse an Innovation und digitalen Technologien 🌐.",
+          "Ausdauer und Konzentrationsfähigkeit bei komplexen Aufgaben ⏳.",
+          "Freude am Arbeiten im Team und mit Kunden 🤝."
+        ],
+        "theoreticalStructure": [
+          "Klassenunterricht in Programmierung, Netzwerktechnologie und Elektrotechnik 📘."
+        ],
+        "practicalStructure": [
+          "Praktika in IT-Unternehmen mit Fokus auf Anwendung des Gelernten 🛠️."
+        ],
+        "workEnvironment": [
+          "Softwareentwickler-Büros 💼.",
+          "EDV-Dienstleister 🖥️.",
+          "Informations- und Telekommunikationstechnische Unternehmen 🌍."
+        ],
+        "advantages": [
+          "Großer Bedarf an IT-Experten mit vielfältigen Karrieremöglichkeiten 🌍.",
+          "Arbeiten in einer zukunftssicheren und innovativen Branche 🚀.",
+          "Möglichkeiten zur Spezialisierung auf spannende Themen wie Game-Design 🎮."
+        ],
+        "challenges": [
+          "Kontinuierliches Lernen, um mit technologischen Entwicklungen Schritt zu halten 🛠️.",
+          "Hohe Konzentration und analytisches Denken sind gefragt 🧠."
+        ],
+        "didYouKnow": [
+          "Die Informatik wurde 1968 offiziell in Dresden gegründet 📅.",
+          "Erste Rechner füllten ganze Räume aus 🖥️.",
+          "Mit Zusatzqualifikationen kannst du VR/AR-Entwickler werden 🎮.",
+          "Game-Design ist eine spannende Spezialisierung für Kreative 🎨.",
+          "IT-Berufe sind stark nachgefragt und bieten langfristige Sicherheit 🌍."
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "category": "housekeeping",
+    "jobType": [
+      "full_time",
+      "part_time"
+    ],
+    "duration": [
+      2,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1470,
+    "maxStartingSalary": 2200,
+    "minAvarageSalary": 1470,
+    "maxAvarageSalary": 2200,
+    "minExperiencedSalary": 2000,
+    "maxExperiencedSalary": 2500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Assistent/in für Ernährung und Versorgung",
+        "overview": "🍳 Assistenten für Ernährung und Versorgung übernehmen vielfältige Aufgaben in der Hauswirtschaft und Versorgung, wie Speiseplanung, Wäschepflege und Einkauf. Sie tragen zur Lebensqualität ihrer Kunden bei und gestalten Wohn- und Aufenthaltsräume professionell. 🎯 Diese Arbeit kombiniert Organisationstalent, Kreativität und soziales Engagement.",
+        "responsibilities": [
+          "Planung und Organisation hauswirtschaftlicher Abläufe. 🗂️",
+          "Zubereitung von Verpflegungsangeboten unter Berücksichtigung gesunder Ernährung. 🍲",
+          "Beschaffung und Lagerung von Waren unter Einhaltung von Qualitätsstandards. 📦",
+          "Bedarfsermittlung und Angebotserstellung für Kunden, Gäste und Patienten. 🤝",
+          "Gestaltung und Pflege von Wohn- und Aufenthaltsräumen. 🏠"
+        ],
+        "curriculum": [
+          "Gesundheitsförderung und Ernährungslehre. 🥗",
+          "Betriebswirtschaft, Hygiene und Nachhaltigkeit. 📊",
+          "Textil- und Hauspflege sowie Speiseplanung. 👗",
+          "Kommunikation und soziale Kompetenzen. 🌍"
+        ],
+        "careerProspects": [
+          "Einstieg in vielfältige hauswirtschaftliche Tätigkeiten. 🌟",
+          "Karriere als Fachkraft in Großküchen oder Pflegeeinrichtungen. 🚀",
+          "Übernahme von Führungsrollen in kleineren Betrieben. 🏢"
+        ],
+        "furtherEducation": [
+          "Betriebswirt/in im Ernährungs- und Versorgungsmanagement. 🎓",
+          "Fachlehrer/in für Ernährung und Gestaltung. 📜",
+          "Studium in Ernährungswissenschaften oder Versorgungsmanagement. 🎓"
+        ],
+        "applicationSteps": [
+          "Einreichen eines Aufnahmeantrags bei der Berufsfachschule. 📝",
+          "Nachweis von mindestens 10 Schuljahren (Vollzeitschulpflicht). 🎓",
+          "Vorlage eines Gesundheitszeugnisses. 🏥"
+        ],
+        "applicationRequirements": [
+          "Freude am Umgang mit Menschen und Organisationstalent. 😊",
+          "Kreativität und Multitasking-Fähigkeit. 🎨"
+        ],
+        "applicationTips": [
+          "Praktische Erfahrungen wie Schülerpraktika oder Nebenjobs in Pflegeeinrichtungen hervorheben. 🌟",
+          "Leidenschaft für hauswirtschaftliche Tätigkeiten betonen. ❤️"
+        ],
+        "requiredPersonalSkills": [
+          "Organisationstalent und Zeitmanagement. 🕒",
+          "Empathie und soziale Kompetenz. ❤️",
+          "Teamfähigkeit und Multitasking-Fähigkeit. 🌟"
+        ],
+        "requiredPersonalTraits": [
+          "Hilfsbereitschaft und Engagement. 😊",
+          "Flexibilität und Belastbarkeit. 🏋️",
+          "Freude an hauswirtschaftlichen Aufgaben. 🍳"
+        ],
+        "theoreticalStructure": [
+          "\"Fächer wie Ernährungslehre, Betriebswirtschaft, Arbeitspädagogik, Betriebshygiene und Datenverarbeitung. 📚\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praktika in schuleigenen Einrichtungen wie Großküchen oder externen Betrieben wie Seniorenheimen oder Kitas. 🏫\"\n"
+        ],
+        "workEnvironment": [
+          "Großküchen, Mensen, Kantinen. 🍴",
+          "Pflegeheime, Reha-Kliniken, Kurheime. 🏥",
+          "Hotels, Tagungshäuser, Bildungseinrichtungen. 🏨",
+          "Privathaushalte und hauswirtschaftliche Dienstleistungsunternehmen. 🏡"
+        ],
+        "advantages": [
+          "Sicherer Beruf mit hoher Nachfrage auf dem Arbeitsmarkt. 📈",
+          "Möglichkeit zur beruflichen Weiterentwicklung. 🚀",
+          "Abwechslungsreiche und verantwortungsvolle Tätigkeiten. ❤️"
+        ],
+        "challenges": [
+          "Arbeiten an Wochenenden und Feiertagen je nach Einsatzort. ⏰",
+          "Herausforderungen bei der Einhaltung von Hygiene- und Qualitätsstandards. 🧼",
+          "Hohe Verantwortung bei der Versorgung von Menschen. 🤝"
+        ],
+        "didYouKnow": [
+          "Mit einem guten Abschluss kannst du den nächsthöheren Schulabschluss erwerben. 🎓",
+          "Du kannst während der Ausbildung mehrere praktische Qualifikationen erlangen. 🏆",
+          "Der Beruf ist in der Pflege und Versorgung sehr gefragt und bietet krisensichere Perspektiven. 🚀"
+        ]
+      }
+    }
+  }
+]

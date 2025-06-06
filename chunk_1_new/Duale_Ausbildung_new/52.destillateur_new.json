@@ -1,0 +1,108 @@
+[
+  {
+    "category": "gastronomy_and_food",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2200,
+    "maxStartingSalary": 2700,
+    "minAvarageSalary": 2600,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3400,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 800,
+        "max": 900
+      },
+      {
+        "min": 900,
+        "max": 1000
+      },
+      {
+        "min": 1000,
+        "max": 1200
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Destillateur/in",
+        "overview": "\"Als Destillateur/in erschaffst du hochwertige Spirituosen und Aromen 🍸. Du kombinierst handwerkliche Kunst mit präziser Technik und sorgst für den perfekten Geschmack in Getränken und Parfüms 🥃.\"\n",
+        "responsibilities": [
+          "Herstellung von Alkohol und ätherischen Ölen durch Destillation 🧪.",
+          "Rezeptentwicklung und Qualitätskontrolle von Spirituosen 🍷.",
+          "Pflege und Wartung von Destillationsanlagen 🛠️."
+        ],
+        "curriculum": [
+          "Chemische Grundlagen der Destillation 🧪.",
+          "Rezeptentwicklung und Geschmackskunde 🍷.",
+          "Qualitätsmanagement und Anlagenwartung 🛠️."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Destillateurmeister 🎓.",
+          "Spezialisierung auf Produktentwicklung oder Qualitätsmanagement 🧪.",
+          "Selbstständigkeit mit eigener Brennerei oder Duftmanufaktur 🏭."
+        ],
+        "furtherEducation": [
+          "Kurse in Sensorik und Aromenentwicklung 🍸.",
+          "Studium der Lebensmitteltechnologie oder Verfahrenstechnik 🎓."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📚.",
+          "Eignungstests in Chemie und Physik 🧪."
+        ],
+        "applicationRequirements": [
+          "Interesse an Chemie, Biologie und Sensorik 🧪.",
+          "Genauigkeit und technisches Verständnis 🛠️."
+        ],
+        "applicationTips": [
+          "Betone deine Stärken in Naturwissenschaften und Teamarbeit 🌟.",
+          "Erwähne praktische Erfahrungen in Laboren oder Getränkebetrieben 🍷."
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Chemie, Biologie und Verfahrenstechnik 🧪.",
+          "Präzision bei der Arbeit mit Anlagen und Rezepturen 🛠️."
+        ],
+        "requiredPersonalTraits": [
+          "Kreativität und Innovationsfreude 🍸.",
+          "Geduld und Sorgfalt bei der Herstellung 🧪."
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Schwerpunkt Chemie, Biologie und Verfahrenstechnik 📚."
+        ],
+        "practicalStructure": [
+          "Praktische Arbeit in Destillerien und Laboreinrichtungen 🧪."
+        ],
+        "workEnvironment": [
+          "Brennereien, Aromenhersteller und Parfümindustrie 🏭.",
+          "Arbeiten in Produktionsstätten mit modernster Technik 🍸."
+        ],
+        "advantages": [
+          "Kreative Arbeit in einer traditionsreichen Branche 🍷.",
+          "Hohe Nachfrage nach Spezialisten für Spirituosen und Aromen 🌟.",
+          "Gute Verdienstmöglichkeiten und internationale Perspektiven 💰."
+        ],
+        "challenges": [
+          "Arbeiten mit chemischen Substanzen unter strengen Auflagen ⚠️.",
+          "Hohe Konzentration und Präzision erforderlich 🧪."
+        ],
+        "didYouKnow": [
+          "Destillateure arbeiten auch in der Parfümherstellung 🌹.",
+          "Einige Spirituosen reifen jahrelang in Fässern, bevor sie verkauft werden 🥃.",
+          "Die Kunst des Destillierens reicht bis in die Antike zurück ⚗️."
+        ]
+      }
+    }
+  }
+]

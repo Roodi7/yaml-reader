@@ -1,0 +1,106 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "no_school_degree",
+    "minStartingSalary": 2819,
+    "maxStartingSalary": 3000,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3200,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 880,
+        "max": 935
+      },
+      {
+        "min": 1095,
+        "max": 1230
+      },
+      {
+        "min": 1305,
+        "max": 1495
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Baugeräteführer/in",
+        "overview": "\"Als Baugeräteführer/in bedienst du große Maschinen wie Kräne, Bagger oder Planierraupen und bist für den Fortschritt auf Baustellen verantwortlich. 🚧✨ Dein technisches Geschick macht dich unentbehrlich für Bauprojekte jeder Art. 🏗️🌟\"\n",
+        "responsibilities": [
+          "Bedienung und Wartung von Baumaschinen wie Bagger und Kräne 🏗️🔧",
+          "Vorbereitung von Baustellen und Einrichtung der Geräte 📋✨",
+          "Transport und Verladung von Baumaterialien 🚛✨"
+        ],
+        "curriculum": [
+          "Technische Bedienung und Wartung von Baumaschinen 🔧✨",
+          "Arbeitsschutz und Sicherheitsmaßnahmen 🛡️📋",
+          "Planung und Durchführung von Bauprojekten 📊✨"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Baumaschinenmeister/in oder Techniker/in 🎓✨",
+          "Spezialisierung auf bestimmte Baumaschinen oder Bauverfahren 🚀✨",
+          "Aufstieg in leitende Positionen im Bauwesen 🏗️✨"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Bauingenieurwesen oder Maschinenbau 🎓📘",
+          "Fortbildung in Arbeitssicherheit und Baustellenmanagement 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Probearbeiten oder Praktikum auf einer Baustelle 🚧✨"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss oder keine Schulpflicht 🎓",
+          "Technisches Interesse und Geschick im Umgang mit Maschinen 🔧✨"
+        ],
+        "applicationTips": [
+          "Betone deine Leidenschaft für Technik und Präzision 🌟🔧",
+          "Hebe praktische Erfahrungen oder Projekte hervor 📄✨"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und handwerkliches Geschick 🔧✨",
+          "Organisationstalent und Verantwortungsbewusstsein 📋✨"
+        ],
+        "requiredPersonalTraits": [
+          "Flexibilität und Teamfähigkeit 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du technische Grundlagen, Vermessungstechnik und Arbeitssicherheit 📘🏗️"
+        ],
+        "practicalStructure": [
+          "Im Betrieb sammelst du Erfahrungen im Umgang mit Maschinen und Bauprozessen 🏗️✨"
+        ],
+        "workEnvironment": [
+          "Arbeit auf Baustellen im Hoch-, Tief- und Straßenbau 🚧✨",
+          "Zusammenarbeit im Team mit Bauleitern und anderen Fachkräften 🤝✨"
+        ],
+        "advantages": [
+          "Abwechslungsreiche Tätigkeiten auf verschiedenen Baustellen 🌍✨",
+          "Hohe Nachfrage nach qualifizierten Fachkräften im Bauwesen 🚀✨"
+        ],
+        "challenges": [
+          "Arbeiten unter wechselnden Wetterbedingungen und teils hoher Belastung 🌦️✨",
+          "Verantwortung für die Sicherheit auf Baustellen erforderlich 🛡️📋"
+        ],
+        "didYouKnow": [
+          "Viele Baumaschinen können ohne Führerschein gefahren werden! 🏗️✨",
+          "Bagger sind meist gelb, um sie auf Baustellen besser sichtbar zu machen 🌟✨",
+          "Ein Baugeräteführer kann Baumaschinen im Wert von mehreren Millionen Euro bedienen 🚧✨"
+        ]
+      }
+    }
+  }
+]

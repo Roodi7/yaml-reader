@@ -1,0 +1,110 @@
+[
+  {
+    "category": "construction_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3.5
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2200,
+    "maxStartingSalary": 2800,
+    "minAvarageSalary": 2700,
+    "maxAvarageSalary": 3700,
+    "minExperiencedSalary": 3200,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 649
+      },
+      {
+        "min": 766,
+        "max": 766
+      },
+      {
+        "min": 876,
+        "max": 876
+      },
+      {
+        "min": 909,
+        "max": 909
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Anlagenmechaniker/in für Sanitär-, Heizungs- und Klimatechnik",
+        "overview": "\"Als Anlagenmechaniker/in für Sanitär-, Heizungs- und Klimatechnik sorgst du für Komfort in Gebäuden, indem du moderne Technologien und nachhaltige Lösungen einsetzt. 💧🔥❄️ Von Heizungsanlagen bis zu Solaranlagen – dein Einsatz schafft Wohlfühlklima! 🏠✨\"\n",
+        "responsibilities": [
+          "Installation und Wartung von Heizungs-, Lüftungs- und Klimaanlagen 🔧❄️",
+          "Beratung und Erstellung von Angeboten für Kunden 📝🤝",
+          "Verlegung von Rohrleitungen und Montage von Bauteilen ⚙️🛠️"
+        ],
+        "curriculum": [
+          "Planung und Umsetzung von Projekten im Bereich Gebäudetechnik 🏠🛠️",
+          "Integration von erneuerbaren Energien wie Solaranlagen 🌞⚡",
+          "Diagnose und Behebung von technischen Störungen 🔍🚨"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Installateur- und Heizungsbaumeister 🎓✨",
+          "Spezialisierung auf Smart-Home-Technologien 🏠💡",
+          "Aufstieg in Führungspositionen oder eigene Selbstständigkeit 📈💼"
+        ],
+        "furtherEducation": [
+          "Techniker für Heizungs-, Lüftungs- und Klimatechnik 📖🎓",
+          "Studium im Bereich Versorgungstechnik oder Energietechnik 🏫⚙️"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄🖊️",
+          "Praktischer Eignungstest oder Probearbeit 🛠️✔️"
+        ],
+        "applicationRequirements": [
+          "Abschluss der Hauptschule oder Mittleren Reife 🎓",
+          "Technisches Verständnis und handwerkliches Geschick 🔧✨"
+        ],
+        "applicationTips": [
+          "Betone dein Interesse an Technik und nachhaltigen Lösungen 🌟📐",
+          "Hebe Praktika oder relevante Erfahrungen hervor ✍️📄"
+        ],
+        "requiredPersonalSkills": [
+          "Handwerkliche Präzision und Problemlösungsfähigkeiten 🔧🧠",
+          "Technisches Verständnis und Kommunikationsfähigkeit 🗣️⚙️"
+        ],
+        "requiredPersonalTraits": [
+          "Zuverlässigkeit und Teamfähigkeit 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du Grundlagen wie technische Zeichnungen und Materialkunde 📚📐"
+        ],
+        "practicalStructure": [
+          "Im Betrieb sammelst du Erfahrungen im Umgang mit moderner Technik und Kundenbetreuung 🏭👨‍🔧"
+        ],
+        "workEnvironment": [
+          "Einsatz auf Baustellen, in Werkstätten und bei Kunden vor Ort 🏗️🏠",
+          "Arbeiten im Team und teilweise im Freien 🌳👷‍♂️"
+        ],
+        "advantages": [
+          "Arbeiten in einem zukunftssicheren Beruf mit hoher Nachfrage 🌟🔧",
+          "Möglichkeit zur Spezialisierung auf innovative Technologien 🌐✨"
+        ],
+        "challenges": [
+          "Teilweise körperlich anstrengende Arbeiten auf Baustellen 💪🏗️",
+          "Hohe Präzision und technisches Know-how erforderlich 🔍⚙️"
+        ],
+        "didYouKnow": [
+          "Der Beruf kombiniert die früheren Berufe Gas- und Wasserinstallateur sowie Heizungsbauer 🛠️🧑‍🔧",
+          "Anlagenmechaniker SHK sind entscheidend für den Klimaschutz durch nachhaltige Technologien 🌍✨",
+          "Die Ausbildung bietet zahlreiche Weiterbildungsmöglichkeiten im Bereich Smart Home und erneuerbare Energien 🌐⚡"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "category": "trade",
+    "jobType": ["shift_work"],
+    "duration": 3,
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1900,
+    "maxStartingSalary": 2300,
+    "minAvarageSalary": 2100,
+    "maxAvarageSalary": 2900,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 2900,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Drogist:in",
+        "overview": "Freiverkäufliche Arzneimittel, Kosmetikprodukte, Lebensmittel und sogar Fotoautomaten – die Produktauswahl in Drogerien ist riesig! 🛍️ Als Drogist:in bist du nicht nur Expert:in für Hygiene- und Wellnessprodukte, sondern auch ein kompetenter Ansprechpartner für individuelle Kundenwünsche. 🌟",
+        "responsibilities": [
+          "Warenbestand prüfen und Produkte bestellen 🛒",
+          "Lieferungen annehmen und auf Vollständigkeit sowie Unversehrtheit prüfen 📦",
+          "Regale auffüllen und Verkaufsräume ansprechend dekorieren 🎨",
+          "Kunden zu Produkten und Anwendungen beraten 💬",
+          "Kassieren und Abrechnungen durchführen 💳"
+        ],
+        "curriculum": [
+          "Erlernen der Grundlagen zu Lagerorganisation und Warenbestandsprüfung 🏗️",
+          "Vertiefung von Kundenberatung und Produktsortiment 💡",
+          "Rechnungswesen, Verkaufspreiskalkulation und Werbemaßnahmen 📊"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Handelsfachwirt oder Pharmareferent 🎓",
+          "Studium in Pharmazie oder Betriebswirtschaftslehre 🎓",
+          "Führungspositionen in Drogeriemärkten oder anderen Einzelhandelsbereichen 🚀"
+        ],
+        "furtherEducation": [
+          "Handelsfachwirt für Führungspositionen und Büroarbeit 🏢",
+          "Pharmareferent für die Arbeit bei Pharmakonzernen 💊",
+          "Studium Pharmazie oder Betriebswirtschaft zur Vertiefung des Fachwissens 📖"
+        ],
+        "applicationSteps": [
+          "Verfassen eines detaillierten Bewerbungsschreibens 📝",
+          "Einsendung eines Lebenslaufs mit Fokus auf relevante Fähigkeiten 📑",
+          "Vorstellungsgespräch mit Business-Casual-Dresscode 👔"
+        ],
+        "applicationRequirements": [
+          "Interesse an Kosmetik, Hygiene und Arzneimitteln 🧴",
+          "Freude an Kundenberatung und Teamarbeit 💬",
+          "Sorgfalt und Organisationstalent 🗂️"
+        ],
+        "applicationTips": [
+          "Betone Praktika oder Erfahrungen im Einzelhandel 🛒",
+          "Zeige Begeisterung für den Umgang mit Menschen 🌟",
+          "Hebe gute Noten in Mathe, Biologie und Chemie hervor 📊"
+        ],
+        "requiredPersonalSkills": [
+          "Organisationstalent und Multitasking-Fähigkeiten 🗂️",
+          "Gutes Gedächtnis für Produktsortimente und Inhaltsstoffe 🧠",
+          "Sorgfältiges Arbeiten und gute Rechenkenntnisse 📊"
+        ],
+        "requiredPersonalTraits": [
+          "Offenheit und Kommunikationsfreude 💬",
+          "Teamfähigkeit und Flexibilität 🤝",
+          "Freude an der Arbeit mit Menschen und Produkten 🌟"
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Fächern wie Rechnungswesen, Kosmetik, Parfümerie und Hygiene 📚"
+        ],
+        "practicalStructure": [
+          "Praxis im Betrieb: Beratung, Lagerhaltung und Verkauf 🛠️"
+        ],
+        "workEnvironment": [
+          "Drogerien oder Supermärkte mit großen Drogerieabteilungen 🏬",
+          "Fotogeschäfte und Reformhäuser 📷",
+          "Verkaufsräume, Lager und Büros 🗂️"
+        ],
+        "advantages": [
+          "Vielfältiges Aufgabengebiet zwischen Beratung, Verkauf und Organisation 🌟",
+          "Guter Verdienst im Vergleich zu anderen Einzelhandelsberufen 💰",
+          "Gute Zukunftsaussichten durch breites Fachwissen 🚀"
+        ],
+        "challenges": [
+          "Schichtarbeit und Wochenendarbeit erfordern Flexibilität ⏰",
+          "Hohe Verantwortung im Umgang mit Arzneimitteln und Kundenberatung ⚖️",
+          "Erfordert Organisationstalent und Teamarbeit 🤝"
+        ],
+        "didYouKnow": [
+          "Die Berufsbezeichnung Drogist:in stammt vom Begriff 'Droge' für Arzneistoffe 💊.",
+          "Drogist:innen können auch als Pharmareferent:innen tätig werden 🌟.",
+          "Drogerien bieten heute viel mehr als nur Hygieneprodukte – von Lebensmitteln bis Fotodruck! 🛍️",
+          "Der Sachkundenachweis für Arzneimittel ist ein wichtiger Bestandteil der Ausbildung 📜.",
+          "Drogeriemärkte zahlen in der Regel höhere Gehälter als der klassische Einzelhandel 💰."
+        ]
+      }
+    }
+  }
+]

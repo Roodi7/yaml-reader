@@ -1,0 +1,108 @@
+[
+  {
+    "category": "services_and_crafts",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2300,
+    "minAvarageSalary": 2100,
+    "maxAvarageSalary": 2700,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3000,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 966
+      },
+      {
+        "min": 766,
+        "max": 1074
+      },
+      {
+        "min": 876,
+        "max": 1210
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Buchhändler/in",
+        "overview": "\"Als Buchhändler/in bist du Botschafter der Literatur 📖. Du berätst Kunden, organisierst Veranstaltungen und sorgst für eine perfekte Bücherauswahl im Laden 🌍.\"\n",
+        "responsibilities": [
+          "Beratung und Verkauf von Büchern und Medienprodukten 📖.",
+          "Organisation von Lesungen und anderen Veranstaltungen 🎤.",
+          "Erstellen von Marketingkonzepten und Online-Kampagnen 📊."
+        ],
+        "curriculum": [
+          "Literaturkunde und Verkaufstechniken 🌈.",
+          "Organisation und Veranstaltungsplanung 🚒.",
+          "Digitales Marketing und E-Commerce 📚."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Handelsfachwirt oder Medienfachwirt 🎓.",
+          "Aufstieg zum Filialleiter oder Marketingmanager 📊.",
+          "Selbstständigkeit mit einer eigenen Buchhandlung 🏢."
+        ],
+        "furtherEducation": [
+          "Studium in Literaturwissenschaft oder Verlagswesen 📚.",
+          "Kurse in Social Media und digitalem Buchhandel 🌈."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📖.",
+          "Praktikum zur Überprüfung der Eignung 📖."
+        ],
+        "applicationRequirements": [
+          "Interesse an Literatur und Büchern 📖.",
+          "Kommunikationsfähigkeit und Organisationstalent 💡."
+        ],
+        "applicationTips": [
+          "Betone deine Lesebegeisterung und kreativen Ideen 🎨.",
+          "Hebe Erfahrungen im Verkauf oder Veranstaltungsmanagement hervor 🎨."
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Buch- und Verlagswesen 📖.",
+          "Fähigkeit zur Kundenberatung und Warenpräsentation 🌈."
+        ],
+        "requiredPersonalTraits": [
+          "Leidenschaft für Literatur und Trends 📖.",
+          "Engagement und Flexibilität 🚒."
+        ],
+        "theoreticalStructure": [
+          "Fachunterricht in Wirtschaft, Literatur und Marketing 📚."
+        ],
+        "practicalStructure": [
+          "Praktische Arbeit in Buchhandlungen und Verlagen 📖."
+        ],
+        "workEnvironment": [
+          "Buchhandlungen, Verlage oder Bibliotheken 🎨.",
+          "Messen und Literaturveranstaltungen 📚."
+        ],
+        "advantages": [
+          "Täglicher Kontakt mit spannenden Büchern und Geschichten 📖.",
+          "Kreative Aufgaben und abwechslungsreicher Alltag 🎨.",
+          "Hohe Kundenbindung und soziale Interaktion 📚."
+        ],
+        "challenges": [
+          "Arbeiten unter Zeitdruck, besonders bei Bestellungen und Veranstaltungen 🌈.",
+          "Hohes Verantwortungsbewusstsein bei Warenwirtschaft und Organisation 📚."
+        ],
+        "didYouKnow": [
+          "Buchhändler haben oft Zugang zu Bücherneuheiten, bevor sie erscheinen 🎨.",
+          "Der Buchhandel ist eine der ältesten Branchen der Welt 🌍.",
+          "Bücher werden in über 190 Ländern weltweit verkauft 📚."
+        ]
+      }
+    }
+  }
+]

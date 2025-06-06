@@ -1,0 +1,119 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2400,
+    "maxAvarageSalary": 3000,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 649
+      },
+      {
+        "min": 766,
+        "max": 766
+      },
+      {
+        "min": 876,
+        "max": 876
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Hygienekontrolleur/in",
+        "overview": "🏊 Schwimmbäder, Krankenhäuser und Trinkwasserversorgungsanlagen gehören zu den sensibelsten Bereichen unserer Gesellschaft. Hygienekontrolleure sorgen dafür, dass diese Orte keimfrei bleiben. Die Ausbildung ist von Bundesland zu Bundesland unterschiedlich geregelt, dauert 2 bis 3 Jahre und bereitet dich auf eine spannende und verantwortungsvolle Tätigkeit vor. 🚑💧\n",
+        "responsibilities": [
+          "Untersuchung von Krankenhäusern, Schwimmbädern und öffentlichen Einrichtungen auf Hygienevorschriften.",
+          "Entnahme und Analyse von Proben für chemische Tests.",
+          "Beratung und Aufklärung zur Vermeidung von Infektionen und Epidemien.",
+          "Erstellung von Berichten, Protokollen und Statistiken.",
+          "Durchsetzung von Hygienemaßnahmen vor Ort."
+        ],
+        "curriculum": [
+          "Naturwissenschaften: Chemie und Biologie.",
+          "Hygiene- und Gesundheitsvorschriften.",
+          "Methoden der Probenentnahme und -analyse.",
+          "Erstellung von Statistiken und Berichten."
+        ],
+        "careerProspects": [
+          "Verbeamtung im mittleren Dienst als Hygieneinspektor.",
+          "Karriere im gehobenen Dienst mit Titeln wie Hygieneamtmann.",
+          "Studium in Lebensmittelchemie oder Ernährungswissenschaften."
+        ],
+        "furtherEducation": [
+          "Aufstieg vom Hygienesekretär zum Hygieneinspektor.",
+          "Wechsel in den gehobenen Dienst des öffentlichen Dienstes.",
+          "Studium an Hochschulen."
+        ],
+        "applicationSteps": [
+          "Einreichen von Bewerbungsunterlagen: Anschreiben, Lebenslauf, Zeugnisse.",
+          "Nachweis von Mindestanforderungen wie Fachoberschulreife oder Berufsausbildung.",
+          "Vorbereitung auf mündliche und schriftliche Prüfungen."
+        ],
+        "applicationRequirements": [
+          "Fachoberschulreife oder Hauptschulabschluss mit Berufsausbildung.",
+          "Interesse an Naturwissenschaften und Hygiene.",
+          "Sorgfältigkeit und Verantwortungsbewusstsein."
+        ],
+        "applicationTips": [
+          "Betone dein Interesse an Naturwissenschaften und Hygiene.",
+          "Zeige praktische Erfahrungen durch relevante Praktika."
+        ],
+        "requiredPersonalSkills": [
+          "Starke naturwissenschaftliche Kenntnisse. 🧪",
+          "Gute Kommunikationsfähigkeiten. 🗣️",
+          "Fähigkeit, präzise Berichte zu erstellen. ✍️"
+        ],
+        "requiredPersonalTraits": [
+          "Sorgfältigkeit und Genauigkeit. 🔍",
+          "Durchsetzungsvermögen. 💪",
+          "Flexibilität im Umgang mit wechselnden Aufgaben. 🔄"
+        ],
+        "theoreticalStructure": [
+          "Teilnahme an Seminaren in Ausbildungszentren in München, Düsseldorf, Berlin oder Gera."
+        ],
+        "practicalStructure": [
+          "Praktika in städtischen Gesundheitsämtern und öffentlichen Einrichtungen."
+        ],
+        "workEnvironment": [
+          "Öffentliche Einrichtungen.",
+          "Gesundheitsämter.",
+          "Außendienst in verschiedenen Gemeinden."
+        ],
+        "advantages": [
+          "Sicherer Arbeitsplatz durch Verbeamtung. 🛡️",
+          "Abwechslungsreiche Tätigkeit zwischen Außendienst und Büro. 🚗📋",
+          "Direkter Beitrag zur Gesundheit der Gesellschaft. ❤️"
+        ],
+        "challenges": [
+          "Außendienst mit unregelmäßigen Arbeitszeiten.",
+          "Durchsetzungsvermögen erforderlich bei Mahnungen. ✋",
+          "Hohe Verantwortung im Umgang mit Hygienevorschriften."
+        ],
+        "didYouKnow": [
+          "Das Wort Hygiene stammt aus dem Griechischen und bedeutet 'gesunde Kunst.' 🎨",
+          "Im Mittelalter betrug die Lebenserwartung nur 32 Jahre, oft durch verunreinigtes Trinkwasser. 💧",
+          "Die hohe Lebenserwartung heute verdanken wir nicht nur der Medizin, sondern auch der Hygiene. 🩺",
+          "Im Hygiene-Museum Dresden kannst du spannende Einblicke in die Geschichte der Hygiene gewinnen. 🏛️"
+        ]
+      }
+    }
+  }
+]

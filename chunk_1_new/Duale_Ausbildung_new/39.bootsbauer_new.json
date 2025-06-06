@@ -1,0 +1,114 @@
+[
+  {
+    "category": "services_and_crafts",
+    "jobType": [
+      "full_time",
+      "shift_work"
+    ],
+    "duration": [
+      3.5
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2600,
+    "maxAvarageSalary": 3800,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 1030
+      },
+      {
+        "min": 766,
+        "max": 1071
+      },
+      {
+        "min": 876,
+        "max": 1120
+      },
+      {
+        "min": 909,
+        "max": 1191
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Bootsbauer/in",
+        "overview": "\"Als Bootsbauer/in bist du Spezialist für die Konstruktion und Reparatur von Booten und Yachten ⚓. Du vereinst technisches Know-how mit handwerklicher Präzision und sorgst dafür, dass alles sicher auf dem Wasser bleibt 🛶.\"\n",
+        "responsibilities": [
+          "Konstruktion und Reparatur von Booten aus Holz, Metall und Kunststoff 🍂.",
+          "Wartung und Pflege von Bootszubehör und Schiffstechnik 🌊.",
+          "Zusammenarbeit im Team zur Umsetzung komplexer Projekte 🧰."
+        ],
+        "curriculum": [
+          "Bootskonstruktion und Materialkunde 🍂.",
+          "Techniken zur Reparatur und Pflege von Booten 🔧.",
+          "Kundenberatung und Projektmanagement ⚓."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Bootsbaumeister 🎓.",
+          "Spezialisierung auf Yachten oder industrielle Schiffskonstruktion ✨.",
+          "Selbstständigkeit mit eigenem Bootsbauunternehmen 🏢."
+        ],
+        "furtherEducation": [
+          "Meisterkurse im Bootsbau 🎓.",
+          "Studium in Schiffbau oder Meerestechnik ⚓."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📝.",
+          "Teilnahme an einem technischen Eignungstest 🔧.",
+          "Praktikum zur Überprüfung der handwerklichen Fähigkeiten 🎑."
+        ],
+        "applicationRequirements": [
+          "Technisches Verständnis und Freude an handwerklicher Arbeit ⚓.",
+          "Körperliche Belastbarkeit und Teamfähigkeit 🌊."
+        ],
+        "applicationTips": [
+          "Betone deine Liebe zu Technik und Wasser 🌊.",
+          "Erwähnen Sie Projekte oder Praktika im handwerklichen Bereich 🔧."
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse über Materialien und Bootskonstruktionen 🍂.",
+          "Teamarbeit und Kommunikationsstärke 🧰."
+        ],
+        "requiredPersonalTraits": [
+          "Präzision und Sorgfalt bei der Arbeit ⚓.",
+          "Kreativität und Flexibilität in der Problemlösung 🎨."
+        ],
+        "theoreticalStructure": [
+          "Fachunterricht zu Konstruktionstechniken und Materialien 🔧."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung in der Werft mit Schwerpunkt auf Bootskonstruktion und Reparatur 🛠."
+        ],
+        "workEnvironment": [
+          "Arbeit in Werften und Bootsbauunternehmen 🚤.",
+          "Kombination aus Werkstattarbeit und Außeneinsätzen ⚓."
+        ],
+        "advantages": [
+          "Vielseitige Aufgaben in einem kreativen Beruf 🎨.",
+          "Hohe Nachfrage und Jobchancen weltweit 🌍.",
+          "Gute Verdienstmöglichkeiten mit steigender Erfahrung 💸."
+        ],
+        "challenges": [
+          "Arbeiten unter schwierigen Wetterbedingungen 🌧.",
+          "Hohes Maß an Präzision und handwerklichem Geschick erforderlich 🔧."
+        ],
+        "didYouKnow": [
+          "Bootsbauer haben einen der vielseitigsten handwerklichen Berufe 🍂.",
+          "Einige der teuersten Yachten der Welt werden in Deutschland gebaut 🏡.",
+          "Das älteste bekannte Boot ist über 10.000 Jahre alt und aus Holz gefertigt ⏰."
+        ]
+      }
+    }
+  }
+]

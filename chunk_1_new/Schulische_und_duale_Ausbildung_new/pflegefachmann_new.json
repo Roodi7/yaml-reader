@@ -1,0 +1,123 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time",
+      "part_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_and_dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 3304,
+    "maxStartingSalary": 3500,
+    "minAvarageSalary": 3300,
+    "maxAvarageSalary": 4500,
+    "minExperiencedSalary": 3800,
+    "maxExperiencedSalary": 4600,
+    "trainingSalary": [
+      {
+        "min": 1230,
+        "max": 1230
+      },
+      {
+        "min": 1396,
+        "max": 1396
+      },
+      {
+        "min": 1400,
+        "max": 1400
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Pflegefachmann/-frau",
+        "overview": "🩺 Pflegefachkräfte spielen eine entscheidende Rolle im Gesundheitswesen. Sie unterstützen Menschen jeden Alters, von der Geburt bis ins hohe Alter, und helfen ihnen, ihre Gesundheit zu fördern oder wiederherzustellen. Als Pflegefachmann/-frau arbeitest du nah am Menschen und übernimmst vielfältige und verantwortungsvolle Aufgaben. 🚑",
+        "responsibilities": [
+          "Pflege und Betreuung von Menschen in unterschiedlichen Lebensphasen. 🌟",
+          "Unterstützung bei der Körperpflege, Ernährung und Mobilität. 🛌🍽️",
+          "Durchführung von Pflegemaßnahmen und Dokumentation. 📝",
+          "Verabreichung von Medikamenten und Überwachung der Therapie. 💊",
+          "Planung und Durchführung von Präventions- und Rehabilitationsmaßnahmen. ♿",
+          "Zusammenarbeit mit Ärzten, Therapeuten und Angehörigen. 🤝"
+        ],
+        "curriculum": [
+          "Grundlagen der Pflege: Akut- und Langzeitpflege. 🌟",
+          "Gesundheitsförderung und Prävention. 🩺",
+          "Pflege von Menschen in der letzten Lebensphase. 🕊️",
+          "Pflege von Kindern und Jugendlichen. 👶",
+          "Pflege bei psychischen Erkrankungen. 🧠",
+          "Kommunikation und interdisziplinäre Zusammenarbeit. 🗣️"
+        ],
+        "careerProspects": [
+          "Spezialisierung in Intensivpflege, Geriatrie oder Onkologie. 💡",
+          "Weiterbildung zur Stationsleitung oder Pflegedienstleitung. 🌟",
+          "Karriere als Fachkrankenpfleger/in für bestimmte Bereiche wie Psychiatrie. 🏥"
+        ],
+        "furtherEducation": [
+          "Fachweiterbildungen (z. B. Intensivpflege, Notfallpflege). 📜",
+          "Studium in Pflegewissenschaften oder Gesundheitsmanagement. 🎓",
+          "Selbstständigkeit in der ambulanten Pflege. 🏢"
+        ],
+        "applicationSteps": [
+          "Erstellung eines Bewerbungsschreibens und Lebenslaufs mit relevanten Nachweisen. 📝",
+          "Einreichung der Unterlagen bei Kliniken, Seniorenheimen oder Pflegeschulen. 📄",
+          "Teilnahme an einem Vorstellungsgespräch und ggf. einem Eignungstest. 💬"
+        ],
+        "applicationRequirements": [
+          "Mittlerer Schulabschluss oder Hauptschulabschluss mit Assistenzausbildung. 🎓",
+          "Ärztliches Gesundheitszeugnis und Impfnachweise. 💉"
+        ],
+        "applicationTips": [
+          "Betone Praktika oder Erfahrungen im sozialen Bereich. 🌟",
+          "Hebe deine Teamfähigkeit und Belastbarkeit hervor. 🤝",
+          "Nutze ein professionelles Bewerbungsfoto. 📸"
+        ],
+        "requiredPersonalSkills": [
+          "Pflege- und Gesundheitskompetenzen. 🩺",
+          "Teamfähigkeit und Kommunikationsstärke. 🗣️",
+          "Körperliche und psychische Belastbarkeit. 💪"
+        ],
+        "requiredPersonalTraits": [
+          "Empathie und Mitgefühl. 💖",
+          "Organisationstalent. 📋",
+          "Flexibilität und Einsatzbereitschaft. 🌟"
+        ],
+        "theoreticalStructure": [
+          "\"Theorie an Berufsfachschulen mit Themen wie Akutpflege, Langzeitpflege, Gesundheitsförderung und Prävention. 📘\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praktische Einsätze in verschiedenen Einrichtungen, z. B. Krankenhäusern, Seniorenheimen und ambulanten Diensten. 🏥\"\n"
+        ],
+        "workEnvironment": [
+          "Krankenhäuser und Kliniken. 🏥",
+          "Seniorenheime und Einrichtungen für betreutes Wohnen. 🏡",
+          "Ambulante Pflegedienste. 🚑",
+          "Rehabilitationseinrichtungen und Hospize. 🕊️"
+        ],
+        "advantages": [
+          "Ein sicherer Beruf mit hoher gesellschaftlicher Relevanz. 💼",
+          "Gute Gehalts- und Karriereaussichten. 📈",
+          "Abwechslungsreiche Arbeit mit unterschiedlichen Menschengruppen. 🌟"
+        ],
+        "challenges": [
+          "Emotionale Belastung in schwierigen Situationen. 🛡️",
+          "Physische Anstrengungen, insbesondere bei der Mobilisierung von Patienten. 💪",
+          "Unregelmäßige Arbeitszeiten durch Schichtdienst. ⏰"
+        ],
+        "didYouKnow": [
+          "Pflegefachleute lernen alle Pflegebereiche in einer generalistischen Ausbildung kennen. 🩺",
+          "Bis 2025 sind Spezialisierungen wie Altenpflege oder Kinderkrankenpflege möglich. 👶",
+          "Der Beruf bietet zahlreiche Aufstiegsmöglichkeiten und Weiterbildungen. 📈"
+        ]
+      }
+    }
+  }
+]

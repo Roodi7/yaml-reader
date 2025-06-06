@@ -1,0 +1,113 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "part_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2697,
+    "maxStartingSalary": 3067,
+    "minAvarageSalary": 0,
+    "maxAvarageSalary": 0,
+    "minExperiencedSalary": 3620,
+    "maxExperiencedSalary": 3945,
+    "trainingSalary": [
+      {
+        "min": 1065,
+        "max": 1065
+      },
+      {
+        "min": 1125,
+        "max": 1125
+      },
+      {
+        "min": 1222,
+        "max": 1222
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "MTF (Medizinische/r Technologe/Technologin für Funktionsdiagnostik)",
+        "overview": "Medizinische Technologen für Funktionsdiagnostik (MTF) spielen eine entscheidende Rolle bei der Diagnose und Behandlung von Patienten. 👨‍⚕️💡 Mit modernsten Geräten erfassen sie wichtige Körperfunktionen wie Hörvermögen, Gleichgewicht oder Herz-Kreislauf-Daten und helfen Ärzten, präzise Diagnosen zu stellen. 🩺⚙️",
+        "responsibilities": [
+          "Durchführung von diagnostischen Tests wie EKGs oder Lungenfunktionstests 💨🩺",
+          "Anwendung moderner medizinischer Geräte und Technologien 📊🖥️",
+          "Dokumentation und Auswertung von Untersuchungsergebnissen 📋✍️",
+          "Betreuung und Kommunikation mit Patienten 🤝👩‍⚕️",
+          "Arbeiten in interprofessionellen Teams 🧑‍🔬🤝"
+        ],
+        "curriculum": [
+          "Grundlagen der medizinischen Diagnostik und Geräteanwendung ⚙️📖",
+          "Kommunikation und Teamarbeit im Gesundheitswesen 🤝👩‍⚕️",
+          "Vertiefung in Spezialbereichen wie Strahlenschutz und Ethik 🛡️📜"
+        ],
+        "careerProspects": [
+          "Arbeit in Diagnostikzentren oder Krankenhäusern 🏥🔬",
+          "Forschung in der Pharma- oder Medizinbranche 🧪💡",
+          "Weiterbildung zum Kardiotechniker oder Fachwirt für Gesundheitswesen 🎓✨"
+        ],
+        "furtherEducation": [
+          "Techniker-Weiterbildung mit Schwerpunkt Kardiotechnik 🫀⚙️",
+          "Fachwirt im Gesundheitswesen für mehr Verantwortung 📚🏢",
+          "Studium in Gesundheitsmanagement oder Medizintechnik 🎓🩺"
+        ],
+        "applicationSteps": [
+          "Einreichen einer Bewerbung bei Fachschulen 📜📤",
+          "Erfüllen von medizinischen und rechtlichen Voraussetzungen 🩺🛡️"
+        ],
+        "applicationRequirements": [
+          "Gesundheitliche Eignung durch ärztliches Attest 🏥✅",
+          "Polizeiliches Führungszeugnis und gültige Impfungen 🛡️💉"
+        ],
+        "applicationTips": [
+          "Hebe Praktika oder Erfahrungen im medizinischen Bereich hervor ✨📋",
+          "Gute Noten in Biologie, Chemie und Technik verbessern deine Chancen 📊🔬"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und Genauigkeit ⚙️🎯",
+          "Kommunikationsstärke und Einfühlungsvermögen 🗣️❤️"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Belastbarkeit 🤝💪",
+          "Lernbereitschaft und Verantwortungsbewusstsein 🌟✅"
+        ],
+        "theoreticalStructure": [
+          "Theorieunterricht an Fachschulen mit Fokus auf Diagnostik, Medizin und Technologie 📚🩺"
+        ],
+        "practicalStructure": [
+          "Praktische Einsätze in Krankenhäusern und anderen Gesundheitseinrichtungen 🏥🧑‍⚕️"
+        ],
+        "workEnvironment": [
+          "Krankenhäuser und Kliniken 🏥🩺",
+          "Diagnostikzentren und medizinische Labore 🧪🔬",
+          "Pharmaindustrie und Forschungsinstitute 🏢💡",
+          "Rechtsmedizin und Speziallabore ⚖️🧬"
+        ],
+        "advantages": [
+          "Attraktive Ausbildungsvergütung ab 1.065 Euro monatlich 💶✨",
+          "Moderne technische Ausbildung mit sicherer Zukunftsperspektive 🔮📈",
+          "Möglichkeit, lebenslang zu lernen und sich weiterzuentwickeln 📚🌟"
+        ],
+        "challenges": [
+          "Arbeiten im Schichtdienst kann fordernd sein ⏰💪",
+          "Hohe Verantwortung bei der Bedienung von Diagnosetechnik 🛠️🧠"
+        ],
+        "didYouKnow": [
+          "Der Beruf wurde 2023 modernisiert, um attraktiver zu werden 🚀📚",
+          "MTFs arbeiten oft mit Hightech-Geräten wie MRTs und EKGs 🖥️🩺",
+          "Die Ausbildung umfasst auch Module zu Ethik und Teamarbeit 🛡️🤝"
+        ]
+      }
+    }
+  }
+]

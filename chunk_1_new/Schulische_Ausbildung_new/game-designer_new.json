@@ -1,0 +1,125 @@
+[
+  {
+    "category": "media",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2500,
+    "maxStartingSalary": 2900,
+    "minAvarageSalary": 2900,
+    "maxAvarageSalary": 3600,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Game Designer/in",
+        "overview": "Kreative Köpfe aufgepasst! 🎮✨ Als Game Designer bist du der Architekt aufregender Spielewelten, die Millionen Spieler in ihren Bann ziehen. Ob innovative Storylines, lebendige Spielfiguren oder atmosphärische Animationen – du bringst die Gaming-Welt mit deinem Talent zum Leben. Mit modernster Software und deiner Leidenschaft für Kreativität gestaltest du die Spiele von morgen. 🌟🎨",
+        "responsibilities": [
+          "Entwicklung von Storylines und Konzepten für Spiele 📝🎮",
+          "Design und Animation von Spielfiguren und Umgebungen in 2-D und 3-D 🎨🖥️",
+          "Integration von Musik und Soundeffekten für ein immersives Spielerlebnis 🎵✨",
+          "Erstellung von Spielanleitungen für eine intuitive Bedienung 📘🎮",
+          "Testen und Optimieren von Prototypen bis zur Marktreife 🔧🚀"
+        ],
+        "curriculum": [
+          "Game Art und audiovisuelle Gestaltung 🎨🎧",
+          "2-D- und 3-D-Animation sowie Design von Spielfiguren und Umgebungen 🖥️✨",
+          "Fotografie und Bildbearbeitung für professionelle visuelle Effekte 📸🎨",
+          "Programmierung von Online-Games und interaktiven Anwendungen 💻🌐",
+          "Marketingstrategien und Zielgruppenanalyse für Spiele 🌟📊"
+        ],
+        "careerProspects": [
+          "Karriere in der Spieleentwicklung oder digitalen Kommunikation 🚀🎮",
+          "Jobs als Concept Artist, Storyteller oder Web Developer 🌟📘",
+          "Einsatz in branchenfremden Bereichen wie Gesundheitsindustrie oder Architektur 🏥🏗️"
+        ],
+        "furtherEducation": [
+          "Studium in Gamedesign, Interactiondesign oder Medientechnik 🎓✨",
+          "Weiterbildung zum Webdesigner mit Spezialisierung auf interaktive Anwendungen 🌐📚"
+        ],
+        "applicationSteps": [
+          "Direkte Terminvereinbarung bei der Ausbildungseinrichtung 📋📞",
+          "Vorstellungsgespräch mit Präsentation von Arbeitsproben 🎨🗣️",
+          "Einreichung des letzten Schulzeugnisses und Bewerbungsunterlagen 📘📧"
+        ],
+        "applicationRequirements": [
+          "Keine speziellen schulischen Anforderungen, Hauptschulabschluss wird bevorzugt 🎓📘",
+          "Kreative Fähigkeiten und technisches Verständnis 🎨💻",
+          "Erfahrungen oder Praktika im kreativen Bereich sind von Vorteil ✨📋"
+        ],
+        "applicationTips": [
+          "Bringe vielseitige Arbeitsproben wie Zeichnungen oder Konzepte mit 🌟🎨",
+          "Betone deine Leidenschaft für Spiele und kreative Projekte 🕹️💡",
+          "Zeige Eigeninitiative durch eigene Spielideen oder Animationen 🚀✨"
+        ],
+        "requiredPersonalSkills": [
+          "Künstlerisches Talent und kreatives Denken 🎨💡",
+          "Technisches Verständnis und sicherer Umgang mit Software 🖥️📚",
+          "Teamfähigkeit und Organisationstalent 🤝📋"
+        ],
+        "requiredPersonalTraits": [
+          "Leidenschaft für Spiele und digitale Medien 🎮✨",
+          "Flexibilität und Belastbarkeit unter Zeitdruck ⏳🚀",
+          "Liebe zum Detail und Perfektion in der Umsetzung 🧐✨"
+        ],
+        "theoreticalStructure": [
+          "Erlernen der Grundlagen in Game Art, Animation und Bildbearbeitung 🎨📚"
+        ],
+        "practicalStructure": [
+          "Praxisprojekte und Gruppenarbeiten, um eigene Spielkonzepte zu entwickeln 🚀🎮"
+        ],
+        "workEnvironment": [
+          "Spieleverlage und Gamestudios 🎮🏢",
+          "Werbeagenturen und Medienunternehmen 🌟📺",
+          "Freiberufliche Projekte und Start-ups 🚀🌐"
+        ],
+        "advantages": [
+          "Hohe Nachfrage in der wachsenden Gaming-Branche 🎯🚀",
+          "Vielfältige kreative und technische Aufgaben 🌟🎮",
+          "Internationale Karrieremöglichkeiten bei großen Entwicklerstudios 🌍✈️"
+        ],
+        "challenges": [
+          "Arbeiten unter strengen Deadlines und Zeitdruck ⏳🚀",
+          "Kontinuierliche Weiterbildung in schnelllebigen Technologien 📚⚡",
+          "Perfektionieren von Prototypen für eine reibungslose Spielerfahrung 🎮✨"
+        ],
+        "didYouKnow": [
+          "Game Designer gestalten oft auch Infografiken und Animationsfilme für branchenfremde Bereiche 📊🎥.",
+          "Die Gaming-Branche ist heute größer als die Film- und Musikindustrie zusammen 🌍🎮.",
+          "In manchen Schulen kannst du die Ausbildung mit einem Studium kombinieren 🎓📚.",
+          "Virtual Reality und 3-D-Druck bieten spannende neue Einsatzmöglichkeiten für Game Designer 🕶️✨.",
+          "Ein eigener kreativer Ansatz in Spielen kann dich von anderen Bewerbern abheben 🚀🌟."
+        ]
+      }
+    }
+  }
+]

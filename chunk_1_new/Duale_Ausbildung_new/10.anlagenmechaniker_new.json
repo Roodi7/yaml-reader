@@ -1,0 +1,110 @@
+[
+  {
+    "category": "metal_and_electronics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3.5
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2800,
+    "maxStartingSalary": 3200,
+    "minAvarageSalary": 3060,
+    "maxAvarageSalary": 3500,
+    "minExperiencedSalary": 3600,
+    "maxExperiencedSalary": 4200,
+    "trainingSalary": [
+      {
+        "min": 830,
+        "max": 830
+      },
+      {
+        "min": 890,
+        "max": 890
+      },
+      {
+        "min": 955,
+        "max": 955
+      },
+      {
+        "min": 1020,
+        "max": 1020
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Anlagenmechaniker/in",
+        "overview": "\"Als Anlagenmechaniker/in sorgst du dafür, dass Maschinen und Anlagen in verschiedenen Branchen reibungslos funktionieren. 🔧✨ Von der Herstellung bis zur Wartung bist du der technische Allrounder, auf den sich alle verlassen. ⚙️🌟\"\n",
+        "responsibilities": [
+          "Montage und Installation von Maschinen und Anlagen 🛠️🏭",
+          "Wartung und Instandhaltung technischer Systeme ⚙️🔍",
+          "Überprüfung und Optimierung von Prozessen 📈🔧"
+        ],
+        "curriculum": [
+          "Metallbearbeitung und Schweißtechnik ⚙️✨",
+          "Mechanik und Elektronik von Maschinen 🛠️🔋",
+          "Diagnose und Behebung von technischen Störungen 🔍⚡"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Industriemeister/in oder Techniker/in 🎓✨",
+          "Spezialisierung auf Automatisierungstechnik oder Schweißtechnik ⚙️📈",
+          "Aufstieg in Führungspositionen oder Selbstständigkeit 📈💼"
+        ],
+        "furtherEducation": [
+          "Techniker/in im Bereich Maschinenbau oder Versorgungstechnik 📖✨",
+          "Bachelorstudium in Ingenieurwesen oder Verfahrenstechnik 🏫📚"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄🖊️",
+          "Praktischer Test oder Probearbeiten zur Eignungsfeststellung 🛠️✔️"
+        ],
+        "applicationRequirements": [
+          "Mittlerer Schulabschluss oder höher 🎓",
+          "Technisches Interesse und handwerkliches Geschick 🔧✨"
+        ],
+        "applicationTips": [
+          "Betone deine Präzision und technisches Verständnis ✍️✨",
+          "Hebe relevante Praktika oder Projekte hervor 📄⚙️"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und handwerkliches Geschick ⚙️✨",
+          "Analytisches Denken und Problemlösungsfähigkeit 🧠✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Zuverlässigkeit 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du technische Grundlagen wie Metallbearbeitung und Steuerungstechnik 📚⚙️"
+        ],
+        "practicalStructure": [
+          "Im Betrieb sammelst du praktische Erfahrung in der Montage und Wartung von Anlagen 🏭🔧"
+        ],
+        "workEnvironment": [
+          "Arbeit in Werkstätten, auf Baustellen oder in Produktionshallen 🏭🔨",
+          "Zusammenarbeit mit Ingenieuren und Technikern in Teams 🤝👨‍🔧"
+        ],
+        "advantages": [
+          "Vielfältige Aufgaben in einem zukunftssicheren Beruf 🌟🔧",
+          "Hohe Nachfrage und attraktive Entwicklungsmöglichkeiten 🚀✨"
+        ],
+        "challenges": [
+          "Arbeiten in anspruchsvollen Umgebungen mit hoher Präzision ⚙️❄️",
+          "Technisches Know-how und ständige Weiterbildung erforderlich 📖🔍"
+        ],
+        "didYouKnow": [
+          "Anlagenmechaniker/innen arbeiten oft mit hochmodernen CNC-Maschinen 🌟⚙️",
+          "Der Beruf bietet Spezialisierungen wie Versorgungstechnik oder Automatisierung 📈✨",
+          "Die Nachfrage nach gut ausgebildeten Anlagenmechanikern ist stetig steigend! 🚀🔧"
+        ]
+      }
+    }
+  }
+]

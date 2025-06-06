@@ -1,0 +1,117 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "part_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "high_school",
+    "minStartingSalary": 2000,
+    "maxStartingSalary": 2600,
+    "minAvarageSalary": 2600,
+    "maxAvarageSalary": 3300,
+    "minExperiencedSalary": 0,
+    "maxExperiencedSalary": 0,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Medizinische/r Dokumentar/in",
+        "overview": "Medizinische Dokumentare halten medizinische Daten fest und sorgen dafür, dass sie analysiert und ausgewertet werden können. 💾🩺 In dieser spannenden Ausbildung treffen Medizin und Software aufeinander, um die Forschung und Patientenversorgung zu unterstützen. 📊✨",
+        "responsibilities": [
+          "Erfassung medizinischer Daten in Fachsprache und deren Auswertung 🖋️📈",
+          "Arbeiten mit spezialisierten Softwareprogrammen zur Datenverarbeitung 💻🖥️",
+          "Zusammenarbeit mit Ärzten und Wissenschaftlern zur Unterstützung der Forschung 🧑‍⚕️🔬",
+          "Analyse und Nachverfolgung von Krankheitsverläufen 🔍📂",
+          "Erstellung von Berichten und Dokumentationen für medizinische Einrichtungen 📑🖋️"
+        ],
+        "curriculum": [
+          "Medizinische Fachsprache und Anatomie 🩺📘",
+          "Programmierung und Datenanalyse 💻📊",
+          "Erstellung und Verwaltung medizinischer Dokumentationen 📂✨"
+        ],
+        "careerProspects": [
+          "Arbeit in Forschungseinrichtungen oder Pharmaunternehmen 🔬🏭",
+          "Spezialisierung als Tumordokumentar/in für Krebsforschung 🧬🎗️",
+          "Weiterbildung zum Fachwirt für Informationsdienste 🖋️📚"
+        ],
+        "furtherEducation": [
+          "Spezialisierung auf Tumordokumentation für die Krebsforschung 🎗️🔬",
+          "Weiterbildung zum Fachwirt für Informationsdienste 📈🏢",
+          "Studium in Bibliothekswissenschaft oder medizinischer Informatik 🎓💻"
+        ],
+        "applicationSteps": [
+          "Erstellung eines Anschreibens mit Fokus auf Interesse an Medizin und Technik ✍️🔬",
+          "Zusammenstellung eines Lebenslaufs mit schulischen und praktischen Erfahrungen 📄📚",
+          "Einreichung von Zeugnissen und ärztlichem Attest 🩺✅"
+        ],
+        "applicationRequirements": [
+          "Fachabitur oder vergleichbarer Abschluss 🎓📜",
+          "Interesse an Medizin und Datenverarbeitung 🩺💻"
+        ],
+        "applicationTips": [
+          "Betone Praktika oder Erfahrungen im Gesundheitswesen 🌟🏥",
+          "Hervorhebung technischer Fähigkeiten und Sorgfalt 🧠✨"
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Statistik und Datenverarbeitung 📊💻",
+          "Medizinisches Verständnis und Genauigkeit 🩺🖋️"
+        ],
+        "requiredPersonalTraits": [
+          "Analytisches Denken und hohe Konzentration 🧠🔍",
+          "Teamfähigkeit und Kommunikationsstärke 🤝🗣️"
+        ],
+        "theoreticalStructure": [
+          "Erlernen von medizinischen Grundlagen und Fachsprache in einer Berufsfachschule 📚🧠"
+        ],
+        "practicalStructure": [
+          "Praktika in Krankenhäusern oder Pharmakonzernen zur Anwendung des Wissens 🏥🧑‍⚕️"
+        ],
+        "workEnvironment": [
+          "Pharmainstitute und Forschungseinrichtungen 🏭🔬",
+          "Verwaltungen und Krankenkassen 🏢💳",
+          "Kliniken und große Arztpraxen 🏥💉"
+        ],
+        "advantages": [
+          "Möglichkeit, aktiv zur medizinischen Forschung beizutragen 💡🔬",
+          "Vielfältige Einsatzbereiche von Forschung bis Verwaltung 📂🏥",
+          "Gute Zukunftsaussichten durch Digitalisierung der Medizin 📊🌟"
+        ],
+        "challenges": [
+          "Hohe Konzentration und Präzision bei der Arbeit erforderlich 🧠✨",
+          "Arbeit überwiegend vor dem Computer 💻🖥️"
+        ],
+        "didYouKnow": [
+          "Hunde können Unterzuckerung schneller bemerken als Menschen? 🐶🍭",
+          "Das weltweite Datenvolumen verdoppelt sich alle zwei Jahre? 🌐📊",
+          "Nur 2% aller erforschten Medikamente werden zugelassen? 💊📜"
+        ]
+      }
+    }
+  }
+]

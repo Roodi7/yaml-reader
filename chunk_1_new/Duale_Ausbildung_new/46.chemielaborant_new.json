@@ -1,0 +1,113 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time",
+      "shift_work"
+    ],
+    "duration": [
+      3.5
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "high_school",
+    "minStartingSalary": 1900,
+    "maxStartingSalary": 2850,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 1218
+      },
+      {
+        "min": 766,
+        "max": 1268
+      },
+      {
+        "min": 876,
+        "max": 1314
+      },
+      {
+        "min": 909,
+        "max": 1389
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Chemielaborant/in",
+        "overview": "\"Als Chemielaborant/in experimentierst du mit chemischen Stoffen und führst Analysen durch 🧰. Du trägst dazu bei, neue Produkte zu entwickeln und bestehende zu optimieren 🖌️.\"\n",
+        "responsibilities": [
+          "Durchführung chemischer Analysen und Experimente 🧰.",
+          "Protokollierung und Dokumentation von Ergebnissen 📚.",
+          "Bedienung moderner Labortechnik und Software 🔧."
+        ],
+        "curriculum": [
+          "Labor- und Sicherheitstechniken 🧰.",
+          "Qualitätskontrolle und Prozessoptimierung 🔧.",
+          "Digitale Technologien im Labor 🎨."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Chemietechniker oder Labortechniker 🎓.",
+          "Studium in Chemie oder verwandten Bereichen 🖌️.",
+          "Aufstieg in die Forschung oder Leitung eines Labors 🎓."
+        ],
+        "furtherEducation": [
+          "Meisterkurse im Laborwesen 🎓.",
+          "Zertifikate in Digitalisierung und Prozessmanagement 🌐."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📚.",
+          "Teilnahme an einem naturwissenschaftlichen Eignungstest 🎨."
+        ],
+        "applicationRequirements": [
+          "Starkes Interesse an Naturwissenschaften, besonders Chemie und Biologie 🖌️.",
+          "Teamfähigkeit und analytisches Denken 🧰."
+        ],
+        "applicationTips": [
+          "Betone deine Erfahrungen mit chemischen oder naturwissenschaftlichen Projekten 🧰.",
+          "Hebe deine Geduld und Genauigkeit hervor 🔄."
+        ],
+        "requiredPersonalSkills": [
+          "Kenntnisse in Chemie, Physik und Mathematik 🧰.",
+          "Sicherer Umgang mit Labortechnik und Protokollierung 📚."
+        ],
+        "requiredPersonalTraits": [
+          "Genauigkeit und Sorgfalt bei Experimenten 🧰.",
+          "Flexibilität und Belastbarkeit bei wechselnden Anforderungen 🔧."
+        ],
+        "theoreticalStructure": [
+          "Berufsschule mit Fächern wie Chemie, Biologie und Mathematik 🖌️."
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung in Laboratorien mit realen Projekten 🧰."
+        ],
+        "workEnvironment": [
+          "Laboratorien in der chemischen und pharmazeutischen Industrie 🏢.",
+          "Arbeiten in Forschungseinrichtungen und Universitäten 🎓."
+        ],
+        "advantages": [
+          "Arbeiten an innovativen Projekten und Produkten 🎓.",
+          "Hohe Nachfrage nach qualifizierten Fachkräften 💰.",
+          "Attraktive Verdienstmöglichkeiten in der Industrie 📈."
+        ],
+        "challenges": [
+          "Hohe Konzentration und Genauigkeit erforderlich 🔄.",
+          "Arbeiten mit gefährlichen Substanzen unter strengen Sicherheitsvorkehrungen 🧰."
+        ],
+        "didYouKnow": [
+          "Chemielaboranten arbeiten oft an der Entwicklung neuer Arzneimittel 🧰.",
+          "Die Chemieindustrie gehört zu den größten Industriezweigen weltweit 🏢.",
+          "Innovationen in der Chemie können ganze Branchen verändern 📊."
+        ]
+      }
+    }
+  }
+]

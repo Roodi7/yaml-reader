@@ -1,0 +1,118 @@
+[
+  {
+    "category": "leisure",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "no_school_degree",
+    "minStartingSalary": 1500,
+    "maxStartingSalary": 3000,
+    "minAvarageSalary": 1900,
+    "maxAvarageSalary": 6000,
+    "minExperiencedSalary": 4000,
+    "maxExperiencedSalary": 6000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Musicaldarsteller/in",
+        "overview": "Der Vorhang geht auf, das Publikum tobt und du stehst im Rampenlicht. Bis dieser Traum Wirklichkeit wird, wartet ein harter Weg auf dich. Die Ausbildung zum Musicaldarsteller verlangt Tanz, Gesang und Schauspiel auf höchstem Niveau. 🎭",
+        "responsibilities": [
+          "Auftritte auf nationalen und internationalen Bühnen 🎤",
+          "Proben und Performen auf höchstem Niveau 🎶",
+          "Interaktion mit dem Publikum und Darstellen von Charakteren 🎬"
+        ],
+        "curriculum": [
+          "Schauspiel und Darstellungslehre 🎭",
+          "Tanzstile wie Jazz, Step, und Ballett 🩰",
+          "Gesangstechnik und Stimmbildung 🎤"
+        ],
+        "careerProspects": [
+          "Karriere auf internationalen Bühnen 🌍",
+          "Übergang in Film oder Theater möglich 🎬",
+          "Tätigkeit als Coach für die nächste Generation 🎓"
+        ],
+        "furtherEducation": [
+          "Coaching-Ausbildung 🎓",
+          "Schauspielkarriere im Theater oder Film 🎥",
+          "Karriere als Musiker oder Vocal Coach 🎶"
+        ],
+        "applicationSteps": [
+          "Informiere dich über geeignete Musik- und Tanzschulen ✍️",
+          "Bereite dich auf die Aufnahmeprüfung vor, inkl. Vorsingen und Tanzen 💃",
+          "Sende eine vollständige Bewerbung mit Lebenslauf und Motivationsschreiben ein 📑"
+        ],
+        "applicationRequirements": [
+          "Talent für Tanz, Gesang und Schauspiel 🎶",
+          "Hohe körperliche Fitness und Durchhaltevermögen 💪",
+          "Flexibilität und Mobilität für internationale Engagements 🌍"
+        ],
+        "applicationTips": [
+          "Bereite dich mit Vorbereitungskursen an Musikschulen vor 🌟",
+          "Trainiere regelmäßig Tanz, Gesang und Schauspiel 🎭",
+          "Heb deine Motivation und Erfahrungen in der Bewerbung hervor ✨"
+        ],
+        "requiredPersonalSkills": [
+          "Tänzerische und musikalische Fähigkeiten 🩰",
+          "Körperliche Belastbarkeit 💪",
+          "Schauspielerisches Talent 🎭"
+        ],
+        "requiredPersonalTraits": [
+          "Durchhaltevermögen und Disziplin 🎯",
+          "Kreativität und Improvisationstalent 🌟",
+          "Teamfähigkeit und Flexibilität 🤝"
+        ],
+        "theoreticalStructure": [
+          "Gesangstechnik, Schauspiel und Sprechtechnik werden intensiv an Musikschulen vermittelt 🎓"
+        ],
+        "practicalStructure": [
+          "Tanztrainings in Stilen wie Jazz, Ballett, Step und Modern gehören zum Alltag 💃"
+        ],
+        "workEnvironment": [
+          "Musicalbühnen und Theater 🏟️",
+          "Probenräume und Tanzstudios 💃",
+          "Film- und Fernsehproduktionen 📺"
+        ],
+        "advantages": [
+          "Ein aufregender und kreativer Beruf 🎭",
+          "Arbeiten mit internationalen Talenten 🌟",
+          "Möglichkeit, die Welt zu bereisen ✈️"
+        ],
+        "challenges": [
+          "Harte körperliche und emotionale Anforderungen 💪",
+          "Unsichere Engagements und ständige Umzüge 🏡",
+          "Kombination von Tanz, Gesang und Schauspiel erfordert höchste Professionalität 🎶"
+        ],
+        "didYouKnow": [
+          "Hamburg gehört zu den Musicalhauptstädten der Welt 🌍",
+          "Starlight Express ist das erfolgreichste Musical an einem Spielort 🎢",
+          "Les Miserables hat mit 180 Minuten die längste Spielzeit ⏳",
+          "Alexander Klaws, Gewinner der ersten DSDS-Staffel, ist heute Musicaldarsteller 🎤",
+          "Die Figur Rafiki im Musical König der Löwen ist weiblich 🦁"
+        ]
+      }
+    }
+  }
+]

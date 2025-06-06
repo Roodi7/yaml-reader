@@ -1,0 +1,106 @@
+[
+  {
+    "category": "gastronomy_and_food",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "no_school_degree",
+    "minStartingSalary": 2200,
+    "maxStartingSalary": 2400,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 2800,
+    "minExperiencedSalary": 2600,
+    "maxExperiencedSalary": 2800,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 960
+      },
+      {
+        "min": 766,
+        "max": 1065
+      },
+      {
+        "min": 876,
+        "max": 1210
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Bäckereifachverkäufer/in",
+        "overview": "\"Als Bäckereifachverkäufer/in bist du das Gesicht der Bäckerei und sorgst mit deinem freundlichen Lächeln und deinem Verkaufstalent dafür, dass die Kunden glücklich nach Hause gehen. 😊🍞 Ob ansprechendes Anrichten von Backwaren oder individuelle Beratung - du bist der Experte an der Theke! 🌟✨\"\n",
+        "responsibilities": [
+          "Verkauf von Brot, Brötchen und Backwaren 🍞✨",
+          "Kundenberatung und Erfüllung individueller Wünsche 🤝🍩",
+          "Ansprechendes Präsentieren der Ware und Dekoration der Auslage 🎨✨"
+        ],
+        "curriculum": [
+          "Lebensmittelkunde und Hygienevorschriften 🌟🧽",
+          "Verkaufstechniken und Kundenservice 💬✨",
+          "Dekoration und Präsentation von Waren 🎨🍞"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Verkaufsleiter/in oder Handelsfachwirt/in 🎓✨",
+          "Karriere in größeren Bäckerei- oder Konditoreibetrieben 🌟📈",
+          "Spezialisierung auf besondere Verkaufstechniken oder Kundenberatung 🍩✨"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Lebensmittelmanagement oder Betriebswirtschaft 🎓📘",
+          "Fortbildung zum Fachlehrer/in im Lebensmittelhandwerk 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Probearbeiten oder Praktikum in einer Bäckerei 🍞✨"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss oder keine Schulpflicht 🎓",
+          "Freundlichkeit und Interesse an Lebensmitteln 🌟🍩"
+        ],
+        "applicationTips": [
+          "Hebe deine Begeisterung für Kundenkontakt und Teamarbeit hervor 🤝✨",
+          "Betone deine kreativen Fähigkeiten bei der Dekoration von Waren 🎨✨"
+        ],
+        "requiredPersonalSkills": [
+          "Kommunikationsstärke und Teamfähigkeit 💬✨",
+          "Geschicklichkeit und Organisationstalent 📋✨"
+        ],
+        "requiredPersonalTraits": [
+          "Freundlichkeit und Geduld 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du Grundlagen der Lebensmittelkunde und Verkaufstechniken 📘✨"
+        ],
+        "practicalStructure": [
+          "Im Betrieb übst du den direkten Kundenkontakt und das Anrichten von Backwaren 🍩✨"
+        ],
+        "workEnvironment": [
+          "Arbeit in Bäckereien oder Konditoreien 🏠✨",
+          "Einsatz auch an Wochenenden und Feiertagen 🌅✨"
+        ],
+        "advantages": [
+          "Direkter Kontakt mit Kunden und abwechslungsreiche Tätigkeiten 😊✨",
+          "Kreatives Arbeiten bei der Präsentation von Backwaren 🎨✨"
+        ],
+        "challenges": [
+          "Arbeiten auch an Wochenenden und Feiertagen 🌅✨",
+          "Präzision und Freundlichkeit in stressigen Situationen erforderlich 🌟📋"
+        ],
+        "didYouKnow": [
+          "In Deutschland gibt es über 47.000 Bäckereien! 🍞✨",
+          "Frühaufstehen gehört für viele Bäckereifachverkäufer zum Alltag 🌅✨",
+          "Kreative Dekoration kann den Verkauf von Backwaren um bis zu 30 % steigern 🎨✨"
+        ]
+      }
+    }
+  }
+]

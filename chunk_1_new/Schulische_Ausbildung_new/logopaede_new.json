@@ -1,0 +1,125 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "high_school",
+    "minStartingSalary": 3095,
+    "maxStartingSalary": 3500,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 4500,
+    "minExperiencedSalary": 4000,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 1000,
+        "max": 1000
+      },
+      {
+        "min": 1050,
+        "max": 1050
+      },
+      {
+        "min": 1160,
+        "max": 1160
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Logopäde/Logopädin",
+        "overview": "Als Logopäde/Logopädin trainierst du die Sprachfähigkeit deiner Patienten und unterstützt sie bei der Überwindung von Sprach- und Stimmstörungen. 🗣️💬 Deine Arbeit hilft Kindern, Erwachsenen und älteren Menschen gleichermaßen, ihre Lebensqualität zu verbessern. Die Ausbildung dauert drei Jahre und bietet spannende Einblicke in die Medizin und Pädagogik, kombiniert mit praktischen Erfahrungen in Kliniken und Praxen. 🌟",
+        "responsibilities": [
+          "Therapie von Sprach- und Stimmstörungen 🗣️",
+          "Diagnose und Behandlung von Sprachentwicklungsproblemen bei Kindern 👶",
+          "Arbeit mit Patienten nach Schlaganfällen oder mit Demenz 🏥",
+          "Erstellung von individuellen Behandlungsplänen 📋",
+          "Zusammenarbeit mit Ärzten und Angehörigen für optimale Therapieergebnisse 🤝"
+        ],
+        "curriculum": [
+          "Anatomie und Funktion der Sprechorgane 🗣️",
+          "Hals-Nasen-Ohrenheilkunde und Pädaudiologie 🩺",
+          "Logopädische Therapie und Behandlungsverfahren 💬",
+          "Pädagogische Grundlagen und Psychologie 📘",
+          "Praktische Anwendung in Therapiesituationen 🏥"
+        ],
+        "careerProspects": [
+          "Tätigkeit in öffentlichen oder privaten Einrichtungen 🏢",
+          "Selbstständigkeit mit einer eigenen Praxis 💼",
+          "Weiterbildung zum Lehrlogopäden 🎓",
+          "Spezialisierung auf Sprachentwicklungsstörungen oder neurologische Therapien 🌟"
+        ],
+        "furtherEducation": [
+          "Studium der Logopädie oder Therapiewissenschaften 🎓",
+          "Weiterbildung zur Leitung von logopädischen Praxen 🏢",
+          "Fortbildung im Bereich neurologische Stimmtherapie 🧠",
+          "Hochschulstudium für wissenschaftliche Tätigkeiten 📘"
+        ],
+        "applicationSteps": [
+          "Erstellung eines fehlerfreien Bewerbungsschreibens 🖊️",
+          "Nachweis eines ärztlichen Attests für Hör- und Sehvermögen 🩺",
+          "Einreichen von Schulzeugnissen und möglichen Praktikumsbescheinigungen 📂"
+        ],
+        "applicationRequirements": [
+          "Mittlerer Schulabschluss oder abgeschlossene Ausbildung 🎓",
+          "Einfühlungsvermögen und therapeutische Fähigkeiten 🤝",
+          "Einwandfreies Hör- und Sehvermögen 🩺"
+        ],
+        "applicationTips": [
+          "Betone praktische Erfahrungen in pädagogischen oder sozialen Bereichen 👶",
+          "Zeige Begeisterung für den Beruf und deine Lernbereitschaft 🌟",
+          "Halte deine Bewerbung klar, strukturiert und fehlerfrei ✍️"
+        ],
+        "requiredPersonalSkills": [
+          "Einfühlungsvermögen und Geduld 🤝",
+          "Kommunikationsfähigkeit und Beobachtungsgabe 🗣️",
+          "Therapeutische Kompetenz und Organisationstalent 📋"
+        ],
+        "requiredPersonalTraits": [
+          "Kreativität für abwechslungsreiche Übungen 🎨",
+          "Empathie im Umgang mit Patienten und Angehörigen 🌟",
+          "Verantwortungsbewusstsein und Zuverlässigkeit 🧘‍♂️"
+        ],
+        "theoreticalStructure": [
+          "Unterricht an Berufsfachschulen mit Schwerpunkt auf medizinischen und pädagogischen Grundlagen 📚"
+        ],
+        "practicalStructure": [
+          "Praktika in Kliniken, Praxen oder Rehabilitationszentren für praxisnahe Erfahrungen 🏥"
+        ],
+        "workEnvironment": [
+          "Kliniken und Krankenhäuser 🏥",
+          "Logopädische Praxen 🏢",
+          "Rehabilitationszentren 🏡",
+          "Spezialschulen oder Kindergärten 📚"
+        ],
+        "advantages": [
+          "Ein Beruf mit hoher gesellschaftlicher Relevanz 🌟",
+          "Vielfältige Karrieremöglichkeiten und Spezialisierungen 🚀",
+          "Direkte und positive Auswirkungen auf die Lebensqualität der Patienten 🩺"
+        ],
+        "challenges": [
+          "Arbeiten mit Menschen, die starke Einschränkungen haben 💪",
+          "Geduld und Einfühlungsvermögen sind essenziell 🌟",
+          "Regelmäßige Weiterbildung, um auf dem neuesten Stand zu bleiben 📚"
+        ],
+        "didYouKnow": [
+          "Jeder vierte Erstklässler hat sprachliche Auffälligkeiten 🗣️.",
+          "84% der Sprachstörungen bei Erwachsenen sind durch Schlaganfälle verursacht 🧠.",
+          "Die erste Schule für Sprachheilkunde wurde 1886 in Potsdam eröffnet 📚.",
+          "Mädchen sprechen bereits im Babyalter mehr als Jungen 👶.",
+          "Die Kosten für Sprachbehandlungen von Kindern belaufen sich auf eine Milliarde Euro jährlich 💸."
+        ]
+      }
+    }
+  }
+]

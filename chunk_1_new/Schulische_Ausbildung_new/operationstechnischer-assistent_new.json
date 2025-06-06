@@ -1,0 +1,120 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "shift_work"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 2200,
+    "maxStartingSalary": 2600,
+    "minAvarageSalary": 2400,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 1341,
+        "max": 1341
+      },
+      {
+        "min": 1402,
+        "max": 1402
+      },
+      {
+        "min": 1503,
+        "max": 1503
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Operationstechnische/r Assistent/in",
+        "overview": "Operationstechnische Assistenten spielen eine zentrale Rolle im OP-Saal. Sie unterstützen Ärzte, betreuen Patienten und sorgen für einen reibungslosen Ablauf während Operationen. 🏥",
+        "responsibilities": [
+          "Vorbereitung des Operationssaals und Bereitstellung steriler Materialien 🧴",
+          "Betreuung und Beruhigung der Patienten vor der OP 🩺",
+          "Assistenz bei chirurgischen Eingriffen und Überwachung der Vitalzeichen 🚨",
+          "Reinigung und Desinfektion von Instrumenten nach der Operation 🧼"
+        ],
+        "curriculum": [
+          "Anatomie und Physiologie des menschlichen Körpers 🧠",
+          "Hygienemanagement und Desinfektionstechniken 🧴",
+          "Umgang mit chirurgischen Instrumenten und Geräten 🔧",
+          "Notfallmanagement und Vitalzeichenüberwachung 🚨"
+        ],
+        "careerProspects": [
+          "Einsatz in spezialisierten chirurgischen Bereichen 🌟",
+          "Weiterbildung zur Fachkraft für den Operationsdienst 🎓",
+          "Karriere in Führungspositionen im Gesundheitswesen 📈"
+        ],
+        "furtherEducation": [
+          "Spezialisierung auf bestimmte chirurgische Disziplinen 🩻",
+          "Fortbildung im Hygienemanagement 🧴",
+          "Studium im Bereich Gesundheitsmanagement 🎓"
+        ],
+        "applicationSteps": [
+          "Bewerbungsunterlagen inklusive Lebenslauf und Anschreiben vorbereiten 📑",
+          "Nachweis über gesundheitliche Eignung und Vorpraktika einreichen ✍️",
+          "Vorstellungsgespräch bei der gewünschten OTA-Schule absolvieren 🎤"
+        ],
+        "applicationRequirements": [
+          "Hauptschulabschluss oder eine gleichwertige Qualifikation 🎓",
+          "Körperliche und psychische Belastbarkeit 💪",
+          "Interesse an Medizin und Teamarbeit 🤝"
+        ],
+        "applicationTips": [
+          "Hebe deine Motivation und Belastbarkeit im Anschreiben hervor ✨",
+          "Betone deine praktischen Erfahrungen und Stärken in der Bewerbung 🌟",
+          "Bereite dich auf mögliche Fragen zu deiner Teamfähigkeit und Flexibilität vor 🤔"
+        ],
+        "requiredPersonalSkills": [
+          "Präzise Handhabung chirurgischer Instrumente 🔧",
+          "Kenntnisse in Hygiene- und Sicherheitsvorschriften 🧴",
+          "Effiziente Kommunikation im OP-Team 🩺"
+        ],
+        "requiredPersonalTraits": [
+          "Einfühlungsvermögen für Patienten 💖",
+          "Hohe Konzentrationsfähigkeit 🎯",
+          "Verantwortungsbewusstsein und Sorgfalt ⚡"
+        ],
+        "theoreticalStructure": [
+          "1.600 Stunden Theorie an anerkannten OTA-Schulen 📘"
+        ],
+        "practicalStructure": [
+          "3.000 Stunden Praxis in Krankenhäusern und Kliniken 🏥"
+        ],
+        "workEnvironment": [
+          "Krankenhäuser und Kliniken 🏥",
+          "Ambulante Operationszentren 🚑",
+          "Spezialisierte chirurgische Abteilungen 🩻"
+        ],
+        "advantages": [
+          "Zentrale Rolle bei lebensrettenden Eingriffen 🌍",
+          "Hohe Nachfrage nach Fachkräften 📈",
+          "Abwechslungsreicher Arbeitsalltag im medizinischen Bereich 🏥"
+        ],
+        "challenges": [
+          "Psychische und physische Belastungen durch stressige Situationen 💪",
+          "Umgang mit komplizierten chirurgischen Eingriffen ⚡",
+          "Lange Stehzeiten während Operationen 🩺"
+        ],
+        "didYouKnow": [
+          "Physik gehört zu den Grundlagenfächern der OTA-Ausbildung 📘",
+          "Frauen reagieren nach Operationen oft anders als Männer 🩺",
+          "Musikhören vor Operationen kann die Angst der Patienten reduzieren 🎶",
+          "Die längste Operation dauerte 15 Stunden ⏳",
+          "Spezielle Pakete mit chirurgischen Instrumenten werden für jede Operation vorbereitet 🩻"
+        ]
+      }
+    }
+  }
+]

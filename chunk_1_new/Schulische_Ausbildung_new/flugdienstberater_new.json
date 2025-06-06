@@ -1,0 +1,116 @@
+[
+  {
+    "category": "transport_and_logistics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      0.5,
+      1
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2600,
+    "maxStartingSalary": 2800,
+    "minAvarageSalary": 2600,
+    "maxAvarageSalary": 4400,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4400,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "english",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Flugdienstberater/in",
+        "overview": "✈️ Als Flugdienstberater/in bist du das Rückgrat des sicheren Flugverkehrs. Du sorgst dafür, dass jeder Flug reibungslos startet und landet, indem du die Flugplanung übernimmst, Wetterbedingungen analysierst und Treibstoffkalkulationen durchführst. Mit deinem Wissen und deinen Fähigkeiten bist du der/die Ansprechpartner/in für die Crew, wenn es um die optimale Flugroute oder einen Plan B geht. 🌍",
+        "responsibilities": [
+          "Flugplanung und Erstellung optimaler Flugrouten 🗺️",
+          "Analyse von Wetter- und Flugbedingungen 🌦️",
+          "Beratung der Piloten und Crew bei der Vorbereitung 🛫",
+          "Überwachung von Treibstoffberechnungen ⛽",
+          "Dokumentation und Übergabe von Informationen an die nächste Schicht 📋"
+        ],
+        "curriculum": [
+          "Navigation und Meteorologie 🌦️",
+          "Luftrecht und Flugzeugkunde 🛫",
+          "Treibstoffkalkulationen und Gewichtsberechnungen ⛽",
+          "Kommunikation und Teamarbeit 🗣️",
+          "Wetteranalyse und Risikoabschätzungen ⚡"
+        ],
+        "careerProspects": [
+          "Arbeit bei nationalen und internationalen Fluggesellschaften 🌍",
+          "Spezialisierung auf Flugroutenplanung oder Luftsicherheit ✈️",
+          "Weiterbildung in Bereichen wie Luftverkehrsmanagement oder Meteorologie 🎓",
+          "Berufsbegleitendes Studium im Bereich Luft- und Raumfahrttechnik 🚀"
+        ],
+        "furtherEducation": [
+          "Spezialisierung auf Luftverkehrssicherheit 🛡️",
+          "Bachelorstudium in Luftverkehrsmanagement 🎓",
+          "Weiterbildung in Kommunikation und Planung 🗣️"
+        ],
+        "applicationSteps": [
+          "Erstellung eines aussagekräftigen Lebenslaufs mit Foto 📋",
+          "Schreiben eines Motivationsschreibens, das deine Begeisterung zeigt ✍️",
+          "Einreichen von Schulzeugnissen und eventuellen Lizenzen 📄"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder (Fach-)Abitur 🎓",
+          "Kenntnisse in Englisch, Mathe und Geographie 🌍",
+          "Körperliche Fitness und Belastbarkeit 💪"
+        ],
+        "applicationTips": [
+          "Betone deine Stressresistenz und Präzision 🌟",
+          "Zeige Begeisterung für die Luftfahrt und technisches Verständnis ✈️",
+          "Verweise auf Erfahrungen in Teamarbeit oder Planung 🗣️"
+        ],
+        "requiredPersonalSkills": [
+          "Planungs- und Organisationstalent 🗓️",
+          "Schnelle Entscheidungsfähigkeit ⏱️",
+          "Analytisches Denken und Präzision 🧠"
+        ],
+        "requiredPersonalTraits": [
+          "Stressresistenz 💼",
+          "Flexibilität und Teamfähigkeit 🤝",
+          "Verantwortungsbewusstsein 🌟"
+        ],
+        "theoreticalStructure": [
+          "📚 Der theoretische Teil umfasst Navigation, Meteorologie, Luftrecht und Flugzeugkunde. Hier lernst du alle relevanten Grundlagen für die Flugplanung.\n"
+        ],
+        "practicalStructure": [
+          "🛠️ Im Praxisteil sammelst du Erfahrungen in der Flugdienstberaterzentrale eines Unternehmens. Dabei arbeitest du direkt mit der Crew zusammen und unterstützt die Flugvorbereitung.\n"
+        ],
+        "workEnvironment": [
+          "Flugdienstberaterzentralen 🏢",
+          "Flugschulen ✈️",
+          "Fluggesellschaften 🌍"
+        ],
+        "advantages": [
+          "Spannende Arbeit mit Verantwortung und Teamwork 🌟",
+          "Gute Gehaltsaussichten und Karrierechancen 📈",
+          "Direkte Einblicke in die Welt der Luftfahrt 🌍"
+        ],
+        "challenges": [
+          "Arbeiten unter Zeitdruck und hohem Stresslevel ⏱️",
+          "Verantwortung für sichere Flugabläufe 💼",
+          "Unregelmäßige Arbeitszeiten durch Schichtdienst 🕒"
+        ],
+        "didYouKnow": [
+          "Flugdienstberater müssen in stressigen Situationen Ruhe bewahren und Entscheidungen treffen 🌦️",
+          "Die Ausbildung ist staatlich anerkannt und unterliegt der Verordnung über Luftfahrtpersonal ✈️",
+          "Luftfahrtberufe bieten immer wieder spannende Weiterbildungsmöglichkeiten 🚀",
+          "Ein Flugdienstberater kennt Flughäfen und Flugrouten weltweit 🌍",
+          "Du kannst mit dieser Ausbildung später auch ein Studium in Luft- und Raumfahrttechnik starten 🎓"
+        ]
+      }
+    }
+  }
+]

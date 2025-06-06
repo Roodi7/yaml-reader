@@ -1,0 +1,123 @@
+[
+  {
+    "category": "services_and_crafts",
+    "jobType": [
+      "flexible"
+    ],
+    "duration": [
+      1,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "no_school_degree",
+    "minStartingSalary": 0,
+    "maxStartingSalary": 0,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 3700,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 4500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Tierheilpraktiker/in",
+        "overview": "Als Tierheilpraktiker/in behandelst du Tiere mit naturheilkundlichen Methoden wie Akupunktur, Homöopathie oder Phytotherapie 🌿. Dein Ziel ist es, die Gesundheit und das Wohlbefinden der Tiere zu fördern und ihre Selbstheilungskräfte zu aktivieren 🐾. Ein Beruf für echte Tierfreunde mit Leidenschaft für Alternativmedizin ❤️.",
+        "responsibilities": [
+          "Diagnose und Behandlung von Tieren mit naturheilkundlichen Methoden 🩺.",
+          "Beratung von Tierhaltern zu Prävention und Gesundheitsförderung 📋.",
+          "Erstellung individueller Therapiepläne 🗒️.",
+          "Durchführung von Akupunktur, Homöopathie oder Kräuterheilkunde 🌿.",
+          "Versorgung von Wunden und Unterstützung bei Geburtshilfe 🐾."
+        ],
+        "curriculum": [
+          "Grundlagen der Tieranatomie und Physiologie 🐾.",
+          "Naturheilkundliche Behandlungsmethoden wie Akupunktur und Phytotherapie 🌱.",
+          "Erste Hilfe bei Tieren 🩹.",
+          "Praxismanagement und Kundenkommunikation 🖋️.",
+          "Gesetzliche Regelungen und Berufsethik 📜."
+        ],
+        "careerProspects": [
+          "Selbstständigkeit mit eigener Praxis 🌍.",
+          "Arbeit in Tierkliniken oder -heimen 🐕.",
+          "Spezialisierung auf bestimmte Tierarten oder Heilmethoden 🐎."
+        ],
+        "furtherEducation": [
+          "Weiterbildung in Tierakupunktur oder Phytotherapie 🌿.",
+          "Spezialisierung auf Tierpsychosomatik 🐾.",
+          "Studiengänge in Veterinärmedizin oder verwandten Bereichen 🎓."
+        ],
+        "applicationSteps": [
+          "Informiere dich über Schulen und Ausbildungsanbieter 🔍.",
+          "Reiche ein Anmeldeformular und ggf. Zeugnisse ein 📄.",
+          "Absolviere Praktika, um Vorkenntnisse nachzuweisen 🐾."
+        ],
+        "applicationRequirements": [
+          "Erfahrung im Umgang mit Tieren durch Praktika oder Freiwilligenarbeit 🐕.",
+          "Mindestalter von 18-25 Jahren (je nach Schule) 🎓."
+        ],
+        "applicationTips": [
+          "Zeige Begeisterung für Naturheilkunde und Tierwohl 🌿.",
+          "Bereite ein überzeugendes Motivationsschreiben vor ✍️.",
+          "Belege deine Vorkenntnisse durch Praktikumszeugnisse 📂."
+        ],
+        "requiredPersonalSkills": [
+          "Gutes Einfühlungsvermögen für Tiere und Halter ❤️.",
+          "Interesse an Naturheilkunde und alternativen Heilmethoden 🌱.",
+          "Körperliche Fitness für den Umgang mit großen Tieren 🐴."
+        ],
+        "requiredPersonalTraits": [
+          "Tierfreundlichkeit und Geduld 🐾.",
+          "Kreativität bei der Anwendung individueller Therapien 💡.",
+          "Bereitschaft zur Weiterbildung in neuen Heilmethoden 📚."
+        ],
+        "theoreticalStructure": [
+          "Kurse in Anatomie, Physiologie, Naturheilkunde und Gesetzesvorgaben 📘."
+        ],
+        "practicalStructure": [
+          "Praktika in Tierarztpraxen, Tierheimen oder bei erfahrenen Tierheilpraktikern 🛠️."
+        ],
+        "workEnvironment": [
+          "Selbstständige Praxis 🏠.",
+          "Mobile Einsätze bei Tierhaltern vor Ort 🚗.",
+          "Ställe, Zoos oder Tierkliniken 🐴.",
+          "Zusammenarbeit mit Tierärzten und Kliniken 🏥."
+        ],
+        "advantages": [
+          "Direkter Kontakt mit Tieren und ihren Haltern 🐾.",
+          "Flexibilität in Arbeitszeiten und Spezialisierung ⏳.",
+          "Chance auf Selbstständigkeit und eigenverantwortliches Arbeiten 🌟."
+        ],
+        "challenges": [
+          "Unregelmäßige Arbeitszeiten bei Notfällen oder mobilen Einsätzen 📆.",
+          "Keine staatliche Anerkennung der Ausbildung ⚠️.",
+          "Hohe Anforderungen an körperliche und emotionale Belastbarkeit 🧠."
+        ],
+        "didYouKnow": [
+          "Die Berufsbezeichnung ‚Tierheilpraktiker/in‘ gibt es seit über 120 Jahren 📅.",
+          "Hunde können aus Stress oder Verlegenheit gähnen 🐶.",
+          "Akupunktur gehört zu den anerkanntesten naturheilkundlichen Methoden 🩺.",
+          "Tierheilpraktiker setzen auf die gleichen Methoden wie Heilpraktiker für Menschen 🌿.",
+          "Die meisten Tierheilpraktiker arbeiten selbstständig und flexibel 🌍."
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "category": "hotel_and_hospitality_industry",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2.5,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2100,
+    "maxStartingSalary": 2400,
+    "minAvarageSalary": 2100,
+    "maxAvarageSalary": 2400,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Assistent/in Hotelmanagement",
+        "overview": "🏨 Assistenten im Hotelmanagement sind wahre Allrounder in der Hotellerie. Sie arbeiten an der Rezeption, organisieren Veranstaltungen, planen Marketingmaßnahmen und betreuen Gäste während ihres Aufenthalts. Dieser Beruf verbindet kaufmännische Fähigkeiten mit Organisationstalent und einer Leidenschaft für Tourismus.",
+        "responsibilities": [
+          "Empfang und Betreuung der Gäste. 👋",
+          "Bearbeitung von Reservierungen und Buchungen. 🖋️",
+          "Planung und Organisation von Veranstaltungen. 🎉",
+          "Durchführung von Check-in und Check-out. 🏨",
+          "Erstellung von Abrechnungen und Buchhaltung. 💰",
+          "Bearbeitung von Reklamationen und Sonderwünschen. ✨",
+          "Mitarbeit in verschiedenen Hotelabteilungen wie Housekeeping und Restaurantmanagement. 🍴"
+        ],
+        "curriculum": [
+          "Kaufmännische Abläufe und Rechnungswesen. 💹",
+          "Marketing und Eventmanagement. 📈",
+          "Gästeservice und Qualitätsmanagement. 🌟",
+          "Kommunikation und Fremdsprachen. 🌍"
+        ],
+        "careerProspects": [
+          "Einstieg in Hotels, Resorts oder Tourismusunternehmen. 🌐",
+          "Karriere im Veranstaltungs- und Eventmanagement. 🎤",
+          "Selbstständigkeit mit einem eigenen Hotel oder Reisebüro. 🚀"
+        ],
+        "furtherEducation": [
+          "Fachwirt/in im Gastgewerbe. 🎓",
+          "Betriebswirt/in für Hotel- und Tourismusmanagement. 📚",
+          "Studium im Bereich Hotelmanagement oder Tourismus. 🎓"
+        ],
+        "applicationSteps": [
+          "Erstellung eines überzeugenden Anschreibens und Lebenslaufs. 📝",
+          "Einreichen von Zeugnissen und ggf. Praktikumsnachweisen. 📄",
+          "Vorbereitung auf ein Bewerbungsgespräch mit Fokus auf soziale Kompetenzen und Kundenorientierung. 💬"
+        ],
+        "applicationRequirements": [
+          "Freude am Umgang mit Menschen und Organisationstalent. 😊",
+          "Gute Fremdsprachenkenntnisse, insbesondere Englisch. 🌍",
+          "Bereitschaft zu unregelmäßigen Arbeitszeiten und Schichtarbeit. ⏰"
+        ],
+        "applicationTips": [
+          "Praktika oder Erfahrungen im Gastgewerbe und Tourismus hervorheben. 🌟",
+          "Interesse an internationalem Austausch und Tourismus betonen. ✈️"
+        ],
+        "requiredPersonalSkills": [
+          "Organisationstalent und Zeitmanagement. 🕒",
+          "Kommunikationsfähigkeit und Kundenorientierung. 💬",
+          "Flexibilität und Belastbarkeit. 🏋️"
+        ],
+        "requiredPersonalTraits": [
+          "Freundlichkeit und Servicebereitschaft. 😊",
+          "Teamfähigkeit und Engagement. 🌟",
+          "Interkulturelle Kompetenz und Offenheit. 🌍"
+        ],
+        "theoreticalStructure": [
+          "\"Fächer wie Hotelbetriebslehre, Rechnungswesen, Wirtschaft, Fremdsprachen und Tourismusmanagement. 🌍\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praktika in verschiedenen Hotelabteilungen wie Rezeption, Housekeeping, Restaurant und Veranstaltungsmanagement. 🏨\"\n"
+        ],
+        "workEnvironment": [
+          "Hotels und Resorts. 🏖️",
+          "Tagungshäuser und Eventlocations. 🎤",
+          "Tourismusbüros und Reiseveranstalter. ✈️",
+          "Freizeitparks und Wellnesshotels. 🌟"
+        ],
+        "advantages": [
+          "Vielfältige Einsatzmöglichkeiten in der Hotellerie und im Tourismus. 🌍",
+          "Spannender Arbeitsalltag mit internationalen Gästen. ✈️",
+          "Attraktive Karriere- und Aufstiegschancen. 🚀"
+        ],
+        "challenges": [
+          "Arbeiten in Schichten und an Wochenenden. ⏰",
+          "Hohe Verantwortung im Gästeservice und Veranstaltungsmanagement. 🌟",
+          "Umgang mit anspruchsvollen Gästen und kurzfristigen Änderungen. 🤝"
+        ],
+        "didYouKnow": [
+          "Du kannst während der Ausbildung Schwerpunkte wie Tourismus- und Eventmanagement wählen. 🎤",
+          "Nach der Ausbildung gibt es Aufstiegsweiterbildungen zum Fachwirt oder Betriebswirt. 📚",
+          "Die Hotellerie bietet vielfältige Möglichkeiten für internationale Karrieren. ✈️"
+        ]
+      }
+    }
+  }
+]

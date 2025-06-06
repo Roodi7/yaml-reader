@@ -1,0 +1,106 @@
+[
+  {
+    "category": "services_and_crafts",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1800,
+    "maxStartingSalary": 2200,
+    "minAvarageSalary": 2100,
+    "maxAvarageSalary": 3000,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3000,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 649
+      },
+      {
+        "min": 766,
+        "max": 766
+      },
+      {
+        "min": 876,
+        "max": 876
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Augenoptiker/in",
+        "overview": "\"Als Augenoptiker/in kombinierst du Präzision, Technik und Stil, um individuelle Sehhilfen für deine Kunden zu erstellen. 🕶️✨ Vom modischen Brillengestell bis zur High-Tech-Sehhilfe - du hilfst Menschen dabei, die Welt klarer zu sehen. 👓🌟\"\n",
+        "responsibilities": [
+          "Beratung und Betreuung von Kunden bei der Wahl ihrer Sehhilfen 🤝👓",
+          "Herstellung und Anpassung von Brillen und Kontaktlinsen 🛠️👁️",
+          "Durchführung von Sehtests und Vermessung der Augen 📏👁️"
+        ],
+        "curriculum": [
+          "Optik und Lichtbrechung 📐✨",
+          "Herstellung und Anpassung von Sehhilfen 🛠️👓",
+          "Kundenservice und Verkaufstechniken 🤝💼"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Augenoptikermeister/in 🎓👁️",
+          "Spezialisierung auf Kontaktlinsen oder optische Technologie 👁️📈",
+          "Selbstständigkeit mit einem eigenen Optikergeschäft 🏠✨"
+        ],
+        "furtherEducation": [
+          "Bachelorstudium in Optometrie oder Augenheilkunde 📖✨",
+          "Fortbildung im Bereich High-Tech-Optik oder Design 👓⚙️"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄🖊️",
+          "Praktischer Eignungstest im Optikergeschäft 👓✔️"
+        ],
+        "applicationRequirements": [
+          "Mittlerer Schulabschluss erforderlich 🎓",
+          "Technisches Interesse und modisches Gespür gewünscht 🌟👓"
+        ],
+        "applicationTips": [
+          "Betone deine Sorgfalt und Liebe zum Detail ✍️✨",
+          "Hebe relevante Erfahrungen oder Praktika hervor 📄👓"
+        ],
+        "requiredPersonalSkills": [
+          "Technisches Verständnis und handwerkliches Geschick ⚙️✨",
+          "Kommunikationsfähigkeit und Einfühlungsvermögen 🤝✨"
+        ],
+        "requiredPersonalTraits": [
+          "Geduld und Liebe zur Präzision 🧠✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du die Grundlagen der Optik, Anatomie und Materialkunde 📚✨"
+        ],
+        "practicalStructure": [
+          "Im Betrieb übst du das Anpassen und Fertigen von Sehhilfen sowie die Kundenberatung 🏠🔧"
+        ],
+        "workEnvironment": [
+          "Arbeit in einem Optikergeschäft oder in einer Werkstatt 🏠🔧",
+          "Direkter Kundenkontakt und modische Beratung 🌟👩‍💻"
+        ],
+        "advantages": [
+          "Kombination aus handwerklicher Arbeit und modischer Beratung 🌟🔧",
+          "Direkte Hilfe und Zufriedenheit für deine Kunden 👓✨"
+        ],
+        "challenges": [
+          "Präzises Arbeiten bei der Herstellung von Sehhilfen erforderlich 📏✨",
+          "Hohes Maß an Konzentration und Genauigkeit notwendig 🧠⚙️"
+        ],
+        "didYouKnow": [
+          "Fast 50 % der Deutschen tragen eine Brille! 👓✨",
+          "High-Tech-Materialien wie Titan machen Brillen besonders langlebig ⚙️✨",
+          "Moderne Brillengläser können sich automatisch an Lichtverhältnisse anpassen 🌞✨"
+        ]
+      }
+    }
+  }
+]

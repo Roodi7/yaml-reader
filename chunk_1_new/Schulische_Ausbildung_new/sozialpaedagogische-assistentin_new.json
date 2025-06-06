@@ -1,0 +1,126 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "shift_work"
+    ],
+    "duration": [
+      2,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2800,
+    "maxStartingSalary": 3200,
+    "minAvarageSalary": 3200,
+    "maxAvarageSalary": 3800,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 1745,
+        "max": 1745
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Sozialpädagogische/r Assistent/in",
+        "overview": "Sozialpädagogische Assistenten spielen eine zentrale Rolle bei der Betreuung und Förderung von Kindern und Jugendlichen 👶🎨. Sie unterstützen Erzieher und Pädagogen bei der Entwicklung der Jüngsten und leisten einen wichtigen Beitrag in sozialen Einrichtungen. 🌟💡",
+        "responsibilities": [
+          "Betreuung und Pflege von Kindern, einschließlich Unterstützung bei Essen, Hygiene und Schlaf 🛏️🍎.",
+          "Förderung sozialer und motorischer Fähigkeiten durch kreative Aktivitäten 🎭.",
+          "Unterstützung bei Ausflügen und Projekten sowie deren Planung und Organisation 📋.",
+          "Kommunikation mit Eltern über Fortschritte und Bedürfnisse der Kinder 🤝.",
+          "Beobachtung und Dokumentation der kindlichen Entwicklung 📖."
+        ],
+        "curriculum": [
+          "Grundlagen der Pädagogik und Psychologie 🧠.",
+          "Praktische Übungen zur Betreuung und Pflege von Kindern 👶.",
+          "Methoden der kreativen und motorischen Förderung 🎨.",
+          "Organisation von Projekten und Elternarbeit 📋."
+        ],
+        "careerProspects": [
+          "Erzieher/in 🏫.",
+          "Fachwirt/in für Erziehungswesen 📊.",
+          "Betriebswirt/in im Sozialwesen 📈.",
+          "Studium in Pädagogik oder Erziehungswissenschaften 🎓."
+        ],
+        "furtherEducation": [
+          "Weiterbildung zur/zum Erzieher/in 🏫.",
+          "Fachwirt/in für pädagogische Aufgaben 📊.",
+          "Studium in Sozialpädagogik oder Soziale Arbeit 🎓.",
+          "Spezialisierung auf Integration und Inklusion 🤝."
+        ],
+        "applicationSteps": [
+          "Recherchiere Ausbildungsstätten und wähle die passende aus 🔍.",
+          "Erstelle ein Anschreiben, Lebenslauf und sammle relevante Zeugnisse ✍️.",
+          "Zeige Engagement durch Praktika oder ehrenamtliche Tätigkeiten ❤️."
+        ],
+        "applicationRequirements": [
+          "Mittlerer Schulabschluss oder gleichwertiger Abschluss 🎓.",
+          "Einfühlungsvermögen und Verantwortungsbewusstsein 💖.",
+          "Gesundheitliche Eignung und Teamfähigkeit 🩺."
+        ],
+        "applicationTips": [
+          "Nutze Beispiele, um deine Soft Skills zu untermauern 🗣️.",
+          "Hebe ehrenamtliches Engagement und Erfahrung hervor 🌟.",
+          "Bereite dich auf Fragen zu deiner Motivation vor 🤔."
+        ],
+        "requiredPersonalSkills": [
+          "Fähigkeit zur kreativen Gestaltung von Aktivitäten 🎨.",
+          "Kommunikationsstärke im Umgang mit Kindern und Eltern 🗣️.",
+          "Organisationstalent bei Projekten und Aufgaben 📋."
+        ],
+        "requiredPersonalTraits": [
+          "Einfühlungsvermögen 💖.",
+          "Geduld und Belastbarkeit 💪.",
+          "Teamfähigkeit 🤝."
+        ],
+        "theoreticalStructure": [
+          "Grundlagen in Pädagogik, Psychologie und Kinderbetreuung 🧠."
+        ],
+        "practicalStructure": [
+          "Praktika in Kindergärten, Schulen oder Freizeiteinrichtungen 🤝."
+        ],
+        "workEnvironment": [
+          "Kindergärten und Schulen 🏫.",
+          "Freizeiteinrichtungen 🏞️.",
+          "Behinderteneinrichtungen ♿.",
+          "Kinderheime und Wohngruppen 🏠.",
+          "Familienzentren 👨‍👩‍👧‍👦."
+        ],
+        "advantages": [
+          "Kreative und abwechslungsreiche Arbeit mit Kindern 🎨.",
+          "Hohe Nachfrage nach Fachkräften im sozialen Bereich 🚀.",
+          "Persönliche Erfüllung durch die Förderung junger Menschen 💖."
+        ],
+        "challenges": [
+          "Emotionale Belastungen durch anspruchsvolle Betreuungssituationen 💔.",
+          "Unregelmäßige Arbeitszeiten und mögliche Schichtdienste ⏰.",
+          "Hohes Maß an Verantwortung für die kindliche Entwicklung 🤔."
+        ],
+        "didYouKnow": [
+          "Im dritten Ausbildungsjahr erhältst du in der schulischen Ausbildung 1.745 Euro monatlich 💶.",
+          "Es gibt eine praxisintegrierte Ausbildung (PiA), die Gehalt von Anfang an bietet 💰.",
+          "Der Beruf des Sozialpädagogischen Assistenten wird in einigen Bundesländern als Kinderpfleger/in bezeichnet 🧸.",
+          "In Berlin liegt der Ausbildungsschwerpunkt auf Integration und Inklusion 🌍.",
+          "Der Tarifvertrag im öffentlichen Dienst (TVöD) regelt oft die Gehaltsstruktur 📊."
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "full_time",
+      "part_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1900,
+    "maxStartingSalary": 2600,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 3000,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 837,
+        "max": 837
+      },
+      {
+        "min": 837,
+        "max": 837
+      },
+      {
+        "min": 800,
+        "max": 800
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Arbeitserzieher/in",
+        "overview": "💡 Arbeitserzieher/innen helfen Menschen mit besonderen Herausforderungen, wie körperlichen oder geistigen Behinderungen, Suchtkrankheiten oder krimineller Vergangenheit, wieder in die Arbeitswelt einzusteigen. 🌟 In diesem Beruf arbeitest du an der Schnittstelle zwischen Pädagogik, Therapie und Rehabilitation und trägst dazu bei, Menschen neue Perspektiven zu eröffnen.",
+        "responsibilities": [
+          "Vermittlung von Theorie- und Praxiskenntnissen zur beruflichen Rehabilitation. 📚",
+          "Unterstützung von Patienten in Reha-Kliniken, Jugendhilfeeinrichtungen oder Strafvollzugsanstalten. 🏥",
+          "Planung und Durchführung handwerklicher oder kreativer Projekte. 🎨",
+          "Förderung der sozialen und beruflichen Integration. 🌍",
+          "Stärkung von Selbstbewusstsein und Alltagskompetenzen. 💪"
+        ],
+        "curriculum": [
+          "Grundlagen der Arbeitstherapie und Arbeitserziehung. 🛠️",
+          "Pädagogik, Psychologie und soziale Kommunikation. 🧠",
+          "Organisation und Verwaltung (BWL, Recht, Ethik). 📜",
+          "Spezifische Techniken und Methoden für die Arbeit mit Menschen. 🎨"
+        ],
+        "careerProspects": [
+          "Einstieg in soziale und pädagogische Berufe. 🚀",
+          "Leitungspositionen nach Weiterbildungen. 🏢",
+          "Arbeit in verschiedenen sozialen Einrichtungen. 🌍"
+        ],
+        "furtherEducation": [
+          "Weiterbildung in Heilpädagogik oder Sonderpädagogik. 📜",
+          "Ergänzende Qualifikationen in Psychologie oder Ergonomie. 🧠",
+          "Studium in Soziale Arbeit oder Erziehungswissenschaften. 🎓"
+        ],
+        "applicationSteps": [
+          "Einreichen von Bewerbung, Lebenslauf und Zeugnissen. 📄",
+          "Nachweis einer abgeschlossenen zweijährigen Berufsausbildung. 🎓",
+          "Vorstellungsgespräch mit der Schulleitung. 💬"
+        ],
+        "applicationRequirements": [
+          "Realschulabschluss oder Hauptschulabschluss mit Berufserfahrung. 🎓",
+          "Freude am Umgang mit Menschen und soziale Kompetenz. 🤝"
+        ],
+        "applicationTips": [
+          "Hervorheben von Erfahrungen im sozialen oder handwerklichen Bereich. 🛠️",
+          "Betonung von Flexibilität und Teamfähigkeit. 🌟"
+        ],
+        "requiredPersonalSkills": [
+          "Kommunikationsfähigkeit und Organisationstalent. 🗂️",
+          "Einfühlungsvermögen und Durchsetzungsfähigkeit. 🤝",
+          "Flexibilität und Belastbarkeit. 🌟"
+        ],
+        "requiredPersonalTraits": [
+          "Soziale Kompetenz und Offenheit. 🌍",
+          "Engagement und Freude an der Arbeit mit Menschen. ❤️",
+          "Kreativität und Eigeninitiative. 🎨"
+        ],
+        "theoreticalStructure": [
+          "\"Fächer wie Arbeitserziehung, Pädagogik, Psychologie, BWL, Ethik und Recht. 🧠\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praxisphasen in Werkstätten, Reha-Kliniken oder Jugendhilfeeinrichtungen. 🏥\"\n"
+        ],
+        "workEnvironment": [
+          "Werkstätten für Menschen mit Behinderungen. 🛠️",
+          "Berufsbildungswerke. 🏢",
+          "Rehabilitationskliniken. 🏥",
+          "Einrichtungen der Jugendhilfe. 👨‍👩‍👧",
+          "Strafvollzugsanstalten. 🔒"
+        ],
+        "advantages": [
+          "Hohe soziale Relevanz und Sinnhaftigkeit der Arbeit. ❤️",
+          "Vielfältige Einsatzmöglichkeiten in unterschiedlichen Einrichtungen. 🌟",
+          "Möglichkeit zur beruflichen Weiterentwicklung. 📈"
+        ],
+        "challenges": [
+          "Arbeit mit Menschen in schwierigen Lebenssituationen erfordert Belastbarkeit. 🧠",
+          "Unterschiedliche Arbeitszeiten und Herausforderungen im Alltag. ⏰",
+          "Je nach Ausbildungsform können Ausbildungskosten entstehen. 💶"
+        ],
+        "didYouKnow": [
+          "Menschen mit handwerklicher Vorausbildung haben gute Chancen auf einen Ausbildungsplatz. 🛠️",
+          "Die Ausbildung kann in Vollzeit oder Teilzeit absolviert werden. ⏰",
+          "Nach Abschluss kannst du in verschiedenen Bereichen wie der Jugendhilfe oder Reha arbeiten. 🏥"
+        ]
+      }
+    }
+  }
+]

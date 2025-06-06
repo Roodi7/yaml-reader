@@ -1,0 +1,102 @@
+[
+  {
+    "category": "economy_and_politics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2400,
+    "maxStartingSalary": 2800,
+    "minAvarageSalary": 2400,
+    "maxAvarageSalary": 3400,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 3400,
+    "trainingSalary": [
+      {
+        "min": 1300,
+        "max": 1300
+      },
+      {
+        "min": 1300,
+        "max": 1300
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Beamter/Beamtin im mittleren Steuerdienst",
+        "overview": "\"Als Beamter/Beamtin im mittleren Steuerdienst sorgst du dafür, dass Steuervorschriften eingehalten und Steuergelder korrekt erhoben werden. 💼✨ Deine Arbeit ist essenziell für die Finanzierung öffentlicher Aufgaben und die Einhaltung von Gesetzen. 🌍📜\"\n",
+        "responsibilities": [
+          "Prüfung von Steuererklärungen und Bescheiden 📄✨",
+          "Bearbeitung von Steueranträgen und Rückerstattungen 📋✨",
+          "Ermittlung von Steuerrückständen und deren Eintreibung 🧾✨"
+        ],
+        "curriculum": [
+          "Grundlagen des Steuerrechts 📜✨",
+          "Verwaltungsrecht und Datenverarbeitung 📊✨",
+          "Kommunikation und Konfliktmanagement 🗣️✨"
+        ],
+        "careerProspects": [
+          "Aufstieg in den gehobenen Dienst durch Weiterbildungen 🎓✨",
+          "Karriere in leitenden Positionen bei Steuer- oder Finanzbehörden 🚀✨",
+          "Spezialisierung auf internationale Steuerfragen 🌍✨"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Steuerrecht oder Betriebswirtschaft 🎓📘",
+          "Fortbildung zum Steuerberater/in 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Einstellungstest und Sicherheitsüberprüfung 🧠✨"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder gleichwertiger Schulabschluss 🎓",
+          "Interesse an Recht und Finanzen 🌟📜"
+        ],
+        "applicationTips": [
+          "Betone deine Genauigkeit und Affinität zu Zahlen 📄✨",
+          "Hebe relevante Erfahrungen in Verwaltung oder Recht hervor 📋✨"
+        ],
+        "requiredPersonalSkills": [
+          "Analytisches Denken und Organisationstalent 🧠✨",
+          "Kommunikationsfähigkeit und Konfliktmanagement 🗣️✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Verantwortungsbewusstsein 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "Ausbildung an Verwaltungsschulen mit Fokus auf Steuerrecht und Verwaltung 📘✨"
+        ],
+        "practicalStructure": [
+          "Praktische Einsätze in Finanzämtern und anderen Steuerbehörden 🌟✨"
+        ],
+        "workEnvironment": [
+          "Arbeit in Finanzämtern oder Steuerbehörden 🏢✨",
+          "Einsätze bei Unternehmen oder Privatpersonen zur Steuerprüfung 🛡️✨"
+        ],
+        "advantages": [
+          "Sicherer Arbeitsplatz im öffentlichen Dienst 🛡️✨",
+          "Abwechslungsreiche Tätigkeiten zwischen Büroarbeit und Außeneinsätzen 🌍✨"
+        ],
+        "challenges": [
+          "Hohe Verantwortung für die Einhaltung gesetzlicher Vorschriften 🌟📜",
+          "Umgang mit Konflikten und komplexen Steuerfällen erforderlich 🛡️✨"
+        ],
+        "didYouKnow": [
+          "Der Steuerdienst bildet das Rückgrat der öffentlichen Finanzierung 🌍✨",
+          "Beamte im Steuerdienst arbeiten eng mit Wirtschaftsprüfern zusammen 🛡️✨",
+          "Steuerbehörden nutzen zunehmend digitale Technologien für ihre Arbeit 💻✨"
+        ]
+      }
+    }
+  }
+]

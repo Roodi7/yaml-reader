@@ -1,0 +1,117 @@
+[
+  {
+    "category": "energy_and_environment",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1300,
+    "maxStartingSalary": 1600,
+    "minAvarageSalary": 1600,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3200,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Biologisch-Technische/r Assistent/in (BTA)",
+        "overview": "Als Biologisch-Technische/r Assistent/in (BTA) arbeitest du an der Schnittstelle zwischen Wissenschaft und Praxis. Du untersuchst Organismen, führst Umweltkontrollen durch und unterstützt Forschung und Entwicklung in Laboren oder Instituten. Diese schulische Ausbildung bietet dir einen abwechslungsreichen Alltag zwischen biologischen, chemischen und technischen Aufgabenfeldern.",
+        "responsibilities": [
+          "Durchführung von Laboruntersuchungen und Experimenten. 🔬",
+          "Erstellen von Versuchsprotokollen, Tabellen und Grafiken. 📊",
+          "Überprüfung der Qualität von Lebensmitteln, Wasser und Umweltproben. 🌱",
+          "Mitwirkung bei der Entwicklung von Medikamenten und Kosmetika. 💊",
+          "Unterstützung von Feldversuchen und Aufbau von Versuchsanordnungen. 🌍"
+        ],
+        "curriculum": [
+          "Grundlagen der Biologie, Chemie und Mikrobiologie. 🔬",
+          "Moderne Arbeitstechniken und Gerätetechnik. ⚙️",
+          "Dokumentation und Auswertung von Experimenten. 📊",
+          "Regelungen zu Umweltschutz und Qualitätssicherung. 🌱"
+        ],
+        "careerProspects": [
+          "Arbeit in Forschungseinrichtungen oder Umweltbehörden. 🌍",
+          "Einstieg in die Lebensmittel- oder Pharmaindustrie. 💊",
+          "Weiterbildung zum Techniker, Meister oder Fachwirt. 📜",
+          "Studium in Biologie, Biochemie oder Pharmazie. 🎓"
+        ],
+        "furtherEducation": [
+          "Spezialisierungen in Genetik, Mikrobiologie oder Biochemie. 🧬",
+          "Weiterbildung zum Techniker oder Meister. 📜",
+          "Studium in naturwissenschaftlichen oder technischen Fachbereichen. 🎓"
+        ],
+        "applicationSteps": [
+          "Einreichen eines Lebenslaufs und Zeugnissen. 📄",
+          "Erstellung eines Anschreibens mit Motivation und Erfahrungen. ✍️"
+        ],
+        "applicationRequirements": [
+          "Gute Noten in naturwissenschaftlichen Fächern. 📚",
+          "Interesse an Laborarbeit und Forschung. 🔬",
+          "Teamfähigkeit und Verantwortungsbewusstsein. 🤝"
+        ],
+        "applicationTips": [
+          "Betone Praktika oder Projekte in naturwissenschaftlichen Bereichen. 🔍",
+          "Zeige Begeisterung für Forschung und Umweltschutz. 🌱"
+        ],
+        "requiredPersonalSkills": [
+          "Analytisches Denken und präzises Arbeiten. 🧠",
+          "Fingerspitzengefühl im Umgang mit empfindlichen Proben. 🤏",
+          "Gute Dokumentationsfähigkeiten. 📝"
+        ],
+        "requiredPersonalTraits": [
+          "Verantwortungsbewusstsein und Zuverlässigkeit. ⚖️",
+          "Interesse an Naturwissenschaften und Technik. 🔬",
+          "Teamfähigkeit und Eigeninitiative. 🤝"
+        ],
+        "theoreticalStructure": [
+          "\"Unterricht an Berufsfachschulen in Biologie, Chemie, Physik und Laboranalytik. 📘\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praktika in Forschungseinrichtungen, Umweltämtern oder der Lebensmittelindustrie. 🧪\"\n"
+        ],
+        "workEnvironment": [
+          "Forschungseinrichtungen und Universitäten. 🏫",
+          "Lebensmittel- und Pharmaindustrie. 💼",
+          "Umwelt- und Gesundheitsämter. 🏢",
+          "Labore und Institute der chemischen und biologischen Analytik. 🔬"
+        ],
+        "advantages": [
+          "Hohe Nachfrage nach qualifizierten Fachkräften. 📈",
+          "Abwechslungsreiche und spannende Aufgaben im Labor und im Feld. 🔬",
+          "Möglichkeit zur Spezialisierung in verschiedenen Bereichen. 🌟"
+        ],
+        "challenges": [
+          "Hohe Verantwortung bei der Arbeit mit empfindlichen Proben und Tieren. ⚖️",
+          "Keine Vergütung während der schulischen Ausbildung. 💰",
+          "Teilweise kostenpflichtige Ausbildung, je nach Bildungsanbieter. 🏫"
+        ],
+        "didYouKnow": [
+          "Der Mensch trägt 50 Milliarden Bakterien auf der Haut. 🦠",
+          "Gregor Mendel führte 1856 das erste Kreuzungsexperiment mit Erbsen durch. 🌱",
+          "Westentaschenlabore analysieren Proben direkt vor Ort auf einem Chip. 🔬",
+          "Die Ausbildung zum BTA gibt es erst seit 1964. 📜",
+          "Die falsche Lagerung von Lebensmitteln ist der Hauptgrund für Vergiftungen. ⚠️"
+        ]
+      }
+    }
+  }
+]

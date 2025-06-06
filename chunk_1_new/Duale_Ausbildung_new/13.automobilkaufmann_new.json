@@ -1,0 +1,110 @@
+[
+  {
+    "category": "trade",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2100,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 3300,
+    "minExperiencedSalary": 3000,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 864,
+        "max": 1089
+      },
+      {
+        "min": 904,
+        "max": 1117
+      },
+      {
+        "min": 935,
+        "max": 1214
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Automobilkaufmann/-frau",
+        "overview": "\"Als Automobilkaufmann/-frau dreht sich alles um Fahrzeuge, von Neu- und Gebrauchtwagen bis hin zu Ersatzteilen und Finanzierungsangeboten. 🚗✨ Mit deinem Wissen über die Automobilbranche unterstützt du Kunden bei der Auswahl und Finanzierung ihrer Traumautos. 💡✨\"\n",
+        "responsibilities": [
+          "Beratung von Kunden zu Neu- und Gebrauchtwagen 🚗🤝",
+          "Erstellung von Finanzierungsangeboten und Kaufverträgen 📑💸",
+          "Organisation des Lagers und Verwaltung von Fahrzeugbestand 📦🚘"
+        ],
+        "curriculum": [
+          "Verkaufstechniken und Kundenberatung 💬✨",
+          "Buchhaltung und Kostenrechnung 📊💡",
+          "Fahrzeugtechnik und Lagerverwaltung 🚘📦"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Automobilverkäufer/in oder Serviceberater/in 🎓✨",
+          "Karriere in der Automobilbranche, z. B. als Filialleiter/in 🚗📈",
+          "Spezialisierung auf Bereiche wie Marketing oder Logistik 🌟📊"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Betriebswirtschaft oder Automobilwirtschaft 🎓📘",
+          "Fortbildung zum Automobil-Fachwirt/in oder Betriebswirt/in 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Assessment-Center oder Interview im Autohaus 🚗✨"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder höherer Schulabschluss 🎓",
+          "Kommunikationsstärke und Interesse an der Automobilbranche 🌟🤝"
+        ],
+        "applicationTips": [
+          "Hebe deine Begeisterung für Fahrzeuge und Kundenberatung hervor 🚘✨",
+          "Betone praktische Erfahrungen wie Praktika im Autohaus 📄💡"
+        ],
+        "requiredPersonalSkills": [
+          "Verkaufstalent und Zahlenverständnis 💸✨",
+          "Technisches Interesse und Organisationsfähigkeit 📊✨"
+        ],
+        "requiredPersonalTraits": [
+          "Teamfähigkeit und Zielstrebigkeit 🤝✨"
+        ],
+        "theoreticalStructure": [
+          "In der Berufsschule lernst du kaufmännische Grundlagen, Fahrzeugtechnik und Marketing 📘🚗"
+        ],
+        "practicalStructure": [
+          "Im Betrieb erwirbst du Kenntnisse in Verkaufsgesprächen und Fahrzeuglogistik 🏢🔧"
+        ],
+        "workEnvironment": [
+          "Arbeit in Autohäusern oder bei Automobilherstellern 🏬✨",
+          "Zusammenarbeit mit Kunden, Lieferanten und Werkstätten 🤝⚙️"
+        ],
+        "advantages": [
+          "Vielfältige Tätigkeiten in der dynamischen Automobilbranche 🚗✨",
+          "Attraktive Entwicklungsmöglichkeiten und Spezialisierungen 🚀🌟"
+        ],
+        "challenges": [
+          "Hohe Anforderungen an Kundenservice und Fachwissen 💬⚙️",
+          "Flexibilität und Anpassungsfähigkeit bei Kundenanfragen erforderlich 🌟⏳"
+        ],
+        "didYouKnow": [
+          "Die Automobilbranche gehört zu den umsatzstärksten in Deutschland 🚗✨",
+          "E-Autos und Carsharing verändern die Anforderungen an Automobilkaufleute 🌱✨",
+          "Viele Automobilkaufleute spezialisieren sich auf digitale Verkaufsplattformen 🌐🚘"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "category": "services_and_crafts",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "dual_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1800,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 2800,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 649,
+        "max": 920
+      },
+      {
+        "min": 766,
+        "max": 1230
+      },
+      {
+        "min": 876,
+        "max": 1495
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Bodenleger/in",
+        "overview": "\"Als Bodenleger/in sorgst du für die Grundlage in jedem Raum 🛠️. Du verlegst Teppiche, Parkett oder Laminat und schaffst damit das Fundament für Wohlbefinden und Design.\"\n",
+        "responsibilities": [
+          "Vorbereitung des Untergrunds für Bodenbeläge 🔧.",
+          "Verlegen von Bodenbelägen wie Teppich, Parkett und Laminat 🪵.",
+          "Beratung von Kunden zu Materialien und Pflege 🗣️."
+        ],
+        "curriculum": [
+          "Untergrundvorbereitung und Materialkunde 🧱.",
+          "Techniken zur Verlegung von Bodenbelägen 🛠️.",
+          "Kundenberatung und Pflegehinweise für Bodenbeläge 🪵."
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Bodenlegermeister 🎓.",
+          "Spezialisierung auf Parkett oder besondere Beläge 🌟.",
+          "Selbstständigkeit im Handwerksbereich 🏢."
+        ],
+        "furtherEducation": [
+          "Meisterkurse im Bodenlegerhandwerk 🎓.",
+          "Fortbildungen zu innovativen Bodenbelagstechnologien 🌐."
+        ],
+        "applicationSteps": [
+          "Einreichen von Lebenslauf und Anschreiben 📄.",
+          "Teilnahme an einem handwerklichen Eignungstest 🛠️.",
+          "Praktikum zur Überprüfung der praktischen Fähigkeiten 🏗️."
+        ],
+        "applicationRequirements": [
+          "Handwerkliches Geschick und Genauigkeit 🎯.",
+          "Kreativität und Sinn für Ästhetik 🎨."
+        ],
+        "applicationTips": [
+          "Erwähne Projekte oder Praktika im Handwerk 🛠️.",
+          "Betone deine Geduld und Liebe zum Detail 🌟."
+        ],
+        "requiredPersonalSkills": [
+          "Handwerkliche Fähigkeiten für präzise Arbeiten 🛠️.",
+          "Beratungskompetenz für den Kundenkontakt 🗣️."
+        ],
+        "requiredPersonalTraits": [
+          "Geduld und Sorgfalt beim Verlegen von Belägen 🧐.",
+          "Körperliche Fitness und Belastbarkeit 💪."
+        ],
+        "theoreticalStructure": [
+          "Theorieunterricht zu Materialien, Techniken und Kundenberatung 📘."
+        ],
+        "practicalStructure": [
+          "Praktische Arbeit direkt auf Baustellen und in Werkstätten 🏗️."
+        ],
+        "workEnvironment": [
+          "Arbeiten in Neubauten oder bei Renovierungen 🏠.",
+          "Kombination aus handwerklicher Präzision und Kreativität 🎨."
+        ],
+        "advantages": [
+          "Kreative und vielseitige Tätigkeiten 🎨.",
+          "Stabile Nachfrage in Neubau und Renovierung 📈.",
+          "Gute Verdienstmöglichkeiten mit wachsender Erfahrung 💰."
+        ],
+        "challenges": [
+          "Körperlich anstrengende Arbeit, oft in gebückter Haltung 🏋️.",
+          "Arbeiten mit empfindlichen und teuren Materialien 🪵."
+        ],
+        "didYouKnow": [
+          "Bodenleger sind oft Retter in der Not bei Heimwerker-Projekten 🛠️.",
+          "Teppiche und Parkett sind nach 1900 in Deutschland zum Trend geworden 🪵.",
+          "Klick-Vinyl ist aktuell einer der beliebtesten Bodenbeläge 🔝."
+        ]
+      }
+    }
+  }
+]

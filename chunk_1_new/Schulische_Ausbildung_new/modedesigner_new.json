@@ -1,0 +1,118 @@
+[
+  {
+    "category": "consumer_goods",
+    "jobType": [
+      "part_time"
+    ],
+    "duration": [
+      2,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 1900,
+    "maxStartingSalary": 2100,
+    "minAvarageSalary": 2100,
+    "maxAvarageSalary": 3500,
+    "minExperiencedSalary": 0,
+    "maxExperiencedSalary": 0,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      },
+      {
+        "name": "english",
+        "level": "B1"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Modedesigner/in",
+        "overview": "Modedesigner sind die kreativen Köpfe hinter den neuesten Trends. 👗✨ In dieser Ausbildung lernst du, Mode zu entwerfen, Skizzen zu erstellen und aus Ideen tragbare Kunstwerke zu machen. 🎨🧵",
+        "responsibilities": [
+          "Entwicklung von Modekollektionen und Designs 🖌️👗",
+          "Anfertigung von Skizzen und Mustern ✏️📐",
+          "Arbeiten mit modernen CAD-Programmen zur 3D-Visualisierung 💻✨",
+          "Umgang mit Stoffen und Materialien für hochwertige Kreationen 🧵🧶",
+          "Praktische Umsetzung durch Nähen und Verarbeitung 🪡👚"
+        ],
+        "curriculum": [
+          "Kreative Gestaltung und Entwicklung von Modeentwürfen 🎨✏️",
+          "Praktische Arbeit mit Nähmaschinen und Stoffen 🧵🪡",
+          "Wirtschaftliche Grundlagen der Modebranche 💼✨"
+        ],
+        "careerProspects": [
+          "Arbeit in Modehäusern oder der Textilindustrie 👗🏭",
+          "Selbstständigkeit als Designer/in mit eigener Marke 💼✨",
+          "Weiterbildung zum Bekleidungsfachwirt oder Techniker für Bekleidungstechnik 📚🧵"
+        ],
+        "furtherEducation": [
+          "Bekleidungsfachwirt/in zur Übernahme von Führungspositionen 💼📈",
+          "Studium in Modedesign oder Bekleidungstechnik 🎓✨",
+          "Weiterbildungen in modernen Fertigungstechniken und Software 📚💻"
+        ],
+        "applicationSteps": [
+          "Erstellung einer Bewerbungsmappe mit Skizzen und Beispielen deiner Arbeit 📜🖌️",
+          "Einreichung von Lebenslauf und Zeugnissen bei der Modeschule 📄📚",
+          "Teilnahme an Aufnahmeprüfungen, falls erforderlich ✏️📊"
+        ],
+        "applicationRequirements": [
+          "Kreativität und Begeisterung für Mode 🎨👗",
+          "Handwerkliches Geschick und Liebe zum Detail 🧵🪡"
+        ],
+        "applicationTips": [
+          "Betone deine kreative Seite in der Bewerbungsmappe 🌟✏️",
+          "Hebe deine Stärken in der Gestaltung und Verarbeitung von Stoffen hervor 🪡✨"
+        ],
+        "requiredPersonalSkills": [
+          "Zeichenfähigkeiten und CAD-Kenntnisse ✏️💻",
+          "Verständnis für Stoffe und Materialien 🧵🧶"
+        ],
+        "requiredPersonalTraits": [
+          "Kreativität und Durchhaltevermögen 🌟🧠",
+          "Teamfähigkeit und Kommunikationsstärke 🤝🗣️"
+        ],
+        "theoreticalStructure": [
+          "Unterricht in Design, Nähen, CAD-Programmen und Wirtschaftskunde 📚✂️"
+        ],
+        "practicalStructure": [
+          "Betriebspraktika in der Modebranche zur Anwendung der erlernten Techniken 🏭✨"
+        ],
+        "workEnvironment": [
+          "Modeateliers und Designstudios 🏢🎨",
+          "Bekleidungsindustrie und große Modehäuser 🏭👗",
+          "Selbstständige Arbeit als Designer/in 🛠️✨"
+        ],
+        "advantages": [
+          "Verwirklichung kreativer Ideen in tragbare Mode 🎨👗",
+          "Vielfältige Einsatzmöglichkeiten in der Mode- und Textilbranche ✨🏭",
+          "Ständige Weiterentwicklung durch neue Trends und Techniken 🌟📚"
+        ],
+        "challenges": [
+          "Hoher Konkurrenzdruck in der Modewelt 🧠✨",
+          "Kein Gehalt während der Ausbildung, hohe Kosten möglich 💶📉"
+        ],
+        "didYouKnow": [
+          "Fendi ließ 2007 eine Modeschau auf der Chinesischen Mauer stattfinden? 🏯✨",
+          "Die schwerste Vogue-Ausgabe wog 2,5 Kilogramm? 📖👗",
+          "Die erste Modenshow fand 1858 in Paris statt? 🇫🇷👠"
+        ]
+      }
+    }
+  }
+]

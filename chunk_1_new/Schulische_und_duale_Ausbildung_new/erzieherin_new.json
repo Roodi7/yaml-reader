@@ -1,0 +1,123 @@
+[
+  {
+    "category": "society",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      3
+    ],
+    "trainingType": "school_and_dual_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2200,
+    "maxStartingSalary": 2800,
+    "minAvarageSalary": 2500,
+    "maxAvarageSalary": 3200,
+    "minExperiencedSalary": 2800,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Erzieher/in",
+        "overview": "👩‍🏫👦 Als Erzieher/in bist du mehr als nur eine Betreuungsperson - du bist ein Vorbild! Dein Job ist es, Kinder und Jugendliche zu fördern, zu begleiten und auf ihrem Weg ins Leben zu unterstützen. 🎨🎵 Du organisierst kreative Aktivitäten, löst Konflikte und gestaltest eine Umgebung, in der sich junge Menschen entfalten können. 🌟",
+        "responsibilities": [
+          "Kinder zum Basteln, Malen und Tanzen animieren. 🎨🕺",
+          "Konflikte lösen und Sozialverhalten fördern. ✌️",
+          "Eltern beraten und mit Hilfskräften zusammenarbeiten. 👩‍👩‍👦",
+          "Veranstaltungen und Ausflüge organisieren. 🚌",
+          "Individuelle Förderpläne erstellen und umsetzen. 📚",
+          "Verhalten beobachten und dokumentieren. 📋"
+        ],
+        "curriculum": [
+          "Bildungsarbeit in den Bereichen Musik, Sprache und Gesundheit. 🎵",
+          "Förderung von Inklusion und Diversität. 🌍",
+          "Gestaltung von Erziehungs- und Bildungspartnerschaften. 🤝",
+          "Konfliktmanagement und Gewaltprävention. 🛡️",
+          "Rollenspiele zur Übung von Elterngesprächen und Gruppenarbeit. 🎭"
+        ],
+        "careerProspects": [
+          "Weiterbildung zum Fachwirt/in im Erziehungswesen. 📈",
+          "Spezialisierung auf Motopädie oder Heilpädagogik. 🌟",
+          "Studium in Sozialpädagogik oder Erziehungswissenschaft. 🎓"
+        ],
+        "furtherEducation": [
+          "Fachwirt/in im Erziehungswesen. 📜",
+          "Motopädie oder Heilpädagogik. 🌿",
+          "Sonderschullehrer/in für spezielle Förderung. 📘",
+          "Betriebswirt/in im Sozialwesen. 🏢"
+        ],
+        "applicationSteps": [
+          "Einreichung von Bewerbungsunterlagen bei Berufsfachschulen. 📝",
+          "Gegebenenfalls Nachweis über Praktika oder Vorausbildungen. 📃",
+          "Prüfung der gesundheitlichen und persönlichen Eignung. 🩺"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder gleichwertiger Abschluss. 🎓",
+          "Erweitertes Führungszeugnis und ärztliches Attest. 🩺",
+          "Praktische Erfahrung in sozialpädagogischen Bereichen. 🛝"
+        ],
+        "applicationTips": [
+          "Betone deine soziale Kompetenz und Erfahrung mit Kindern. 🌟",
+          "Passe dein Bewerbungsschreiben individuell an die Stelle an. ✨"
+        ],
+        "requiredPersonalSkills": [
+          "Pädagogische und kommunikative Fähigkeiten. 🧠",
+          "Kreativität und Flexibilität. 🎨",
+          "Fähigkeit zur Konfliktlösung. ✌️"
+        ],
+        "requiredPersonalTraits": [
+          "Empathie und Geduld. 💕",
+          "Verantwortungsbewusstsein und Zuverlässigkeit. 🛡️",
+          "Freude an der Arbeit mit Kindern. 🌟"
+        ],
+        "theoreticalStructure": [
+          "\"Die theoretische Ausbildung umfasst Bildungsbereiche wie Musik, Sprache und Gesundheit. 🌍\"\n"
+        ],
+        "practicalStructure": [
+          "\"Praktische Phasen in sozialpädagogischen Einrichtungen wie Kitas oder Jugendheimen. 🛝\"\n"
+        ],
+        "workEnvironment": [
+          "Kindergärten und Kindertagesstätten. 🏫",
+          "Familien- und Suchtberatungsstellen. 🏢",
+          "Wohngruppen für Jugendliche. 🏠",
+          "Wohnheime für Menschen mit Behinderung. ♿",
+          "Schulen und Jugendherbergen. 📚"
+        ],
+        "advantages": [
+          "Hohe Nachfrage nach qualifizierten Erziehern. 💼",
+          "Abwechslungsreiche Aufgaben in unterschiedlichen Bereichen. 🌟",
+          "Gute Gehalts- und Karriereaussichten durch Weiterbildungen. 📈"
+        ],
+        "challenges": [
+          "Emotionale Belastung durch anspruchsvolle Situationen. 🛡️",
+          "Unregelmäßige Arbeitszeiten in bestimmten Einrichtungen. ⏰",
+          "Hohe Verantwortung im Umgang mit jungen Menschen. 🌱"
+        ],
+        "didYouKnow": [
+          "Die praxisintegrierte Ausbildung (PiA) kombiniert Theorie und Praxis und bietet eine Vergütung während der gesamten Ausbildung. 💶",
+          "Erzieher/innen können auch in der Tourismusbranche arbeiten, z. B. in Jugendherbergen. 🏨",
+          "Es gibt immer mehr Studiengänge, die sich mit sozialpädagogischen Themen beschäftigen. 🎓"
+        ]
+      }
+    }
+  }
+]

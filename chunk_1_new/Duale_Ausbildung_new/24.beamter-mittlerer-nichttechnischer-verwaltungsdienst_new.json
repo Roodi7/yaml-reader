@@ -1,0 +1,102 @@
+[
+  {
+    "category": "economy_and_politics",
+    "jobType": [
+      "full_time"
+    ],
+    "duration": [
+      2
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "intermediate_school",
+    "minStartingSalary": 2800,
+    "maxStartingSalary": 3200,
+    "minAvarageSalary": 2800,
+    "maxAvarageSalary": 4000,
+    "minExperiencedSalary": 3500,
+    "maxExperiencedSalary": 4000,
+    "trainingSalary": [
+      {
+        "min": 1260,
+        "max": 1470
+      },
+      {
+        "min": 1260,
+        "max": 1470
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Verwaltungswirt/in (mittlerer Dienst)",
+        "overview": "\"Als Verwaltungswirt/in im mittleren Dienst bist du ein unverzichtbarer Teil der öffentlichen Verwaltung und trägst zur effizienten Umsetzung von Verwaltungsprozessen bei. 🏢✨ Deine Aufgaben umfassen die Bearbeitung von Anträgen, Planung und Organisation sowie die Beratung von Bürgern. 🌍📜\"\n",
+        "responsibilities": [
+          "Bearbeitung und Prüfung von Anträgen und Bescheiden 📄✨",
+          "Planung und Steuerung von Verwaltungsprozessen 🗂️✨",
+          "Beratung von Bürgern und Organisation von Veranstaltungen 🤝✨"
+        ],
+        "curriculum": [
+          "Verwaltungsrecht und Betriebswirtschaft 📜✨",
+          "Bürgerkommunikation und Konfliktmanagement 🗣️✨",
+          "IT-Anwendungen und Prozessoptimierung 💻✨"
+        ],
+        "careerProspects": [
+          "Aufstieg in den gehobenen Verwaltungsdienst durch Weiterbildungen 🎓✨",
+          "Spezialisierung auf Bereiche wie Personal oder Finanzwesen 🌟📈",
+          "Karrierechancen in Leitungsfunktionen der öffentlichen Verwaltung 🚀✨"
+        ],
+        "furtherEducation": [
+          "Studium im Bereich Verwaltungsmanagement oder Public Administration 🎓📘",
+          "Fortbildung in Bereichen wie Projektmanagement oder Datenschutz 🌟📈"
+        ],
+        "applicationSteps": [
+          "Bewerbung mit Lebenslauf, Anschreiben und Zeugnissen 📄✍️",
+          "Einstellungstest und Bewerbungsgespräch 🧠✨"
+        ],
+        "applicationRequirements": [
+          "Mittlere Reife oder gleichwertiger Schulabschluss 🎓",
+          "Interesse an Organisation und rechtlichen Themen 🌟📜"
+        ],
+        "applicationTips": [
+          "Hebe deine Fähigkeit zur Organisation und Kommunikation hervor 🗣️✨",
+          "Betone relevante Praktika oder Erfahrungen in Verwaltung oder Recht 📄✨"
+        ],
+        "requiredPersonalSkills": [
+          "Analytisches Denken und Organisationstalent 🧠✨",
+          "Kommunikationsfähigkeit und Konfliktmanagement 🗣️✨"
+        ],
+        "requiredPersonalTraits": [
+          "Sorgfalt und Verantwortungsbewusstsein 🛡️✨"
+        ],
+        "theoreticalStructure": [
+          "Theoriephasen an Verwaltungsschulen mit Fokus auf Recht und Organisation 📘✨"
+        ],
+        "practicalStructure": [
+          "Praktische Ausbildung in Behörden und öffentlichen Einrichtungen 🏢✨"
+        ],
+        "workEnvironment": [
+          "Arbeit in Kommunalverwaltungen, Landes- und Bundesbehörden 🏢✨",
+          "Einsatz in sozialen oder sicherheitsrelevanten Einrichtungen 🌍✨"
+        ],
+        "advantages": [
+          "Sicherer Arbeitsplatz im öffentlichen Dienst 🛡️✨",
+          "Abwechslungsreiche Tätigkeiten und gute Aufstiegsmöglichkeiten 🌟✨"
+        ],
+        "challenges": [
+          "Hohe Verantwortung und genaue Einhaltung gesetzlicher Vorschriften 🌟📜",
+          "Umgang mit komplexen Verwaltungsaufgaben und Bürgeranfragen 🛡️✨"
+        ],
+        "didYouKnow": [
+          "Verwaltungswirte sind die Schnittstelle zwischen Bürgern und Behörden 🌍✨",
+          "Die Ausbildung gehört zu den bestbezahlten im öffentlichen Dienst 💼✨",
+          "Verwaltungsaufgaben sind entscheidend für die Funktion einer modernen Gesellschaft 🏢✨"
+        ]
+      }
+    }
+  }
+]

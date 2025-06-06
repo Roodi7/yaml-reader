@@ -1,0 +1,126 @@
+[
+  {
+    "category": "healthcare_and_pharmaceutical_industry",
+    "jobType": [
+      "shift_work"
+    ],
+    "duration": [
+      1,
+      3
+    ],
+    "trainingType": "school_training",
+    "requiredEducationalLevel": "secondary_school",
+    "minStartingSalary": 1800,
+    "maxStartingSalary": 2500,
+    "minAvarageSalary": 2000,
+    "maxAvarageSalary": 3000,
+    "minExperiencedSalary": 2500,
+    "maxExperiencedSalary": 3500,
+    "trainingSalary": [
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      },
+      {
+        "min": 0,
+        "max": 0
+      }
+    ],
+    "requiredLanguages": [
+      {
+        "name": "german",
+        "level": "B2"
+      }
+    ],
+    "translations": {
+      "de-de": {
+        "name": "Sozialassistent/in",
+        "overview": "Liebst du das gute Gefühl, anderen zu helfen? 🎉 Eine alte Dame über die Straße begleiten, beim Einkaufen unterstützen 🛒 oder mit den kleinen Cousinen spielen 👶 – das sind Tätigkeiten, die dir Freude bereiten? Dann könnte die Ausbildung zum/zur Sozialassistent/in genau das Richtige für dich sein! 💖",
+        "responsibilities": [
+          "Unterstützung im Haushalt von Familien, Einzelpersonen oder Wohngruppen 🏠.",
+          "Betreuung und Pflege von älteren, kranken oder behinderten Menschen 🩺.",
+          "Förderung von Jugendlichen mit familiären oder sozialen Problemen 🧒.",
+          "Planung und Organisation von Freizeitaktivitäten 🎭.",
+          "Durchführung einfacher hauswirtschaftlicher und pflegerischer Aufgaben 🧹."
+        ],
+        "curriculum": [
+          "Grundlagen der sozialen Betreuung und Sozialwesen 📖.",
+          "Psychologie, Pädagogik und Gesundheitslehre 🧠.",
+          "Praktische Übungen in Pflege und Haushalt 🧹.",
+          "Kunst- und Musikerziehung für kreative Betreuung 🎨."
+        ],
+        "careerProspects": [
+          "Erzieher/in 🧸.",
+          "Altenpfleger/in 🩺.",
+          "Heilerziehungspfleger/in ♿.",
+          "Streetworker/in 🚶."
+        ],
+        "furtherEducation": [
+          "Ausbildung zum/zur Pflegefachmann/-frau 🩺.",
+          "Weiterbildung zum Betriebswirt/in für Sozialwesen 📊.",
+          "Fachwirt/in der Alten- und Krankenpflege 🩹.",
+          "Studium in Sozialpädagogik oder Soziale Arbeit 🎓."
+        ],
+        "applicationSteps": [
+          "Erstelle ein Anschreiben, Lebenslauf und füge Zeugnisse bei ✍️.",
+          "Erkundige dich über Praktikumsanforderungen und Vorbildung 🔍.",
+          "Bereite ein erweitertes Führungszeugnis und einen Masernnachweis vor 📝."
+        ],
+        "applicationRequirements": [
+          "Mindestens Hauptschulabschluss 🎓.",
+          "Einfühlungsvermögen und Verantwortungsbewusstsein 🤝.",
+          "Gesundheitliche Eignung und soziale Kompetenz 💪."
+        ],
+        "applicationTips": [
+          "Hebe ehrenamtliche Tätigkeiten hervor ❤️.",
+          "Zeige erste Erfahrungen in Pflege oder Kinderbetreuung 👶.",
+          "Sei offen für Schichtarbeit und flexible Einsatzorte ⏰."
+        ],
+        "requiredPersonalSkills": [
+          "Hauswirtschaftliche und organisatorische Fähigkeiten 🧹.",
+          "Einfühlungsvermögen und Geduld ❤️.",
+          "Teamfähigkeit und Kommunikationsstärke 🗣️."
+        ],
+        "requiredPersonalTraits": [
+          "Hilfsbereitschaft 🤝.",
+          "Belastbarkeit 💪.",
+          "Flexibilität 🌟."
+        ],
+        "theoreticalStructure": [
+          "Unterricht in Pädagogik, Gesundheitslehre, Psychologie und Hauswirtschaft 🧠."
+        ],
+        "practicalStructure": [
+          "Praktika in sozialen Einrichtungen, z. B. Pflege, Kinderbetreuung oder Behindertenhilfe 🤝."
+        ],
+        "workEnvironment": [
+          "Alten- und Pflegeheime 🏥.",
+          "Einrichtungen für Menschen mit Behinderungen ♿.",
+          "Jugendzentren und Kindergärten 🧸.",
+          "Privathaushalte 🏠.",
+          "Sozialdienste und Streetworker-Einsätze 🚶."
+        ],
+        "advantages": [
+          "Vielfältige Einsatzmöglichkeiten in sozialen Bereichen 🌍.",
+          "Gute Jobaussichten dank Fachkräftemangel 👩‍⚕️.",
+          "Die Möglichkeit, anderen Menschen aktiv zu helfen 💖."
+        ],
+        "challenges": [
+          "Emotionale Belastungen in der Betreuung von Patienten 💔.",
+          "Unregelmäßige Arbeitszeiten und Schichtarbeit ⏰.",
+          "Hoher körperlicher Einsatz bei pflegerischen Aufgaben 💪."
+        ],
+        "didYouKnow": [
+          "Sozialassistent/innen dürfen keine Krankheiten diagnostizieren oder Medikamente verschreiben 🩺.",
+          "Dieser Beruf erfordert starke soziale und emotionale Kompetenzen ❤️.",
+          "Praktika während der Ausbildung bieten wertvolle Einblicke und Erfahrungen 🌍.",
+          "Mit der Ausbildung kannst du weitere soziale Berufsausbildungen verkürzen ⏩.",
+          "Die Nachfrage nach Sozialassistent/innen ist in Deutschland hoch 🚀."
+        ]
+      }
+    }
+  }
+]
