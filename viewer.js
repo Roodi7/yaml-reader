@@ -1,7 +1,81 @@
 async function fetchTree() {
     const res = await fetch('scan.php');
     const data = await res.json();
+    window.fileTreeData = data; // Store data globally for search
     renderTree(document.getElementById('file-tree'), data);
+    
+    // Initialize folders to be open by default
+    document.querySelectorAll('.folder').forEach(folder => {
+        folder.innerHTML = folder.innerHTML.replace('📁', '📂');
+    });
+    
+    // Setup search functionality
+    setupSearch();
+}
+
+function setupSearch() {
+    const searchInput = document.getElementById('search-input');
+    searchInput.addEventListener('input', function() {
+        const searchTerm = this.value.toLowerCase();
+        if (searchTerm.length < 2) {
+            // Reset the tree if search term is too short
+            renderTree(document.getElementById('file-tree'), window.fileTreeData);
+            document.querySelectorAll('.folder').forEach(folder => {
+                folder.innerHTML = folder.innerHTML.replace('📁', '📂');
+            });
+            return;
+        }
+        
+        // Search and highlight results
+        searchFiles(searchTerm);
+    });
+}
+
+function searchFiles(searchTerm) {
+    const fileTree = document.getElementById('file-tree');
+    fileTree.innerHTML = '';
+    
+    // Create a flattened list of files that match the search term
+    const matchingFiles = [];
+    
+    function findMatchingFiles(items, path = '') {
+        items.forEach(item => {
+            const currentPath = path ? `${path}/${item.name}` : item.name;
+            
+            if (item.type === 'folder') {
+                findMatchingFiles(item.children, currentPath);
+            } else if (item.name.toLowerCase().includes(searchTerm) && item.name.endsWith('.json')) {
+                matchingFiles.push({
+                    name: item.name,
+                    path: item.path,
+                    folderPath: path
+                });
+            }
+        });
+    }
+    
+    findMatchingFiles(window.fileTreeData);
+    
+    // Display matching files
+    matchingFiles.forEach(file => {
+        const li = document.createElement('li');
+        const fileName = file.name;
+        const highlightedName = fileName.replace(
+            new RegExp(searchTerm, 'gi'),
+            match => `<span class="highlight">${match}</span>`
+        );
+        li.innerHTML = highlightedName;
+        li.onclick = () => loadJSON(file.path);
+        fileTree.appendChild(li);
+    });
+    
+    if (matchingFiles.length === 0) {
+        const li = document.createElement('li');
+        li.textContent = 'No matching files found';
+        li.style.fontStyle = 'italic';
+        li.style.color = '#888';
+        fileTree.appendChild(li);
+    }
 }
 
 function renderTree(container, items) {
@@ -9,7 +83,19 @@ function renderTree(container, items) {
     items.forEach(item => {
         const li = document.createElement('li');
         if (item.type === 'folder') {
-            li.innerHTML = `<strong>${item.name}</strong>`;
+            const folderSpan = document.createElement('span');
+            folderSpan.className = 'folder';
+            folderSpan.innerHTML = `<strong>📁 ${item.name}</strong>`;
+            folderSpan.onclick = (e) => {
+                e.stopPropagation();
+                const ul = li.querySelector('ul');
+                if (ul) {
+                    ul.style.display = ul.style.display === 'none' ? 'block' : 'none';
+                    folderSpan.innerHTML = `<strong>${ul.style.display === 'none' ? '📁' : '📂'} ${item.name}</strong>`;
+                }
+            };
+            li.appendChild(folderSpan);
+            
             const ul = document.createElement('ul');
             renderTree(ul, item.children);
             li.appendChild(ul);

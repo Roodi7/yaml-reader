@@ -14,6 +14,7 @@
   <div class="container">
     <div class="sidebar">
       <h2>Files</h2>
+      <input type="text" id="search-input" placeholder="Search files..." />
       <ul id="file-tree"></ul>
     </div>
     <div class="content">

@@ -18,6 +18,20 @@ body {
   padding: 10px;
 }
 
+#search-input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.highlight {
+  background-color: #ffeb3b;
+  color: #000;
+}
+
 .content {
   flex-grow: 1;
   padding: 20px;
@@ -42,6 +56,15 @@ ul {
 li {
   cursor: pointer;
   margin: 4px 0;
+}
+
+.folder {
+  cursor: pointer;
+  user-select: none;
+}
+
+.sidebar li ul {
+  margin-top: 5px;
 }
 
 .key {
